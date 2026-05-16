@@ -3,26 +3,30 @@ name: Daily Scrape
 on:
   schedule:
     - cron: '0 7 * * *'   # cada día a las 7:00 UTC (9:00 España)
-  workflow_dispatch:        # también puedes lanzarlo a mano desde GitHub
+  workflow_dispatch:        # lanzar manualmente desde GitHub
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: false   # no necesitamos LFS
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - run: pip install -r requirements.txt
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
 
-      - run: python scraper.py
+      - name: Ejecutar scraper
+        run: python scraper.py
 
-      - name: Commit y push del JSON actualizado
+      - name: Commit y push de DB + JSON
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add games_data.json
+          git add games_data.json games.db
           git diff --staged --quiet || git commit -m "chore: update prices $(date -u +'%Y-%m-%d')"
           git push
