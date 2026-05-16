@@ -107,6 +107,15 @@ def upsert_game(conn: sqlite3.Connection, game: Game) -> tuple[int, bool]:
 
 
 def record_price(conn: sqlite3.Connection, game_id: int, game: Game):
+    """Solo guarda si el precio cambió respecto a la última entrada. Evita duplicados."""
+    cur = conn.execute(
+        """SELECT price, original_price FROM price_history
+           WHERE game_id = ? ORDER BY scraped_at DESC LIMIT 1""",
+        (game_id,),
+    )
+    last = cur.fetchone()
+    if last and last["price"] == game.price and last["original_price"] == game.original_price:
+        return  # precio idéntico, no guardar
     conn.execute(
         """INSERT INTO price_history (game_id, price, original_price, discount_pct, scraped_at)
            VALUES (?,?,?,?,?)""",
