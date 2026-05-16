@@ -456,6 +456,29 @@ def export_json(conn: sqlite3.Connection):
     log.info("📄 JSON exportado → %s (%d únicos de %d entradas)", OUTPUT_JSON, len(games), len(rows))
 
 
+# ── Limpieza de historial antiguo ─────────────────────────────────────────────
+def purge_old_history(conn: sqlite3.Connection, days: int = 90):
+    """
+    Elimina entradas de price_history con más de `days` días de antigüedad,
+    EXCEPTO la entrada más reciente de cada juego (para no perder el último precio).
+    Mantiene la DB pequeña para que el commit al repo sea manejable.
+    """
+    cutoff = (datetime.now() - __import__("datetime").timedelta(days=days)).isoformat()
+    cur = conn.execute("""
+        DELETE FROM price_history
+        WHERE scraped_at < ?
+          AND id NOT IN (
+              SELECT MAX(id) FROM price_history GROUP BY game_id
+          )
+    """, (cutoff,))
+    deleted = cur.rowcount
+    conn.commit()
+    if deleted:
+        # VACUUM para reducir tamaño del archivo
+        conn.execute("VACUUM")
+        log.info("🧹 Historial limpiado: %d entradas eliminadas (>%d días)", deleted, days)
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
     log.info("═" * 60)
@@ -469,6 +492,7 @@ def main():
     n_goblin = scrape_goblintrader(conn, session)
 
     export_json(conn)
+    purge_old_history(conn, days=90)
     conn.close()
 
     log.info("")
