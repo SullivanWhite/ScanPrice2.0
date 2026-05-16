@@ -26,6 +26,26 @@ DB_PATH     = Path(__file__).parent / "games.db"
 LOG_PATH    = Path(__file__).parent / "scraper.log"
 OUTPUT_JSON = Path(__file__).parent / "games_data.json"
 
+# ┌─────────────────────────────────────────────────────────────────────────┐
+# │  DUNGEON MARVELS — URLs a scrapear                                     │
+# │                                                                        │
+# │  DUNGEON_MARVELS_CATALOGO: categoría fija de juegos de tablero.        │
+# │  No tocar — nunca cambia.                                              │
+# │                                                                        │
+# │  DUNGEON_MARVELS_PROMO: campaña mensual de ofertas.                    │
+# │  Cámbiala cuando estrenen una nueva promo. Entra en dungeonmarvels.com,│
+# │  haz clic en el banner de la promo activa y copia la URL.              │
+# │  Ponla a None si no hay campaña activa o no te interesa scrapearla.    │
+# │                                                                        │
+# │  Ejemplos de promo:                                                    │
+# │    "https://dungeonmarvels.com/1966-liquidacion-mayo"  ← mayo 2026     │
+# │    "https://dungeonmarvels.com/217-super-ofertas"      ← permanente    │
+# │    None                                                ← desactivada   │
+# └─────────────────────────────────────────────────────────────────────────┘
+# DUNGEON_MARVELS_CATALOGO ya no se usa — demasiados productos
+# ↓ Cambia esta URL cada vez que haya una nueva campaña
+DUNGEON_MARVELS_PROMO = "https://dungeonmarvels.com/1968-liquidacion-mayo-juegos"
+
 # ── HTTP ─────────────────────────────────────────────────────────────────────
 HEADERS = {
     "User-Agent":      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -407,6 +427,132 @@ def scrape_goblintrader(conn: sqlite3.Connection, session: requests.Session) -> 
     return total_new
 
 
+# ── Scraper Dungeon Marvels ───────────────────────────────────────────────────
+# También PrestaShop. Mismos selectores que Mathom.
+# La URL de la campaña activa se configura arriba en DUNGEON_MARVELS_URL.
+
+def parse_dungeon_article(art) -> Optional[Game]:
+    # ── URL ───────────────────────────────────────────────────────────────────
+    url_tag = art.find("a", class_="product-thumbnail")
+    if not url_tag:
+        url_tag = art.find("a", href=re.compile(r"dungeonmarvels\.com"))
+    if not url_tag:
+        url_tag = art.find("a", href=True)
+    if not url_tag:
+        return None
+    url = url_tag.get("href", "").strip()
+    if not url.startswith("http"):
+        url = "https://dungeonmarvels.com" + url
+    if not url:
+        return None
+
+    # ── Nombre ────────────────────────────────────────────────────────────────
+    titulo_tag = art.find("h2", class_="product-title") or art.find("h3", class_="product-title")
+    if titulo_tag:
+        a = titulo_tag.find("a")
+        nombre = a.get_text(strip=True) if a else titulo_tag.get_text(strip=True)
+    else:
+        nombre = url_tag.get("title", "").strip() or url_tag.get_text(strip=True)
+    if not nombre:
+        return None
+
+    # ── Precio original tachado ───────────────────────────────────────────────
+    orig_tag = art.find("span", class_="regular-price")
+    orig     = limpiar_precio(orig_tag.get_text()) if orig_tag else None
+
+    # ── Precio actual (span con clase exacta "price") ─────────────────────────
+    precio = None
+    for span in art.find_all("span"):
+        clases = span.get("class", [])
+        if "price" in clases and "regular-price" not in clases:
+            precio = limpiar_precio(span.get_text())
+            if precio:
+                break
+
+    # ── Descuento ─────────────────────────────────────────────────────────────
+    disc_tag = art.find("span", class_="discount-percentage")
+    disc = None
+    if disc_tag:
+        m = re.search(r"(\d+)", disc_tag.get_text())
+        disc = float(m.group(1)) if m else None
+    elif orig and precio and orig > precio:
+        disc = round((1 - precio / orig) * 100, 1)
+
+    return Game(
+        source="dungeonmarvels",
+        name=nombre,
+        url=url,
+        price=precio,
+        original_price=orig,
+        discount_pct=disc,
+    )
+
+
+def _scrape_dungeon_url(conn: sqlite3.Connection, session: requests.Session,
+                        base_url: str, label: str) -> int:
+    """Scrapea una URL de Dungeon Marvels con paginación. Devuelve nº de juegos nuevos."""
+    total_new = 0
+    seen_fps: set = set()
+    base_url = base_url.rstrip("/")
+
+    for pag in range(1, 60):
+        url  = base_url if pag == 1 else f"{base_url}?page={pag}"
+        log.info("   [%s] Página %d → %s", label, pag, url)
+        soup = fetch(url, session)
+
+        if not soup or not tiene_productos(soup):
+            log.info("   [%s] Sin productos en página %d. Fin.", label, pag)
+            break
+
+        container = soup.find(id="js-product-list") or soup
+        arts = container.find_all("article", class_="product-miniature")
+        if not arts:
+            arts = container.find_all("article", class_=re.compile(r"product"))
+        if not arts:
+            break
+
+        fp = frozenset(
+            a.find("a", class_="product-thumbnail").get("href", "")
+            for a in arts if a.find("a", class_="product-thumbnail")
+        )
+        if fp in seen_fps:
+            log.info("   [%s] Página %d idéntica — fin de paginación real.", label, pag)
+            break
+        seen_fps.add(fp)
+
+        games_found = 0
+        for art in arts:
+            game = parse_dungeon_article(art)
+            if not game:
+                continue
+            game_id, is_new = upsert_game(conn, game)
+            record_price(conn, game_id, game)
+            games_found += 1
+            if is_new:
+                total_new += 1
+                log.info("   ✨ NUEVO: %s (%.2f €)", game.name, game.price or 0)
+
+        log.info("   [%s] → %d juegos encontrados", label, games_found)
+
+    return total_new
+
+
+def scrape_dungeonmarvels(conn: sqlite3.Connection, session: requests.Session) -> int:
+    log.info("▶  Dungeon Marvels — iniciando scraping...")
+    total_new = 0
+
+    # Campaña de ofertas del mes — cambia DUNGEON_MARVELS_PROMO arriba cuando cambie
+    if DUNGEON_MARVELS_PROMO:
+        log.info("   Promo activa: %s", DUNGEON_MARVELS_PROMO)
+        total_new += _scrape_dungeon_url(conn, session, DUNGEON_MARVELS_PROMO, "promo")
+    else:
+        log.info("   Sin promo activa configurada.")
+
+    mark_old(conn, "dungeonmarvels")
+    log.info("✅ Dungeon Marvels completado. %d juegos nuevos.", total_new)
+    return total_new
+
+
 # ── Agrupación de duplicados ─────────────────────────────────────────────────
 def _normalizar(nombre: str) -> str:
     """Clave de dedup: minúsculas, sin acentos, solo alfanumérico."""
@@ -497,8 +643,9 @@ def main():
     conn    = init_db()
     session = requests.Session()
 
-    n_mathom = scrape_mathom(conn, session)
-    n_goblin = scrape_goblintrader(conn, session)
+    n_mathom  = scrape_mathom(conn, session)
+    n_goblin  = scrape_goblintrader(conn, session)
+    n_dungeon = scrape_dungeonmarvels(conn, session)
 
     export_json(conn)
     purge_old_history(conn, days=90)
@@ -506,9 +653,10 @@ def main():
 
     log.info("")
     log.info("🎲 Scraping completado.")
-    log.info("   Nuevos en Mathom:       %d", n_mathom)
-    log.info("   Nuevos en GoblinTrader: %d", n_goblin)
-    log.info("   TOTAL nuevos:           %d", n_mathom + n_goblin)
+    log.info("   Nuevos en Mathom:         %d", n_mathom)
+    log.info("   Nuevos en GoblinTrader:   %d", n_goblin)
+    log.info("   Nuevos en DungeonMarvels: %d", n_dungeon)
+    log.info("   TOTAL nuevos:             %d", n_mathom + n_goblin + n_dungeon)
     log.info("═" * 60)
 
 
