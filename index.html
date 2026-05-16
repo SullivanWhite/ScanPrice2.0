@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ScanPrice — Juegos de Tablero</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* ── Reset & Base ─────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:         #0d0f14;
+    --surface:    #141720;
+    --surface2:   #1c2030;
+    --border:     #252a3a;
+    --text:       #e2e6f0;
+    --muted:      #6b738a;
+    --accent:     #7c6af7;
+    --accent2:    #4ecca3;
+    --danger:     #f05a5a;
+    --gold:       #f0c040;
+    --new-start:  #7c6af7;
+    --new-end:    #4ecca3;
+    --font-mono:  'Space Mono', monospace;
+    --font-main:  'Syne', sans-serif;
+    --radius:     10px;
+    --card-h:     auto;
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-main);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ── Noise overlay ───────────────────────────────── */
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+    opacity: 0.03;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ── Header ──────────────────────────────────────── */
+  header {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(13, 15, 20, 0.92);
+    backdrop-filter: blur(18px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+  }
+
+  .header-inner {
+    max-width: 1400px; margin: 0 auto;
+    display: flex; align-items: center; gap: 2rem;
+    height: 64px;
+  }
+
+  .logo {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 1.1rem; font-weight: 800; letter-spacing: -0.02em;
+    color: var(--text); text-decoration: none;
+  }
+  .logo-icon {
+    width: 32px; height: 32px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1rem;
+  }
+
+  .header-stats {
+    display: flex; gap: 1.5rem; margin-left: auto; align-items: center;
+    font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted);
+  }
+  .stat-pill {
+    display: flex; gap: 6px; align-items: center;
+  }
+  .stat-pill span { color: var(--text); font-weight: 700; }
+
+  /* ── Controls bar ────────────────────────────────── */
+  .controls-bar {
+    max-width: 1400px; margin: 2rem auto 1.5rem; padding: 0 2rem;
+    display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;
+  }
+
+  .search-wrap {
+    position: relative; flex: 1; min-width: 260px;
+  }
+  .search-wrap svg {
+    position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+    color: var(--muted); pointer-events: none;
+  }
+  input[type="search"] {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: var(--font-main);
+    font-size: 0.9rem;
+    padding: 0.6rem 0.9rem 0.6rem 2.5rem;
+    outline: none;
+    transition: border-color .2s;
+  }
+  input[type="search"]:focus { border-color: var(--accent); }
+  input[type="search"]::placeholder { color: var(--muted); }
+
+  .filter-group { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+
+  .btn-filter {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: var(--muted);
+    font-family: var(--font-main);
+    font-size: 0.8rem; font-weight: 600;
+    padding: 0.45rem 1.1rem;
+    cursor: pointer;
+    transition: all .18s;
+  }
+  .btn-filter:hover { border-color: var(--accent); color: var(--text); }
+  .btn-filter.active {
+    background: var(--accent); border-color: var(--accent);
+    color: #fff;
+  }
+  .btn-filter.active-new {
+    background: linear-gradient(90deg, var(--new-start), var(--new-end));
+    border-color: transparent; color: #fff;
+  }
+
+  .sort-select {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: var(--font-main);
+    font-size: 0.85rem;
+    padding: 0.45rem 0.9rem;
+    cursor: pointer; outline: none;
+  }
+  .sort-select:focus { border-color: var(--accent); }
+
+  /* ── Results count ───────────────────────────────── */
+  .results-meta {
+    max-width: 1400px; margin: 0 auto 1rem; padding: 0 2rem;
+    font-size: 0.8rem; color: var(--muted); font-family: var(--font-mono);
+  }
+  .results-meta strong { color: var(--text); }
+
+  /* ── Grid ────────────────────────────────────────── */
+  .grid {
+    max-width: 1400px; margin: 0 auto 4rem; padding: 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+    gap: 1rem;
+  }
+
+  /* ── Card ────────────────────────────────────────── */
+  .card {
+    position: relative;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.2rem 1.3rem;
+    display: flex; flex-direction: column; gap: 0.6rem;
+    transition: transform .2s, border-color .2s, box-shadow .2s;
+    animation: cardIn .35s ease both;
+    cursor: pointer;
+    text-decoration: none; color: inherit;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+    box-shadow: 0 8px 32px rgba(124, 106, 247, 0.15);
+  }
+  .card.is-new {
+    border-color: rgba(124, 106, 247, 0.45);
+    background: linear-gradient(135deg, rgba(124,106,247,.07), rgba(78,204,163,.05));
+  }
+  .card.is-new:hover {
+    border-color: var(--accent2);
+    box-shadow: 0 8px 32px rgba(78, 204, 163, 0.15);
+  }
+
+  @keyframes cardIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Stagger animation for cards */
+  .card:nth-child(1)  { animation-delay: .03s; }
+  .card:nth-child(2)  { animation-delay: .06s; }
+  .card:nth-child(3)  { animation-delay: .09s; }
+  .card:nth-child(4)  { animation-delay: .12s; }
+  .card:nth-child(5)  { animation-delay: .15s; }
+  .card:nth-child(6)  { animation-delay: .18s; }
+  .card:nth-child(7)  { animation-delay: .21s; }
+  .card:nth-child(8)  { animation-delay: .24s; }
+
+  /* NEW badge */
+  .badge-new {
+    position: absolute; top: -1px; right: 14px;
+    background: linear-gradient(90deg, var(--new-start), var(--new-end));
+    color: #fff; font-size: 0.6rem; font-weight: 700;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 3px 10px 3px;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 4px 12px rgba(124,106,247,.4);
+    font-family: var(--font-mono);
+  }
+
+  /* Source badge */
+  .badge-source {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 0.68rem; font-weight: 700; letter-spacing: .04em;
+    text-transform: uppercase; font-family: var(--font-mono);
+    color: var(--muted);
+  }
+  .badge-source .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+  }
+  .dot-mathom { background: #4ecca3; }
+  .dot-goblintrader { background: #f0c040; }
+
+  /* Name */
+  .card-name {
+    font-size: 0.97rem; font-weight: 700; line-height: 1.3;
+    color: var(--text);
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Price block */
+  .price-row {
+    display: flex; align-items: baseline; gap: 0.6rem;
+    margin-top: auto; padding-top: 0.5rem;
+  }
+  .price-current {
+    font-family: var(--font-mono);
+    font-size: 1.2rem; font-weight: 700;
+    color: var(--accent2);
+  }
+  .price-current.no-discount { color: var(--text); }
+  .price-original {
+    font-family: var(--font-mono);
+    font-size: 0.82rem; color: var(--muted);
+    text-decoration: line-through;
+  }
+  .discount-badge {
+    margin-left: auto;
+    background: rgba(240, 90, 90, 0.15);
+    color: var(--danger);
+    border: 1px solid rgba(240, 90, 90, 0.3);
+    border-radius: 6px;
+    font-size: 0.72rem; font-weight: 700;
+    font-family: var(--font-mono);
+    padding: 2px 7px;
+  }
+
+  .price-na {
+    font-family: var(--font-mono); font-size: 0.82rem; color: var(--muted);
+  }
+
+  /* Date */
+  .card-date {
+    font-size: 0.68rem; color: var(--muted); font-family: var(--font-mono);
+    margin-top: 0.2rem;
+  }
+
+  /* ── Empty state ─────────────────────────────────── */
+  .empty {
+    grid-column: 1/-1;
+    text-align: center; padding: 5rem 1rem;
+    color: var(--muted);
+  }
+  .empty svg { opacity: 0.3; margin-bottom: 1rem; }
+  .empty h3 { font-size: 1.1rem; margin-bottom: 0.5rem; color: var(--text); }
+  .empty p  { font-size: 0.85rem; }
+
+  /* ── Loading ─────────────────────────────────────── */
+  .loading {
+    grid-column: 1/-1;
+    text-align: center; padding: 5rem;
+    color: var(--muted); font-family: var(--font-mono); font-size: 0.85rem;
+  }
+  .spinner {
+    width: 36px; height: 36px; margin: 0 auto 1rem;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Error state ─────────────────────────────────── */
+  .error-banner {
+    max-width: 1400px; margin: 0 auto 1rem; padding: 0 2rem;
+    background: rgba(240,90,90,.1);
+    border: 1px solid rgba(240,90,90,.3);
+    border-radius: var(--radius);
+    padding: 1rem 1.5rem;
+    color: #f05a5a; font-size: 0.88rem;
+    display: none;
+  }
+  .error-banner.visible { display: block; }
+
+  /* ── Scrollbar ───────────────────────────────────── */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+  /* ── Refresh button ──────────────────────────────── */
+  .btn-refresh {
+    background: linear-gradient(135deg, var(--accent), #5a4fcc);
+    border: none; border-radius: var(--radius);
+    color: #fff; font-family: var(--font-main); font-weight: 700;
+    font-size: 0.85rem; padding: 0.5rem 1.2rem;
+    cursor: pointer; transition: opacity .2s;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .btn-refresh:hover { opacity: .85; }
+  .btn-refresh:disabled { opacity: .4; cursor: default; }
+
+  /* ── Footer ──────────────────────────────────────── */
+  footer {
+    text-align: center; padding: 2rem;
+    font-size: 0.72rem; color: var(--muted); font-family: var(--font-mono);
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 600px) {
+    .header-stats { display: none; }
+    .grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── Multi-source price rows ─────────────────────────── */
+  .price-sources { display: flex; flex-direction: column; gap: 0.45rem; margin-top: auto; padding-top: 0.5rem; }
+
+  .price-source-row {
+    display: flex; align-items: center; gap: 0.5rem;
+    padding: 0.4rem 0.6rem;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    text-decoration: none;
+    transition: border-color .15s, background .15s;
+  }
+  .price-source-row:hover { border-color: var(--accent); background: rgba(124,106,247,.08); }
+
+  .psr-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+  .psr-label {
+    font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .05em; font-family: var(--font-mono); color: var(--muted);
+    flex-shrink: 0; min-width: 74px;
+  }
+  .psr-price { font-family: var(--font-mono); font-size: 1rem; font-weight: 700; color: var(--accent2); }
+  .psr-price.no-disc { color: var(--text); }
+  .psr-orig  { font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted); text-decoration: line-through; }
+  .psr-disc  {
+    margin-left: auto; flex-shrink: 0;
+    background: rgba(240,90,90,.15); color: var(--danger);
+    border: 1px solid rgba(240,90,90,.3);
+    border-radius: 5px; font-size: 0.68rem; font-weight: 700;
+    font-family: var(--font-mono); padding: 1px 6px;
+  }
+  .psr-na { font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted); margin-left: auto; }
+
+  /* Source badges when multiple sources */
+  .badge-sources { display: flex; gap: 5px; flex-wrap: wrap; }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <div class="logo-icon">🎲</div>
+      ScanPrice
+    </a>
+    <div class="header-stats">
+      <div class="stat-pill">Total <span id="statTotal">—</span></div>
+      <div class="stat-pill">Nuevos <span id="statNew">—</span></div>
+      <div class="stat-pill">Con oferta <span id="statSale">—</span></div>
+      <div class="stat-pill" id="statUpdated">—</div>
+    </div>
+    <button class="btn-refresh" id="btnRefresh" onclick="loadData()">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+      Recargar
+    </button>
+  </div>
+</header>
+
+<!-- Controls -->
+<div class="controls-bar">
+  <div class="search-wrap">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input type="search" id="searchInput" placeholder="Buscar juego..." autocomplete="off">
+  </div>
+
+  <div class="filter-group">
+    <button class="btn-filter active" data-filter="all"     onclick="setFilter('all',this)">Todos</button>
+    <button class="btn-filter"        data-filter="new"     onclick="setFilter('new',this)">✨ Nuevos</button>
+    <button class="btn-filter"        data-filter="sale"    onclick="setFilter('sale',this)">🏷 Ofertas</button>
+    <button class="btn-filter"        data-filter="mathom"        onclick="setFilter('mathom',this)">Mathom</button>
+    <button class="btn-filter"        data-filter="goblintrader"  onclick="setFilter('goblintrader',this)">GoblinTrader</button>
+  </div>
+
+  <select class="sort-select" id="sortSelect" onchange="render()">
+    <option value="new_first">Nuevos primero</option>
+    <option value="price_asc">Precio ↑</option>
+    <option value="price_desc">Precio ↓</option>
+    <option value="discount">Mayor descuento</option>
+    <option value="name_az">A → Z</option>
+  </select>
+</div>
+
+<!-- Results count -->
+<div class="results-meta" id="resultsMeta"></div>
+
+<!-- Error banner -->
+<div class="error-banner" id="errorBanner"></div>
+
+<!-- Grid -->
+<div class="grid" id="grid">
+  <div class="loading">
+    <div class="spinner"></div>
+    Cargando datos…
+  </div>
+</div>
+
+<footer>
+  ScanPrice · Datos de Mathom &amp; GoblinTrader · Ejecuta <code>python scraper.py</code> para actualizar
+</footer>
+
+<script>
+// ── State ─────────────────────────────────────────────────────────────────
+let allGames = [];
+let activeFilter = 'all';
+let searchQuery = '';
+
+// ── Helpers: dato aplanado para filtros/sort ───────────────────────────────
+// Cada juego tiene g.prices[] con una o varias fuentes.
+// Para sort/filter necesitamos valores escalares derivados.
+function minPrice(g)    { return Math.min(...g.prices.map(p => p.price ?? Infinity)); }
+function maxDiscount(g) { return Math.max(...g.prices.map(p => p.discount_pct ?? 0)); }
+function hasSale(g)     { return g.prices.some(p => p.discount_pct && p.discount_pct > 0); }
+function hasSource(g,s) { return g.prices.some(p => p.source === s); }
+
+// ── Load data ─────────────────────────────────────────────────────────────
+async function loadData() {
+  const btn = document.getElementById('btnRefresh');
+  btn.disabled = true;
+  btn.textContent = 'Cargando…';
+  setError(null);
+
+  try {
+    const res = await fetch('games_data.json?_=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    allGames = data.games || [];
+
+    const newCount  = allGames.filter(g => g.is_new).length;
+    const saleCount = allGames.filter(hasSale).length;
+    document.getElementById('statTotal').textContent   = allGames.length;
+    document.getElementById('statNew').textContent     = newCount;
+    document.getElementById('statSale').textContent    = saleCount;
+    document.getElementById('statUpdated').innerHTML   =
+      `Actualizado <span>${fmtDate(data.generated_at)}</span>`;
+
+  } catch(e) {
+    console.warn('No se pudo cargar games_data.json, usando datos demo:', e);
+    setError('No se encontró games_data.json. Ejecuta <strong>python scraper.py</strong> para generar los datos. Mostrando demo.');
+    allGames = generateDemoData();
+    document.getElementById('statTotal').textContent   = allGames.length;
+    document.getElementById('statNew').textContent     = allGames.filter(g=>g.is_new).length;
+    document.getElementById('statSale').textContent    = allGames.filter(hasSale).length;
+    document.getElementById('statUpdated').innerHTML   = `<span>Datos demo</span>`;
+  }
+
+  render();
+  btn.disabled = false;
+  btn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg> Recargar';
+}
+
+// ── Render ─────────────────────────────────────────────────────────────────
+function render() {
+  const grid = document.getElementById('grid');
+  const sort = document.getElementById('sortSelect').value;
+
+  let games = allGames.filter(g => {
+    const q = searchQuery.toLowerCase();
+    if (q && !g.name.toLowerCase().includes(q)) return false;
+    if (activeFilter === 'new')          return g.is_new;
+    if (activeFilter === 'sale')         return hasSale(g);
+    if (activeFilter === 'mathom')       return hasSource(g, 'mathom');
+    if (activeFilter === 'goblintrader') return hasSource(g, 'goblintrader');
+    return true;
+  });
+
+  games = [...games].sort((a, b) => {
+    if (sort === 'price_asc')  return minPrice(a) - minPrice(b);
+    if (sort === 'price_desc') return minPrice(b) - minPrice(a);
+    if (sort === 'discount')   return maxDiscount(b) - maxDiscount(a);
+    if (sort === 'name_az')    return a.name.localeCompare(b.name, 'es');
+    if (b.is_new !== a.is_new) return b.is_new - a.is_new;
+    return (b.first_seen || '').localeCompare(a.first_seen || '');
+  });
+
+  document.getElementById('resultsMeta').innerHTML =
+    `Mostrando <strong>${games.length}</strong> de ${allGames.length} juegos`;
+
+  if (games.length === 0) {
+    grid.innerHTML = `
+      <div class="empty">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <h3>Sin resultados</h3>
+        <p>Prueba con otros filtros o términos de búsqueda.</p>
+      </div>`;
+    return;
+  }
+
+  grid.innerHTML = games.map(g => cardHTML(g)).join('');
+}
+
+// ── Card HTML ──────────────────────────────────────────────────────────────
+const SOURCE_META = {
+  mathom:       { label: 'Mathom',       dotClass: 'dot-mathom' },
+  goblintrader: { label: 'GoblinTrader', dotClass: 'dot-goblintrader' },
+};
+
+function priceSourceRow(p) {
+  const meta    = SOURCE_META[p.source] || { label: p.source, dotClass: '' };
+  const hasSaleP = p.discount_pct && p.discount_pct > 0;
+  const priceStr = p.price != null ? fmtPrice(p.price) : null;
+  const origStr  = (hasSaleP && p.original_price) ? fmtPrice(p.original_price) : '';
+  const discStr  = hasSaleP ? `<span class="psr-disc">-${Math.round(p.discount_pct)}%</span>` : '';
+  const naStr    = priceStr == null ? `<span class="psr-na">N/D</span>` : '';
+
+  return `
+    <a class="price-source-row" href="${escHtml(p.url)}" target="_blank" rel="noopener">
+      <span class="psr-dot ${meta.dotClass}"></span>
+      <span class="psr-label">${meta.label}</span>
+      ${priceStr
+        ? `<span class="psr-price${hasSaleP ? '' : ' no-disc'}">${priceStr}</span>
+           ${origStr ? `<span class="psr-orig">${origStr}</span>` : ''}
+           ${discStr}`
+        : naStr}
+    </a>`;
+}
+
+function cardHTML(g) {
+  const isNew    = g.is_new;
+  const newBadge = isNew ? `<div class="badge-new">✦ nuevo</div>` : '';
+
+  // Badge(s) de fuente — uno por cada tienda donde aparece
+  const sourceBadges = g.prices.map(p => {
+    const meta = SOURCE_META[p.source] || { label: p.source, dotClass: '' };
+    return `<span class="badge-source"><span class="dot ${meta.dotClass}"></span>${meta.label}</span>`;
+  }).join('');
+
+  // Bloque de precios: una fila clicable por tienda
+  const pricesBlock = `<div class="price-sources">${g.prices.map(priceSourceRow).join('')}</div>`;
+
+  // Fecha
+  const dateStr = g.first_seen ? `<div class="card-date">Primera vez: ${fmtDate(g.first_seen)}</div>` : '';
+
+  // La card en sí ya no es <a> (los links están dentro de cada price-source-row)
+  return `
+    <div class="card${isNew ? ' is-new' : ''}">
+      ${newBadge}
+      <div class="badge-sources">${sourceBadges}</div>
+      <div class="card-name">${escHtml(g.name)}</div>
+      ${pricesBlock}
+      ${dateStr}
+    </div>`;
+}
+
+// ── Filters & search ──────────────────────────────────────────────────────
+function setFilter(f, btn) {
+  activeFilter = f;
+  document.querySelectorAll('.btn-filter').forEach(b => b.classList.remove('active','active-new'));
+  if (f === 'new') btn.classList.add('active-new');
+  else btn.classList.add('active');
+  render();
+}
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  searchQuery = e.target.value;
+  render();
+});
+
+// ── Utils ─────────────────────────────────────────────────────────────────
+function fmtPrice(v) { return v.toFixed(2).replace('.', ',') + ' €'; }
+
+function fmtDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return iso.slice(0, 10);
+  return d.toLocaleDateString('es-ES', { day: '2-digit', month: 'short', year: 'numeric' });
+}
+
+function escHtml(s) {
+  return (s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function setError(msg) {
+  const el = document.getElementById('errorBanner');
+  if (msg) { el.innerHTML = '⚠ ' + msg; el.classList.add('visible'); }
+  else      { el.classList.remove('visible'); }
+}
+
+// ── Demo data (nuevo formato con prices[]) ────────────────────────────────
+function generateDemoData() {
+  const now = new Date().toISOString();
+  const yesterday = new Date(Date.now() - 86400000).toISOString();
+  return [
+    { name:'Terraforming Mars', is_new:1, first_seen:now, prices:[
+        { source:'mathom',       url:'https://mathom.es', price:44.95, original_price:54.95, discount_pct:18.2 },
+        { source:'goblintrader', url:'https://www.goblintrader.es', price:41.50, original_price:54.95, discount_pct:24.5 },
+    ]},
+    { name:'Scythe', is_new:1, first_seen:now, prices:[
+        { source:'mathom', url:'https://mathom.es', price:59.95, original_price:null, discount_pct:null },
+    ]},
+    { name:'Pandemic', is_new:0, first_seen:yesterday, prices:[
+        { source:'goblintrader', url:'https://www.goblintrader.es', price:24.95, original_price:34.95, discount_pct:28.6 },
+    ]},
+    { name:'7 Wonders Duel', is_new:0, first_seen:yesterday, prices:[
+        { source:'mathom',       url:'https://mathom.es', price:21.00, original_price:24.95, discount_pct:15.8 },
+        { source:'goblintrader', url:'https://www.goblintrader.es', price:19.95, original_price:24.95, discount_pct:20.0 },
+    ]},
+    { name:'Gloomhaven', is_new:0, first_seen:yesterday, prices:[
+        { source:'goblintrader', url:'https://www.goblintrader.es', price:99.95, original_price:149.95, discount_pct:33.4 },
+    ]},
+    { name:'Wingspan', is_new:0, first_seen:yesterday, prices:[
+        { source:'mathom',       url:'https://mathom.es', price:44.95, original_price:null, discount_pct:null },
+        { source:'goblintrader', url:'https://www.goblintrader.es', price:42.95, original_price:49.95, discount_pct:14.0 },
+    ]},
+    { name:'Arkham Horror 3ª Edición', is_new:0, first_seen:yesterday, prices:[
+        { source:'mathom', url:'https://mathom.es', price:79.95, original_price:null, discount_pct:null },
+    ]},
+    { name:'Azul', is_new:0, first_seen:yesterday, prices:[
+        { source:'mathom',       url:'https://mathom.es', price:32.95, original_price:null, discount_pct:null },
+        { source:'goblintrader', url:'https://www.goblintrader.es', price:29.50, original_price:34.95, discount_pct:15.6 },
+    ]},
+  ];
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
