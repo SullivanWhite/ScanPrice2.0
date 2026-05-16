@@ -375,6 +375,32 @@
 
   /* Source badges when multiple sources */
   .badge-sources { display: flex; gap: 5px; flex-wrap: wrap; }
+
+  /* ── Paginación ──────────────────────────────────── */
+  .pagination {
+    max-width: 1400px; margin: 0 auto 3rem; padding: 0 2rem;
+    display: flex; align-items: center; justify-content: center; gap: 0.4rem;
+    flex-wrap: wrap;
+  }
+  .page-info {
+    max-width: 1400px; margin: 0 auto 0.75rem; padding: 0 2rem;
+    font-size: 0.75rem; color: var(--muted); font-family: var(--font-mono);
+    text-align: right;
+  }
+  .btn-page {
+    min-width: 36px; height: 36px; padding: 0 10px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; color: var(--muted);
+    font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700;
+    cursor: pointer; transition: all .15s;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .btn-page:hover:not(:disabled) { border-color: var(--accent); color: var(--text); }
+  .btn-page.active {
+    background: var(--accent); border-color: var(--accent); color: #fff;
+  }
+  .btn-page:disabled { opacity: .3; cursor: default; }
+  .btn-page.ellipsis { cursor: default; border-color: transparent; background: transparent; }
 </style>
 </head>
 <body>
@@ -437,15 +463,23 @@
   </div>
 </div>
 
+
+<!-- Paginación -->
+<div class="page-info" id="pageInfo"></div>
+<div class="pagination" id="pagination"></div>
+
 <footer>
   ScanPrice · Datos de Mathom &amp; GoblinTrader · Ejecuta <code>python scraper.py</code> para actualizar
 </footer>
 
 <script>
 // ── State ─────────────────────────────────────────────────────────────────
-let allGames = [];
-let activeFilter = 'all';
-let searchQuery = '';
+let allGames      = [];
+let filteredGames = [];   // resultado tras filtros+sort (sin paginar)
+let activeFilter  = 'all';
+let searchQuery   = '';
+let currentPage   = 1;
+const PAGE_SIZE   = 40;
 
 // ── Helpers: dato aplanado para filtros/sort ───────────────────────────────
 // Cada juego tiene g.prices[] con una o varias fuentes.
@@ -493,10 +527,10 @@ async function loadData() {
 
 // ── Render ─────────────────────────────────────────────────────────────────
 function render() {
-  const grid = document.getElementById('grid');
   const sort = document.getElementById('sortSelect').value;
 
-  let games = allGames.filter(g => {
+  // 1. Filtrar
+  filteredGames = allGames.filter(g => {
     const q = searchQuery.toLowerCase();
     if (q && !g.name.toLowerCase().includes(q)) return false;
     if (activeFilter === 'new')          return g.is_new;
@@ -506,7 +540,8 @@ function render() {
     return true;
   });
 
-  games = [...games].sort((a, b) => {
+  // 2. Ordenar
+  filteredGames.sort((a, b) => {
     if (sort === 'price_asc')  return minPrice(a) - minPrice(b);
     if (sort === 'price_desc') return minPrice(b) - minPrice(a);
     if (sort === 'discount')   return maxDiscount(b) - maxDiscount(a);
@@ -515,20 +550,86 @@ function render() {
     return (b.first_seen || '').localeCompare(a.first_seen || '');
   });
 
-  document.getElementById('resultsMeta').innerHTML =
-    `Mostrando <strong>${games.length}</strong> de ${allGames.length} juegos`;
+  // 3. Resetear a pág 1 si el filtro cambia
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+  if (currentPage > totalPages) currentPage = 1;
 
-  if (games.length === 0) {
+  renderGrid();
+  renderPagination();
+}
+
+function renderGrid() {
+  const grid = document.getElementById('grid');
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+
+  document.getElementById('resultsMeta').innerHTML =
+    `Mostrando <strong>${filteredGames.length}</strong> de ${allGames.length} juegos`;
+
+  document.getElementById('pageInfo').textContent =
+    filteredGames.length > PAGE_SIZE
+      ? `Página ${currentPage} de ${totalPages}`
+      : '';
+
+  if (filteredGames.length === 0) {
     grid.innerHTML = `
       <div class="empty">
         <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
         <h3>Sin resultados</h3>
         <p>Prueba con otros filtros o términos de búsqueda.</p>
       </div>`;
+    document.getElementById('pagination').innerHTML = '';
     return;
   }
 
-  grid.innerHTML = games.map(g => cardHTML(g)).join('');
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page  = filteredGames.slice(start, start + PAGE_SIZE);
+  grid.innerHTML = page.map(g => cardHTML(g)).join('');
+}
+
+function renderPagination() {
+  const container  = document.getElementById('pagination');
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+
+  if (totalPages <= 1) { container.innerHTML = ''; return; }
+
+  // Genera los números a mostrar con elipsis
+  function pageNumbers(cur, total) {
+    const delta = 2;
+    const range = [];
+    for (let i = Math.max(2, cur - delta); i <= Math.min(total - 1, cur + delta); i++) {
+      range.push(i);
+    }
+    if (range[0] - 2 > 1)            range.unshift('…');
+    if (range[0] !== 2)               range.unshift(2);      // siempre mostrar 2 si no está
+    if (total - range[range.length-1] > 2) range.push('…');
+    if (range[range.length-1] !== total-1) range.push(total-1); // siempre mostrar total-1
+    range.unshift(1);
+    range.push(total);
+    // dedup
+    return [...new Set(range)];
+  }
+
+  const nums = pageNumbers(currentPage, totalPages);
+
+  const prev = `<button class="btn-page" ${currentPage===1?'disabled':''} onclick="goPage(${currentPage-1})">←</button>`;
+  const next = `<button class="btn-page" ${currentPage===totalPages?'disabled':''} onclick="goPage(${currentPage+1})">→</button>`;
+
+  const pages = nums.map(n => {
+    if (n === '…') return `<button class="btn-page ellipsis" disabled>…</button>`;
+    return `<button class="btn-page${n===currentPage?' active':''}" onclick="goPage(${n})">${n}</button>`;
+  }).join('');
+
+  container.innerHTML = prev + pages + next;
+}
+
+function goPage(n) {
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+  if (n < 1 || n > totalPages) return;
+  currentPage = n;
+  renderGrid();
+  renderPagination();
+  // Scroll suave al top del grid
+  document.getElementById('grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // ── Card HTML ──────────────────────────────────────────────────────────────
@@ -587,6 +688,7 @@ function cardHTML(g) {
 // ── Filters & search ──────────────────────────────────────────────────────
 function setFilter(f, btn) {
   activeFilter = f;
+  currentPage  = 1;
   document.querySelectorAll('.btn-filter').forEach(b => b.classList.remove('active','active-new'));
   if (f === 'new') btn.classList.add('active-new');
   else btn.classList.add('active');
@@ -595,6 +697,7 @@ function setFilter(f, btn) {
 
 document.getElementById('searchInput').addEventListener('input', e => {
   searchQuery = e.target.value;
+  currentPage = 1;
   render();
 });
 
