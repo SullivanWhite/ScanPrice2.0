@@ -229,6 +229,7 @@
   }
   .dot-mathom { background: #4ecca3; }
   .dot-goblintrader { background: #f0c040; }
+  .dot-dungeonmarvels { background: #f07040; }
 
   /* Name */
   .card-name {
@@ -437,7 +438,8 @@
     <button class="btn-filter"        data-filter="new"     onclick="setFilter('new',this)">✨ Nuevos</button>
     <button class="btn-filter"        data-filter="sale"    onclick="setFilter('sale',this)">🏷 Ofertas</button>
     <button class="btn-filter"        data-filter="mathom"        onclick="setFilter('mathom',this)">Mathom</button>
-    <button class="btn-filter"        data-filter="goblintrader"  onclick="setFilter('goblintrader',this)">GoblinTrader</button>
+    <button class="btn-filter"        data-filter="goblintrader"   onclick="setFilter('goblintrader',this)">GoblinTrader</button>
+    <button class="btn-filter"        data-filter="dungeonmarvels" onclick="setFilter('dungeonmarvels',this)">Dungeon Marvels</button>
   </div>
 
   <select class="sort-select" id="sortSelect" onchange="render()">
@@ -536,7 +538,8 @@ function render() {
     if (activeFilter === 'new')          return g.is_new;
     if (activeFilter === 'sale')         return hasSale(g);
     if (activeFilter === 'mathom')       return hasSource(g, 'mathom');
-    if (activeFilter === 'goblintrader') return hasSource(g, 'goblintrader');
+    if (activeFilter === 'goblintrader')  return hasSource(g, 'goblintrader');
+    if (activeFilter === 'dungeonmarvels') return hasSource(g, 'dungeonmarvels');
     return true;
   });
 
@@ -635,7 +638,8 @@ function goPage(n) {
 // ── Card HTML ──────────────────────────────────────────────────────────────
 const SOURCE_META = {
   mathom:       { label: 'Mathom',       dotClass: 'dot-mathom' },
-  goblintrader: { label: 'GoblinTrader', dotClass: 'dot-goblintrader' },
+  goblintrader:   { label: 'GoblinTrader',   dotClass: 'dot-goblintrader' },
+  dungeonmarvels: { label: 'Dungeon Marvels', dotClass: 'dot-dungeonmarvels' },
 };
 
 function priceSourceRow(p) {
