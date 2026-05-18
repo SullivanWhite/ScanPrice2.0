@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-05-17T09:13:58.102948",
-  "total": 1976,
-  "total_raw": 2016,
+  "generated_at": "2026-05-18T11:14:53.625644",
+  "total": 1977,
+  "total_raw": 2019,
   "games": [
+    {
+      "name": "Cthulhu Gloom",
+      "is_new": 0,
+      "first_seen": "2026-05-18T11:14:00.334828",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/31457-cthulhu-gloom-8435407614390.html",
+          "price": 9.75,
+          "original_price": 24.99,
+          "discount_pct": 61.0,
+          "scraped_at": "2026-05-18T11:14:00.334828"
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/31457-cthulhu-gloom-spanish-8435407614390.html",
+          "price": 7.5,
+          "original_price": 24.99,
+          "discount_pct": 70.0,
+          "scraped_at": "2026-05-16T22:04:50.700192"
+        }
+      ]
+    },
+    {
+      "name": "Sherlock Holmes: Carlton House & Queen's Park (Autojugable)",
+      "is_new": 0,
+      "first_seen": "2026-05-18T11:13:57.423487",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/43224-sherlock-holmes-carlton-house-queen-s-park-autojugable-9782370990365.html",
+          "price": 14.95,
+          "original_price": 49.99,
+          "discount_pct": 70.1,
+          "scraped_at": "2026-05-18T11:13:57.423487"
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/43224-sherlock-holmes-carlton-house-queen-s-park-9782370990365.html",
+          "price": 15.0,
+          "original_price": 49.99,
+          "discount_pct": 70.0,
+          "scraped_at": "2026-05-16T22:04:48.646912"
+        }
+      ]
+    },
+    {
+      "name": "Hidden Games: Escena del Crimen - Una Travesia Fatal",
+      "is_new": 0,
+      "first_seen": "2026-05-18T11:11:11.353064",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/hidden-games-escena-del-crimen/60243-hidden-games-escena-del-crimen-una-travesia-fatal-4260686491592.html",
+          "price": 21.51,
+          "original_price": 23.9,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-18T11:11:11.353064"
+        }
+      ]
+    },
     {
       "name": "Descent: Leyendas de las Tinieblas (Castellano)",
       "is_new": 0,
@@ -6802,21 +6863,6 @@
       ]
     },
     {
-      "name": "Cthulhu Gloom",
-      "is_new": 0,
-      "first_seen": "2026-05-16T22:04:50.700192",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/31457-cthulhu-gloom-spanish-8435407614390.html",
-          "price": 7.5,
-          "original_price": 24.99,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-16T22:04:50.700192"
-        }
-      ]
-    },
-    {
       "name": "Dungeon Raiders (Castellano)",
       "is_new": 0,
       "first_seen": "2026-05-16T22:04:50.698317",
@@ -7170,10 +7216,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/39898-en-una-escala-de-1-a-t-rex-3558380076780.html",
-          "price": 7.0,
+          "price": 6.95,
           "original_price": 19.99,
-          "discount_pct": 65.0,
-          "scraped_at": "2026-05-16T22:04:48.684293"
+          "discount_pct": 65.2,
+          "scraped_at": "2026-05-18T11:13:57.431562"
         }
       ]
     },
@@ -7434,21 +7480,6 @@
       ]
     },
     {
-      "name": "Sherlock Holmes: Carlton House & Queen's Park (Autojugable)",
-      "is_new": 0,
-      "first_seen": "2026-05-16T22:04:48.646912",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/43224-sherlock-holmes-carlton-house-queen-s-park-9782370990365.html",
-          "price": 15.0,
-          "original_price": 49.99,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-16T22:04:48.646912"
-        }
-      ]
-    },
-    {
       "name": "Voces en mi Cabeza",
       "is_new": 0,
       "first_seen": "2026-05-16T22:04:48.644772",
@@ -7456,10 +7487,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/43335-voces-en-mi-cabeza-8435407636330.html",
-          "price": 12.0,
+          "price": 11.95,
           "original_price": 39.99,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-16T22:04:48.644772"
+          "discount_pct": 70.1,
+          "scraped_at": "2026-05-18T11:13:57.421680"
         }
       ]
     },
@@ -7787,10 +7818,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/45371-ora-et-labora-8435407640559.html",
-          "price": 15.0,
+          "price": 14.95,
           "original_price": 55.69,
-          "discount_pct": 73.1,
-          "scraped_at": "2026-05-16T22:04:46.622897"
+          "discount_pct": 73.2,
+          "scraped_at": "2026-05-18T11:13:54.527953"
         }
       ]
     },
@@ -8042,10 +8073,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/46212-vida-salvaje-serengeti-8435407640801.html",
-          "price": 12.0,
+          "price": 11.95,
           "original_price": 59.99,
-          "discount_pct": 80.0,
-          "scraped_at": "2026-05-16T22:04:44.617199"
+          "discount_pct": 80.1,
+          "scraped_at": "2026-05-18T11:13:51.541866"
         }
       ]
     },
@@ -8252,10 +8283,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48434-la-gran-division-8435407641396.html",
-          "price": 12.5,
+          "price": 14.95,
           "original_price": 49.99,
-          "discount_pct": 75.0,
-          "scraped_at": "2026-05-16T22:04:42.559244"
+          "discount_pct": 70.1,
+          "scraped_at": "2026-05-18T11:13:48.245856"
         }
       ]
     },
@@ -8267,10 +8298,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48468-archeos-society-castellano-3558380103325.html",
-          "price": 12.5,
+          "price": 14.95,
           "original_price": 49.99,
-          "discount_pct": 75.0,
-          "scraped_at": "2026-05-16T22:04:42.557275"
+          "discount_pct": 70.1,
+          "scraped_at": "2026-05-18T11:13:48.243988"
         }
       ]
     },
@@ -12661,10 +12692,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/galaxy-trucker/51635-galaxy-trucker-expansion-bocinas-en-el-espacio-8436589629721.html",
-          "price": 15.0,
+          "price": 27.0,
           "original_price": 30.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:04:06.454836"
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-18T11:13:12.052654"
         }
       ]
     },
@@ -12766,10 +12797,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/cartografos/46788-cartografos-heroes-8436564812049.html",
-          "price": 12.0,
+          "price": 17.96,
           "original_price": 19.95,
-          "discount_pct": 39.0,
-          "scraped_at": "2026-05-16T22:04:06.441173"
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-18T11:11:19.849321"
         }
       ]
     },
@@ -12781,10 +12812,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/45893-aeon-s-end-8435450219177.html",
-          "price": 70.0,
+          "price": 87.96,
           "original_price": 99.95,
-          "discount_pct": 29.0,
-          "scraped_at": "2026-05-16T22:04:06.439255"
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-18T11:11:11.364303"
         }
       ]
     },
