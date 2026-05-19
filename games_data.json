@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-05-18T11:14:53.625644",
-  "total": 1977,
-  "total_raw": 2019,
+  "generated_at": "2026-05-19T10:43:40.162582",
+  "total": 1983,
+  "total_raw": 2025,
   "games": [
+    {
+      "name": "Dragon Eclipse: Tapetes de Arena",
+      "is_new": 0,
+      "first_seen": "2026-05-19T10:43:37.790588",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/dragon-eclipse-arena-playmats-ingles-82047.html",
+          "price": 28.8,
+          "original_price": 32.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-19T10:43:37.790588"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Artbook",
+      "is_new": 0,
+      "first_seen": "2026-05-19T10:43:37.788576",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/dragon-eclipse-artbook-ingles-82046.html",
+          "price": 25.65,
+          "original_price": 27.0,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-19T10:43:37.788576"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Terrain Miniature Pack",
+      "is_new": 0,
+      "first_seen": "2026-05-19T10:43:37.786298",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/dragon-eclipse-terrains-82045.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-19T10:43:37.786298"
+        }
+      ]
+    },
+    {
+      "name": "Take Time",
+      "is_new": 0,
+      "first_seen": "2026-05-19T10:40:16.759908",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58385-take-time-3558380131199.html",
+          "price": 22.49,
+          "original_price": 24.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-19T10:40:16.759908"
+        }
+      ]
+    },
+    {
+      "name": "Wingspan: Expansión America",
+      "is_new": 0,
+      "first_seen": "2026-05-19T10:40:12.664352",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/wingspan/60229-wingspan-expansion-america-8436625618269.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-19T10:40:12.664352"
+        }
+      ]
+    },
+    {
+      "name": "Teocracia",
+      "is_new": 0,
+      "first_seen": "2026-05-19T10:40:12.662240",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60228-teocracia-8436578816286.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-19T10:40:12.662240"
+        }
+      ]
+    },
     {
       "name": "Cthulhu Gloom",
       "is_new": 0,
@@ -11102,10 +11192,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54126-mycelia-4005556275380.html",
-          "price": 39.56,
-          "original_price": 44.95,
+          "price": 43.99,
+          "original_price": 49.99,
           "discount_pct": 12.0,
-          "scraped_at": "2026-05-16T22:04:19.850673"
+          "scraped_at": "2026-05-19T10:40:16.758938"
         }
       ]
     },
@@ -11252,10 +11342,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58372-the-druids-of-edora-4005556246861.html",
-          "price": 46.63,
-          "original_price": 52.99,
+          "price": 43.99,
+          "original_price": 49.99,
           "discount_pct": 12.0,
-          "scraped_at": "2026-05-16T22:04:15.505856"
+          "scraped_at": "2026-05-19T10:40:12.659078"
         }
       ]
     },
@@ -11282,10 +11372,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58667-cold-case-final-de-linea-4005556766703.html",
-          "price": 11.66,
-          "original_price": 12.95,
+          "price": 11.7,
+          "original_price": 13.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-16T22:04:15.501906"
+          "scraped_at": "2026-05-19T10:40:12.669967"
         }
       ]
     },
@@ -11597,10 +11687,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59455-cold-case-registrese-para-asesinar-4005556766826.html",
-          "price": 11.66,
-          "original_price": 12.95,
+          "price": 11.7,
+          "original_price": 13.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-16T22:04:15.452847"
+          "scraped_at": "2026-05-19T10:40:12.666911"
         }
       ]
     },
@@ -20942,10 +21032,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54876-the-legendary-el-dorado-4005556275557.html",
-          "price": 39.56,
-          "original_price": 44.95,
+          "price": 43.99,
+          "original_price": 49.99,
           "discount_pct": 12.0,
-          "scraped_at": "2026-05-16T22:03:03.131305"
+          "scraped_at": "2026-05-19T10:40:16.757522"
         }
       ]
     },
@@ -21092,10 +21182,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58668-cold-case-asesinato-con-intereses-4005556765959.html",
-          "price": 11.66,
-          "original_price": 12.95,
+          "price": 11.7,
+          "original_price": 13.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-16T22:03:03.112361"
+          "scraped_at": "2026-05-19T10:40:12.671001"
         }
       ]
     },
@@ -21392,10 +21482,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58670-cold-case-una-pizca-de-asesinato-4005556764693.html",
-          "price": 11.66,
-          "original_price": 12.95,
+          "price": 11.7,
+          "original_price": 13.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-16T22:02:58.592661"
+          "scraped_at": "2026-05-19T10:40:12.668063"
         }
       ]
     },
@@ -22157,10 +22247,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58669-cold-case-una-historia-de-muerte-4005556764686.html",
-          "price": 11.66,
-          "original_price": 12.95,
+          "price": 11.7,
+          "original_price": 13.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-16T22:02:54.141205"
+          "scraped_at": "2026-05-19T10:40:12.669058"
         }
       ]
     },
