@@ -1,8 +1,254 @@
 {
-  "generated_at": "2026-05-20T05:25:45.691192",
-  "total": 1987,
-  "total_raw": 2029,
+  "generated_at": "2026-05-20T10:32:04.773562",
+  "total": 1996,
+  "total_raw": 2039,
   "games": [
+    {
+      "name": "Ace of Spades",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:32:02.429088",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/ace-of-spaces-89599.html",
+          "price": 25.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-20T10:32:02.429088",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kill Team: Terror en Devlan (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:32:02.426861",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/kill-team-terror-en-devlan-castellano-98032.html",
+          "price": 130.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-20T10:32:02.426861",
+          "history": [
+            {
+              "price": 130.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kill Team: Mántifex",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:32:02.423736",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/kill-team-mantifex-91394.html",
+          "price": 49.5,
+          "original_price": 55.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:32:02.423736",
+          "history": [
+            {
+              "price": 49.5,
+              "original_price": 55.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sail (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:31:40.874109",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/sail-castellano-85329.html",
+          "price": 12.0,
+          "original_price": 24.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-20T10:31:40.874109",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": 24.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hispania",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:28:24.229527",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56500-hispania-698142195571.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:28:24.229527",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:28:20.006690",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60249-dragon-eclipse-5904689274170.html",
+          "price": 167.2,
+          "original_price": 190.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-20T10:28:20.006690",
+          "history": [
+            {
+              "price": 167.2,
+              "original_price": 190.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Artbook",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:28:20.004982",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60253-dragon-eclipse-artbook-5904689272633.html",
+          "price": 24.3,
+          "original_price": 27.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:28:20.004982",
+          "history": [
+            {
+              "price": 24.3,
+              "original_price": 27.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
+            }
+          ]
+        },
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/dragon-eclipse-artbook-ingles-82046.html",
+          "price": 25.65,
+          "original_price": 27.0,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-19T10:43:37.788576",
+          "history": [
+            {
+              "price": 25.65,
+              "original_price": 27.0,
+              "discount_pct": 5.0,
+              "date": "2026-05-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Arena Playmats Set",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:28:20.003218",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60256-dragon-eclipse-arena-playmats-set-5904689272640.html",
+          "price": 28.8,
+          "original_price": 32.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:28:20.003218",
+          "history": [
+            {
+              "price": 28.8,
+              "original_price": 32.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metalcorps: The Mech's War",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:28:20.001261",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/39974-metalcorps-the-mech-s-war-9788469761588.html",
+          "price": 14.37,
+          "original_price": 23.95,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-20T10:28:20.001261",
+          "history": [
+            {
+              "price": 14.37,
+              "original_price": 23.95,
+              "discount_pct": 40.0,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Untamed Arena Playmat",
+      "is_new": 0,
+      "first_seen": "2026-05-20T10:28:19.991461",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60258-dragon-eclipse-untamed-arena-playmat-5904689272657.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:28:19.991461",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Nenuphar Jazz",
       "is_new": 0,
@@ -112,29 +358,6 @@
               "price": 28.8,
               "original_price": 32.0,
               "discount_pct": 10.0,
-              "date": "2026-05-19"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Dragon Eclipse: Artbook",
-      "is_new": 0,
-      "first_seen": "2026-05-19T10:43:37.788576",
-      "prices": [
-        {
-          "source": "dungeonmarvels",
-          "url": "https://dungeonmarvels.com/dragon-eclipse-artbook-ingles-82046.html",
-          "price": 25.65,
-          "original_price": 27.0,
-          "discount_pct": 5.0,
-          "scraped_at": "2026-05-19T10:43:37.788576",
-          "history": [
-            {
-              "price": 25.65,
-              "original_price": 27.0,
-              "discount_pct": 5.0,
               "date": "2026-05-19"
             }
           ]
@@ -19931,16 +20154,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56756-sagrada-gloria-8436607944904.html",
-          "price": 12.5,
+          "price": 22.5,
           "original_price": 25.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:04:06.452875",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:30:31.626259",
           "history": [
             {
               "price": 12.5,
               "original_price": 25.0,
               "discount_pct": 50.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
             }
           ]
         }
@@ -20127,16 +20356,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55549-las-aventuras-de-robin-hood-el-fraile-tuck-en-peligro-8436607944072.html",
-          "price": 15.0,
+          "price": 27.0,
           "original_price": 30.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:04:06.437269",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:30:31.624818",
           "history": [
             {
               "price": 15.0,
               "original_price": 30.0,
               "discount_pct": 50.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
             }
           ]
         }
@@ -20242,16 +20477,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/paleo/55152-paleo-los-avispones-8436589629868.html",
-          "price": 2.5,
+          "price": 4.5,
           "original_price": 5.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:04:06.427830",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-20T10:30:31.623278",
           "history": [
             {
               "price": 2.5,
               "original_price": 5.0,
               "discount_pct": 50.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 4.5,
+              "original_price": 5.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-20"
             }
           ]
         }
@@ -39264,16 +39505,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57289-sail-8436607944836.html",
-          "price": 21.6,
+          "price": 12.0,
           "original_price": 24.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-16T22:02:26.994987",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-20T10:28:19.999076",
           "history": [
             {
               "price": 21.6,
               "original_price": 24.0,
               "discount_pct": 10.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 12.0,
+              "original_price": 24.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-20"
             }
           ]
         }
