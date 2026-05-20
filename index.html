@@ -911,16 +911,18 @@ function renderChart(idx) {
 
   // Comprobar si hay historial disponible en el JSON
   // El JSON actual no incluye history[], así que mostramos el precio actual como punto único
+  // Construir datasets desde p.history[] (array de {date, price} del JSON real)
   const buildDataset = (p, colorIdx) => {
-    const pts = p.history && p.history.length
-      ? p.history
-      : [p.price];
+    const hist = (p.history && p.history.length > 1) ? p.history : null;
+    const pts  = hist ? hist.map(h => h.price) : (p.price != null ? [p.price] : []);
     return {
-      label: (SOURCE_META[p.source]||{label:p.source}).label,
-      data: pts,
-      borderColor: LINE_COLORS[colorIdx % LINE_COLORS.length],
+      label:           (SOURCE_META[p.source]||{label:p.source}).label,
+      data:            pts,
+      dates:           hist ? hist.map(h => h.date) : ['Hoy'],
+      borderColor:     LINE_COLORS[colorIdx % LINE_COLORS.length],
       backgroundColor: LINE_COLORS[colorIdx % LINE_COLORS.length] + '22',
-      tension: 0.4, fill: idx !== -1, pointRadius: pts.length === 1 ? 6 : 3,
+      tension: 0.4, fill: idx !== -1,
+      pointRadius: pts.length === 1 ? 6 : 3,
     };
   };
 
@@ -934,16 +936,21 @@ function renderChart(idx) {
   }
 
   const maxPts = Math.max(...datasets.map(d => d.data.length));
-  const labels = maxPts === 1
-    ? ['Hoy']
-    : Array.from({length: maxPts}, (_,i) => `Día ${i+1}`);
+  // Etiquetas: usar las fechas reales del dataset con más puntos
+  const longestDs = datasets.reduce((a,b) => a.data.length >= b.data.length ? a : b);
+  const labels = longestDs.dates;
 
-  noHist.style.display  = maxPts <= 1 ? 'block' : 'none';
-  wrap.style.display    = maxPts <= 1 ? 'none'  : 'block';
-  legend.innerHTML = '';
+  noHist.style.display = maxPts <= 1 ? 'block' : 'none';
+  wrap.style.display   = maxPts <= 1 ? 'none'  : 'block';
+  legend.innerHTML  = '';
   summary.innerHTML = '';
 
   if (maxPts <= 1) return;
+
+  // Alinear datasets con longitudes distintas rellenando con null al inicio
+  datasets.forEach(d => {
+    while (d.data.length < labels.length) d.data.unshift(null);
+  });
 
   const ctx = document.getElementById('priceChart').getContext('2d');
   chartInst = new Chart(ctx, {
@@ -951,16 +958,21 @@ function renderChart(idx) {
     data: { labels, datasets },
     options: {
       responsive: true, maintainAspectRatio: false,
+      spanGaps: true,
       plugins: {
         legend: { display: false },
         tooltip: {
           backgroundColor: '#1c2030', borderColor: '#252a3a', borderWidth: 1,
           titleColor: '#e2e6f0', bodyColor: '#6b738a',
-          callbacks: { label: ctx => ` ${ctx.dataset.label}: ${Number(ctx.parsed.y).toFixed(2).replace('.',',')} €` }
+          callbacks: {
+            label: ctx => ctx.parsed.y != null
+              ? ` ${ctx.dataset.label}: ${ctx.parsed.y.toFixed(2).replace('.',',')} €`
+              : '',
+          }
         }
       },
       scales: {
-        x: { grid: { color: '#252a3a' }, ticks: { color: '#6b738a', font: { size: 10 } } },
+        x: { grid: { color: '#252a3a' }, ticks: { color: '#6b738a', font: { size: 10 }, maxTicksLimit: 10 } },
         y: { grid: { color: '#252a3a' }, ticks: { color: '#6b738a', font: { size: 10 }, callback: v => v.toFixed(0) + ' €' } }
       }
     }
@@ -973,21 +985,22 @@ function renderChart(idx) {
   ).join('');
 
   summary.innerHTML = showPrices.map((p, i) => {
-    const hist  = datasets[i].data;
-    const mn    = Math.min(...hist);
-    const mx    = Math.max(...hist);
-    const chg   = hist[hist.length-1] - hist[0];
+    const pts = datasets[i].data.filter(v => v != null);
+    if (!pts.length) return '';
+    const mn  = Math.min(...pts);
+    const mx  = Math.max(...pts);
+    const chg = pts[pts.length-1] - pts[0];
     return `
       <div class="sum-card">
-        <div class="sum-label">Mínimo</div>
+        <div class="sum-label">Mínimo histórico</div>
         <div class="sum-val green">${mn.toFixed(2).replace('.',',')} €</div>
       </div>
       <div class="sum-card">
-        <div class="sum-label">Máximo</div>
+        <div class="sum-label">Máximo histórico</div>
         <div class="sum-val red">${mx.toFixed(2).replace('.',',')} €</div>
       </div>
       <div class="sum-card">
-        <div class="sum-label">Variación</div>
+        <div class="sum-label">Variación total</div>
         <div class="sum-val ${chg<=0?'green':'red'}">${chg>0?'+':''}${chg.toFixed(2).replace('.',',')} €</div>
       </div>`;
   }).join('');
