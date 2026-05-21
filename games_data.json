@@ -1,10 +1,103 @@
 {
-  "generated_at": "2026-05-21T07:20:57.693241",
-  "total": 1998,
+  "generated_at": "2026-05-21T10:49:12.687056",
+  "total": 2002,
+  "total_raw": 2045,
   "games": [
     {
+      "name": "Figura Gremlins Bat Gremlin Deluxe Boxed...",
+      "is_new": 0,
+      "first_seen": "2026-05-21T10:49:10.345527",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/figura-gremlins-bat-gremlin-deluxe-boxed-action15-cm-77376.html",
+          "price": 54.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-21T10:49:10.345527",
+          "history": [
+            {
+              "price": 54.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mysthea: Monsters Set",
+      "is_new": 0,
+      "first_seen": "2026-05-21T10:49:10.343239",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/mysthea-monsters-set-77348.html",
+          "price": 20.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-21T10:49:10.343239",
+          "history": [
+            {
+              "price": 20.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Figura Friday The 13Th 1/4 Scale Action...",
+      "is_new": 0,
+      "first_seen": "2026-05-21T10:49:10.340275",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/figura-friday-the-13th-1-4-scale-action-figure-parte-4-jason-viernes-13-45-cm-53431.html",
+          "price": 148.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-21T10:49:10.340275",
+          "history": [
+            {
+              "price": 148.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Casa de Fado",
+      "is_new": 0,
+      "first_seen": "2026-05-21T10:45:36.626353",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60280-casa-de-fado-8436578818525.html",
+          "price": 60.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-21T10:45:36.626353",
+          "history": [
+            {
+              "price": 60.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Dead by Daylight: Unbroken (Inglés)",
-      "is_new": 1,
+      "is_new": 0,
       "first_seen": "2026-05-21T07:14:44.744427",
       "prices": [
         {
@@ -27,7 +120,7 @@
     },
     {
       "name": "Dead by Daylight: El juego de mesa",
-      "is_new": 1,
+      "is_new": 0,
       "first_seen": "2026-05-21T06:52:30.894520",
       "prices": [
         {
@@ -10652,16 +10745,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/king-of-tokyo/37013-king-of-tokyo-8436017223897.html",
-          "price": 18.5,
+          "price": 33.3,
           "original_price": 37.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:04:01.831102",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-21T10:47:37.325578",
           "history": [
             {
               "price": 18.5,
               "original_price": 37.0,
               "discount_pct": 50.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 33.3,
+              "original_price": 37.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-21"
             }
           ]
         }
@@ -12600,10 +12699,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/45371-ora-et-labora-8435407640559.html",
-          "price": 14.95,
+          "price": 16.95,
           "original_price": 55.69,
-          "discount_pct": 73.2,
-          "scraped_at": "2026-05-18T11:13:54.527953",
+          "discount_pct": 69.6,
+          "scraped_at": "2026-05-21T10:48:15.676260",
           "history": [
             {
               "price": 15.0,
@@ -12616,6 +12715,12 @@
               "original_price": 55.69,
               "discount_pct": 73.2,
               "date": "2026-05-18"
+            },
+            {
+              "price": 16.95,
+              "original_price": 55.69,
+              "discount_pct": 69.6,
+              "date": "2026-05-21"
             }
           ]
         }
@@ -20147,16 +20252,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/paleo/55151-paleo-la-ballena-blanca-8436607943099.html",
-          "price": 2.5,
+          "price": 4.5,
           "original_price": 5.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:04:06.457099",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-21T10:47:41.325600",
           "history": [
             {
               "price": 2.5,
               "original_price": 5.0,
               "discount_pct": 50.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 4.5,
+              "original_price": 5.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-21"
             }
           ]
         }
@@ -35157,16 +35268,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54139-challengers-torneo-de-verano-826956231509.html",
-          "price": 35.19,
+          "price": 13.0,
           "original_price": 39.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-16T22:02:49.562822",
+          "discount_pct": 67.0,
+          "scraped_at": "2026-05-21T10:45:32.577334",
           "history": [
             {
               "price": 35.19,
               "original_price": 39.99,
               "discount_pct": 12.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 13.0,
+              "original_price": 39.99,
+              "discount_pct": 67.0,
+              "date": "2026-05-21"
             }
           ]
         }
@@ -44179,16 +44296,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/paleo/59272-paleo-las-aves-del-terror-8436589625273.html",
-          "price": 2.5,
+          "price": 4.5,
           "original_price": 5.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:02:04.619706",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-21T10:45:36.623510",
           "history": [
             {
               "price": 2.5,
               "original_price": 5.0,
               "discount_pct": 50.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 4.5,
+              "original_price": 5.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-21"
             }
           ]
         }
@@ -44202,16 +44325,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/paleo/59271-paleo-ritos-de-iniciacion-8436589626782.html",
-          "price": 2.5,
+          "price": 4.5,
           "original_price": 5.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-16T22:02:04.617718",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-21T10:47:41.324001",
           "history": [
             {
               "price": 2.5,
               "original_price": 5.0,
               "discount_pct": 50.0,
               "date": "2026-05-16"
+            },
+            {
+              "price": 4.5,
+              "original_price": 5.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-21"
             }
           ]
         }
