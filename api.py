@@ -26,9 +26,9 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 # ── Config ────────────────────────────────────────────────────────────────────
-PORT        = int(os.environ.get("PORT", 8080))
-DB_PATH     = Path("/data/games.db")          # volumen persistente en Railway
-JSON_PATH   = Path("/data/games_data.json")
+PORT         = int(os.environ.get("PORT", 8080))
+DB_PATH      = Path("/tmp/games.db")
+JSON_PATH    = Path("/tmp/games_data.json")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO  = os.environ.get("GITHUB_REPO", "SullivanWhite/ScanPrice2.0")
 
@@ -51,6 +51,49 @@ app = Flask(__name__)
 CORS(app)  # permite llamadas desde GitHub Pages
 
 # ── DB ────────────────────────────────────────────────────────────────────────
+def download_db_from_github():
+    """Descarga la games.db actual del repo de GitHub a /tmp."""
+    if not GITHUB_TOKEN:
+        log.warning("Sin GITHUB_TOKEN — no se puede descargar la DB")
+        return False
+    import base64
+    api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/games.db"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}",
+               "Accept": "application/vnd.github.v3+json"}
+    r = requests.get(api_url, headers=headers)
+    if r.status_code != 200:
+        log.error("No se pudo descargar games.db: %s", r.status_code)
+        return False
+    data = r.json()
+    db_bytes = base64.b64decode(data["content"])
+    DB_PATH.write_bytes(db_bytes)
+    log.info("games.db descargada del repo (%d bytes)", len(db_bytes))
+    return True
+
+
+def upload_db_to_github():
+    """Sube la games.db actualizada al repo de GitHub."""
+    if not GITHUB_TOKEN:
+        return False
+    import base64
+    content_b64 = base64.b64encode(DB_PATH.read_bytes()).decode()
+    api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/games.db"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}",
+               "Accept": "application/vnd.github.v3+json"}
+    r = requests.get(api_url, headers=headers)
+    sha = r.json().get("sha", "") if r.status_code == 200 else ""
+    payload = {
+        "message": f"chore: update db via API {datetime.now().strftime('%Y-%m-%d %H:%M')}",
+        "content": content_b64,
+    }
+    if sha:
+        payload["sha"] = sha
+    r = requests.put(api_url, headers=headers, json=payload)
+    ok = r.status_code in (200, 201)
+    log.info("Upload games.db a GitHub: %s", "OK" if ok else f"ERROR {r.status_code}")
+    return ok
+
+
 def get_db():
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
@@ -321,6 +364,9 @@ def add_game():
     if not product.get("price"):
         return jsonify({"error": f"Juego encontrado ({product['name']}) pero sin precio visible"}), 422
 
+    # Descargar DB actual del repo
+    download_db_from_github()
+
     # Guardar en DB
     conn = get_db()
     game_id, is_new = save_game(conn, product)
@@ -328,7 +374,8 @@ def add_game():
     total = rebuild_json(conn)
     conn.close()
 
-    # Push a GitHub (asíncrono — no bloquea la respuesta)
+    # Subir DB y JSON actualizados a GitHub
+    upload_db_to_github()
     pushed = push_json_to_github()
 
     return jsonify({
