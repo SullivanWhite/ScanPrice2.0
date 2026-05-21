@@ -1,0 +1,1176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ScanPrice — Juegos de Tablero</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* ── Reset & Base ─────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:         #0d0f14;
+    --surface:    #141720;
+    --surface2:   #1c2030;
+    --border:     #252a3a;
+    --text:       #e2e6f0;
+    --muted:      #6b738a;
+    --accent:     #7c6af7;
+    --accent2:    #4ecca3;
+    --danger:     #f05a5a;
+    --gold:       #f0c040;
+    --new-start:  #7c6af7;
+    --new-end:    #4ecca3;
+    --font-mono:  'Space Mono', monospace;
+    --font-main:  'Syne', sans-serif;
+    --radius:     10px;
+    --card-h:     auto;
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-main);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ── Noise overlay ───────────────────────────────── */
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+    opacity: 0.03;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ── Header ──────────────────────────────────────── */
+  header {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(13, 15, 20, 0.92);
+    backdrop-filter: blur(18px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+  }
+
+  .header-inner {
+    max-width: 1400px; margin: 0 auto;
+    display: flex; align-items: center; gap: 2rem;
+    height: 64px;
+  }
+
+  .logo {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 1.1rem; font-weight: 800; letter-spacing: -0.02em;
+    color: var(--text); text-decoration: none;
+  }
+  .logo-icon {
+    width: 32px; height: 32px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1rem;
+  }
+
+  .header-stats {
+    display: flex; gap: 1.5rem; margin-left: auto; align-items: center;
+    font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted);
+  }
+  .stat-pill {
+    display: flex; gap: 6px; align-items: center;
+  }
+  .stat-pill span { color: var(--text); font-weight: 700; }
+
+  /* ── Controls bar ────────────────────────────────── */
+  .controls-bar {
+    max-width: 1400px; margin: 2rem auto 1.5rem; padding: 0 2rem;
+    display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;
+  }
+
+  .search-wrap {
+    position: relative; flex: 1; min-width: 260px;
+  }
+  .search-wrap svg {
+    position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+    color: var(--muted); pointer-events: none;
+  }
+  input[type="search"] {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: var(--font-main);
+    font-size: 0.9rem;
+    padding: 0.6rem 0.9rem 0.6rem 2.5rem;
+    outline: none;
+    transition: border-color .2s;
+  }
+  input[type="search"]:focus { border-color: var(--accent); }
+  input[type="search"]::placeholder { color: var(--muted); }
+
+  .filter-group { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+
+  .btn-filter {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: var(--muted);
+    font-family: var(--font-main);
+    font-size: 0.8rem; font-weight: 600;
+    padding: 0.45rem 1.1rem;
+    cursor: pointer;
+    transition: all .18s;
+  }
+  .btn-filter:hover { border-color: var(--accent); color: var(--text); }
+  .btn-filter.active {
+    background: var(--accent); border-color: var(--accent);
+    color: #fff;
+  }
+  .btn-filter.active-new {
+    background: linear-gradient(90deg, var(--new-start), var(--new-end));
+    border-color: transparent; color: #fff;
+  }
+
+  .sort-select {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: var(--font-main);
+    font-size: 0.85rem;
+    padding: 0.45rem 0.9rem;
+    cursor: pointer; outline: none;
+  }
+  .sort-select:focus { border-color: var(--accent); }
+
+  /* ── Results count ───────────────────────────────── */
+  .results-meta {
+    max-width: 1400px; margin: 0 auto 1rem; padding: 0 2rem;
+    font-size: 0.8rem; color: var(--muted); font-family: var(--font-mono);
+  }
+  .results-meta strong { color: var(--text); }
+
+  /* ── Grid ────────────────────────────────────────── */
+  .grid {
+    max-width: 1400px; margin: 0 auto 4rem; padding: 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+    gap: 1rem;
+  }
+
+  /* ── Card ────────────────────────────────────────── */
+  .card {
+    position: relative;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.2rem 1.3rem;
+    display: flex; flex-direction: column; gap: 0.6rem;
+    transition: transform .2s, border-color .2s, box-shadow .2s;
+    animation: cardIn .35s ease both;
+    cursor: pointer;
+    text-decoration: none; color: inherit;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+    box-shadow: 0 8px 32px rgba(124, 106, 247, 0.15);
+  }
+  .card.is-new {
+    border-color: rgba(124, 106, 247, 0.45);
+    background: linear-gradient(135deg, rgba(124,106,247,.07), rgba(78,204,163,.05));
+  }
+  .card.wishlisted {
+    border-color: rgba(240,192,64,.35);
+    background: rgba(240,192,64,.04);
+  }
+  .card.is-new:hover {
+    border-color: var(--accent2);
+    box-shadow: 0 8px 32px rgba(78, 204, 163, 0.15);
+  }
+
+  @keyframes cardIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Stagger animation for cards */
+  .card:nth-child(1)  { animation-delay: .03s; }
+  .card:nth-child(2)  { animation-delay: .06s; }
+  .card:nth-child(3)  { animation-delay: .09s; }
+  .card:nth-child(4)  { animation-delay: .12s; }
+  .card:nth-child(5)  { animation-delay: .15s; }
+  .card:nth-child(6)  { animation-delay: .18s; }
+  .card:nth-child(7)  { animation-delay: .21s; }
+  .card:nth-child(8)  { animation-delay: .24s; }
+
+  /* NEW badge */
+  .badge-new {
+    position: absolute; top: -1px; right: 14px;
+    background: linear-gradient(90deg, var(--new-start), var(--new-end));
+    color: #fff; font-size: 0.6rem; font-weight: 700;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 3px 10px 3px;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 4px 12px rgba(124,106,247,.4);
+    font-family: var(--font-mono);
+  }
+
+  /* Source badge */
+  .badge-source {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 0.68rem; font-weight: 700; letter-spacing: .04em;
+    text-transform: uppercase; font-family: var(--font-mono);
+    color: var(--muted);
+  }
+  .badge-source .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+  }
+  .dot-mathom { background: #4ecca3; }
+  .dot-goblintrader { background: #f0c040; }
+  .dot-dungeonmarvels { background: #f07040; }
+
+  /* Name */
+  .card-name {
+    font-size: 0.97rem; font-weight: 700; line-height: 1.3;
+    color: var(--text);
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Price block */
+  .price-row {
+    display: flex; align-items: baseline; gap: 0.6rem;
+    margin-top: auto; padding-top: 0.5rem;
+  }
+  .price-current {
+    font-family: var(--font-mono);
+    font-size: 1.2rem; font-weight: 700;
+    color: var(--accent2);
+  }
+  .price-current.no-discount { color: var(--text); }
+  .price-original {
+    font-family: var(--font-mono);
+    font-size: 0.82rem; color: var(--muted);
+    text-decoration: line-through;
+  }
+  .discount-badge {
+    margin-left: auto;
+    background: rgba(240, 90, 90, 0.15);
+    color: var(--danger);
+    border: 1px solid rgba(240, 90, 90, 0.3);
+    border-radius: 6px;
+    font-size: 0.72rem; font-weight: 700;
+    font-family: var(--font-mono);
+    padding: 2px 7px;
+  }
+
+  .price-na {
+    font-family: var(--font-mono); font-size: 0.82rem; color: var(--muted);
+  }
+
+  /* Date */
+  .card-date {
+    font-size: 0.68rem; color: var(--muted); font-family: var(--font-mono);
+    margin-top: 0.2rem;
+  }
+
+  /* ── Empty state ─────────────────────────────────── */
+  .empty {
+    grid-column: 1/-1;
+    text-align: center; padding: 5rem 1rem;
+    color: var(--muted);
+  }
+  .empty svg { opacity: 0.3; margin-bottom: 1rem; }
+  .empty h3 { font-size: 1.1rem; margin-bottom: 0.5rem; color: var(--text); }
+  .empty p  { font-size: 0.85rem; }
+
+  /* ── Loading ─────────────────────────────────────── */
+  .loading {
+    grid-column: 1/-1;
+    text-align: center; padding: 5rem;
+    color: var(--muted); font-family: var(--font-mono); font-size: 0.85rem;
+  }
+  .spinner {
+    width: 36px; height: 36px; margin: 0 auto 1rem;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Error state ─────────────────────────────────── */
+  .error-banner {
+    max-width: 1400px; margin: 0 auto 1rem; padding: 0 2rem;
+    background: rgba(240,90,90,.1);
+    border: 1px solid rgba(240,90,90,.3);
+    border-radius: var(--radius);
+    padding: 1rem 1.5rem;
+    color: #f05a5a; font-size: 0.88rem;
+    display: none;
+  }
+  .error-banner.visible { display: block; }
+
+  /* ── Scrollbar ───────────────────────────────────── */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+  /* ── Refresh button ──────────────────────────────── */
+  .btn-refresh {
+    background: linear-gradient(135deg, var(--accent), #5a4fcc);
+    border: none; border-radius: var(--radius);
+    color: #fff; font-family: var(--font-main); font-weight: 700;
+    font-size: 0.85rem; padding: 0.5rem 1.2rem;
+    cursor: pointer; transition: opacity .2s;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .btn-refresh:hover { opacity: .85; }
+  .btn-refresh:disabled { opacity: .4; cursor: default; }
+
+  /* ── Footer ──────────────────────────────────────── */
+  footer {
+    text-align: center; padding: 2rem;
+    font-size: 0.72rem; color: var(--muted); font-family: var(--font-mono);
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 600px) {
+    .header-stats { display: none; }
+    .grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── Multi-source price rows ─────────────────────────── */
+  .price-sources { display: flex; flex-direction: column; gap: 0.45rem; margin-top: auto; padding-top: 0.5rem; }
+
+  .price-source-row {
+    display: flex; align-items: center; gap: 0.5rem;
+    padding: 0.4rem 0.6rem;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    text-decoration: none;
+    transition: border-color .15s, background .15s;
+  }
+  .price-source-row:hover { border-color: var(--accent); background: rgba(124,106,247,.08); }
+
+  .psr-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+  .psr-label {
+    font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .05em; font-family: var(--font-mono); color: var(--muted);
+    flex-shrink: 0; min-width: 74px;
+  }
+  .psr-price { font-family: var(--font-mono); font-size: 1rem; font-weight: 700; color: var(--accent2); }
+  .psr-price.no-disc { color: var(--text); }
+  .psr-orig  { font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted); text-decoration: line-through; }
+  .psr-disc  {
+    margin-left: auto; flex-shrink: 0;
+    background: rgba(240,90,90,.15); color: var(--danger);
+    border: 1px solid rgba(240,90,90,.3);
+    border-radius: 5px; font-size: 0.68rem; font-weight: 700;
+    font-family: var(--font-mono); padding: 1px 6px;
+  }
+  .psr-na { font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted); margin-left: auto; }
+
+  /* Source badges when multiple sources */
+  .badge-sources { display: flex; gap: 5px; flex-wrap: wrap; }
+
+  /* ── Paginación ──────────────────────────────────── */
+  .pagination {
+    max-width: 1400px; margin: 0 auto 3rem; padding: 0 2rem;
+    display: flex; align-items: center; justify-content: center; gap: 0.4rem;
+    flex-wrap: wrap;
+  }
+  .page-info {
+    max-width: 1400px; margin: 0 auto 0.75rem; padding: 0 2rem;
+    font-size: 0.75rem; color: var(--muted); font-family: var(--font-mono);
+    text-align: right;
+  }
+  .btn-page {
+    min-width: 36px; height: 36px; padding: 0 10px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; color: var(--muted);
+    font-family: var(--font-mono); font-size: 0.8rem; font-weight: 700;
+    cursor: pointer; transition: all .15s;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .btn-page:hover:not(:disabled) { border-color: var(--accent); color: var(--text); }
+  .btn-page.active {
+    background: var(--accent); border-color: var(--accent); color: #fff;
+  }
+  .btn-page:disabled { opacity: .3; cursor: default; }
+  .btn-page.ellipsis { cursor: default; border-color: transparent; background: transparent; }
+
+  /* ── Wishlist & historial ────────────────────────────── */
+  .wish-btn {
+    background: none; border: none; cursor: pointer;
+    font-size: 1.1rem; line-height: 1; padding: 2px 4px;
+    color: var(--muted); transition: color .15s, transform .15s;
+    flex-shrink: 0; margin-left: auto;
+  }
+  .wish-btn:hover { transform: scale(1.2); color: var(--gold); }
+  .wish-btn.active { color: var(--gold); }
+
+  .price-source-row.cheapest { border-color: rgba(78,204,163,.45); }
+
+  .hist-btn {
+    width: 100%; margin-top: 0.5rem;
+    background: none; border: 1px solid var(--border);
+    border-radius: 7px; color: var(--muted);
+    font-size: 0.68rem; font-family: var(--font-mono); font-weight: 700;
+    text-transform: uppercase; letter-spacing: .06em;
+    padding: 0.4rem; cursor: pointer; transition: all .15s;
+    display: flex; align-items: center; justify-content: center; gap: 5px;
+  }
+  .hist-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* Wishlist section */
+  .wishlist-wrap {
+    max-width: 1400px; margin: 0 auto 2rem; padding: 0 2rem;
+    display: none;
+  }
+  .wishlist-wrap.visible { display: block; }
+  .wishlist-heading {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 0.75rem; font-weight: 700; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--gold);
+    font-family: var(--font-mono); margin-bottom: 0.75rem;
+  }
+  .wishlist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+    gap: 1rem;
+  }
+
+  /* Modal */
+  .modal-backdrop {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.75);
+    z-index: 200;
+    align-items: center; justify-content: center;
+    padding: 1rem;
+  }
+  .modal-backdrop.open { display: flex; }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    width: 100%; max-width: 540px;
+    padding: 1.4rem;
+    max-height: 90vh; overflow-y: auto;
+  }
+  .modal-header {
+    display: flex; align-items: flex-start; justify-content: space-between;
+    gap: 1rem; margin-bottom: 1rem;
+  }
+  .modal-title { font-size: 1rem; font-weight: 700; line-height: 1.3; }
+  .modal-close {
+    background: none; border: none; color: var(--muted);
+    font-size: 1.4rem; line-height: 1; cursor: pointer; flex-shrink: 0;
+  }
+  .modal-close:hover { color: var(--text); }
+
+  .chart-tabs { display: flex; gap: 6px; margin-bottom: 0.75rem; flex-wrap: wrap; }
+  .chart-tab {
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 6px; color: var(--muted);
+    font-size: 0.68rem; font-family: var(--font-mono); font-weight: 700;
+    text-transform: uppercase; letter-spacing: .05em;
+    padding: 4px 10px; cursor: pointer; transition: all .15s;
+  }
+  .chart-tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  .chart-wrap { position: relative; height: 180px; margin-bottom: 0.75rem; }
+
+  .chart-legend { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 0.75rem; }
+  .legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.68rem; color: var(--muted); font-family: var(--font-mono); }
+  .legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+  .price-summary { display: grid; grid-template-columns: repeat(3,1fr); gap: 8px; }
+  .sum-card { background: var(--surface2); border-radius: 7px; padding: 8px 10px; }
+  .sum-label { font-size: 0.62rem; color: var(--muted); font-family: var(--font-mono); text-transform: uppercase; letter-spacing: .06em; }
+  .sum-val { font-size: 1rem; font-weight: 700; font-family: var(--font-mono); margin-top: 2px; }
+  .sum-val.green { color: var(--accent2); }
+  .sum-val.red   { color: var(--danger); }
+
+  .modal-no-hist {
+    text-align: center; padding: 2rem; color: var(--muted);
+    font-size: 0.82rem; font-family: var(--font-mono);
+  }
+
+  /* ── Panel añadir juego ──────────────────────────────── */
+  .add-game-wrap {
+    max-width: 1400px; margin: 0 auto 2rem; padding: 0 2rem;
+  }
+  .add-game-panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.2rem 1.4rem;
+  }
+  .add-game-header {
+    display: flex; align-items: center; gap: 10px;
+    margin-bottom: 0.9rem; cursor: pointer;
+    user-select: none;
+  }
+  .add-game-title {
+    font-size: 0.85rem; font-weight: 700; color: var(--text);
+    font-family: var(--font-mono); text-transform: uppercase; letter-spacing: .06em;
+  }
+  .add-game-toggle {
+    margin-left: auto; color: var(--muted); font-size: 0.75rem;
+    font-family: var(--font-mono);
+  }
+  .add-game-body { display: none; }
+  .add-game-body.open { display: block; }
+  .add-game-row {
+    display: flex; gap: 0.7rem; align-items: stretch; flex-wrap: wrap;
+  }
+  .add-game-input {
+    flex: 1; min-width: 260px;
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: var(--radius); color: var(--text);
+    font-family: var(--font-mono); font-size: 0.82rem;
+    padding: 0.6rem 0.9rem; outline: none; transition: border-color .2s;
+  }
+  .add-game-input:focus { border-color: var(--accent); }
+  .add-game-input::placeholder { color: var(--muted); }
+  .btn-add {
+    background: linear-gradient(135deg, var(--accent), #5a4fcc);
+    border: none; border-radius: var(--radius);
+    color: #fff; font-family: var(--font-main); font-weight: 700;
+    font-size: 0.85rem; padding: 0.6rem 1.4rem;
+    cursor: pointer; transition: opacity .2s; white-space: nowrap;
+  }
+  .btn-add:hover { opacity: .85; }
+  .btn-add:disabled { opacity: .4; cursor: default; }
+  .add-game-result {
+    margin-top: 0.8rem; font-size: 0.82rem;
+    font-family: var(--font-mono); display: none;
+    padding: 0.6rem 0.9rem; border-radius: 7px;
+  }
+  .add-game-result.ok  { background: rgba(78,204,163,.1); color: var(--accent2); border: 1px solid rgba(78,204,163,.3); }
+  .add-game-result.err { background: rgba(240,90,90,.1);  color: var(--danger);  border: 1px solid rgba(240,90,90,.3); }
+  .add-game-hint {
+    margin-top: 0.6rem; font-size: 0.7rem; color: var(--muted);
+    font-family: var(--font-mono);
+  }
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <div class="logo-icon">🎲</div>
+      ScanPrice
+    </a>
+    <div class="header-stats">
+      <div class="stat-pill">Total <span id="statTotal">—</span></div>
+      <div class="stat-pill">Nuevos <span id="statNew">—</span></div>
+      <div class="stat-pill">Con oferta <span id="statSale">—</span></div>
+      <div class="stat-pill" id="statUpdated">—</div>
+    </div>
+    <button class="btn-refresh" id="btnRefresh" onclick="loadData()">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+      Recargar
+    </button>
+  </div>
+</header>
+
+
+<!-- Añadir juego manualmente -->
+<div class="add-game-wrap">
+  <div class="add-game-panel">
+    <div class="add-game-header" onclick="toggleAddGame()">
+      <span style="color:var(--accent)">＋</span>
+      <span class="add-game-title">Añadir juego por URL</span>
+      <span class="add-game-toggle" id="addToggleLabel">▸ Abrir</span>
+    </div>
+    <div class="add-game-body" id="addGameBody">
+      <div class="add-game-row">
+        <input class="add-game-input" id="addGameUrl" type="url"
+          placeholder="https://mathom.es/es/juego-xyz.html">
+        <button class="btn-add" id="addGameBtn" onclick="addGame()">Añadir</button>
+      </div>
+      <div class="add-game-hint">
+        Tiendas soportadas: Mathom · GoblinTrader · Dungeon Marvels
+      </div>
+      <div class="add-game-result" id="addGameResult"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Controls -->
+<div class="controls-bar">
+  <div class="search-wrap">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input type="search" id="searchInput" placeholder="Buscar juego..." autocomplete="off">
+  </div>
+
+  <div class="filter-group">
+    <button class="btn-filter active" data-filter="all"     onclick="setFilter('all',this)">Todos</button>
+    <button class="btn-filter"        data-filter="new"     onclick="setFilter('new',this)">✨ Nuevos</button>
+    <button class="btn-filter"        data-filter="sale"    onclick="setFilter('sale',this)">🏷 Ofertas</button>
+    <button class="btn-filter"        data-filter="mathom"        onclick="setFilter('mathom',this)">Mathom</button>
+    <button class="btn-filter"        data-filter="goblintrader"   onclick="setFilter('goblintrader',this)">GoblinTrader</button>
+    <button class="btn-filter"        data-filter="dungeonmarvels" onclick="setFilter('dungeonmarvels',this)">Dungeon Marvels</button>
+    <button class="btn-filter"        data-filter="wishlist"       onclick="setFilter('wishlist',this)">★ Wishlist</button>
+  </div>
+
+  <select class="sort-select" id="sortSelect" onchange="render()">
+    <option value="new_first">Nuevos primero</option>
+    <option value="price_asc">Precio ↑</option>
+    <option value="price_desc">Precio ↓</option>
+    <option value="discount">Mayor descuento</option>
+    <option value="name_az">A → Z</option>
+  </select>
+</div>
+
+<!-- Results count -->
+<div class="results-meta" id="resultsMeta"></div>
+
+<!-- Error banner -->
+<div class="error-banner" id="errorBanner"></div>
+
+<!-- Grid -->
+<div class="grid" id="grid">
+  <div class="loading">
+    <div class="spinner"></div>
+    Cargando datos…
+  </div>
+</div>
+
+
+<!-- Paginación -->
+<div class="page-info" id="pageInfo"></div>
+<div class="pagination" id="pagination"></div>
+
+<!-- Wishlist -->
+<div class="wishlist-wrap" id="wishlistWrap">
+  <div class="wishlist-heading">★ Wishlist</div>
+  <div class="wishlist-grid" id="wishlistGrid"></div>
+</div>
+
+<!-- Modal historial -->
+<div class="modal-backdrop" id="modalBackdrop" onclick="handleBackdropClick(event)">
+  <div class="modal" id="modalBox">
+    <div class="modal-header">
+      <div class="modal-title" id="modalTitle"></div>
+      <button class="modal-close" onclick="closeModal()">×</button>
+    </div>
+    <div class="chart-tabs" id="chartTabs"></div>
+    <div class="chart-wrap"><canvas id="priceChart"></canvas></div>
+    <div class="chart-legend" id="chartLegend"></div>
+    <div class="price-summary" id="priceSummary"></div>
+    <div class="modal-no-hist" id="modalNoHist" style="display:none">Sin historial disponible aún</div>
+  </div>
+</div>
+
+
+<footer>
+  ScanPrice · Datos de Mathom &amp; GoblinTrader · Ejecuta <code>python scraper.py</code> para actualizar
+</footer>
+
+<script>
+// ── State ─────────────────────────────────────────────────────────────────
+let allGames      = [];
+let filteredGames = [];
+let activeFilter  = 'all';
+let searchQuery   = '';
+let currentPage   = 1;
+const PAGE_SIZE   = 40;
+
+// Wishlist persisted in localStorage
+let wishlist = new Set(JSON.parse(localStorage.getItem('sp_wishlist') || '[]'));
+
+function saveWishlist() {
+  localStorage.setItem('sp_wishlist', JSON.stringify([...wishlist]));
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────
+function minPrice(g)    { return Math.min(...g.prices.map(p => p.price ?? Infinity)); }
+function maxDiscount(g) { return Math.max(...g.prices.map(p => p.discount_pct ?? 0)); }
+function hasSale(g)     { return g.prices.some(p => p.discount_pct && p.discount_pct > 0); }
+function hasSource(g,s) { return g.prices.some(p => p.source === s); }
+function minPriceIdx(prices) {
+  if (prices.length <= 1) return -1;
+  let min = Infinity, idx = 0;
+  prices.forEach((p,i) => { if ((p.price ?? Infinity) < min) { min = p.price; idx = i; } });
+  return idx;
+}
+
+// ── Load data ─────────────────────────────────────────────────────────────
+async function loadData() {
+  const btn = document.getElementById('btnRefresh');
+  btn.disabled = true;
+  btn.textContent = 'Cargando…';
+  setError(null);
+
+  try {
+    const res = await fetch('games_data.json?_=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    allGames = data.games || [];
+
+    const newCount  = allGames.filter(g => g.is_new).length;
+    const saleCount = allGames.filter(hasSale).length;
+    document.getElementById('statTotal').textContent = allGames.length;
+    document.getElementById('statNew').textContent   = newCount;
+    document.getElementById('statSale').textContent  = saleCount;
+    document.getElementById('statUpdated').innerHTML =
+      `Actualizado <span>${fmtDate(data.generated_at)}</span>`;
+
+  } catch(e) {
+    console.warn('Sin games_data.json, usando demo:', e);
+    setError('No se encontró games_data.json. Ejecuta <strong>python scraper.py</strong> para generar los datos. Mostrando demo.');
+    allGames = generateDemoData();
+    document.getElementById('statTotal').textContent = allGames.length;
+    document.getElementById('statNew').textContent   = allGames.filter(g=>g.is_new).length;
+    document.getElementById('statSale').textContent  = allGames.filter(hasSale).length;
+    document.getElementById('statUpdated').innerHTML = `<span>Datos demo</span>`;
+  }
+
+  render();
+  renderWishlist();
+  btn.disabled = false;
+  btn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg> Recargar';
+}
+
+// ── Render principal ───────────────────────────────────────────────────────
+function render() {
+  const sort = document.getElementById('sortSelect').value;
+
+  filteredGames = allGames.filter(g => {
+    const q = searchQuery.toLowerCase();
+    if (q && !g.name.toLowerCase().includes(q)) return false;
+    if (activeFilter === 'new')          return g.is_new;
+    if (activeFilter === 'sale')         return hasSale(g);
+    if (activeFilter === 'wishlist')     return wishlist.has(g.name);
+    if (activeFilter === 'mathom')       return hasSource(g, 'mathom');
+    if (activeFilter === 'goblintrader') return hasSource(g, 'goblintrader');
+    if (activeFilter === 'dungeonmarvels') return hasSource(g, 'dungeonmarvels');
+    return true;
+  });
+
+  filteredGames.sort((a, b) => {
+    if (sort === 'price_asc')  return minPrice(a) - minPrice(b);
+    if (sort === 'price_desc') return minPrice(b) - minPrice(a);
+    if (sort === 'discount')   return maxDiscount(b) - maxDiscount(a);
+    if (sort === 'name_az')    return a.name.localeCompare(b.name, 'es');
+    if (b.is_new !== a.is_new) return b.is_new - a.is_new;
+    return (b.first_seen || '').localeCompare(a.first_seen || '');
+  });
+
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+  if (currentPage > totalPages) currentPage = 1;
+
+  renderGrid();
+  renderPagination();
+}
+
+function renderGrid() {
+  const grid = document.getElementById('grid');
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+
+  document.getElementById('resultsMeta').innerHTML =
+    `Mostrando <strong>${filteredGames.length}</strong> de ${allGames.length} juegos`;
+  document.getElementById('pageInfo').textContent =
+    filteredGames.length > PAGE_SIZE ? `Página ${currentPage} de ${totalPages}` : '';
+
+  if (filteredGames.length === 0) {
+    grid.innerHTML = `
+      <div class="empty">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <h3>Sin resultados</h3>
+        <p>Prueba con otros filtros o términos de búsqueda.</p>
+      </div>`;
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page  = filteredGames.slice(start, start + PAGE_SIZE);
+  grid.innerHTML = page.map(g => cardHTML(g)).join('');
+}
+
+// ── Wishlist render ────────────────────────────────────────────────────────
+function renderWishlist() {
+  const wrap = document.getElementById('wishlistWrap');
+  const grid = document.getElementById('wishlistGrid');
+  const wGames = allGames.filter(g => wishlist.has(g.name));
+  if (wGames.length === 0) {
+    wrap.classList.remove('visible');
+    return;
+  }
+  wrap.classList.add('visible');
+  grid.innerHTML = wGames.map(g => cardHTML(g)).join('');
+}
+
+function toggleWish(name, event) {
+  event.stopPropagation();
+  wishlist.has(name) ? wishlist.delete(name) : wishlist.add(name);
+  saveWishlist();
+  render();
+  renderWishlist();
+}
+
+// ── Paginación ─────────────────────────────────────────────────────────────
+function renderPagination() {
+  const container  = document.getElementById('pagination');
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+  if (totalPages <= 1) { container.innerHTML = ''; return; }
+
+  function pageNumbers(cur, total) {
+    const delta = 2, range = [];
+    for (let i = Math.max(2, cur - delta); i <= Math.min(total - 1, cur + delta); i++) range.push(i);
+    if (range[0] - 2 > 1)                    range.unshift('…');
+    if (range[0] !== 2)                       range.unshift(2);
+    if (total - range[range.length-1] > 2)    range.push('…');
+    if (range[range.length-1] !== total - 1)  range.push(total - 1);
+    range.unshift(1); range.push(total);
+    return [...new Set(range)];
+  }
+
+  const nums = pageNumbers(currentPage, totalPages);
+  const prev = `<button class="btn-page" ${currentPage===1?'disabled':''} onclick="goPage(${currentPage-1})">←</button>`;
+  const next = `<button class="btn-page" ${currentPage===totalPages?'disabled':''} onclick="goPage(${currentPage+1})">→</button>`;
+  const pages = nums.map(n =>
+    n === '…'
+      ? `<button class="btn-page ellipsis" disabled>…</button>`
+      : `<button class="btn-page${n===currentPage?' active':''}" onclick="goPage(${n})">${n}</button>`
+  ).join('');
+  container.innerHTML = prev + pages + next;
+}
+
+function goPage(n) {
+  const totalPages = Math.ceil(filteredGames.length / PAGE_SIZE) || 1;
+  if (n < 1 || n > totalPages) return;
+  currentPage = n;
+  renderGrid();
+  renderPagination();
+  document.getElementById('grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ── Card HTML ──────────────────────────────────────────────────────────────
+const SOURCE_META = {
+  mathom:         { label: 'Mathom',         dotClass: 'dot-mathom' },
+  goblintrader:   { label: 'GoblinTrader',   dotClass: 'dot-goblintrader' },
+  dungeonmarvels: { label: 'Dungeon Marvels', dotClass: 'dot-dungeonmarvels' },
+};
+const LINE_COLORS = ['#7c6af7','#4ecca3','#f07040','#f0c040'];
+
+function priceSourceRow(p, isCheapest) {
+  const meta     = SOURCE_META[p.source] || { label: p.source, dotClass: '' };
+  const hasSaleP = p.discount_pct && p.discount_pct > 0;
+  const priceStr = p.price != null ? fmtPrice(p.price) : null;
+  const origStr  = (hasSaleP && p.original_price) ? fmtPrice(p.original_price) : '';
+  const discStr  = hasSaleP ? `<span class="psr-disc">-${Math.round(p.discount_pct)}%</span>` : '';
+  const naStr    = priceStr == null ? `<span class="psr-na">N/D</span>` : '';
+  return `
+    <a class="price-source-row${isCheapest?' cheapest':''}" href="${escHtml(p.url)}" target="_blank" rel="noopener">
+      <span class="psr-dot ${meta.dotClass}"></span>
+      <span class="psr-label">${meta.label}</span>
+      ${priceStr
+        ? `<span class="psr-price${hasSaleP?'':' no-disc'}">${priceStr}</span>
+           ${origStr ? `<span class="psr-orig">${origStr}</span>` : ''}
+           ${discStr}`
+        : naStr}
+    </a>`;
+}
+
+function cardHTML(g) {
+  const isNew      = g.is_new;
+  const newBadge   = isNew ? `<div class="badge-new">✦ nuevo</div>` : '';
+  const starred    = wishlist.has(g.name);
+  const cheapIdx   = minPriceIdx(g.prices);
+
+  const sourceBadges = g.prices.map(p => {
+    const meta = SOURCE_META[p.source] || { label: p.source, dotClass: '' };
+    return `<span class="badge-source"><span class="dot ${meta.dotClass}"></span>${meta.label}</span>`;
+  }).join('');
+
+  const pricesBlock = `<div class="price-sources">${
+    g.prices.map((p,i) => priceSourceRow(p, i === cheapIdx)).join('')
+  }</div>`;
+
+  const dateStr = g.first_seen
+    ? `<div class="card-date">Primera vez: ${fmtDate(g.first_seen)}</div>` : '';
+
+  const nameEsc = escHtml(g.name).replace(/'/g, "\'");
+
+  return `
+    <div class="card${isNew?' is-new':''}${starred?' wishlisted':''}">
+      ${newBadge}
+      <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:4px">
+        <div class="badge-sources">${sourceBadges}</div>
+        <button class="wish-btn${starred?' active':''}"
+          onclick="toggleWish('${nameEsc}', event)"
+          title="${starred?'Quitar de wishlist':'Añadir a wishlist'}">★</button>
+      </div>
+      <div class="card-name">${escHtml(g.name)}</div>
+      ${pricesBlock}
+      <button class="hist-btn" onclick="openModal('${nameEsc}')">
+        ▸ Ver historial de precios
+      </button>
+      ${dateStr}
+    </div>`;
+}
+
+// ── Modal historial ────────────────────────────────────────────────────────
+let chartInst   = null;
+let modalGame   = null;
+let activeTabIdx = 0;
+
+function openModal(name) {
+  modalGame = allGames.find(g => g.name === name);
+  if (!modalGame) return;
+  activeTabIdx = 0;
+  document.getElementById('modalTitle').textContent = modalGame.name;
+  document.getElementById('modalBackdrop').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  buildTabs();
+  renderChart(0);
+}
+
+function closeModal() {
+  document.getElementById('modalBackdrop').classList.remove('open');
+  document.body.style.overflow = '';
+  if (chartInst) { chartInst.destroy(); chartInst = null; }
+}
+
+function handleBackdropClick(e) {
+  if (e.target === document.getElementById('modalBackdrop')) closeModal();
+}
+
+function buildTabs() {
+  const tabs = document.getElementById('chartTabs');
+  tabs.innerHTML = '';
+  modalGame.prices.forEach((p, i) => {
+    const meta = SOURCE_META[p.source] || { label: p.source };
+    const btn  = document.createElement('button');
+    btn.className = 'chart-tab' + (i === 0 ? ' active' : '');
+    btn.textContent = meta.label;
+    btn.onclick = () => {
+      tabs.querySelectorAll('.chart-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeTabIdx = i;
+      renderChart(i);
+    };
+    tabs.appendChild(btn);
+  });
+  if (modalGame.prices.length > 1) {
+    const btn = document.createElement('button');
+    btn.className = 'chart-tab';
+    btn.textContent = 'Comparar';
+    btn.onclick = () => {
+      tabs.querySelectorAll('.chart-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderChart(-1);
+    };
+    tabs.appendChild(btn);
+  }
+}
+
+function renderChart(idx) {
+  if (chartInst) { chartInst.destroy(); chartInst = null; }
+
+  const g = modalGame;
+  const noHist = document.getElementById('modalNoHist');
+  const wrap   = document.querySelector('.chart-wrap');
+  const legend = document.getElementById('chartLegend');
+  const summary = document.getElementById('priceSummary');
+
+  // Comprobar si hay historial disponible en el JSON
+  // El JSON actual no incluye history[], así que mostramos el precio actual como punto único
+  // Construir datasets desde p.history[] (array de {date, price} del JSON real)
+  const buildDataset = (p, colorIdx) => {
+    const hist = (p.history && p.history.length > 1) ? p.history : null;
+    const pts  = hist ? hist.map(h => h.price) : (p.price != null ? [p.price] : []);
+    return {
+      label:           (SOURCE_META[p.source]||{label:p.source}).label,
+      data:            pts,
+      dates:           hist ? hist.map(h => h.date) : ['Hoy'],
+      borderColor:     LINE_COLORS[colorIdx % LINE_COLORS.length],
+      backgroundColor: LINE_COLORS[colorIdx % LINE_COLORS.length] + '22',
+      tension: 0.4, fill: idx !== -1,
+      pointRadius: pts.length === 1 ? 6 : 3,
+    };
+  };
+
+  let datasets, showPrices;
+  if (idx === -1) {
+    datasets   = g.prices.map((p,i) => buildDataset(p, i));
+    showPrices = g.prices;
+  } else {
+    datasets   = [buildDataset(g.prices[idx], idx)];
+    showPrices = [g.prices[idx]];
+  }
+
+  const maxPts = Math.max(...datasets.map(d => d.data.length));
+  // Etiquetas: usar las fechas reales del dataset con más puntos
+  const longestDs = datasets.reduce((a,b) => a.data.length >= b.data.length ? a : b);
+  const labels = longestDs.dates;
+
+  noHist.style.display = maxPts <= 1 ? 'block' : 'none';
+  wrap.style.display   = maxPts <= 1 ? 'none'  : 'block';
+  legend.innerHTML  = '';
+  summary.innerHTML = '';
+
+  if (maxPts <= 1) return;
+
+  // Alinear datasets con longitudes distintas rellenando con null al inicio
+  datasets.forEach(d => {
+    while (d.data.length < labels.length) d.data.unshift(null);
+  });
+
+  const ctx = document.getElementById('priceChart').getContext('2d');
+  chartInst = new Chart(ctx, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      spanGaps: true,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: '#1c2030', borderColor: '#252a3a', borderWidth: 1,
+          titleColor: '#e2e6f0', bodyColor: '#6b738a',
+          callbacks: {
+            label: ctx => ctx.parsed.y != null
+              ? ` ${ctx.dataset.label}: ${ctx.parsed.y.toFixed(2).replace('.',',')} €`
+              : '',
+          }
+        }
+      },
+      scales: {
+        x: { grid: { color: '#252a3a' }, ticks: { color: '#6b738a', font: { size: 10 }, maxTicksLimit: 10 } },
+        y: { grid: { color: '#252a3a' }, ticks: { color: '#6b738a', font: { size: 10 }, callback: v => v.toFixed(0) + ' €' } }
+      }
+    }
+  });
+
+  legend.innerHTML = datasets.map(d =>
+    `<div class="legend-item">
+      <span class="legend-dot" style="background:${d.borderColor}"></span>${d.label}
+    </div>`
+  ).join('');
+
+  summary.innerHTML = showPrices.map((p, i) => {
+    const pts = datasets[i].data.filter(v => v != null);
+    if (!pts.length) return '';
+    const mn  = Math.min(...pts);
+    const mx  = Math.max(...pts);
+    const chg = pts[pts.length-1] - pts[0];
+    return `
+      <div class="sum-card">
+        <div class="sum-label">Mínimo histórico</div>
+        <div class="sum-val green">${mn.toFixed(2).replace('.',',')} €</div>
+      </div>
+      <div class="sum-card">
+        <div class="sum-label">Máximo histórico</div>
+        <div class="sum-val red">${mx.toFixed(2).replace('.',',')} €</div>
+      </div>
+      <div class="sum-card">
+        <div class="sum-label">Variación total</div>
+        <div class="sum-val ${chg<=0?'green':'red'}">${chg>0?'+':''}${chg.toFixed(2).replace('.',',')} €</div>
+      </div>`;
+  }).join('');
+}
+
+// ── Filters & search ──────────────────────────────────────────────────────
+function setFilter(f, btn) {
+  activeFilter = f;
+  currentPage  = 1;
+  document.querySelectorAll('.btn-filter').forEach(b => b.classList.remove('active','active-new'));
+  if (f === 'new')      btn.classList.add('active-new');
+  else                  btn.classList.add('active');
+  render();
+}
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  searchQuery = e.target.value;
+  currentPage = 1;
+  render();
+});
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// ── Utils ─────────────────────────────────────────────────────────────────
+function fmtPrice(v) { return v.toFixed(2).replace('.', ',') + ' €'; }
+
+function fmtDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return iso.slice(0, 10);
+  return d.toLocaleDateString('es-ES', { day: '2-digit', month: 'short', year: 'numeric' });
+}
+
+function escHtml(s) {
+  return (s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function setError(msg) {
+  const el = document.getElementById('errorBanner');
+  if (msg) { el.innerHTML = '⚠ ' + msg; el.classList.add('visible'); }
+  else      { el.classList.remove('visible'); }
+}
+
+// ── Demo data ─────────────────────────────────────────────────────────────
+function generateDemoData() {
+  const now = new Date().toISOString();
+  const yday = new Date(Date.now() - 86400000).toISOString();
+  return [
+    { name:'Terraforming Mars', is_new:1, first_seen:now, prices:[
+      { source:'mathom',       url:'https://mathom.es', price:44.95, original_price:54.95, discount_pct:18.2,
+        history:[54.95,54.95,49.95,49.95,47.00,44.95,44.95,44.95] },
+      { source:'goblintrader', url:'https://www.goblintrader.es', price:41.50, original_price:54.95, discount_pct:24.5,
+        history:[54.95,50.00,50.00,45.00,41.50,41.50,41.50,41.50] },
+    ]},
+    { name:'Scythe', is_new:1, first_seen:now, prices:[
+      { source:'mathom', url:'https://mathom.es', price:59.95, original_price:null, discount_pct:null,
+        history:[69.95,69.95,65.00,65.00,59.95,59.95,59.95,59.95] },
+    ]},
+    { name:'Pandemic', is_new:0, first_seen:yday, prices:[
+      { source:'goblintrader', url:'https://www.goblintrader.es', price:24.95, original_price:34.95, discount_pct:28.6,
+        history:[34.95,34.95,30.00,28.00,24.95,24.95,24.95,24.95] },
+    ]},
+    { name:'7 Wonders Duel', is_new:0, first_seen:yday, prices:[
+      { source:'mathom',       url:'https://mathom.es', price:21.00, original_price:24.95, discount_pct:15.8,
+        history:[24.95,24.95,23.00,21.00,21.00,21.00,21.00,21.00] },
+      { source:'goblintrader', url:'https://www.goblintrader.es', price:19.95, original_price:24.95, discount_pct:20.0,
+        history:[24.95,22.00,20.50,19.95,19.95,19.95,19.95,19.95] },
+    ]},
+    { name:'Gloomhaven', is_new:0, first_seen:yday, prices:[
+      { source:'goblintrader', url:'https://www.goblintrader.es', price:99.95, original_price:149.95, discount_pct:33.4,
+        history:[149.95,149.95,129.95,119.95,109.95,99.95,99.95,99.95] },
+    ]},
+    { name:'Wingspan', is_new:0, first_seen:yday, prices:[
+      { source:'mathom',       url:'https://mathom.es', price:44.95, original_price:null, discount_pct:null,
+        history:[49.95,49.95,49.95,44.95,44.95,44.95,44.95,44.95] },
+      { source:'goblintrader', url:'https://www.goblintrader.es', price:42.95, original_price:49.95, discount_pct:14.0,
+        history:[49.95,49.95,46.00,44.00,42.95,42.95,42.95,42.95] },
+    ]},
+    { name:'Azul', is_new:0, first_seen:yday, prices:[
+      { source:'mathom',       url:'https://mathom.es', price:32.95, original_price:null, discount_pct:null,
+        history:[35.95,35.95,34.00,32.95,32.95,32.95,32.95,32.95] },
+      { source:'goblintrader', url:'https://www.goblintrader.es', price:29.50, original_price:34.95, discount_pct:15.6,
+        history:[34.95,34.95,32.00,29.50,29.50,29.50,29.50,29.50] },
+    ]},
+  ];
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
