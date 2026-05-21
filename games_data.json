@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-05-21T07:13:40.593031",
-  "total": 1997,
+  "generated_at": "2026-05-21T07:14:45.513727",
+  "total": 1998,
   "games": [
+    {
+      "name": "Dead by Daylight: Unbroken (Inglés)",
+      "is_new": 1,
+      "first_seen": "2026-05-21T07:14:44.744427",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/dead-by-daylight-unbroken-ingles-81033.html",
+          "price": 55.24,
+          "original_price": 64.99,
+          "discount_pct": 15.0,
+          "scraped_at": "2026-05-21T07:14:44.744427",
+          "history": [
+            {
+              "price": 55.24,
+              "original_price": 64.99,
+              "discount_pct": 15.0,
+              "date": "2026-05-21"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Dead by Daylight: El juego de mesa",
       "is_new": 1,
