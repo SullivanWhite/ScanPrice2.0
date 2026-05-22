@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-05-22T06:02:29.806750",
-  "total": 1964,
-  "total_raw": 2001,
+  "generated_at": "2026-05-22T10:32:02.142646",
+  "total": 1968,
+  "total_raw": 2005,
   "games": [
+    {
+      "name": "Vampiros y Claymore",
+      "is_new": 0,
+      "first_seen": "2026-05-22T10:31:59.483183",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/vampiros-y-claymore-97674.html",
+          "price": 7.51,
+          "original_price": 7.9,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-22T10:31:59.483183",
+          "history": [
+            {
+              "price": 7.51,
+              "original_price": 7.9,
+              "discount_pct": 5.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Goblin Prom",
+      "is_new": 0,
+      "first_seen": "2026-05-22T10:31:59.480899",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/goblin-prom-97675.html",
+          "price": 7.51,
+          "original_price": 7.9,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-22T10:31:59.480899",
+          "history": [
+            {
+              "price": 7.51,
+              "original_price": 7.9,
+              "discount_pct": 5.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unlock! Mini En la mente de Sherlock Homes...",
+      "is_new": 0,
+      "first_seen": "2026-05-22T10:31:59.478030",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/unlock-mini-en-la-mente-de-sherlock-homes-98152.html",
+          "price": 5.94,
+          "original_price": 6.99,
+          "discount_pct": 15.0,
+          "scraped_at": "2026-05-22T10:31:59.478030",
+          "history": [
+            {
+              "price": 5.94,
+              "original_price": 6.99,
+              "discount_pct": 15.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genial (Edición 2024)",
+      "is_new": 0,
+      "first_seen": "2026-05-22T10:31:46.632672",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/genial-edicion-2024-77511.html",
+          "price": 12.5,
+          "original_price": 25.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-22T10:31:46.632672",
+          "history": [
+            {
+              "price": 12.5,
+              "original_price": 25.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Descent: Leyendas de las Tinieblas (Castellano)",
       "is_new": 0,
@@ -30986,15 +31078,21 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/gloomhaven/48031-gloomhaven-circulos-olvidados-3558380083962.html",
-          "price": 35.19,
+          "price": 12.0,
           "original_price": 39.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:47.265101",
+          "discount_pct": 69.0,
+          "scraped_at": "2026-05-22T10:28:12.489682",
           "history": [
             {
               "price": 35.19,
               "original_price": 39.99,
               "discount_pct": 12.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 12.0,
+              "original_price": 39.99,
+              "discount_pct": 69.0,
               "date": "2026-05-22"
             }
           ]
