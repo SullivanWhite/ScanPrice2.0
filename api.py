@@ -100,12 +100,13 @@ def get_db():
     conn.row_factory = sqlite3.Row
     conn.executescript("""
         CREATE TABLE IF NOT EXISTS games (
-            id         INTEGER PRIMARY KEY AUTOINCREMENT,
-            source     TEXT    NOT NULL,
-            name       TEXT    NOT NULL,
-            url        TEXT    NOT NULL UNIQUE,
-            first_seen TEXT    NOT NULL,
-            is_new     INTEGER DEFAULT 1
+            id               INTEGER PRIMARY KEY AUTOINCREMENT,
+            source           TEXT    NOT NULL,
+            name             TEXT    NOT NULL,
+            url              TEXT    NOT NULL UNIQUE,
+            first_seen       TEXT    NOT NULL,
+            is_new           INTEGER DEFAULT 1,
+            manually_added   INTEGER DEFAULT 0
         );
         CREATE TABLE IF NOT EXISTS price_history (
             id             INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -223,7 +224,7 @@ def save_game(conn, data: dict) -> tuple[int, bool]:
     if row:
         return row["id"], False
     cur.execute(
-        "INSERT INTO games (source, name, url, first_seen, is_new) VALUES (?,?,?,?,1)",
+        "INSERT INTO games (source, name, url, first_seen, is_new, manually_added) VALUES (?,?,?,?,1,1)",
         (data["source"], data["name"], data["url"], data["scraped_at"]),
     )
     conn.commit()
