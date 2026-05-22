@@ -88,12 +88,13 @@ def init_db() -> sqlite3.Connection:
     conn.row_factory = sqlite3.Row
     conn.executescript("""
         CREATE TABLE IF NOT EXISTS games (
-            id         INTEGER PRIMARY KEY AUTOINCREMENT,
-            source     TEXT    NOT NULL,
-            name       TEXT    NOT NULL,
-            url        TEXT    NOT NULL UNIQUE,
-            first_seen TEXT    NOT NULL,
-            is_new     INTEGER DEFAULT 1
+            id               INTEGER PRIMARY KEY AUTOINCREMENT,
+            source           TEXT    NOT NULL,
+            name             TEXT    NOT NULL,
+            url              TEXT    NOT NULL UNIQUE,
+            first_seen       TEXT    NOT NULL,
+            is_new           INTEGER DEFAULT 1,
+            manually_added   INTEGER DEFAULT 0
         );
         CREATE TABLE IF NOT EXISTS price_history (
             id             INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -638,6 +639,100 @@ def export_json(conn: sqlite3.Connection):
     log.info("📄 JSON exportado → %s (%d únicos de %d entradas)", OUTPUT_JSON, len(games), len(rows))
 
 
+
+# ── Scraper de juegos añadidos manualmente ────────────────────────────────────
+def scrape_manual_games(conn: sqlite3.Connection, session: requests.Session) -> int:
+    """
+    Re-scrapea todos los juegos con manually_added=1 para actualizar su precio.
+    Usa los mismos parsers que cada tienda (parse_mathom_article, etc.)
+    pero sobre la página de producto individual, no de categoría.
+    """
+    cur = conn.execute(
+        "SELECT id, source, name, url FROM games WHERE manually_added = 1"
+    )
+    manual_games = cur.fetchall()
+
+    if not manual_games:
+        log.info("▶  Sin juegos manuales que actualizar.")
+        return 0
+
+    log.info("▶  Actualizando %d juegos añadidos manualmente...", len(manual_games))
+    updated = 0
+
+    for row in manual_games:
+        game_id = row["id"]
+        source  = row["source"]
+        url     = row["url"]
+        name    = row["name"]
+
+        log.info("   Scraping manual: %s", name)
+        time.sleep(PAUSA)
+
+        try:
+            r = session.get(url, headers=HEADERS, timeout=15)
+            if r.status_code != 200:
+                log.warning("   HTTP %s → %s", r.status_code, url)
+                continue
+            soup = BeautifulSoup(r.text, "lxml")
+        except Exception as e:
+            log.warning("   Error fetching %s: %s", url, e)
+            continue
+
+        # Parsear según la tienda
+        if source == "mathom":
+            art = soup.find("section", id="main") or soup
+            # Precio con clase exacta "price"
+            precio = None
+            for span in art.find_all("span"):
+                if "price" in span.get("class", []) and "regular-price" not in span.get("class", []):
+                    precio = limpiar_precio(span.get_text())
+                    if precio:
+                        break
+            orig_tag = art.find("span", class_="regular-price")
+            orig     = limpiar_precio(orig_tag.get_text()) if orig_tag else None
+
+        elif source in ("goblintrader", "dungeonmarvels"):
+            art = soup.find("section", id="main") or soup
+            precio_tag = art.find("span", class_="current-price-value")
+            if precio_tag:
+                precio = limpiar_precio(precio_tag.get("content") or precio_tag.get_text())
+            else:
+                precio = None
+                for span in art.find_all("span"):
+                    if "price" in span.get("class", []) and "regular-price" not in span.get("class", []):
+                        precio = limpiar_precio(span.get_text())
+                        if precio:
+                            break
+            orig_tag = art.find("span", class_="regular-price")
+            orig     = limpiar_precio(orig_tag.get_text()) if orig_tag else None
+        else:
+            continue
+
+        if not precio:
+            log.warning("   Sin precio para %s", name)
+            continue
+
+        # Calcular descuento
+        disc = None
+        disc_tag = soup.find("span", class_="discount-percentage")
+        if disc_tag:
+            m = re.search(r"(\d+)", disc_tag.get_text())
+            disc = float(m.group(1)) if m else None
+        elif orig and precio and orig > precio:
+            disc = round((1 - precio / orig) * 100, 1)
+
+        # Crear objeto Game temporal para reutilizar record_price
+        game = Game(
+            source=source, name=name, url=url,
+            price=precio, original_price=orig, discount_pct=disc,
+        )
+        record_price(conn, game_id, game)
+        updated += 1
+        log.info("   ✓ %s → %.2f €", name, precio)
+
+    log.info("✅ Juegos manuales actualizados: %d/%d", updated, len(manual_games))
+    return updated
+
 # ── Limpieza de historial antiguo ─────────────────────────────────────────────
 def purge_old_history(conn: sqlite3.Connection, days: int = 90):
     """
@@ -673,6 +768,7 @@ def main():
     n_mathom  = scrape_mathom(conn, session)
     n_goblin  = scrape_goblintrader(conn, session)
     n_dungeon = scrape_dungeonmarvels(conn, session)
+    scrape_manual_games(conn, session)
 
     export_json(conn)
     purge_old_history(conn, days=90)
