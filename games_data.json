@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-05-22T10:32:02.142646",
-  "total": 1968,
-  "total_raw": 2005,
+  "generated_at": "2026-05-23T09:11:36.011250",
+  "total": 1969,
+  "total_raw": 2006,
   "games": [
+    {
+      "name": "Inserto Compatible con THROUGH THE DESERT",
+      "is_new": 0,
+      "first_seen": "2026-05-23T09:11:33.654607",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/inserto-compatible-con-through-the-desert-98170.html",
+          "price": 6.26,
+          "original_price": 6.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-23T09:11:33.654607",
+          "history": [
+            {
+              "price": 6.26,
+              "original_price": 6.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-23"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Vampiros y Claymore",
       "is_new": 0,
