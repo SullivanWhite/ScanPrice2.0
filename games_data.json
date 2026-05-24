@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-05-23T09:11:36.011250",
-  "total": 1969,
-  "total_raw": 2006,
+  "generated_at": "2026-05-24T09:28:32.397236",
+  "total": 1973,
+  "total_raw": 2010,
   "games": [
+    {
+      "name": "Fundas Ace of Spades (60)",
+      "is_new": 0,
+      "first_seen": "2026-05-24T09:28:29.875491",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/fundas-ace-of-spades-60-98091.html",
+          "price": 5.4,
+          "original_price": 6.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-24T09:28:29.875491",
+          "history": [
+            {
+              "price": 5.4,
+              "original_price": 6.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pack de dados Dungeons & Dragons Gelatinous...",
+      "is_new": 0,
+      "first_seen": "2026-05-24T09:28:29.873224",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/pack-de-dados-dungeons-dragons-gelatinouscube-6-89016.html",
+          "price": 23.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-24T09:28:29.873224",
+          "history": [
+            {
+              "price": 23.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl Into the Void Miniatures",
+      "is_new": 0,
+      "first_seen": "2026-05-24T09:28:29.870053",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/final-girl-into-the-void-miniatures-92171.html",
+          "price": 13.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-24T09:28:29.870053",
+          "history": [
+            {
+              "price": 13.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadows of Brimstone: Gates of Valhalla (SEMINUEVO)",
+      "is_new": 0,
+      "first_seen": "2026-05-24T09:27:45.474268",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/shadows-of-brimstone-gates-of-valhalla-98233.html",
+          "price": 80.76,
+          "original_price": 100.95,
+          "discount_pct": 20.0,
+          "scraped_at": "2026-05-24T09:27:45.474268",
+          "history": [
+            {
+              "price": 80.76,
+              "original_price": 100.95,
+              "discount_pct": 20.0,
+              "date": "2026-05-24"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Inserto Compatible con THROUGH THE DESERT",
       "is_new": 0,
