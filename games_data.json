@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-05-24T09:28:32.397236",
-  "total": 1973,
-  "total_raw": 2010,
+  "generated_at": "2026-05-25T11:19:22.223729",
+  "total": 1974,
+  "total_raw": 2011,
   "games": [
+    {
+      "name": "Tiny Epic Dinosaurs: Game Mat",
+      "is_new": 0,
+      "first_seen": "2026-05-25T11:19:19.804452",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/tiny-epic-dinosaurs-game-mat-58848.html",
+          "price": 23.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-25T11:19:19.804452",
+          "history": [
+            {
+              "price": 23.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-25"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Fundas Ace of Spades (60)",
       "is_new": 0,
@@ -14932,16 +14955,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/cthulhu-death-may-die/42935-cthulhu-death-may-die-8435407627819.html",
-          "price": 96.79,
-          "original_price": 109.99,
+          "price": 109.99,
+          "original_price": 124.99,
           "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:01:10.701994",
+          "scraped_at": "2026-05-25T11:17:52.558733",
           "history": [
             {
               "price": 96.79,
               "original_price": 109.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 109.99,
+              "original_price": 124.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-25"
             }
           ]
         }
@@ -17623,16 +17652,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56755-sagrada-vida-8436607944881.html",
-          "price": 12.5,
+          "price": 22.5,
           "original_price": 25.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:00:56.955894",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-25T11:17:52.557236",
           "history": [
             {
               "price": 12.5,
               "original_price": 25.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-25"
             }
           ]
         }
