@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-05-25T11:19:22.223729",
-  "total": 1974,
-  "total_raw": 2011,
+  "generated_at": "2026-05-27T11:03:30.259400",
+  "total": 1979,
+  "total_raw": 2016,
   "games": [
+    {
+      "name": "Figura E.T. El Extraterrestre Elliott Y E.T....",
+      "is_new": 0,
+      "first_seen": "2026-05-27T11:03:27.898463",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/figura-et-el-extraterrestre-elliott-y-et-en-bicicleta-40-aniversario-13-cm-66775.html",
+          "price": 50.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-27T11:03:27.898463",
+          "history": [
+            {
+              "price": 50.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Figura Universal Monsters x Teenage Mutant...",
+      "is_new": 0,
+      "first_seen": "2026-05-27T11:03:27.896592",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/figura-universal-monsters-x-teenage-mutant-ninja-turtles-april-as-the-bride-18-cm-65205.html",
+          "price": 42.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-27T11:03:27.896592",
+          "history": [
+            {
+              "price": 42.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Figura TMNT Ultimate The Last Ronin...",
+      "is_new": 0,
+      "first_seen": "2026-05-27T11:03:27.894219",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/figura-tmnt-ultimate-the-last-ronin-unarmored-18-cm-63304.html",
+          "price": 42.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-27T11:03:27.894219",
+          "history": [
+            {
+              "price": 42.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "One Piece Card Game: Illustration Box IB-05 (SEMINUEVO)",
+      "is_new": 0,
+      "first_seen": "2026-05-27T11:02:49.679698",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/one-piece-card-game-illustration-box-ib-05-94814.html",
+          "price": 102.0,
+          "original_price": 120.0,
+          "discount_pct": 15.0,
+          "scraped_at": "2026-05-27T11:02:49.679698",
+          "history": [
+            {
+              "price": 102.0,
+              "original_price": 120.0,
+              "discount_pct": 15.0,
+              "date": "2026-05-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu: Dark Providence",
+      "is_new": 0,
+      "first_seen": "2026-05-27T10:59:57.491954",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60308-cthulhu-dark-providence-8435407650145.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-27T10:59:57.491954",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-27"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Tiny Epic Dinosaurs: Game Mat",
       "is_new": 0,
@@ -20625,16 +20740,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/marvel-united/55794-marvel-united-civil-war-8435407641921.html",
-          "price": 31.49,
+          "price": 18.0,
           "original_price": 34.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:43.301472",
+          "discount_pct": 48.0,
+          "scraped_at": "2026-05-27T10:59:57.489955",
           "history": [
             {
               "price": 31.49,
               "original_price": 34.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 18.0,
+              "original_price": 34.99,
+              "discount_pct": 48.0,
+              "date": "2026-05-27"
             }
           ]
         }
@@ -23592,16 +23713,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/marvel-united/55791-marvel-united-world-war-hulk-8435407641945.html",
-          "price": 26.99,
+          "price": 15.0,
           "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:24.888571",
+          "discount_pct": 49.0,
+          "scraped_at": "2026-05-27T10:59:57.496808",
           "history": [
             {
               "price": 26.99,
               "original_price": 29.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 29.99,
+              "discount_pct": 49.0,
+              "date": "2026-05-27"
             }
           ]
         }
@@ -27111,16 +27238,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/32408-genial-8436607941330.html",
-          "price": 22.5,
+          "price": 12.5,
           "original_price": 25.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:05.751021",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-27T10:59:57.484789",
           "history": [
             {
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 12.5,
+              "original_price": 25.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-27"
             }
           ]
         }
