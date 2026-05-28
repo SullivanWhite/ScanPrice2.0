@@ -1,8 +1,283 @@
 {
-  "generated_at": "2026-05-27T11:03:30.259400",
-  "total": 1979,
-  "total_raw": 2016,
+  "generated_at": "2026-05-28T11:04:41.100050",
+  "total": 1989,
+  "total_raw": 2027,
   "games": [
+    {
+      "name": "Tapete Ultra Pro Charmander Pokémon",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:04:38.708629",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/tapete-ultra-pro-charmander-pokemon-85143.html",
+          "price": 28.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-28T11:04:38.708629",
+          "history": [
+            {
+              "price": 28.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pack 3 Carpetas de torneo de Pokémon Zapdos,...",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:04:38.706892",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/pack-3-carpetas-de-torneo-de-pokemon-zapdos-moltres-y-articuno-ultra-pro-85061.html",
+          "price": 7.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-28T11:04:38.706892",
+          "history": [
+            {
+              "price": 7.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu: Death May Die (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:04:38.703894",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/cthulhu-death-may-die-35589.html",
+          "price": 112.49,
+          "original_price": 124.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-28T11:04:38.703894",
+          "history": [
+            {
+              "price": 112.49,
+              "original_price": 124.99,
+              "discount_pct": 10.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wispwood (Inglés) (SEMINUEVO)",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:03:58.424315",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/wispwood-ingles-seminuevo-98281.html",
+          "price": 20.27,
+          "original_price": 28.95,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-05-28T11:03:58.424315",
+          "history": [
+            {
+              "price": 20.27,
+              "original_price": 28.95,
+              "discount_pct": 30.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Among Cultists",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:03:09.076824",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56372-among-cultists-710702112993.html",
+          "price": 35.99,
+          "original_price": 59.99,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-28T11:03:09.076824",
+          "history": [
+            {
+              "price": 35.99,
+              "original_price": 59.99,
+              "discount_pct": 40.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Among Cultists: Under the Surface",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:03:09.074941",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56374-among-cultists-under-the-surface-748322969154.html",
+          "price": 17.99,
+          "original_price": 29.99,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-28T11:03:09.074941",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 29.99,
+              "discount_pct": 40.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diluvium",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:03:09.072535",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60281-diluvium-698142705206.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-28T11:03:09.072535",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Valle de la Eternidad",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:00:45.557698",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55973-el-valle-de-la-eternidad-8436578817818.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-28T11:00:45.557698",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu Death May Die",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:00:45.554426",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/42935-cthulhu-death-may-die-841333144333.html",
+          "price": 109.99,
+          "original_price": 124.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-28T11:00:45.554426",
+          "history": [
+            {
+              "price": 109.99,
+              "original_price": 124.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-28"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/42935-cthulhu-death-may-die-8435407627819.html",
+          "price": 109.99,
+          "original_price": 124.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-25T11:17:52.558733",
+          "history": [
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 109.99,
+              "original_price": 124.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Valle de la Eternidad: Artefactos",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:00:45.549072",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56318-el-valle-de-la-eternidad-8436578819201.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-28T11:00:45.549072",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Valle de la Eternidad: Maldición",
+      "is_new": 0,
+      "first_seen": "2026-05-28T11:00:45.545284",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60322-el-valle-de-la-eternidad-maldicion-8436623242701.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-28T11:00:45.545284",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Figura E.T. El Extraterrestre Elliott Y E.T....",
       "is_new": 0,
@@ -15063,35 +15338,6 @@
       ]
     },
     {
-      "name": "Cthulhu Death May Die",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:10.701994",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/cthulhu-death-may-die/42935-cthulhu-death-may-die-8435407627819.html",
-          "price": 109.99,
-          "original_price": 124.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-25T11:17:52.558733",
-          "history": [
-            {
-              "price": 96.79,
-              "original_price": 109.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 109.99,
-              "original_price": 124.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-25"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Zombicide (2ª Edición)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:10.699964",
@@ -15743,16 +15989,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/incomodos-invitados/36990-incomodos-invitados-8425402776292.html",
-          "price": 31.46,
-          "original_price": 34.95,
+          "price": 35.06,
+          "original_price": 38.95,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:01:06.232818",
+          "scraped_at": "2026-05-28T11:03:09.078885",
           "history": [
             {
               "price": 31.46,
               "original_price": 34.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 35.06,
+              "original_price": 38.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-28"
             }
           ]
         }
@@ -22126,16 +22378,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57211-halo-flashpoint-spartan-edition-5060924984492.html",
-          "price": 109.99,
+          "price": 87.5,
           "original_price": 124.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:33.979858",
+          "discount_pct": 29.0,
+          "scraped_at": "2026-05-28T11:00:45.556611",
           "history": [
             {
               "price": 109.99,
               "original_price": 124.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 87.5,
+              "original_price": 124.99,
+              "discount_pct": 29.0,
+              "date": "2026-05-28"
             }
           ]
         }
@@ -45581,16 +45839,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56355-aeons-end-la-guerra-eterna-8435450254383.html",
-          "price": 70.0,
+          "price": 80.0,
           "original_price": 99.95,
-          "discount_pct": 29.0,
-          "scraped_at": "2026-05-22T05:58:38.028246",
+          "discount_pct": 19.0,
+          "scraped_at": "2026-05-28T11:00:50.257070",
           "history": [
             {
               "price": 70.0,
               "original_price": 99.95,
               "discount_pct": 29.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 80.0,
+              "original_price": 99.95,
+              "discount_pct": 19.0,
+              "date": "2026-05-28"
             }
           ]
         }
