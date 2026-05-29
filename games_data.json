@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-05-28T11:04:41.100050",
-  "total": 1989,
-  "total_raw": 2027,
+  "generated_at": "2026-05-29T10:55:50.547211",
+  "total": 1992,
+  "total_raw": 2030,
   "games": [
+    {
+      "name": "LA-1 When Laws Fail",
+      "is_new": 0,
+      "first_seen": "2026-05-29T10:55:48.224704",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/la-1-when-laws-fail-92010.html",
+          "price": 12.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-29T10:55:48.224704",
+          "history": [
+            {
+              "price": 12.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xylotar: Unhinged",
+      "is_new": 0,
+      "first_seen": "2026-05-29T10:55:48.222744",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/xylotar-unhinged-87145.html",
+          "price": 8.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-29T10:55:48.222744",
+          "history": [
+            {
+              "price": 8.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tapete Compile",
+      "is_new": 0,
+      "first_seen": "2026-05-29T10:55:48.220483",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/tapete-compile-86772.html",
+          "price": 17.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-29T10:55:48.220483",
+          "history": [
+            {
+              "price": 17.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-29"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Tapete Ultra Pro Charmander Pokémon",
       "is_new": 0,
@@ -34293,16 +34362,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/46482-lions-of-lydia-8436572390447.html",
-          "price": 18.0,
+          "price": 8.0,
           "original_price": 39.95,
-          "discount_pct": 54.9,
-          "scraped_at": "2026-05-22T05:59:34.175517",
+          "discount_pct": 79.0,
+          "scraped_at": "2026-05-29T10:52:13.072786",
           "history": [
             {
               "price": 18.0,
               "original_price": 39.95,
               "discount_pct": 54.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 8.0,
+              "original_price": 39.95,
+              "discount_pct": 79.0,
+              "date": "2026-05-29"
             }
           ]
         }
