@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-05-29T10:55:50.547211",
-  "total": 1992,
-  "total_raw": 2030,
+  "generated_at": "2026-05-30T09:27:40.973607",
+  "total": 1997,
+  "total_raw": 2035,
   "games": [
+    {
+      "name": "Hercules and the 12 Labors",
+      "is_new": 0,
+      "first_seen": "2026-05-30T09:27:38.678726",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/hercules-and-the-12-labors-94717.html",
+          "price": 25.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-30T09:27:38.678726",
+          "history": [
+            {
+              "price": 25.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "S'mores Galore Roast and Write",
+      "is_new": 0,
+      "first_seen": "2026-05-30T09:27:38.676540",
+      "prices": [
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/s-mores-galore-roast-and-write-94508.html",
+          "price": 16.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-30T09:27:38.676540",
+          "history": [
+            {
+              "price": 16.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thunder Road: Vendetta - Carnival of Chaos",
+      "is_new": 0,
+      "first_seen": "2026-05-30T09:24:16.999470",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60363-thunder-road-vendetta-carnival-of-chaos-8437022228822.html",
+          "price": 43.96,
+          "original_price": 49.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-30T09:24:16.999470",
+          "history": [
+            {
+              "price": 43.96,
+              "original_price": 49.95,
+              "discount_pct": 12.0,
+              "date": "2026-05-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mythwind: Friends & Family",
+      "is_new": 0,
+      "first_seen": "2026-05-30T09:24:16.997215",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60361-mythwind-friends-family-8437022228808.html",
+          "price": 34.16,
+          "original_price": 37.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-30T09:24:16.997215",
+          "history": [
+            {
+              "price": 34.16,
+              "original_price": 37.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storyfold: Wildwoods",
+      "is_new": 0,
+      "first_seen": "2026-05-30T09:24:16.993524",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60362-storyfold-wildwoods-8437022228747.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-30T09:24:16.993524",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-30"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "LA-1 When Laws Fail",
       "is_new": 0,
