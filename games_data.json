@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-05-31T09:52:58.540445",
-  "total": 1997,
-  "total_raw": 2035,
+  "generated_at": "2026-06-01T12:48:32.511719",
+  "total": 1998,
+  "total_raw": 2036,
   "games": [
+    {
+      "name": "Mythwind: Magical Miniatures",
+      "is_new": 0,
+      "first_seen": "2026-06-01T12:45:15.571659",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60371-mythwind-magical-miniatures-672975796563.html",
+          "price": 26.99,
+          "original_price": 29.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-01T12:45:15.571659",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 29.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-01"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Hercules and the 12 Labors",
       "is_new": 0,
@@ -40578,16 +40601,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/paris-la-cite-de-la-lumiere/42420-paris-la-cite-de-la-lumiere-8436017228380.html",
-          "price": 22.5,
+          "price": 12.5,
           "original_price": 25.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:03.998035",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-01T12:45:15.579418",
           "history": [
             {
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 12.5,
+              "original_price": 25.0,
+              "discount_pct": 50.0,
+              "date": "2026-06-01"
             }
           ]
         }
