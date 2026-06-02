@@ -1,8 +1,185 @@
 {
-  "generated_at": "2026-06-01T12:48:32.511719",
-  "total": 1998,
-  "total_raw": 2036,
+  "generated_at": "2026-06-02T11:26:47.265913",
+  "total": 2004,
+  "total_raw": 2043,
   "games": [
+    {
+      "name": "Star Wars Imperial Assault: Sombras Gemelas",
+      "is_new": 0,
+      "first_seen": "2026-06-02T11:26:07.039167",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-5683340050284.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:07.039167",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: Regreso a Hoth",
+      "is_new": 0,
+      "first_seen": "2026-06-02T11:26:02.875351",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/36924-star-wars-imperial-assault-regreso-a-hoth-8435407609068.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.875351",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: El Gambito de Bespin",
+      "is_new": 0,
+      "first_seen": "2026-06-02T11:26:02.873550",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/37190-star-wars-imperial-assault-el-gambito-de-bespin-8435407610965.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.873550",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: El Reino de Jabba",
+      "is_new": 0,
+      "first_seen": "2026-06-02T11:26:02.871591",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/38118-star-wars-imperial-assault-el-reino-de-jabba-8435407613751.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.871591",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: El Corazón del Imperio",
+      "is_new": 0,
+      "first_seen": "2026-06-02T11:26:02.869669",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/38295-star-wars-imperial-assault-el-corazon-del-imperio-8435407616462.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.869669",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: Tiranos de Lothal",
+      "is_new": 0,
+      "first_seen": "2026-06-02T11:26:02.857518",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/39716-star-wars-imperial-assault-tiranos-de-lothal-8435407621237.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.857518",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scarface 1920: Set extra de Cajas de madera",
+      "is_new": 0,
+      "first_seen": "2026-06-02T11:23:58.276502",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/scarface-1920/51187-scarface-1920-set-extra-de-cajas-de-madera-649275716454.html",
+          "price": 11.67,
+          "original_price": 17.95,
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-02T11:23:58.276502",
+          "history": [
+            {
+              "price": 11.67,
+              "original_price": 17.95,
+              "discount_pct": 35.0,
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/scarface-1920/51187-scarface-1920-set-extra-de-cajas-de-madera-2619470103982.html",
+          "price": 11.67,
+          "original_price": 17.95,
+          "discount_pct": 35.0,
+          "scraped_at": "2026-05-22T05:58:42.334896",
+          "history": [
+            {
+              "price": 11.67,
+              "original_price": 17.95,
+              "discount_pct": 35.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Mythwind: Magical Miniatures",
       "is_new": 0,
@@ -7447,16 +7624,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/inicio/57967-gigantes-moviendo-mueblecitos-810171411440.html",
-          "price": 17.99,
+          "price": 13.0,
           "original_price": 19.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.224235",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-06-02T11:23:58.278565",
           "history": [
             {
               "price": 17.99,
               "original_price": 19.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.0,
+              "original_price": 19.99,
+              "discount_pct": 34.0,
+              "date": "2026-06-02"
             }
           ]
         }
@@ -21274,16 +21457,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/52380-bibliotecarios-gritones-810083044828.html",
-          "price": 22.49,
+          "price": 16.0,
           "original_price": 24.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:43.296314",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-02T11:23:58.269025",
           "history": [
             {
               "price": 22.49,
               "original_price": 24.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 24.99,
+              "discount_pct": 35.0,
+              "date": "2026-06-02"
             }
           ]
         }
@@ -25242,16 +25431,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56445-for-a-crown-5425016928424.html",
-          "price": 31.49,
+          "price": 23.0,
           "original_price": 34.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:20.212837",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-06-02T11:23:58.275547",
           "history": [
             {
               "price": 31.49,
               "original_price": 34.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 23.0,
+              "original_price": 34.99,
+              "discount_pct": 34.0,
+              "date": "2026-06-02"
             }
           ]
         }
@@ -29296,16 +29491,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55632-machi-koro-2-edicion-8435407642478.html",
-          "price": 26.99,
+          "price": 19.5,
           "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:00.190149",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-06-02T11:23:58.274625",
           "history": [
             {
               "price": 26.99,
               "original_price": 29.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 19.5,
+              "original_price": 29.99,
+              "discount_pct": 34.0,
+              "date": "2026-06-02"
             }
           ]
         }
@@ -33856,16 +34057,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/38441-hexcalibur-8435450208867.html",
-          "price": 9.0,
+          "price": 5.0,
           "original_price": 29.95,
-          "discount_pct": 69.9,
-          "scraped_at": "2026-05-22T05:59:38.533072",
+          "discount_pct": 83.0,
+          "scraped_at": "2026-06-02T11:23:58.273560",
           "history": [
             {
               "price": 9.0,
               "original_price": 29.95,
               "discount_pct": 69.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 5.0,
+              "original_price": 29.95,
+              "discount_pct": 83.0,
+              "date": "2026-06-02"
             }
           ]
         }
@@ -45584,29 +45791,6 @@
               "price": 42.0,
               "original_price": 70.0,
               "discount_pct": 40.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Scarface 1920: Set extra de Cajas de madera",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:42.334896",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/scarface-1920/51187-scarface-1920-set-extra-de-cajas-de-madera-2619470103982.html",
-          "price": 11.67,
-          "original_price": 17.95,
-          "discount_pct": 35.0,
-          "scraped_at": "2026-05-22T05:58:42.334896",
-          "history": [
-            {
-              "price": 11.67,
-              "original_price": 17.95,
-              "discount_pct": 35.0,
               "date": "2026-05-22"
             }
           ]
