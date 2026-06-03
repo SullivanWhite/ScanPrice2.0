@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-06-02T11:26:47.265913",
-  "total": 2004,
-  "total_raw": 2043,
+  "generated_at": "2026-06-03T12:03:36.358057",
+  "total": 2006,
+  "total_raw": 2046,
   "games": [
+    {
+      "name": "En una Escala de 1 a T-Rex",
+      "is_new": 0,
+      "first_seen": "2026-06-03T12:03:26.511504",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/39898-en-una-escala-de-1-a-t-rex-spanish-3558380076780.html",
+          "price": 6.95,
+          "original_price": 19.99,
+          "discount_pct": 65.2,
+          "scraped_at": "2026-06-03T12:03:26.511504",
+          "history": [
+            {
+              "price": 6.95,
+              "original_price": 19.99,
+              "discount_pct": 65.2,
+              "date": "2026-06-03"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/39898-en-una-escala-de-1-a-t-rex-3558380076780.html",
+          "price": 6.95,
+          "original_price": 19.99,
+          "discount_pct": 65.2,
+          "scraped_at": "2026-05-22T06:01:31.810700",
+          "history": [
+            {
+              "price": 6.95,
+              "original_price": 19.99,
+              "discount_pct": 65.2,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ankh: Dioses de Egipto (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-03T12:03:26.507020",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/40047-ankh-dioses-de-egipto-castellano-8435407635227.html",
+          "price": 50.0,
+          "original_price": 99.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-03T12:03:26.507020",
+          "history": [
+            {
+              "price": 50.0,
+              "original_price": 99.99,
+              "discount_pct": 50.0,
+              "date": "2026-06-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Incursión en el Reino de las Sombras",
+      "is_new": 0,
+      "first_seen": "2026-06-03T12:01:02.095646",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60250-dragon-eclipse-incursion-en-el-reino-de-las-sombras-5904689274293.html",
+          "price": 74.8,
+          "original_price": 85.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-03T12:01:02.095646",
+          "history": [
+            {
+              "price": 74.8,
+              "original_price": 85.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-03"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Star Wars Imperial Assault: Sombras Gemelas",
       "is_new": 0,
@@ -11470,29 +11555,6 @@
               "price": 15.0,
               "original_price": 29.99,
               "discount_pct": 50.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En una Escala de 1 a T-Rex",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:31.810700",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/39898-en-una-escala-de-1-a-t-rex-3558380076780.html",
-          "price": 6.95,
-          "original_price": 19.99,
-          "discount_pct": 65.2,
-          "scraped_at": "2026-05-22T06:01:31.810700",
-          "history": [
-            {
-              "price": 6.95,
-              "original_price": 19.99,
-              "discount_pct": 65.2,
               "date": "2026-05-22"
             }
           ]
