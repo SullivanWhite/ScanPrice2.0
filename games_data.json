@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-06-03T12:03:36.358057",
+  "generated_at": "2026-06-04T10:45:01.795587",
   "total": 2006,
-  "total_raw": 2046,
+  "total_raw": 2048,
   "games": [
+    {
+      "name": "Ankh: Dioses de Egipto (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-04T10:44:51.544732",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/40047-ankh-dioses-de-egipto-spanish-8435407635227.html",
+          "price": 50.0,
+          "original_price": 99.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-04T10:44:51.544732",
+          "history": [
+            {
+              "price": 50.0,
+              "original_price": 99.99,
+              "discount_pct": 50.0,
+              "date": "2026-06-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/40047-ankh-dioses-de-egipto-castellano-8435407635227.html",
+          "price": 50.0,
+          "original_price": 99.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-03T12:03:26.507020",
+          "history": [
+            {
+              "price": 50.0,
+              "original_price": 99.99,
+              "discount_pct": 50.0,
+              "date": "2026-06-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: Sombras Gemelas",
+      "is_new": 0,
+      "first_seen": "2026-06-04T10:42:27.501066",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-8435407606555.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-04T10:42:27.501066",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-04"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-5683340050284.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:07.039167",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "En una Escala de 1 a T-Rex",
       "is_new": 0,
@@ -43,29 +121,6 @@
       ]
     },
     {
-      "name": "Ankh: Dioses de Egipto (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-06-03T12:03:26.507020",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/40047-ankh-dioses-de-egipto-castellano-8435407635227.html",
-          "price": 50.0,
-          "original_price": 99.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-06-03T12:03:26.507020",
-          "history": [
-            {
-              "price": 50.0,
-              "original_price": 99.99,
-              "discount_pct": 50.0,
-              "date": "2026-06-03"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Dragon Eclipse: Incursión en el Reino de las Sombras",
       "is_new": 0,
       "first_seen": "2026-06-03T12:01:02.095646",
@@ -83,29 +138,6 @@
               "original_price": 85.0,
               "discount_pct": 12.0,
               "date": "2026-06-03"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Star Wars Imperial Assault: Sombras Gemelas",
-      "is_new": 0,
-      "first_seen": "2026-06-02T11:26:07.039167",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-5683340050284.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-02T11:26:07.039167",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-02"
             }
           ]
         }
@@ -34982,16 +35014,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/rise-to-nobility/42639-rise-to-nobility-8436572390126.html",
-          "price": 28.0,
+          "price": 13.0,
           "original_price": 54.95,
-          "discount_pct": 49.0,
-          "scraped_at": "2026-05-22T05:59:34.156884",
+          "discount_pct": 76.0,
+          "scraped_at": "2026-06-04T10:42:27.509340",
           "history": [
             {
               "price": 28.0,
               "original_price": 54.95,
               "discount_pct": 49.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.0,
+              "original_price": 54.95,
+              "discount_pct": 76.0,
+              "date": "2026-06-04"
             }
           ]
         }
@@ -35626,16 +35664,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/38436-noria-8435450208935.html",
-          "price": 15.0,
+          "price": 9.0,
           "original_price": 49.95,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-22T05:59:29.796205",
+          "discount_pct": 81.0,
+          "scraped_at": "2026-06-04T10:42:27.506739",
           "history": [
             {
               "price": 15.0,
               "original_price": 49.95,
               "discount_pct": 70.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.0,
+              "original_price": 49.95,
+              "discount_pct": 81.0,
+              "date": "2026-06-04"
             }
           ]
         }
