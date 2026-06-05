@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-06-04T10:45:01.795587",
-  "total": 2006,
-  "total_raw": 2048,
+  "generated_at": "2026-06-05T10:55:19.844816",
+  "total": 2008,
+  "total_raw": 2050,
   "games": [
+    {
+      "name": "Dragon Eclipse: Combat Deck Box",
+      "is_new": 0,
+      "first_seen": "2026-06-05T10:52:54.697724",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60255-dragon-eclipse-combat-deck-box-5904689272664.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-05T10:52:54.697724",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Pack de Fundas",
+      "is_new": 0,
+      "first_seen": "2026-06-05T10:52:54.695381",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60257-dragon-eclipse-pack-de-fundas-5904689272688.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-05T10:52:54.695381",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-05"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Ankh: Dioses de Egipto (Castellano)",
       "is_new": 0,
@@ -20280,16 +20326,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/tang-garden/44330-tang-garden-8436572390072.html",
-          "price": 52.8,
+          "price": 30.0,
           "original_price": 60.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:47.810621",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-05T10:52:54.692785",
           "history": [
             {
               "price": 52.8,
               "original_price": 60.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 30.0,
+              "original_price": 60.0,
+              "discount_pct": 50.0,
+              "date": "2026-06-05"
             }
           ]
         }
@@ -28964,16 +29016,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58099-star-wars-la-batalla-de-hoth-3558380129158.html",
-          "price": 43.99,
+          "price": 35.0,
           "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:00.249493",
+          "discount_pct": 29.0,
+          "scraped_at": "2026-06-05T10:52:54.685045",
           "history": [
             {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 35.0,
+              "original_price": 49.99,
+              "discount_pct": 29.0,
+              "date": "2026-06-05"
             }
           ]
         }
@@ -34663,16 +34721,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/50467-arka-v-8436572391079.html",
-          "price": 11.0,
+          "price": 5.0,
           "original_price": 22.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T05:59:34.188880",
+          "discount_pct": 77.0,
+          "scraped_at": "2026-06-05T10:52:54.694213",
           "history": [
             {
               "price": 11.0,
               "original_price": 22.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 5.0,
+              "original_price": 22.0,
+              "discount_pct": 77.0,
+              "date": "2026-06-05"
             }
           ]
         }
@@ -45313,16 +45377,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/42542-decrypto-lector-laser-8435407628366.html",
-          "price": 3.0,
+          "price": 4.2,
           "original_price": 14.99,
-          "discount_pct": 80.0,
-          "scraped_at": "2026-05-22T05:58:42.404604",
+          "discount_pct": 71.0,
+          "scraped_at": "2026-06-05T10:53:11.903949",
           "history": [
             {
               "price": 3.0,
               "original_price": 14.99,
               "discount_pct": 80.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 4.2,
+              "original_price": 14.99,
+              "discount_pct": 71.0,
+              "date": "2026-06-05"
             }
           ]
         }
