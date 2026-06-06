@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-06-05T10:55:19.844816",
-  "total": 2008,
-  "total_raw": 2050,
+  "generated_at": "2026-06-06T09:31:52.768866",
+  "total": 2011,
+  "total_raw": 2053,
   "games": [
+    {
+      "name": "Coffee Rush: Tartas Deliciosas (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-06-06T09:29:25.222731",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58482-coffee-rush-tartas-deliciosas-promo-3558380131465.html",
+          "price": 22.49,
+          "original_price": 24.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-06T09:29:25.222731",
+          "history": [
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forest Shuffle (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-06-06T09:29:25.217561",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/forest-shuffle/52201-forest-shuffle-promo-8435407641884.html",
+          "price": 25.19,
+          "original_price": 27.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-06T09:29:25.217561",
+          "history": [
+            {
+              "price": 25.19,
+              "original_price": 27.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dune Imperium: Linajes (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-06-06T09:29:25.212858",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/dune-imperium/58349-dune-imperium-linajes-promo-8435407650732.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-06T09:29:25.212858",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-06"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Dragon Eclipse: Combat Deck Box",
       "is_new": 0,
