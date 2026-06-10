@@ -1,8 +1,185 @@
 {
-  "generated_at": "2026-06-09T10:40:03.969524",
-  "total": 2011,
-  "total_raw": 2053,
+  "generated_at": "2026-06-10T11:03:30.053455",
+  "total": 2017,
+  "total_raw": 2060,
   "games": [
+    {
+      "name": "Take Time Game Mat",
+      "is_new": 0,
+      "first_seen": "2026-06-10T11:00:50.755411",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60218-take-time-game-mat-4251715421123.html",
+          "price": 22.49,
+          "original_price": 24.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-10T11:00:50.755411",
+          "history": [
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zombicide (2ª Edición)",
+      "is_new": 0,
+      "first_seen": "2026-06-10T11:00:50.752708",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/set-basico/45946-zombicide-2-edicion-841333141752.html",
+          "price": 96.79,
+          "original_price": 109.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-10T11:00:50.752708",
+          "history": [
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-10"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/set-basico/45946-zombicide-2-edicion-8435407633568.html",
+          "price": 96.79,
+          "original_price": 109.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T06:01:10.699964",
+          "history": [
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sagrada (2026)",
+      "is_new": 0,
+      "first_seen": "2026-06-10T11:00:50.749844",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60431-sagrada-2026-8436017226546.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-10T11:00:50.749844",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nemesis: Represalia",
+      "is_new": 0,
+      "first_seen": "2026-06-10T11:00:50.747065",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/nemesis/60419-nemesis-represalia-8435407651081.html",
+          "price": 161.5,
+          "original_price": 190.0,
+          "discount_pct": 15.0,
+          "scraped_at": "2026-06-10T11:00:50.747065",
+          "history": [
+            {
+              "price": 161.5,
+              "original_price": 190.0,
+              "discount_pct": 15.0,
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nemesis: Represalia - Recompensas de la Campaña",
+      "is_new": 0,
+      "first_seen": "2026-06-10T11:00:50.744772",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/nemesis/60420-nemesis-represalia-recompensas-de-la-campana-5904689275337.html",
+          "price": 96.8,
+          "original_price": 110.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-10T11:00:50.744772",
+          "history": [
+            {
+              "price": 96.8,
+              "original_price": 110.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nemesis: Represalia - Expansión Sangrivoros",
+      "is_new": 0,
+      "first_seen": "2026-06-10T11:00:50.742377",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/nemesis/60421-nemesis-represalia-expansion-sangrivoros-5904689275290.html",
+          "price": 79.19,
+          "original_price": 89.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-10T11:00:50.742377",
+          "history": [
+            {
+              "price": 79.19,
+              "original_price": 89.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nemesis: Represalia - Expansión Xyrianos",
+      "is_new": 0,
+      "first_seen": "2026-06-10T11:00:50.737716",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/nemesis/60422-nemesis-represalia-expansion-xyrianos-5904689275498.html",
+          "price": 22.49,
+          "original_price": 24.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-10T11:00:50.737716",
+          "history": [
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Coffee Rush: Tartas Deliciosas (+ Promo)",
       "is_new": 0,
@@ -15929,29 +16106,6 @@
             {
               "price": 35.2,
               "original_price": 40.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Zombicide (2ª Edición)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:10.699964",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/set-basico/45946-zombicide-2-edicion-8435407633568.html",
-          "price": 96.79,
-          "original_price": 109.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:01:10.699964",
-          "history": [
-            {
-              "price": 96.79,
-              "original_price": 109.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
             }
@@ -46171,16 +46325,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/splendor/49866-splendor-duel-3558380100263.html",
-          "price": 16.5,
+          "price": 22.49,
           "original_price": 24.99,
-          "discount_pct": 33.0,
-          "scraped_at": "2026-05-22T05:58:42.319594",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-10T11:02:38.478277",
           "history": [
             {
               "price": 16.5,
               "original_price": 24.99,
               "discount_pct": 33.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-10"
             }
           ]
         }
