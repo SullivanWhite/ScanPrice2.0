@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-06-10T11:03:30.053455",
-  "total": 2017,
-  "total_raw": 2060,
+  "generated_at": "2026-06-11T11:29:20.366206",
+  "total": 2019,
+  "total_raw": 2063,
   "games": [
+    {
+      "name": "Bitoku (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-11T11:29:09.455280",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/42955-bitoku-castellano-8436589624832.html",
+          "price": 29.95,
+          "original_price": 60.0,
+          "discount_pct": 50.1,
+          "scraped_at": "2026-06-11T11:29:09.455280",
+          "history": [
+            {
+              "price": 29.95,
+              "original_price": 60.0,
+              "discount_pct": 50.1,
+              "date": "2026-06-11"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/42955-bitoku-8436589624832.html",
+          "price": 24.0,
+          "original_price": 60.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-05-22T06:01:31.784803",
+          "history": [
+            {
+              "price": 24.0,
+              "original_price": 60.0,
+              "discount_pct": 60.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zombicide (2ª Edición): Fort Hendrix",
+      "is_new": 0,
+      "first_seen": "2026-06-11T11:26:54.292776",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/expansion-de-core/49076-zombicide-2-edicion-fort-hendrix-841333141905.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-11T11:26:54.292776",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zombicide (2ª Edición): Washington Z.C.",
+      "is_new": 0,
+      "first_seen": "2026-06-11T11:26:54.290732",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/expansion-de-core/48710-zombicide-2-edicion-washington-zc-841333141875.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-11T11:26:54.290732",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-11"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Take Time Game Mat",
       "is_new": 0,
@@ -12187,29 +12272,6 @@
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Bitoku (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:31.784803",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/42955-bitoku-8436589624832.html",
-          "price": 24.0,
-          "original_price": 60.0,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-05-22T06:01:31.784803",
-          "history": [
-            {
-              "price": 24.0,
-              "original_price": 60.0,
-              "discount_pct": 60.0,
               "date": "2026-05-22"
             }
           ]
@@ -29239,10 +29301,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58099-star-wars-la-batalla-de-hoth-3558380129158.html",
-          "price": 35.0,
+          "price": 43.99,
           "original_price": 49.99,
-          "discount_pct": 29.0,
-          "scraped_at": "2026-06-05T10:52:54.685045",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-11T11:26:54.294818",
           "history": [
             {
               "price": 43.99,
@@ -29255,6 +29317,12 @@
               "original_price": 49.99,
               "discount_pct": 29.0,
               "date": "2026-06-05"
+            },
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-11"
             }
           ]
         }
@@ -36187,16 +36255,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/41976-manitoba-8421005001113.html",
-          "price": 15.0,
+          "price": 9.0,
           "original_price": 49.95,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-22T05:59:29.774241",
+          "discount_pct": 81.0,
+          "scraped_at": "2026-06-11T11:26:54.286155",
           "history": [
             {
               "price": 15.0,
               "original_price": 49.95,
               "discount_pct": 70.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.0,
+              "original_price": 49.95,
+              "discount_pct": 81.0,
+              "date": "2026-06-11"
             }
           ]
         }
