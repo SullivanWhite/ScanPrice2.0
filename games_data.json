@@ -1,8 +1,263 @@
 {
-  "generated_at": "2026-06-11T11:29:20.366206",
-  "total": 2019,
-  "total_raw": 2063,
+  "generated_at": "2026-06-12T11:08:32.921740",
+  "total": 2025,
+  "total_raw": 2072,
   "games": [
+    {
+      "name": "Dungeon Raiders (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:08:25.911461",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/33139-dungeon-raiders-2018-spanish-8436017225877.html",
+          "price": 14.95,
+          "original_price": 20.0,
+          "discount_pct": 25.3,
+          "scraped_at": "2026-06-12T11:08:25.911461",
+          "history": [
+            {
+              "price": 14.95,
+              "original_price": 20.0,
+              "discount_pct": 25.3,
+              "date": "2026-06-12"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/33139-dungeon-raiders-castellano-8436017225877.html",
+          "price": 15.0,
+          "original_price": 20.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-05-22T06:01:33.903802",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 20.0,
+              "discount_pct": 25.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Break the Code (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:08:24.060710",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38459-break-the-code-spanish-8436589620872.html",
+          "price": 14.95,
+          "original_price": 20.0,
+          "discount_pct": 25.3,
+          "scraped_at": "2026-06-12T11:08:24.060710",
+          "history": [
+            {
+              "price": 14.95,
+              "original_price": 20.0,
+              "discount_pct": 25.3,
+              "date": "2026-06-12"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38459-break-the-code-castellano-8436589620872.html",
+          "price": 15.0,
+          "original_price": 20.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-05-22T06:01:33.880068",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 20.0,
+              "discount_pct": 25.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Everdell: Silverfrost",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:06:04.378042",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/everdell/60463-everdell-silverfrost-8436623240325.html",
+          "price": 48.4,
+          "original_price": 55.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-12T11:06:04.378042",
+          "history": [
+            {
+              "price": 48.4,
+              "original_price": 55.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dice Throne: Treant VS Ninja",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:06:04.375522",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60466-dice-throne-treant-vs-ninja-8435163900256.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-12T11:06:04.375522",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dice Throne: Barbaro VS Elfa Lunar",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:06:04.372636",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60467-dice-throne-barbaro-vs-elfa-lunar-8435163900133.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-12T11:06:04.372636",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skull Tales: Leyendas del Caribe (Mega-Expansión)",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:06:04.369759",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/skull-tales/60456-skull-tales-leyendas-del-caribe-mega-expansion-698142109868.html",
+          "price": 88.0,
+          "original_price": 100.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-12T11:06:04.369759",
+          "history": [
+            {
+              "price": 88.0,
+              "original_price": 100.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cerveza y Pan",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:06:04.367479",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60464-cerveza-y-pan-8436578816729.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-12T11:06:04.367479",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zombicide (2ª Edición): Rio Z Janeiro",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:06:04.365281",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/expansion-de-core/51900-zombicide-2-edicion-rio-z-janeiro-841333141790.html",
+          "price": 52.79,
+          "original_price": 59.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-12T11:06:04.365281",
+          "history": [
+            {
+              "price": 52.79,
+              "original_price": 59.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-12"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/expansion-de-core/51900-zombicide-2-edicion-rio-z-janeiro-8435407641297.html",
+          "price": 52.79,
+          "original_price": 59.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T06:01:14.232929",
+          "history": [
+            {
+              "price": 52.79,
+              "original_price": 59.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Catacombs",
+      "is_new": 0,
+      "first_seen": "2026-06-12T11:06:04.359814",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60465-catacombs-8421005001700.html",
+          "price": 74.76,
+          "original_price": 84.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-12T11:06:04.359814",
+          "history": [
+            {
+              "price": 74.76,
+              "original_price": 84.95,
+              "discount_pct": 12.0,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Bitoku (Castellano)",
       "is_new": 0,
@@ -11233,16 +11488,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/28050-bienvenido-a-la-mazmorra-spanish-8436017223514.html",
-          "price": 10.5,
+          "price": 9.95,
           "original_price": 15.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:36.019381",
+          "discount_pct": 33.7,
+          "scraped_at": "2026-06-12T11:08:25.917330",
           "history": [
             {
               "price": 10.5,
               "original_price": 15.0,
               "discount_pct": 30.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.95,
+              "original_price": 15.0,
+              "discount_pct": 33.7,
+              "date": "2026-06-12"
             }
           ]
         }
@@ -11426,29 +11687,6 @@
               "price": 9.75,
               "original_price": 24.99,
               "discount_pct": 61.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Dungeon Raiders (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:33.903802",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/33139-dungeon-raiders-castellano-8436017225877.html",
-          "price": 15.0,
-          "original_price": 20.0,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-05-22T06:01:33.903802",
-          "history": [
-            {
-              "price": 15.0,
-              "original_price": 20.0,
-              "discount_pct": 25.0,
               "date": "2026-05-22"
             }
           ]
@@ -11718,29 +11956,6 @@
               "price": 29.2,
               "original_price": 44.95,
               "discount_pct": 35.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Break the Code (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:33.880068",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/38459-break-the-code-castellano-8436589620872.html",
-          "price": 15.0,
-          "original_price": 20.0,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-05-22T06:01:33.880068",
-          "history": [
-            {
-              "price": 15.0,
-              "original_price": 20.0,
-              "discount_pct": 25.0,
               "date": "2026-05-22"
             }
           ]
@@ -12663,16 +12878,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/44224-commands-and-colors-edad-antigua-8436589626195.html",
-          "price": 40.0,
+          "price": 39.9,
           "original_price": 80.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:29.697390",
+          "discount_pct": 50.1,
+          "scraped_at": "2026-06-12T11:08:22.200002",
           "history": [
             {
               "price": 40.0,
               "original_price": 80.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 39.9,
+              "original_price": 80.0,
+              "discount_pct": 50.1,
+              "date": "2026-06-12"
             }
           ]
         }
@@ -14084,16 +14305,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/50490-saber-ancestral.html",
-          "price": 20.25,
+          "price": 17.95,
           "original_price": 45.0,
-          "discount_pct": 55.0,
-          "scraped_at": "2026-05-22T06:01:25.396763",
+          "discount_pct": 60.1,
+          "scraped_at": "2026-06-12T11:08:16.605376",
           "history": [
             {
               "price": 20.25,
               "original_price": 45.0,
               "discount_pct": 55.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 17.95,
+              "original_price": 45.0,
+              "discount_pct": 60.1,
+              "date": "2026-06-12"
             }
           ]
         },
@@ -14231,16 +14458,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/51288-ciudad-de-puntos.html",
-          "price": 15.0,
+          "price": 14.95,
           "original_price": 30.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:23.336290",
+          "discount_pct": 50.2,
+          "scraped_at": "2026-06-12T11:08:16.603352",
           "history": [
             {
               "price": 15.0,
               "original_price": 30.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.95,
+              "original_price": 30.0,
+              "discount_pct": 50.2,
+              "date": "2026-06-12"
             }
           ]
         }
@@ -14523,16 +14756,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/52115-sand-castellano.html",
-          "price": 18.0,
+          "price": 17.95,
           "original_price": 36.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:23.308714",
+          "discount_pct": 50.1,
+          "scraped_at": "2026-06-12T11:08:16.598245",
           "history": [
             {
               "price": 18.0,
               "original_price": 36.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 17.95,
+              "original_price": 36.0,
+              "discount_pct": 50.1,
+              "date": "2026-06-12"
             }
           ]
         }
@@ -15639,29 +15878,6 @@
             {
               "price": 61.59,
               "original_price": 69.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Zombicide (2ª Edición): Rio Z Janeiro",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:14.232929",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/expansion-de-core/51900-zombicide-2-edicion-rio-z-janeiro-8435407641297.html",
-          "price": 52.79,
-          "original_price": 59.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:01:14.232929",
-          "history": [
-            {
-              "price": 52.79,
-              "original_price": 59.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
             }
