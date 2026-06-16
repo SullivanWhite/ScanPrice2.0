@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-06-15T13:25:33.122833",
+  "generated_at": "2026-06-16T12:20:31.627726",
   "total": 2025,
-  "total_raw": 2072,
+  "total_raw": 2073,
   "games": [
+    {
+      "name": "Pequeños Grandes Crímenes",
+      "is_new": 0,
+      "first_seen": "2026-06-16T12:20:14.132786",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52951-pequenos-grandes-crimenes-8436607942832.html",
+          "price": 18.0,
+          "original_price": 30.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-16T12:20:14.132786",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 30.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-16"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52951-pequenos-grandes-crimenes.html",
+          "price": 18.0,
+          "original_price": 30.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-22T06:01:23.293431",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 30.0,
+              "discount_pct": 40.0,
+              "date": "2026-05-22"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55457-pequenos-grandes-vikingos-8436607942832.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:20.187500",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Dungeon Raiders (Castellano)",
       "is_new": 0,
@@ -14978,45 +15033,6 @@
               "original_price": 20.0,
               "discount_pct": 35.2,
               "date": "2026-06-13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pequeños Grandes Crímenes",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:23.293431",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/52951-pequenos-grandes-crimenes.html",
-          "price": 18.0,
-          "original_price": 30.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:01:23.293431",
-          "history": [
-            {
-              "price": 18.0,
-              "original_price": 30.0,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/55457-pequenos-grandes-vikingos-8436607942832.html",
-          "price": 27.0,
-          "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:20.187500",
-          "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
             }
           ]
         }
@@ -40833,16 +40849,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/inicio/58836-tic-tac-tumba-8437027027307.html",
-          "price": 18.32,
-          "original_price": 20.35,
+          "price": 16.65,
+          "original_price": 18.5,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.212975",
+          "scraped_at": "2026-06-16T12:17:58.911475",
           "history": [
             {
               "price": 18.32,
               "original_price": 20.35,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.65,
+              "original_price": 18.5,
+              "discount_pct": 10.0,
+              "date": "2026-06-16"
             }
           ]
         }
