@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-06-16T12:20:31.627726",
-  "total": 2025,
-  "total_raw": 2073,
+  "generated_at": "2026-06-17T11:58:08.097552",
+  "total": 2028,
+  "total_raw": 2076,
   "games": [
+    {
+      "name": "Tuareg: Dunas y Agua",
+      "is_new": 0,
+      "first_seen": "2026-06-17T11:55:42.317184",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/tuareg/48437-tuareg-dunas-y-agua-8436589624177.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-17T11:55:42.317184",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kronologic: Paris 1920 - Pack de Escenarios 4 y 5 (Panico en la Opera / Los Amantes Malditos)",
+      "is_new": 0,
+      "first_seen": "2026-06-17T11:55:42.312447",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60232-kronologic-paris-1920-pack-de-escenarios-4-y-5-panico-en-la-opera-los-amantes-malditos-8437028641342.html",
+          "price": 13.46,
+          "original_price": 14.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-17T11:55:42.312447",
+          "history": [
+            {
+              "price": 13.46,
+              "original_price": 14.95,
+              "discount_pct": 10.0,
+              "date": "2026-06-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kronologic: Cuzco 1450",
+      "is_new": 0,
+      "first_seen": "2026-06-17T11:55:42.310123",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60231-kronologic-cuzco-1450-8437028641281.html",
+          "price": 22.46,
+          "original_price": 24.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-17T11:55:42.310123",
+          "history": [
+            {
+              "price": 22.46,
+              "original_price": 24.95,
+              "discount_pct": 10.0,
+              "date": "2026-06-17"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Pequeños Grandes Crímenes",
       "is_new": 0,
@@ -19788,16 +19857,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/yokai-quest/48319-yokai-quest-mystic-forest-614143131011.html",
-          "price": 26.96,
+          "price": 14.98,
           "original_price": 29.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:52.236303",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-17T11:55:42.314890",
           "history": [
             {
               "price": 26.96,
               "original_price": 29.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.98,
+              "original_price": 29.95,
+              "discount_pct": 50.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -23584,16 +23659,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57265-twilight-struggle-la-guerra-freda-1945-1989-catala-8436607945529.html",
-          "price": 48.4,
+          "price": 41.25,
           "original_price": 55.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:33.974175",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-17T11:55:42.301962",
           "history": [
             {
               "price": 48.4,
               "original_price": 55.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 41.25,
+              "original_price": 55.0,
+              "discount_pct": 25.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -27276,16 +27357,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59296-apex-legends-el-juego-de-mesa-tablero-1-8435407650510.html",
-          "price": 48.39,
+          "price": 41.24,
           "original_price": 54.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:15.679195",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-17T11:55:42.303037",
           "history": [
             {
               "price": 48.39,
               "original_price": 54.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 41.24,
+              "original_price": 54.99,
+              "discount_pct": 25.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -27391,16 +27478,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59294-apex-legends-el-juego-de-mesa-expansion-en-solitario-y-cooperativo-8435407650527.html",
-          "price": 26.99,
+          "price": 22.49,
           "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:15.666194",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-17T11:55:42.308070",
           "history": [
             {
               "price": 26.99,
               "original_price": 29.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.49,
+              "original_price": 29.99,
+              "discount_pct": 25.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -27414,16 +27507,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59295-apex-legends-el-juego-de-mesa-peloton-1-8435407650503.html",
-          "price": 43.99,
+          "price": 37.49,
           "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:15.664284",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-17T11:55:42.306888",
           "history": [
             {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 37.49,
+              "original_price": 49.99,
+              "discount_pct": 25.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -32498,16 +32597,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59792-metal-gear-solid-el-juego-de-mesa-8435407650572.html",
-          "price": 96.79,
+          "price": 87.99,
           "original_price": 109.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:47.289913",
+          "discount_pct": 20.0,
+          "scraped_at": "2026-06-17T11:55:49.157390",
           "history": [
             {
               "price": 96.79,
               "original_price": 109.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 87.99,
+              "original_price": 109.99,
+              "discount_pct": 20.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -32751,16 +32856,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/heroquest/57968-heroquest-la-cripta-de-la-oscuridad-perpetua-5010996325518.html",
-          "price": 31.49,
+          "price": 25.0,
           "original_price": 34.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:47.267084",
+          "discount_pct": 28.0,
+          "scraped_at": "2026-06-17T11:55:42.291744",
           "history": [
             {
               "price": 31.49,
               "original_price": 34.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 25.0,
+              "original_price": 34.99,
+              "discount_pct": 28.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -33516,16 +33627,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59293-apex-legends-el-juego-de-mesa-8435407650497.html",
-          "price": 96.79,
+          "price": 82.49,
           "original_price": 109.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:42.923079",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-17T11:55:42.309071",
           "history": [
             {
               "price": 96.79,
               "original_price": 109.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 82.49,
+              "original_price": 109.99,
+              "discount_pct": 25.0,
+              "date": "2026-06-17"
             }
           ]
         }
@@ -47273,16 +47390,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59997-5-minute-one-piece-3558380138907.html",
-          "price": 26.99,
+          "price": 22.49,
           "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:38.001537",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-17T11:55:42.297324",
           "history": [
             {
               "price": 26.99,
               "original_price": 29.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.49,
+              "original_price": 29.99,
+              "discount_pct": 25.0,
+              "date": "2026-06-17"
             }
           ]
         }
