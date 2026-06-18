@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-06-17T11:58:08.097552",
-  "total": 2028,
-  "total_raw": 2076,
+  "generated_at": "2026-06-18T11:15:18.590914",
+  "total": 2029,
+  "total_raw": 2077,
   "games": [
+    {
+      "name": "Forest Shuffle: Dartmoor - Expansión Exmoor",
+      "is_new": 0,
+      "first_seen": "2026-06-18T11:13:04.085555",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60527-forest-shuffle-dartmoor-expansion-exmoor-3558387007282.html",
+          "price": 10.79,
+          "original_price": 11.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-18T11:13:04.085555",
+          "history": [
+            {
+              "price": 10.79,
+              "original_price": 11.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-18"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Tuareg: Dunas y Agua",
       "is_new": 0,
@@ -9025,16 +9048,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58874-coming-of-age-793588575557.html",
-          "price": 48.39,
+          "price": 35.74,
           "original_price": 54.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:15.668106",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-18T11:13:04.095941",
           "history": [
             {
               "price": 48.39,
               "original_price": 54.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 35.74,
+              "original_price": 54.99,
+              "discount_pct": 35.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -20231,16 +20260,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/magna-roma/50052-magna-roma-8437022228150.html",
-          "price": 53.67,
+          "price": 42.69,
           "original_price": 60.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:52.204577",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-06-18T11:13:04.099923",
           "history": [
             {
               "price": 53.67,
               "original_price": 60.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 42.69,
+              "original_price": 60.99,
+              "discount_pct": 30.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -20254,16 +20289,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/magna-roma/50053-magna-roma-deluxe-8437022228167.html",
-          "price": 71.27,
+          "price": 56.69,
           "original_price": 80.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:52.202302",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-06-18T11:13:04.097948",
           "history": [
             {
               "price": 71.27,
               "original_price": 80.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 56.69,
+              "original_price": 80.99,
+              "discount_pct": 30.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -20277,16 +20318,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/magna-roma/50054-magna-roma-dominus-8437022228174.html",
-          "price": 34.19,
+          "price": 26.59,
           "original_price": 37.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:52.200153",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-06-18T11:13:04.098777",
           "history": [
             {
               "price": 34.19,
               "original_price": 37.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 26.59,
+              "original_price": 37.99,
+              "discount_pct": 30.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -20599,16 +20646,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54480-trekking-8436572391260.html",
-          "price": 35.16,
+          "price": 25.97,
           "original_price": 39.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:47.845870",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-18T11:13:04.094964",
           "history": [
             {
               "price": 35.16,
               "original_price": 39.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 25.97,
+              "original_price": 39.95,
+              "discount_pct": 35.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -20668,16 +20721,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54614-forever-home-6379022486388.html",
-          "price": 35.16,
+          "price": 25.97,
           "original_price": 39.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:47.839795",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-18T11:13:04.096997",
           "history": [
             {
               "price": 35.16,
               "original_price": 39.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 25.97,
+              "original_price": 39.95,
+              "discount_pct": 35.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -22664,16 +22723,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/stratego/53868-stratego-original-8410446000939.html",
-          "price": 31.46,
+          "price": 24.47,
           "original_price": 34.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:38.723798",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-06-18T11:13:07.223018",
           "history": [
             {
               "price": 31.46,
               "original_price": 34.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 24.47,
+              "original_price": 34.95,
+              "discount_pct": 30.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -24608,16 +24673,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54694-tiwanaku-8437027014253.html",
-          "price": 43.96,
+          "price": 34.97,
           "original_price": 49.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:29.522074",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-06-18T11:13:07.222005",
           "history": [
             {
               "price": 43.96,
               "original_price": 49.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 34.97,
+              "original_price": 49.95,
+              "discount_pct": 30.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -25442,16 +25513,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56742-hello-kitty-un-dia-en-el-parque-6379025080538.html",
-          "price": 26.99,
+          "price": 20.99,
           "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:24.867938",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-06-18T11:13:04.101172",
           "history": [
             {
               "price": 26.99,
               "original_price": 29.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 20.99,
+              "original_price": 29.99,
+              "discount_pct": 30.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -30757,16 +30834,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/31254-planet-steam-9781616617073.html",
-          "price": 18.0,
+          "price": 10.0,
           "original_price": 59.95,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-22T05:59:56.001114",
+          "discount_pct": 83.0,
+          "scraped_at": "2026-06-18T11:13:16.808843",
           "history": [
             {
               "price": 18.0,
               "original_price": 59.95,
               "discount_pct": 70.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 10.0,
+              "original_price": 59.95,
+              "discount_pct": 83.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -34875,16 +34958,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/x-men-insurreccion-mutante/45824-x-men-insurreccion-mutante-8435407632844.html",
-          "price": 40.0,
+          "price": 30.0,
           "original_price": 59.99,
-          "discount_pct": 33.3,
-          "scraped_at": "2026-05-22T05:59:38.539075",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-18T11:14:13.305389",
           "history": [
             {
               "price": 40.0,
               "original_price": 59.99,
               "discount_pct": 33.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 30.0,
+              "original_price": 59.99,
+              "discount_pct": 50.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -35819,16 +35908,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/51556-marvel-dagger-841333121563.html",
-          "price": 54.0,
+          "price": 45.0,
           "original_price": 89.99,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T05:59:34.154828",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-18T11:14:00.781813",
           "history": [
             {
               "price": 54.0,
               "original_price": 89.99,
               "discount_pct": 40.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 45.0,
+              "original_price": 89.99,
+              "discount_pct": 50.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -36256,16 +36351,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/53065-cangaceiros-8437024216049.html",
-          "price": 35.74,
+          "price": 30.24,
           "original_price": 54.99,
-          "discount_pct": 35.0,
-          "scraped_at": "2026-05-22T05:59:29.812984",
+          "discount_pct": 45.0,
+          "scraped_at": "2026-06-18T11:14:13.297962",
           "history": [
             {
               "price": 35.74,
               "original_price": 54.99,
               "discount_pct": 35.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 30.24,
+              "original_price": 54.99,
+              "discount_pct": 45.0,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -43600,16 +43701,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58983-horrified-dungeons-dragons-4005556248889.html",
-          "price": 44.0,
+          "price": 37.5,
           "original_price": 50.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:58:55.399177",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-18T11:13:07.220463",
           "history": [
             {
               "price": 44.0,
               "original_price": 50.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 37.5,
+              "original_price": 50.0,
+              "discount_pct": 25.0,
+              "date": "2026-06-18"
             }
           ]
         }
