@@ -1,8 +1,215 @@
 {
-  "generated_at": "2026-06-18T11:15:18.590914",
-  "total": 2029,
-  "total_raw": 2077,
+  "generated_at": "2026-06-19T11:42:14.685294",
+  "total": 2038,
+  "total_raw": 2086,
   "games": [
+    {
+      "name": "Skull Tales: Tortuga (Expansión)",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:11.917228",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/skull-tales/60462-skull-tales-tortuga-expansion-634438128793.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-19T11:40:11.917228",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EXIT 4: El Castillo Prohibido",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:05.637918",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/exit/39208-exit-4-el-castillo-prohibido-8436017226713.html",
+          "price": 9.5,
+          "original_price": 16.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.637918",
+          "history": [
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EXIT 6: La Estación Polar",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:05.635170",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/exit/39210-exit-6-la-estacion-polar-8436017226737.html",
+          "price": 9.5,
+          "original_price": 16.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.635170",
+          "history": [
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EXIT 12: La Casa de los Enigmas",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:05.629461",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/exit/44532-exit-12-la-casa-de-los-enigmas-8436589620971.html",
+          "price": 9.5,
+          "original_price": 16.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.629461",
+          "history": [
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Erudito: Un Juego de Maldón",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:02.528936",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60539-el-erudito-un-juego-de-maldon-7798157390619.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-19T11:40:02.528936",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epochs: El Camino de las Culturas",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:02.526164",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60550-epochs-el-camino-de-las-culturas-8436625610256.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-19T11:40:02.526164",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epochs: Oriente Medio y Latinoamerica",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:02.522056",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60551-epochs-oriente-medio-y-latinoamerica-8436625610270.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-19T11:40:02.522056",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emberleaf",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:02.519306",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60544-emberleaf-8436623243548.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-19T11:40:02.519306",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emberleaf: Trofeos y Premios",
+      "is_new": 0,
+      "first_seen": "2026-06-19T11:40:02.513452",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60545-emberleaf-trofeos-y-premios-8436625618078.html",
+          "price": 17.1,
+          "original_price": 19.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-19T11:40:02.513452",
+          "history": [
+            {
+              "price": 17.1,
+              "original_price": 19.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Forest Shuffle: Dartmoor - Expansión Exmoor",
       "is_new": 0,
@@ -26859,16 +27066,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/42713-exit-10-el-museo-misterioso-8436017228717.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:20.161911",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.628293",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -28694,16 +28907,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/45605-exit-14-robo-en-el-misisipi-8436589621855.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:10.919396",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.627136",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -29068,16 +29287,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/45606-exit-15-vuelo-hacia-lo-desconocido-8436589621848.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:05.726688",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.625746",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -31852,16 +32077,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/40035-exit-8-muerte-en-el-orient-express-8436017227130.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:51.588220",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.634037",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -32312,16 +32543,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/50556-exit-el-senor-de-los-anillos-sombras-sobre-la-tierra-media-8436589627857.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:51.547237",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.620728",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -32358,16 +32595,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/47381-exit-18-el-cementerio-de-las-tinieblas-8436589624610.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:51.543209",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.622041",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -33411,16 +33654,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/42712-exit-11-la-mansion-siniestra-8436017228731.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:42.953989",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.631750",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -33785,16 +34034,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/38091-exit-1-la-cabana-abandonada-8436017225099.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:42.917357",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.644012",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -34475,16 +34730,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/47387-exit-17-el-bosque-encantado-8436589624597.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:38.585476",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.623250",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -34659,16 +34920,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/39209-exit-5-la-isla-olvidada-8436017226720.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:38.568165",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.641395",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -37404,16 +37671,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/54912-exit-23-el-legado-del-profesor-8436607943488.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:25.430706",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.616463",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -37548,16 +37821,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/51672-exit-regreso-a-la-cabana-abandonada-8436589629219.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:25.416725",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.618006",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -38836,16 +39115,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/49877-exit-20-el-laberinto-maldito-8436589627161.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:16.804196",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.619443",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -39365,16 +39650,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/54911-exit-22-secuestro-en-fortune-city-8436607943464.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:16.755797",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.613869",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -41533,16 +41824,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/44533-exit-13-la-feria-terrorifica-8436589620988.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.167239",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.624416",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -41884,16 +42181,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/40037-exit-7-el-tesoro-hundido-8436017227123.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:03.991300",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.632945",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -44742,16 +45045,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/38092-exit-2-la-tumba-del-faraon-8436017225242.html",
-          "price": 14.4,
+          "price": 9.5,
           "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:51.097658",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-19T11:40:05.640173",
           "history": [
             {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.5,
+              "original_price": 16.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -46496,16 +46805,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/renature/45294-renature-8437018648641.html",
-          "price": 33.74,
+          "price": 29.24,
           "original_price": 44.99,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-05-22T05:58:42.370858",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-19T11:40:18.180425",
           "history": [
             {
               "price": 33.74,
               "original_price": 44.99,
               "discount_pct": 25.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 29.24,
+              "original_price": 44.99,
+              "discount_pct": 35.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -46703,16 +47018,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59169-23-knives-8437024216742.html",
-          "price": 32.96,
+          "price": 28.57,
           "original_price": 43.95,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-05-22T05:58:42.347950",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-19T11:40:15.081450",
           "history": [
             {
               "price": 32.96,
               "original_price": 43.95,
               "discount_pct": 25.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 28.57,
+              "original_price": 43.95,
+              "discount_pct": 35.0,
+              "date": "2026-06-19"
             }
           ]
         }
@@ -46985,16 +47306,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/40804-co2-segunda-oportunidad-8437013454766.html",
-          "price": 59.99,
+          "price": 51.99,
           "original_price": 79.99,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-05-22T05:58:38.059509",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-19T11:40:21.230842",
           "history": [
             {
               "price": 59.99,
               "original_price": 79.99,
               "discount_pct": 25.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 51.99,
+              "original_price": 79.99,
+              "discount_pct": 35.0,
+              "date": "2026-06-19"
             }
           ]
         }
