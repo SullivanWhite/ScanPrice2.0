@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-06-22T12:57:33.990163",
-  "total": 2039,
-  "total_raw": 2087,
+  "generated_at": "2026-06-23T10:41:46.554220",
+  "total": 2040,
+  "total_raw": 2089,
   "games": [
+    {
+      "name": "Unmatched Battle of Legends: Volumen 3",
+      "is_new": 0,
+      "first_seen": "2026-06-23T10:39:35.868626",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/unmatched/60565-unmatched-battle-of-legends-volumen-3-8436572391475.html",
+          "price": 34.2,
+          "original_price": 38.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-23T10:39:35.868626",
+          "history": [
+            {
+              "price": 34.2,
+              "original_price": 38.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dungeon WC",
+      "is_new": 0,
+      "first_seen": "2026-06-23T10:39:35.865635",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/41286-dungeon-wc-806891135001.html",
+          "price": 18.86,
+          "original_price": 20.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-23T10:39:35.865635",
+          "history": [
+            {
+              "price": 18.86,
+              "original_price": 20.95,
+              "discount_pct": 10.0,
+              "date": "2026-06-23"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/41286-dungeon-wc-9558609607607.html",
+          "price": 18.86,
+          "original_price": 20.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:01:10.740894",
+          "history": [
+            {
+              "price": 18.86,
+              "original_price": 20.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Corre y Apuesta",
       "is_new": 0,
@@ -16371,29 +16433,6 @@
       ]
     },
     {
-      "name": "Dungeon WC",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:10.740894",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/41286-dungeon-wc-9558609607607.html",
-          "price": 18.86,
-          "original_price": 20.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:01:10.740894",
-          "history": [
-            {
-              "price": 18.86,
-              "original_price": 20.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Imperium: Clásicos",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:10.739052",
@@ -20577,16 +20616,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/40086-ceylon-0793588575403.html",
-          "price": 35.16,
+          "price": 29.96,
           "original_price": 39.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:52.197978",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-23T10:39:35.862801",
           "history": [
             {
               "price": 35.16,
               "original_price": 39.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 29.96,
+              "original_price": 39.95,
+              "discount_pct": 25.0,
+              "date": "2026-06-23"
             }
           ]
         }
@@ -35985,16 +36030,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/50237-godzilla-vs-kong-8436564812209.html",
-          "price": 24.0,
+          "price": 16.0,
           "original_price": 39.95,
-          "discount_pct": 39.9,
-          "scraped_at": "2026-05-22T05:59:34.173560",
+          "discount_pct": 59.0,
+          "scraped_at": "2026-06-23T10:39:35.872384",
           "history": [
             {
               "price": 24.0,
               "original_price": 39.95,
               "discount_pct": 39.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 39.95,
+              "discount_pct": 59.0,
+              "date": "2026-06-23"
             }
           ]
         }
