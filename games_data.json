@@ -1,8 +1,146 @@
 {
-  "generated_at": "2026-06-25T10:20:33.510982",
-  "total": 2040,
-  "total_raw": 2089,
+  "generated_at": "2026-06-26T10:28:27.536100",
+  "total": 2046,
+  "total_raw": 2095,
   "games": [
+    {
+      "name": "Emberleaf: Pack de Heroes 1 (Mazo Inicial F)",
+      "is_new": 0,
+      "first_seen": "2026-06-26T10:26:14.051347",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60546-emberleaf-pack-de-heroes-1-mazo-inicial-f-8436625618016.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-26T10:26:14.051347",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emberleaf: Pack de Heroes 3 (Mazo Inicial G)",
+      "is_new": 0,
+      "first_seen": "2026-06-26T10:26:14.048093",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60548-emberleaf-pack-de-heroes-3-mazo-inicial-g-8436625618030.html",
+          "price": 9.9,
+          "original_price": 11.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-26T10:26:14.048093",
+          "history": [
+            {
+              "price": 9.9,
+              "original_price": 11.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emberleaf: Pack de Heroes 2 (Diversión Festiva)",
+      "is_new": 0,
+      "first_seen": "2026-06-26T10:26:14.045445",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60547-emberleaf-pack-de-heroes-2-diversion-festiva-8436625618054.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-26T10:26:14.045445",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fast Friends",
+      "is_new": 0,
+      "first_seen": "2026-06-26T10:26:14.042997",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60578-fast-friends-810171413161.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-26T10:26:14.042997",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Match my Freak",
+      "is_new": 0,
+      "first_seen": "2026-06-26T10:26:14.036657",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60579-match-my-freak-810171413062.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-26T10:26:14.036657",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harmonies: Tempo",
+      "is_new": 0,
+      "first_seen": "2026-06-26T10:26:14.031925",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60582-harmonies-tempo-3558387007855.html",
+          "price": 4.95,
+          "original_price": 5.5,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-26T10:26:14.031925",
+          "history": [
+            {
+              "price": 4.95,
+              "original_price": 5.5,
+              "discount_pct": 10.0,
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Unmatched Battle of Legends: Volumen 3",
       "is_new": 0,
@@ -35811,16 +35949,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/42514-robin-hood-y-sus-alegres-companeros-8436572390140.html",
-          "price": 30.0,
+          "price": 16.0,
           "original_price": 59.95,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T05:59:34.192829",
+          "discount_pct": 73.0,
+          "scraped_at": "2026-06-26T10:27:29.806140",
           "history": [
             {
               "price": 30.0,
               "original_price": 59.95,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 59.95,
+              "discount_pct": 73.0,
+              "date": "2026-06-26"
             }
           ]
         }
