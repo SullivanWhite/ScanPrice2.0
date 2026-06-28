@@ -1,8 +1,231 @@
 {
-  "generated_at": "2026-06-27T09:34:32.666759",
+  "generated_at": "2026-06-28T10:09:16.769255",
   "total": 2046,
-  "total_raw": 2095,
+  "total_raw": 2100,
   "games": [
+    {
+      "name": "Merv (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-28T10:09:07.620141",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/42319-merv-spanish-8436578813919.html",
+          "price": 16.95,
+          "original_price": 50.0,
+          "discount_pct": 66.1,
+          "scraped_at": "2026-06-28T10:09:07.620141",
+          "history": [
+            {
+              "price": 16.95,
+              "original_price": 50.0,
+              "discount_pct": 66.1,
+              "date": "2026-06-28"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/42319-merv-spanish-1000000000001.html",
+          "price": 16.95,
+          "original_price": 50.0,
+          "discount_pct": 66.1,
+          "scraped_at": "2026-05-22T06:01:31.790750",
+          "history": [
+            {
+              "price": 16.95,
+              "original_price": 50.0,
+              "discount_pct": 66.1,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Whistle Mountain (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-28T10:09:07.610252",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/44504-whistle-mountain-spanish-8436578814824.html",
+          "price": 19.9,
+          "original_price": 60.0,
+          "discount_pct": 66.8,
+          "scraped_at": "2026-06-28T10:09:07.610252",
+          "history": [
+            {
+              "price": 19.9,
+              "original_price": 60.0,
+              "discount_pct": 66.8,
+              "date": "2026-06-28"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/44504-whistle-mountain-spanish-1000000000001.html",
+          "price": 19.9,
+          "original_price": 60.0,
+          "discount_pct": 66.8,
+          "scraped_at": "2026-05-22T06:01:29.688249",
+          "history": [
+            {
+              "price": 19.9,
+              "original_price": 60.0,
+              "discount_pct": 66.8,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ejército de Terracota",
+      "is_new": 0,
+      "first_seen": "2026-06-28T10:09:03.876619",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/46873-ejercito-de-terracota-8436578815531.html",
+          "price": 17.95,
+          "original_price": 60.0,
+          "discount_pct": 70.1,
+          "scraped_at": "2026-06-28T10:09:03.876619",
+          "history": [
+            {
+              "price": 17.95,
+              "original_price": 60.0,
+              "discount_pct": 70.1,
+              "date": "2026-06-28"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/46873-ejercito-de-terracota.html",
+          "price": 17.95,
+          "original_price": 60.0,
+          "discount_pct": 70.1,
+          "scraped_at": "2026-06-13T10:08:19.577897",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 60.0,
+              "discount_pct": 70.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 17.95,
+              "original_price": 60.0,
+              "discount_pct": 70.1,
+              "date": "2026-06-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karvi (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-28T10:09:02.013894",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/51815-karvi-castellano-8436607942870.html",
+          "price": 24.0,
+          "original_price": 60.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-06-28T10:09:02.013894",
+          "history": [
+            {
+              "price": 24.0,
+              "original_price": 60.0,
+              "discount_pct": 60.0,
+              "date": "2026-06-28"
+            }
+          ]
+        },
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/karvi-78877.html",
+          "price": 36.0,
+          "original_price": 60.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-22T06:02:11.540232",
+          "history": [
+            {
+              "price": 36.0,
+              "original_price": 60.0,
+              "discount_pct": 40.0,
+              "date": "2026-05-22"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/51815-karvi-castellano.html",
+          "price": 24.0,
+          "original_price": 60.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-05-22T06:01:23.314880",
+          "history": [
+            {
+              "price": 24.0,
+              "original_price": 60.0,
+              "discount_pct": 60.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sand (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-06-28T10:09:02.010151",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52115-sand-castellano-8436607942894.html",
+          "price": 17.95,
+          "original_price": 36.0,
+          "discount_pct": 50.1,
+          "scraped_at": "2026-06-28T10:09:02.010151",
+          "history": [
+            {
+              "price": 17.95,
+              "original_price": 36.0,
+              "discount_pct": 50.1,
+              "date": "2026-06-28"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52115-sand-castellano.html",
+          "price": 17.95,
+          "original_price": 36.0,
+          "discount_pct": 50.1,
+          "scraped_at": "2026-06-12T11:08:16.598245",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 36.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 17.95,
+              "original_price": 36.0,
+              "discount_pct": 50.1,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Emberleaf: Pack de Heroes 1 (Mazo Inicial F)",
       "is_new": 0,
@@ -5321,45 +5544,6 @@
               "price": 18.89,
               "original_price": 62.95,
               "discount_pct": 70.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Karvi (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:02:11.540232",
-      "prices": [
-        {
-          "source": "dungeonmarvels",
-          "url": "https://dungeonmarvels.com/karvi-78877.html",
-          "price": 36.0,
-          "original_price": 60.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:02:11.540232",
-          "history": [
-            {
-              "price": 36.0,
-              "original_price": 60.0,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/51815-karvi-castellano.html",
-          "price": 24.0,
-          "original_price": 60.0,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-05-22T06:01:23.314880",
-          "history": [
-            {
-              "price": 24.0,
-              "original_price": 60.0,
-              "discount_pct": 60.0,
               "date": "2026-05-22"
             }
           ]
@@ -12998,29 +13182,6 @@
       ]
     },
     {
-      "name": "Merv (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:31.790750",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/42319-merv-spanish-1000000000001.html",
-          "price": 16.95,
-          "original_price": 50.0,
-          "discount_pct": 66.1,
-          "scraped_at": "2026-05-22T06:01:31.790750",
-          "history": [
-            {
-              "price": 16.95,
-              "original_price": 50.0,
-              "discount_pct": 66.1,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Caverna: Caverna vs Caverna",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:31.788767",
@@ -13564,29 +13725,6 @@
       ]
     },
     {
-      "name": "Whistle Mountain (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:29.688249",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/44504-whistle-mountain-spanish-1000000000001.html",
-          "price": 19.9,
-          "original_price": 60.0,
-          "discount_pct": 66.8,
-          "scraped_at": "2026-05-22T06:01:29.688249",
-          "history": [
-            {
-              "price": 19.9,
-              "original_price": 60.0,
-              "discount_pct": 66.8,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Sanssouci (Castellano)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:29.686043",
@@ -13715,16 +13853,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/45371-ora-et-labora-8435407640559.html",
-          "price": 16.95,
+          "price": 14.95,
           "original_price": 55.69,
-          "discount_pct": 69.6,
-          "scraped_at": "2026-05-22T06:01:29.672921",
+          "discount_pct": 73.2,
+          "scraped_at": "2026-06-28T10:09:05.730862",
           "history": [
             {
               "price": 16.95,
               "original_price": 55.69,
               "discount_pct": 69.6,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.95,
+              "original_price": 55.69,
+              "discount_pct": 73.2,
+              "date": "2026-06-28"
             }
           ]
         }
@@ -14139,35 +14283,6 @@
               "original_price": 60.0,
               "discount_pct": 50.1,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Ejército de Terracota",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:27.581143",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/46873-ejercito-de-terracota.html",
-          "price": 17.95,
-          "original_price": 60.0,
-          "discount_pct": 70.1,
-          "scraped_at": "2026-06-13T10:08:19.577897",
-          "history": [
-            {
-              "price": 18.0,
-              "original_price": 60.0,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 17.95,
-              "original_price": 60.0,
-              "discount_pct": 70.1,
-              "date": "2026-06-13"
             }
           ]
         }
@@ -15350,35 +15465,6 @@
               "original_price": 79.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Sand (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:23.308714",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/52115-sand-castellano.html",
-          "price": 17.95,
-          "original_price": 36.0,
-          "discount_pct": 50.1,
-          "scraped_at": "2026-06-12T11:08:16.598245",
-          "history": [
-            {
-              "price": 18.0,
-              "original_price": 36.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 17.95,
-              "original_price": 36.0,
-              "discount_pct": 50.1,
-              "date": "2026-06-12"
             }
           ]
         }
@@ -17291,16 +17377,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/catan/25660-catan-expansion-navegantes-ed-2025-8436017220056.html",
-          "price": 41.36,
+          "price": 28.0,
           "original_price": 47.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:01:10.669277",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-28T10:07:11.887868",
           "history": [
             {
               "price": 41.36,
               "original_price": 47.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 28.0,
+              "original_price": 47.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-28"
             }
           ]
         }
@@ -31869,16 +31961,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/catan/25813-catan-expansion-piratas-y-exploradores-8436017221190.html",
-          "price": 41.36,
+          "price": 28.0,
           "original_price": 47.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:55.943097",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-28T10:08:43.168489",
           "history": [
             {
               "price": 41.36,
               "original_price": 47.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 28.0,
+              "original_price": 47.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-28"
             }
           ]
         }
@@ -32991,16 +33089,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/catan/25663-catan-expansion-mercaderes-y-barbaros-8436017220131.html",
-          "price": 41.36,
+          "price": 28.0,
           "original_price": 47.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:47.302952",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-28T10:07:11.884761",
           "history": [
             {
               "price": 41.36,
               "original_price": 47.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 28.0,
+              "original_price": 47.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-28"
             }
           ]
         }
@@ -40679,16 +40783,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/catan/58532-catan-expansion-piratas-y-exploradores-ed-2025-8436017221190.html",
-          "price": 41.36,
+          "price": 28.0,
           "original_price": 47.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.483600",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-28T10:07:11.889002",
           "history": [
             {
               "price": 41.36,
               "original_price": 47.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 28.0,
+              "original_price": 47.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-28"
             }
           ]
         }
