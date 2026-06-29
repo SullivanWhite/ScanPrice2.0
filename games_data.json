@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-06-28T10:09:16.769255",
+  "generated_at": "2026-06-29T12:06:48.004711",
   "total": 2046,
-  "total_raw": 2100,
+  "total_raw": 2101,
   "games": [
+    {
+      "name": "Catan Expansión: Piratas y Exploradores",
+      "is_new": 0,
+      "first_seen": "2026-06-29T12:06:11.192827",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/catan/25813-catan-expansion-piratas-y-exploradores.html",
+          "price": 28.0,
+          "original_price": 47.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-29T12:06:11.192827",
+          "history": [
+            {
+              "price": 28.0,
+              "original_price": 47.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-29"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/catan/25813-catan-expansion-piratas-y-exploradores-8436017221190.html",
+          "price": 28.0,
+          "original_price": 47.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-06-28T10:08:43.168489",
+          "history": [
+            {
+              "price": 41.36,
+              "original_price": 47.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 28.0,
+              "original_price": 47.0,
+              "discount_pct": 40.0,
+              "date": "2026-06-28"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Merv (Castellano)",
       "is_new": 0,
@@ -134,16 +179,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/51815-karvi-castellano-8436607942870.html",
-          "price": 24.0,
+          "price": 30.0,
           "original_price": 60.0,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-06-28T10:09:02.013894",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-29T12:06:32.098712",
           "history": [
             {
               "price": 24.0,
               "original_price": 60.0,
               "discount_pct": 60.0,
               "date": "2026-06-28"
+            },
+            {
+              "price": 30.0,
+              "original_price": 60.0,
+              "discount_pct": 50.0,
+              "date": "2026-06-29"
             }
           ]
         },
@@ -31948,35 +31999,6 @@
               "original_price": 50.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Catan Expansión: Piratas y Exploradores",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:55.943097",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/catan/25813-catan-expansion-piratas-y-exploradores-8436017221190.html",
-          "price": 28.0,
-          "original_price": 47.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-28T10:08:43.168489",
-          "history": [
-            {
-              "price": 41.36,
-              "original_price": 47.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 28.0,
-              "original_price": 47.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-28"
             }
           ]
         }
