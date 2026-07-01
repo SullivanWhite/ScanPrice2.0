@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T10:36:46.878745",
+  "generated_at": "2026-07-01T10:48:01.710884",
   "total": 2046,
   "total_raw": 2103,
   "games": [
@@ -17506,10 +17506,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/catan/25660-catan-expansion-navegantes-ed-2025-8436017220056.html",
-          "price": 28.0,
+          "price": 41.36,
           "original_price": 47.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-28T10:07:11.887868",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-01T10:45:52.168985",
           "history": [
             {
               "price": 41.36,
@@ -17522,6 +17522,12 @@
               "original_price": 47.0,
               "discount_pct": 40.0,
               "date": "2026-06-28"
+            },
+            {
+              "price": 41.36,
+              "original_price": 47.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-01"
             }
           ]
         }
@@ -42236,10 +42242,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/44533-exit-13-la-feria-terrorifica-8436589620988.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.624416",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-01T10:45:52.165717",
           "history": [
             {
               "price": 14.4,
@@ -42252,6 +42258,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-01"
             }
           ]
         }
@@ -47154,16 +47166,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/inicio/57448-pergola-5906954790347.html",
-          "price": 27.0,
+          "price": 37.79,
           "original_price": 41.99,
-          "discount_pct": 35.0,
-          "scraped_at": "2026-05-22T05:58:42.378334",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-01T10:47:25.034178",
           "history": [
             {
               "price": 27.0,
               "original_price": 41.99,
               "discount_pct": 35.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 37.79,
+              "original_price": 41.99,
+              "discount_pct": 10.0,
+              "date": "2026-07-01"
             }
           ]
         }
