@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-07-01T10:48:01.710884",
-  "total": 2046,
-  "total_raw": 2103,
+  "generated_at": "2026-07-02T10:15:33.948052",
+  "total": 2049,
+  "total_raw": 2106,
   "games": [
+    {
+      "name": "Fateforge: Cronicas de Kaan",
+      "is_new": 0,
+      "first_seen": "2026-07-02T10:13:20.144539",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60606-fateforge-cronicas-de-kaan-8436607945307.html",
+          "price": 79.2,
+          "original_price": 90.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-02T10:13:20.144539",
+          "history": [
+            {
+              "price": 79.2,
+              "original_price": 90.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fateforge: Cronicas de Kaan - Afinidades Salvajes",
+      "is_new": 0,
+      "first_seen": "2026-07-02T10:13:20.141721",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60618-fateforge-cronicas-de-kaan-afinidades-salvajes-8436625612250.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-02T10:13:20.141721",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fateforge: Cronicas de Kaan - Choque de los Inmortales",
+      "is_new": 0,
+      "first_seen": "2026-07-02T10:13:20.137347",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60619-fateforge-cronicas-de-kaan-choque-de-los-inmortales-8436625612236.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-02T10:13:20.137347",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-02"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Quoridor: Mini",
       "is_new": 0,
@@ -8012,16 +8081,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58351-rumblebots-8435407650862.html",
-          "price": 24.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-05-22T06:00:38.666822",
+          "price": 16.0,
+          "original_price": 24.99,
+          "discount_pct": 35.0,
+          "scraped_at": "2026-07-02T10:13:20.150592",
           "history": [
             {
               "price": 24.99,
               "original_price": null,
               "discount_pct": null,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 24.99,
+              "discount_pct": 35.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -25469,16 +25544,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58205-star-wars-super-teams-3558380130116.html",
-          "price": 26.99,
+          "price": 19.5,
           "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:29.510796",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-07-02T10:13:20.148981",
           "history": [
             {
               "price": 26.99,
               "original_price": 29.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 19.5,
+              "original_price": 29.99,
+              "discount_pct": 34.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -32367,16 +32448,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/agricola/7878-agricola-edicion-revisada-8435407635043.html",
-          "price": 49.27,
+          "price": 36.5,
           "original_price": 55.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:51.601754",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-07-02T10:14:50.365944",
           "history": [
             {
               "price": 49.27,
               "original_price": 55.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 36.5,
+              "original_price": 55.99,
+              "discount_pct": 34.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -36137,16 +36224,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/45238-skytear-kurumo-8058269030582.html",
-          "price": 8.0,
+          "price": 6.0,
           "original_price": 30.0,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:34.196926",
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:14:29.442963",
           "history": [
             {
               "price": 8.0,
               "original_price": 30.0,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -36264,16 +36357,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/46560-skytear-the-breach-8058269030957.html",
-          "price": 7.0,
-          "original_price": 23.99,
-          "discount_pct": 70.8,
-          "scraped_at": "2026-05-22T05:59:34.186832",
+          "price": 4.8,
+          "original_price": 24.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.157245",
           "history": [
             {
               "price": 7.0,
               "original_price": 23.99,
               "discount_pct": 70.8,
               "date": "2026-05-22"
+            },
+            {
+              "price": 4.8,
+              "original_price": 24.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -36310,16 +36409,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/45368-skytear-nupten-8058269030643.html",
-          "price": 8.0,
-          "original_price": 29.95,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:34.181896",
+          "price": 6.0,
+          "original_price": 30.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.161524",
           "history": [
             {
               "price": 8.0,
               "original_price": 29.95,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -36506,16 +36611,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/45540-skytear-stormsear-8058269030452.html",
-          "price": 8.0,
-          "original_price": 29.95,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:34.164725",
+          "price": 6.0,
+          "original_price": 30.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.133433",
           "history": [
             {
               "price": 8.0,
               "original_price": 29.95,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -36552,16 +36663,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/45491-skytear-outsiders-8058269030667.html",
-          "price": 8.0,
-          "original_price": 29.95,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:34.160750",
+          "price": 6.0,
+          "original_price": 30.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.159620",
           "history": [
             {
               "price": 8.0,
               "original_price": 29.95,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -39924,16 +40041,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/45237-skytear-liothan-8058269030605.html",
-          "price": 8.0,
+          "price": 6.0,
           "original_price": 30.0,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:16.768298",
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:14:26.498506",
           "history": [
             {
               "price": 8.0,
               "original_price": 30.0,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -39947,16 +40070,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/45367-skytear-taulot-8058269030629.html",
-          "price": 8.0,
-          "original_price": 29.95,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:16.766171",
+          "price": 6.0,
+          "original_price": 30.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.153343",
           "history": [
             {
               "price": 8.0,
               "original_price": 29.95,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -39970,16 +40099,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/45539-skytear-winterdeep-8058269030520.html",
-          "price": 8.0,
-          "original_price": 29.95,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:16.764162",
+          "price": 6.0,
+          "original_price": 30.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.158401",
           "history": [
             {
               "price": 8.0,
               "original_price": 29.95,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -40016,16 +40151,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/48013-skytear-unforgotten-8058269031039.html",
-          "price": 8.0,
-          "original_price": 29.95,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:16.760136",
+          "price": 6.0,
+          "original_price": 30.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.156104",
           "history": [
             {
               "price": 8.0,
               "original_price": 29.95,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -40039,16 +40180,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/skytear/54764-skytear-untamed-8058269031107.html",
-          "price": 8.0,
-          "original_price": 29.95,
-          "discount_pct": 73.3,
-          "scraped_at": "2026-05-22T05:59:16.757996",
+          "price": 6.0,
+          "original_price": 30.0,
+          "discount_pct": 80.0,
+          "scraped_at": "2026-07-02T10:13:20.154525",
           "history": [
             {
               "price": 8.0,
               "original_price": 29.95,
               "discount_pct": 73.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -41805,16 +41952,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58974-limit-3760269593534.html",
-          "price": 43.99,
+          "price": 30.5,
           "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:08.211026",
+          "discount_pct": 38.0,
+          "scraped_at": "2026-07-02T10:13:20.147582",
           "history": [
             {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 30.5,
+              "original_price": 49.99,
+              "discount_pct": 38.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -44221,16 +44374,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/42341-jaipur-3558380063902.html",
-          "price": 17.99,
+          "price": 13.0,
           "original_price": 19.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:55.425229",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-07-02T10:14:50.361965",
           "history": [
             {
               "price": 17.99,
               "original_price": 19.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.0,
+              "original_price": 19.99,
+              "discount_pct": 34.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -44509,16 +44668,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58879-railroad-tiles-8435407651050.html",
-          "price": 31.49,
+          "price": 23.0,
           "original_price": 34.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:55.392431",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-07-02T10:13:20.151719",
           "history": [
             {
               "price": 31.49,
               "original_price": 34.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 23.0,
+              "original_price": 34.99,
+              "discount_pct": 34.0,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -47431,16 +47596,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54485-an-age-contrived-8437024216285.html",
-          "price": 67.46,
+          "price": 58.47,
           "original_price": 89.95,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-05-22T05:58:42.350872",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-07-02T10:13:26.316720",
           "history": [
             {
               "price": 67.46,
               "original_price": 89.95,
               "discount_pct": 25.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 58.47,
+              "original_price": 89.95,
+              "discount_pct": 35.0,
+              "date": "2026-07-02"
             }
           ]
         }
