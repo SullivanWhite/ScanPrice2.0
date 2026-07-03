@@ -1,8 +1,145 @@
 {
-  "generated_at": "2026-07-02T10:15:33.948052",
-  "total": 2049,
-  "total_raw": 2106,
+  "generated_at": "2026-07-03T10:11:25.394898",
+  "total": 2053,
+  "total_raw": 2111,
   "games": [
+    {
+      "name": "Galactic Renaissance: Expansion 5º Jugador",
+      "is_new": 0,
+      "first_seen": "2026-07-03T10:09:28.376774",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55847-galactic-renaissance-expansion-5-jugador-8436564814333.html",
+          "price": 21.5,
+          "original_price": 43.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-03T10:09:28.376774",
+          "history": [
+            {
+              "price": 21.5,
+              "original_price": 43.0,
+              "discount_pct": 50.0,
+              "date": "2026-07-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ceylon",
+      "is_new": 0,
+      "first_seen": "2026-07-03T10:09:19.576454",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/40086-ceylon-793588575403.html",
+          "price": 29.96,
+          "original_price": 39.95,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-07-03T10:09:19.576454",
+          "history": [
+            {
+              "price": 29.96,
+              "original_price": 39.95,
+              "discount_pct": 25.0,
+              "date": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/40086-ceylon-0793588575403.html",
+          "price": 29.96,
+          "original_price": 39.95,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-06-23T10:39:35.862801",
+          "history": [
+            {
+              "price": 35.16,
+              "original_price": 39.95,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 29.96,
+              "original_price": 39.95,
+              "discount_pct": 25.0,
+              "date": "2026-06-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deep Regrets",
+      "is_new": 0,
+      "first_seen": "2026-07-03T10:09:19.573627",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60627-deep-regrets-8436627170017.html",
+          "price": 48.39,
+          "original_price": 54.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-03T10:09:19.573627",
+          "history": [
+            {
+              "price": 48.39,
+              "original_price": 54.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deep Regrets: Tentáculos Lamentables",
+      "is_new": 0,
+      "first_seen": "2026-07-03T10:09:19.570811",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60628-deep-regrets-tentaculos-lamentables-8436627170024.html",
+          "price": 6.26,
+          "original_price": 6.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-03T10:09:19.570811",
+          "history": [
+            {
+              "price": 6.26,
+              "original_price": 6.95,
+              "discount_pct": 10.0,
+              "date": "2026-07-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Pantano de Feya",
+      "is_new": 0,
+      "first_seen": "2026-07-03T10:09:19.568121",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60629-el-pantano-de-feya-8436627170130.html",
+          "price": 38.72,
+          "original_price": 44.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-03T10:09:19.568121",
+          "history": [
+            {
+              "price": 38.72,
+              "original_price": 44.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-03"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Fateforge: Cronicas de Kaan",
       "is_new": 0,
@@ -21049,35 +21186,6 @@
       ]
     },
     {
-      "name": "Ceylon",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:52.197978",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/40086-ceylon-0793588575403.html",
-          "price": 29.96,
-          "original_price": 39.95,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-06-23T10:39:35.862801",
-          "history": [
-            {
-              "price": 35.16,
-              "original_price": 39.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 29.96,
-              "original_price": 39.95,
-              "discount_pct": 25.0,
-              "date": "2026-06-23"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Ciudad de Ladrones (+ Promo)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:00:52.195430",
@@ -33300,10 +33408,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/catan/25663-catan-expansion-mercaderes-y-barbaros-8436017220131.html",
-          "price": 28.0,
+          "price": 41.36,
           "original_price": 47.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-28T10:07:11.884761",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-03T10:09:28.375139",
           "history": [
             {
               "price": 41.36,
@@ -33316,6 +33424,12 @@
               "original_price": 47.0,
               "discount_pct": 40.0,
               "date": "2026-06-28"
+            },
+            {
+              "price": 41.36,
+              "original_price": 47.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-03"
             }
           ]
         }
@@ -38200,10 +38314,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/54912-exit-23-el-legado-del-profesor-8436607943488.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.616463",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-03T10:09:28.373389",
           "history": [
             {
               "price": 14.4,
@@ -38216,6 +38330,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-03"
             }
           ]
         }
@@ -40209,10 +40329,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/54911-exit-22-secuestro-en-fortune-city-8436607943464.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.613869",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-03T10:09:19.564838",
           "history": [
             {
               "price": 14.4,
@@ -40225,6 +40345,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-03"
             }
           ]
         }
@@ -44029,16 +44155,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56749-daybreak-8435407650473.html",
-          "price": 39.0,
+          "price": 52.79,
           "original_price": 59.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-05-22T05:58:59.643630",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-03T10:10:48.515629",
           "history": [
             {
               "price": 39.0,
               "original_price": 59.99,
               "discount_pct": 34.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 52.79,
+              "original_price": 59.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-03"
             }
           ]
         }
