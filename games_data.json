@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-03T10:11:25.394898",
-  "total": 2053,
-  "total_raw": 2111,
+  "generated_at": "2026-07-04T09:30:25.991755",
+  "total": 2055,
+  "total_raw": 2113,
   "games": [
+    {
+      "name": "Cosmolancer",
+      "is_new": 0,
+      "first_seen": "2026-07-04T09:28:15.874705",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60644-cosmolancer-5010996324740.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-04T09:28:15.874705",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-07-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Talisman (5º Edicion)",
+      "is_new": 0,
+      "first_seen": "2026-07-04T09:28:15.870756",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/talisman/55831-talisman-5-edicion-5010996269331.html",
+          "price": 52.76,
+          "original_price": 59.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-04T09:28:15.870756",
+          "history": [
+            {
+              "price": 52.76,
+              "original_price": 59.95,
+              "discount_pct": 12.0,
+              "date": "2026-07-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Galactic Renaissance: Expansion 5º Jugador",
       "is_new": 0,
