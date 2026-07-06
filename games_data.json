@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T09:47:25.740431",
+  "generated_at": "2026-07-06T11:44:07.103028",
   "total": 2055,
   "total_raw": 2113,
   "games": [
@@ -30111,16 +30111,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/35980-colonos-del-imperio-atlantes-8435407607781.html",
-          "price": 7.0,
+          "price": 4.0,
           "original_price": 29.95,
-          "discount_pct": 76.6,
-          "scraped_at": "2026-05-22T06:00:05.714050",
+          "discount_pct": 86.0,
+          "scraped_at": "2026-07-06T11:42:05.068447",
           "history": [
             {
               "price": 7.0,
               "original_price": 29.95,
               "discount_pct": 76.6,
               "date": "2026-05-22"
+            },
+            {
+              "price": 4.0,
+              "original_price": 29.95,
+              "discount_pct": 86.0,
+              "date": "2026-07-06"
             }
           ]
         }
@@ -31302,16 +31308,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/38171-colonos-del-imperio-3-es-un-numero-magico-8435407616172.html",
-          "price": 4.0,
+          "price": 2.0,
           "original_price": 15.95,
-          "discount_pct": 74.9,
-          "scraped_at": "2026-05-22T06:00:00.192102",
+          "discount_pct": 87.0,
+          "scraped_at": "2026-07-06T11:42:53.886302",
           "history": [
             {
               "price": 4.0,
               "original_price": 15.95,
               "discount_pct": 74.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 2.0,
+              "original_price": 15.95,
+              "discount_pct": 87.0,
+              "date": "2026-07-06"
             }
           ]
         }
@@ -32746,10 +32758,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/40035-exit-8-muerte-en-el-orient-express-8436017227130.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.634037",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-06T11:41:58.943326",
           "history": [
             {
               "price": 14.4,
@@ -32762,6 +32774,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-06"
             }
           ]
         }
@@ -33212,10 +33230,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/50556-exit-el-senor-de-los-anillos-sombras-sobre-la-tierra-media-8436589627857.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.620728",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-06T11:41:58.942263",
           "history": [
             {
               "price": 14.4,
@@ -33228,6 +33246,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-06"
             }
           ]
         }
@@ -44771,10 +44795,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58983-horrified-dungeons-dragons-4005556248889.html",
-          "price": 37.5,
+          "price": 44.0,
           "original_price": 50.0,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-06-18T11:13:07.220463",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-06T11:41:58.937549",
           "history": [
             {
               "price": 44.0,
@@ -44787,6 +44811,12 @@
               "original_price": 50.0,
               "discount_pct": 25.0,
               "date": "2026-06-18"
+            },
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-06"
             }
           ]
         }
