@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-06T11:44:07.103028",
-  "total": 2055,
-  "total_raw": 2113,
+  "generated_at": "2026-07-07T10:31:36.596383",
+  "total": 2057,
+  "total_raw": 2115,
   "games": [
+    {
+      "name": "Nippon: Zaibatsu - Metal Coins",
+      "is_new": 0,
+      "first_seen": "2026-07-07T10:30:58.792803",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60657-nippon-zaibatsu-metal-coins-850050897378.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-07T10:30:58.792803",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Las Leyendas de Andor: El Frío Eterno",
+      "is_new": 0,
+      "first_seen": "2026-07-07T10:30:58.790329",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/las-leyendas-de-andor/52408-las-leyendas-de-andor-el-frio-eterno-8436607940487.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-07T10:30:58.790329",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-07"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Cosmolancer",
       "is_new": 0,
@@ -22246,16 +22292,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/50477-the-yawning-portal-5010996103086.html",
-          "price": 48.39,
+          "price": 32.99,
           "original_price": 54.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:47.783100",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-07T10:29:31.663623",
           "history": [
             {
               "price": 48.39,
               "original_price": 54.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 32.99,
+              "original_price": 54.99,
+              "discount_pct": 40.0,
+              "date": "2026-07-07"
             }
           ]
         }
@@ -22706,16 +22758,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/49488-maui-8435407640276.html",
-          "price": 39.59,
+          "price": 26.99,
           "original_price": 44.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:43.341650",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-07T10:29:28.749369",
           "history": [
             {
               "price": 39.59,
               "original_price": 44.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 26.99,
+              "original_price": 44.99,
+              "discount_pct": 40.0,
+              "date": "2026-07-07"
             }
           ]
         }
@@ -24904,16 +24962,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57280-potion-house-3664824001581.html",
-          "price": 19.79,
+          "price": 13.19,
           "original_price": 21.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:33.947372",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-07T10:29:28.742396",
           "history": [
             {
               "price": 19.79,
               "original_price": 21.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.19,
+              "original_price": 21.99,
+              "discount_pct": 40.0,
+              "date": "2026-07-07"
             }
           ]
         }
@@ -25646,16 +25710,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/48670-khora-8436589623705.html",
-          "price": 44.0,
+          "price": 32.5,
           "original_price": 50.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:29.514569",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-07-07T10:30:58.785254",
           "history": [
             {
               "price": 44.0,
               "original_price": 50.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 32.5,
+              "original_price": 50.0,
+              "discount_pct": 35.0,
+              "date": "2026-07-07"
             }
           ]
         }
@@ -33288,10 +33358,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/47381-exit-18-el-cementerio-de-las-tinieblas-8436589624610.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.622041",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-07T10:30:58.787980",
           "history": [
             {
               "price": 14.4,
@@ -33304,6 +33374,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-07"
             }
           ]
         }
@@ -45848,10 +45924,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/38092-exit-2-la-tumba-del-faraon-8436017225242.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.640173",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-07T10:30:58.789196",
           "history": [
             {
               "price": 14.4,
@@ -45864,6 +45940,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-07"
             }
           ]
         }
