@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-07T10:31:36.596383",
+  "generated_at": "2026-07-08T09:32:23.238446",
   "total": 2057,
-  "total_raw": 2115,
+  "total_raw": 2116,
   "games": [
+    {
+      "name": "Nunatak (Catellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-08T09:32:05.322769",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52949-nunatak-catellano-8436607943440.html",
+          "price": 22.95,
+          "original_price": 45.0,
+          "discount_pct": 49.0,
+          "scraped_at": "2026-07-08T09:32:05.322769",
+          "history": [
+            {
+              "price": 22.95,
+              "original_price": 45.0,
+              "discount_pct": 49.0,
+              "date": "2026-07-08"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52949-nunatak-catellano.html",
+          "price": 22.95,
+          "original_price": 45.0,
+          "discount_pct": 49.0,
+          "scraped_at": "2026-05-22T06:01:21.239516",
+          "history": [
+            {
+              "price": 22.95,
+              "original_price": 45.0,
+              "discount_pct": 49.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Nippon: Zaibatsu - Metal Coins",
       "is_new": 0,
@@ -16102,29 +16141,6 @@
               "price": 29.25,
               "original_price": 45.0,
               "discount_pct": 35.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Nunatak (Catellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:21.239516",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/52949-nunatak-catellano.html",
-          "price": 22.95,
-          "original_price": 45.0,
-          "discount_pct": 49.0,
-          "scraped_at": "2026-05-22T06:01:21.239516",
-          "history": [
-            {
-              "price": 22.95,
-              "original_price": 45.0,
-              "discount_pct": 49.0,
               "date": "2026-05-22"
             }
           ]
@@ -36208,16 +36224,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/mayhem/50138-mayhem-looney-tunes-pack-de-4-figuras-8435407640719.html",
-          "price": 10.5,
+          "price": 6.0,
           "original_price": 34.99,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-22T05:59:34.223526",
+          "discount_pct": 82.0,
+          "scraped_at": "2026-07-08T09:30:31.220533",
           "history": [
             {
               "price": 10.5,
               "original_price": 34.99,
               "discount_pct": 70.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 34.99,
+              "discount_pct": 82.0,
+              "date": "2026-07-08"
             }
           ]
         }
@@ -36369,16 +36391,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/mayhem/50137-mayhem-teen-titans-go-8435407640764.html",
-          "price": 18.0,
+          "price": 9.0,
           "original_price": 59.99,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-22T05:59:34.209211",
+          "discount_pct": 85.0,
+          "scraped_at": "2026-07-08T09:30:03.911280",
           "history": [
             {
               "price": 18.0,
               "original_price": 59.99,
               "discount_pct": 70.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.0,
+              "original_price": 59.99,
+              "discount_pct": 85.0,
+              "date": "2026-07-08"
             }
           ]
         }
@@ -40394,16 +40422,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/mayhem/50136-mayhem-looney-tunes-8435407640573.html",
-          "price": 18.0,
+          "price": 9.0,
           "original_price": 59.99,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-22T05:59:16.762155",
+          "discount_pct": 85.0,
+          "scraped_at": "2026-07-08T09:30:31.218573",
           "history": [
             {
               "price": 18.0,
               "original_price": 59.99,
               "discount_pct": 70.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.0,
+              "original_price": 59.99,
+              "discount_pct": 85.0,
+              "date": "2026-07-08"
             }
           ]
         }
