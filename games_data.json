@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-08T09:32:23.238446",
-  "total": 2057,
-  "total_raw": 2116,
+  "generated_at": "2026-07-09T10:36:25.031716",
+  "total": 2059,
+  "total_raw": 2118,
   "games": [
+    {
+      "name": "The Witcher: La Senda del Destino",
+      "is_new": 0,
+      "first_seen": "2026-07-09T10:33:54.402685",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/the-witcher-el-viejo-mundo/58958-the-witcher-la-senda-del-destino-5905289601137.html",
+          "price": 61.56,
+          "original_price": 69.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-09T10:33:54.402685",
+          "history": [
+            {
+              "price": 61.56,
+              "original_price": 69.95,
+              "discount_pct": 12.0,
+              "date": "2026-07-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Obsesión",
+      "is_new": 0,
+      "first_seen": "2026-07-09T10:33:54.398818",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/54461-obsesion-8436578816750.html",
+          "price": 63.0,
+          "original_price": 70.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-09T10:33:54.398818",
+          "history": [
+            {
+              "price": 63.0,
+              "original_price": 70.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-09"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Nunatak (Catellano)",
       "is_new": 0,
@@ -73,16 +119,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/las-leyendas-de-andor/52408-las-leyendas-de-andor-el-frio-eterno-8436607940487.html",
-          "price": 44.0,
+          "price": 25.0,
           "original_price": 50.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-07-07T10:30:58.790329",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-09T10:34:01.553141",
           "history": [
             {
               "price": 44.0,
               "original_price": 50.0,
               "discount_pct": 12.0,
               "date": "2026-07-07"
+            },
+            {
+              "price": 25.0,
+              "original_price": 50.0,
+              "discount_pct": 50.0,
+              "date": "2026-07-09"
             }
           ]
         }
@@ -25657,16 +25709,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/52383-disney-sorcerers-arena-alianzas-epicas-3558380106074.html",
-          "price": 43.99,
+          "price": 32.49,
           "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:29.520253",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-07-09T10:33:54.405126",
           "history": [
             {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 32.49,
+              "original_price": 49.99,
+              "discount_pct": 35.0,
+              "date": "2026-07-09"
             }
           ]
         }
@@ -34555,16 +34613,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59039-fromage-3558380132905.html",
-          "price": 43.99,
+          "price": 39.99,
           "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:42.946144",
+          "discount_pct": 20.0,
+          "scraped_at": "2026-07-09T10:34:01.549751",
           "history": [
             {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 39.99,
+              "original_price": 49.99,
+              "discount_pct": 20.0,
+              "date": "2026-07-09"
             }
           ]
         }
@@ -35677,16 +35741,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59044-fromage-deluxe-set-8435407651210.html",
-          "price": 65.99,
+          "price": 59.99,
           "original_price": 74.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:38.572307",
+          "discount_pct": 20.0,
+          "scraped_at": "2026-07-09T10:34:01.548407",
           "history": [
             {
               "price": 65.99,
               "original_price": 74.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 59.99,
+              "original_price": 74.99,
+              "discount_pct": 20.0,
+              "date": "2026-07-09"
             }
           ]
         }
@@ -36201,16 +36271,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/52281-isla-de-pan-8435407641273.html",
-          "price": 30.0,
+          "price": 25.0,
           "original_price": 49.99,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T05:59:38.519632",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-09T10:35:04.398857",
           "history": [
             {
               "price": 30.0,
               "original_price": 49.99,
               "discount_pct": 40.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 25.0,
+              "original_price": 49.99,
+              "discount_pct": 50.0,
+              "date": "2026-07-09"
             }
           ]
         }
