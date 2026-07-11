@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-10T10:29:52.615577",
-  "total": 2059,
-  "total_raw": 2118,
+  "generated_at": "2026-07-11T08:55:49.356000",
+  "total": 2060,
+  "total_raw": 2120,
   "games": [
+    {
+      "name": "Rebirth",
+      "is_new": 0,
+      "first_seen": "2026-07-11T08:53:28.457437",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60376-rebirth-8436625610294.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-11T08:53:28.457437",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storyfold: Wildwoods",
+      "is_new": 0,
+      "first_seen": "2026-07-11T08:53:28.455040",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60362-storyfold-wildwoods-8437022228747.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-11T08:53:28.455040",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-11"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60362-storyfold-wildwoods-8437022228747.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-30T09:24:16.993524",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-30"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "The Witcher: La Senda del Destino",
       "is_new": 0,
@@ -2356,29 +2418,6 @@
               "price": 34.16,
               "original_price": 37.95,
               "discount_pct": 10.0,
-              "date": "2026-05-30"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Storyfold: Wildwoods",
-      "is_new": 0,
-      "first_seen": "2026-05-30T09:24:16.993524",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60362-storyfold-wildwoods-8437022228747.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-30T09:24:16.993524",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
               "date": "2026-05-30"
             }
           ]
@@ -21082,16 +21121,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/raiz/52863-gardeners-8437022321622.html",
-          "price": 27.0,
+          "price": 21.0,
           "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:52.220093",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-07-11T08:53:28.452619",
           "history": [
             {
               "price": 27.0,
               "original_price": 30.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 21.0,
+              "original_price": 30.0,
+              "discount_pct": 30.0,
+              "date": "2026-07-11"
             }
           ]
         }
