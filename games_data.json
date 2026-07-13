@@ -1,8 +1,707 @@
 {
-  "generated_at": "2026-07-12T09:11:23.597113",
-  "total": 2060,
-  "total_raw": 2120,
+  "generated_at": "2026-07-13T10:35:47.902444",
+  "total": 2064,
+  "total_raw": 2139,
   "games": [
+    {
+      "name": "Cthulhu Gloom",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:39.909353",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/31457-cthulhu-gloom-spanish-8435407614390.html",
+          "price": 14.95,
+          "original_price": 24.99,
+          "discount_pct": 40.2,
+          "scraped_at": "2026-07-13T10:35:39.909353",
+          "history": [
+            {
+              "price": 14.95,
+              "original_price": 24.99,
+              "discount_pct": 40.2,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/31457-cthulhu-gloom-8435407614390.html",
+          "price": 9.75,
+          "original_price": 24.99,
+          "discount_pct": 61.0,
+          "scraped_at": "2026-05-22T06:01:33.905710",
+          "history": [
+            {
+              "price": 9.75,
+              "original_price": 24.99,
+              "discount_pct": 61.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-Men: Insurrección Mutante",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:37.832821",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/40320-x-men-insurreccion-mutante-spanish-8435407632844.html",
+          "price": 30.0,
+          "original_price": 59.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-13T10:35:37.832821",
+          "history": [
+            {
+              "price": 30.0,
+              "original_price": 59.99,
+              "discount_pct": 50.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/x-men-insurreccion-mutante/45824-x-men-insurreccion-mutante-8435407632844.html",
+          "price": 30.0,
+          "original_price": 59.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-06-18T11:14:13.305389",
+          "history": [
+            {
+              "price": 40.0,
+              "original_price": 59.99,
+              "discount_pct": 33.3,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 30.0,
+              "original_price": 59.99,
+              "discount_pct": 50.0,
+              "date": "2026-06-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wise Guys (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:37.819930",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/43642-wise-guys-spanish-9781638840268.html",
+          "price": 25.0,
+          "original_price": 49.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-13T10:35:37.819930",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": 49.99,
+              "discount_pct": 50.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/43642-wise-guys-castellano-9781638840268.html",
+          "price": 25.0,
+          "original_price": 49.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-22T06:01:31.770366",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": 49.99,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marvel Zombies (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:35.780688",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/44933-marvel-zombies-spanish-8435407641068.html",
+          "price": 65.0,
+          "original_price": 129.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-13T10:35:35.780688",
+          "history": [
+            {
+              "price": 65.0,
+              "original_price": 129.99,
+              "discount_pct": 50.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/44933-marvel-zombies-castellano-8435407641068.html",
+          "price": 89.7,
+          "original_price": 129.99,
+          "discount_pct": 31.0,
+          "scraped_at": "2026-05-22T06:01:29.681545",
+          "history": [
+            {
+              "price": 89.7,
+              "original_price": 129.99,
+              "discount_pct": 31.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lacrimosa (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:33.736830",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/46010-lacrimosa-8436589626829.html",
+          "price": 34.95,
+          "original_price": 70.0,
+          "discount_pct": 50.1,
+          "scraped_at": "2026-07-13T10:35:33.736830",
+          "history": [
+            {
+              "price": 34.95,
+              "original_price": 70.0,
+              "discount_pct": 50.1,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/46010-lacrimosa-castellano-8436589626829.html",
+          "price": 29.95,
+          "original_price": 70.0,
+          "discount_pct": 57.2,
+          "scraped_at": "2026-05-22T06:01:27.593819",
+          "history": [
+            {
+              "price": 29.95,
+              "original_price": 70.0,
+              "discount_pct": 57.2,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aventura Z: Vol. 1 Lovecraft (2ª Edición)",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.887406",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/49015-aventura-z-vol-1-lovecraft-644650989836.html",
+          "price": 24.26,
+          "original_price": 26.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-13T10:35:07.887406",
+          "history": [
+            {
+              "price": 24.26,
+              "original_price": 26.95,
+              "discount_pct": 10.0,
+              "date": "2026-07-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Catan: Expansión Ciudades y Caballeros (Ed 2025)",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.885387",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/catan/52094-catan-expansion-ciudades-y-caballeros-ed-2025-8436017220124.html",
+          "price": 41.36,
+          "original_price": 47.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:35:07.885387",
+          "history": [
+            {
+              "price": 41.36,
+              "original_price": 47.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: El Reino de Jabba",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.883229",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/star-wars-imperial-assault/38118-star-wars-imperial-assault-el-reino-de-jabba-8435407613751.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:35:07.883229",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/38118-star-wars-imperial-assault-el-reino-de-jabba-8435407613751.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.871591",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: Sombras Gemelas",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.881000",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/star-wars-imperial-assault/35296-star-wars-imperial-assault-sombras-gemelas-8435407606555.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:35:07.881000",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-8435407606555.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-04T10:42:27.501066",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-04"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-5683340050284.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:07.039167",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: Tiranos de Lothal",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.879001",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/star-wars-imperial-assault/39716-star-wars-imperial-assault-tiranos-de-lothal-8435407621237.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:35:07.879001",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/39716-star-wars-imperial-assault-tiranos-de-lothal-8435407621237.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.857518",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: El Gambito de Bespin",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.876664",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/star-wars-imperial-assault/37190-star-wars-imperial-assault-el-gambito-de-bespin-8435407610965.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:35:07.876664",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/37190-star-wars-imperial-assault-el-gambito-de-bespin-8435407610965.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.873550",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: El Corazón del Imperio",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.874411",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/star-wars-imperial-assault/38295-star-wars-imperial-assault-el-corazon-del-imperio-8435407616462.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:35:07.874411",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/38295-star-wars-imperial-assault-el-corazon-del-imperio-8435407616462.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.869669",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Imperial Assault: Regreso a Hoth",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:35:07.871401",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/star-wars-imperial-assault/36924-star-wars-imperial-assault-regreso-a-hoth-8435407609068.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:35:07.871401",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/36924-star-wars-imperial-assault-regreso-a-hoth-8435407609068.html",
+          "price": 65.99,
+          "original_price": 74.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-02T11:26:02.875351",
+          "history": [
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Wars: Imperial Assault",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:33:19.770925",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/star-wars-imperial-assault/34927-star-wars-imperial-assault-8435407604742.html",
+          "price": 96.79,
+          "original_price": 109.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:33:19.770925",
+          "history": [
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/34927-star-wars-imperial-assault-8435407604742.html",
+          "price": 96.79,
+          "original_price": 109.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T06:01:01.541299",
+          "history": [
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scythe: Vientos de Guerra y Paz",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:33:19.768856",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/scythe/38489-scythe-vientos-de-guerra-y-paz-653341027702.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-13T10:33:19.768856",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/scythe/38489-scythe-vientos-de-guerra-y-paz-9636006023692.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:56.939320",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flamme Rouge",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:33:19.765962",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/juegos-de-tablero/39387-flamme-rouge-8436578819249.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-13T10:33:19.765962",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/39387-flamme-rouge-8436578819249.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.164406",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Robinson Crusoe: Relatos Misteriosos",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:33:19.761203",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/juegos-de-tablero/42878-robinson-crusoe-relatos-misteriosos-8436578816248.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:33:19.761203",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/42878-robinson-crusoe-relatos-misteriosos-8436578816248.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:12.471014",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vantage",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:33:12.170337",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60473-vantage-8436623240561.html",
+          "price": 79.2,
+          "original_price": 90.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:33:12.170337",
+          "history": [
+            {
+              "price": 79.2,
+              "original_price": 90.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berlín 1960",
+      "is_new": 0,
+      "first_seen": "2026-07-13T10:33:12.166174",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60443-berlin-1960-8436625613998.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-13T10:33:12.166174",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-13"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Rebirth",
       "is_new": 0,
@@ -708,10 +1407,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/51815-karvi-castellano-8436607942870.html",
-          "price": 30.0,
+          "price": 29.95,
           "original_price": 60.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-06-29T12:06:32.098712",
+          "discount_pct": 50.1,
+          "scraped_at": "2026-07-13T10:35:31.681451",
           "history": [
             {
               "price": 24.0,
@@ -724,6 +1423,12 @@
               "original_price": 60.0,
               "discount_pct": 50.0,
               "date": "2026-06-29"
+            },
+            {
+              "price": 29.95,
+              "original_price": 60.0,
+              "discount_pct": 50.1,
+              "date": "2026-07-13"
             }
           ]
         },
@@ -769,16 +1474,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/52115-sand-castellano-8436607942894.html",
-          "price": 17.95,
+          "price": 21.6,
           "original_price": 36.0,
-          "discount_pct": 50.1,
-          "scraped_at": "2026-06-28T10:09:02.010151",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-13T10:35:31.680007",
           "history": [
             {
               "price": 17.95,
               "original_price": 36.0,
               "discount_pct": 50.1,
               "date": "2026-06-28"
+            },
+            {
+              "price": 21.6,
+              "original_price": 36.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-13"
             }
           ]
         },
@@ -1662,16 +2373,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/42955-bitoku-8436589624832.html",
-          "price": 24.0,
+          "price": 35.95,
           "original_price": 60.0,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-05-22T06:01:31.784803",
+          "discount_pct": 40.1,
+          "scraped_at": "2026-07-13T10:35:37.826059",
           "history": [
             {
               "price": 24.0,
               "original_price": 60.0,
               "discount_pct": 60.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 35.95,
+              "original_price": 60.0,
+              "discount_pct": 40.1,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -2055,45 +2772,6 @@
       ]
     },
     {
-      "name": "Star Wars Imperial Assault: Sombras Gemelas",
-      "is_new": 0,
-      "first_seen": "2026-06-04T10:42:27.501066",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-8435407606555.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-04T10:42:27.501066",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-04"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/35296-star-wars-imperial-assault-sombras-gemelas-5683340050284.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-02T11:26:07.039167",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-02"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "En una Escala de 1 a T-Rex",
       "is_new": 0,
       "first_seen": "2026-06-03T12:03:26.511504",
@@ -2150,121 +2828,6 @@
               "original_price": 85.0,
               "discount_pct": 12.0,
               "date": "2026-06-03"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Star Wars Imperial Assault: Regreso a Hoth",
-      "is_new": 0,
-      "first_seen": "2026-06-02T11:26:02.875351",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/36924-star-wars-imperial-assault-regreso-a-hoth-8435407609068.html",
-          "price": 65.99,
-          "original_price": 74.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-02T11:26:02.875351",
-          "history": [
-            {
-              "price": 65.99,
-              "original_price": 74.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-02"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Star Wars Imperial Assault: El Gambito de Bespin",
-      "is_new": 0,
-      "first_seen": "2026-06-02T11:26:02.873550",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/37190-star-wars-imperial-assault-el-gambito-de-bespin-8435407610965.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-02T11:26:02.873550",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-02"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Star Wars Imperial Assault: El Reino de Jabba",
-      "is_new": 0,
-      "first_seen": "2026-06-02T11:26:02.871591",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/38118-star-wars-imperial-assault-el-reino-de-jabba-8435407613751.html",
-          "price": 65.99,
-          "original_price": 74.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-02T11:26:02.871591",
-          "history": [
-            {
-              "price": 65.99,
-              "original_price": 74.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-02"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Star Wars Imperial Assault: El Corazón del Imperio",
-      "is_new": 0,
-      "first_seen": "2026-06-02T11:26:02.869669",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/38295-star-wars-imperial-assault-el-corazon-del-imperio-8435407616462.html",
-          "price": 65.99,
-          "original_price": 74.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-02T11:26:02.869669",
-          "history": [
-            {
-              "price": 65.99,
-              "original_price": 74.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-02"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Star Wars Imperial Assault: Tiranos de Lothal",
-      "is_new": 0,
-      "first_seen": "2026-06-02T11:26:02.857518",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/39716-star-wars-imperial-assault-tiranos-de-lothal-8435407621237.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-02T11:26:02.857518",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-02"
             }
           ]
         }
@@ -12526,16 +13089,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/16570-king-of-tokyo-spanish-8436017223897.html",
-          "price": 22.2,
+          "price": 24.9,
           "original_price": 37.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:01:36.045253",
+          "discount_pct": 32.7,
+          "scraped_at": "2026-07-13T10:35:41.937062",
           "history": [
             {
               "price": 22.2,
               "original_price": 37.0,
               "discount_pct": 40.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 24.9,
+              "original_price": 37.0,
+              "discount_pct": 32.7,
+              "date": "2026-07-13"
             }
           ]
         },
@@ -13001,29 +13570,6 @@
       ]
     },
     {
-      "name": "Cthulhu Gloom",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:33.905710",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/31457-cthulhu-gloom-8435407614390.html",
-          "price": 9.75,
-          "original_price": 24.99,
-          "discount_pct": 61.0,
-          "scraped_at": "2026-05-22T06:01:33.905710",
-          "history": [
-            {
-              "price": 9.75,
-              "original_price": 24.99,
-              "discount_pct": 61.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Epic: Insurreción",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:33.901916",
@@ -13077,16 +13623,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/34341-century-maravillas-de-oriente-8435407640252.html",
-          "price": 8.95,
+          "price": 14.95,
           "original_price": 34.99,
-          "discount_pct": 74.4,
-          "scraped_at": "2026-05-22T06:01:33.897934",
+          "discount_pct": 57.3,
+          "scraped_at": "2026-07-13T10:35:39.907405",
           "history": [
             {
               "price": 8.95,
               "original_price": 34.99,
               "discount_pct": 74.4,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.95,
+              "original_price": 34.99,
+              "discount_pct": 57.3,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -13123,16 +13675,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/35813-century-un-nuevo-mundo-spanish-8435407640269.html",
-          "price": 8.95,
+          "price": 14.95,
           "original_price": 34.99,
-          "discount_pct": 74.4,
-          "scraped_at": "2026-05-22T06:01:33.893997",
+          "discount_pct": 57.3,
+          "scraped_at": "2026-07-13T10:35:39.905716",
           "history": [
             {
               "price": 8.95,
               "original_price": 34.99,
               "discount_pct": 74.4,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.95,
+              "original_price": 34.99,
+              "discount_pct": 57.3,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -13752,16 +14310,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/42389-caverna-caverna-vs-caverna-8435407636712.html",
-          "price": 11.95,
+          "price": 14.95,
           "original_price": 34.99,
-          "discount_pct": 65.8,
-          "scraped_at": "2026-05-22T06:01:31.788767",
+          "discount_pct": 57.3,
+          "scraped_at": "2026-07-13T10:35:37.828904",
           "history": [
             {
               "price": 11.95,
               "original_price": 34.99,
               "discount_pct": 65.8,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.95,
+              "original_price": 34.99,
+              "discount_pct": 57.3,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -13906,16 +14470,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/43335-voces-en-mi-cabeza-8435407636330.html",
-          "price": 11.95,
+          "price": 19.95,
           "original_price": 39.99,
-          "discount_pct": 70.1,
-          "scraped_at": "2026-05-22T06:01:31.774920",
+          "discount_pct": 50.1,
+          "scraped_at": "2026-07-13T10:35:37.823271",
           "history": [
             {
               "price": 11.95,
               "original_price": 39.99,
               "discount_pct": 70.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 19.95,
+              "original_price": 39.99,
+              "discount_pct": 50.1,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -13938,29 +14508,6 @@
               "price": 21.0,
               "original_price": 29.99,
               "discount_pct": 30.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Wise Guys (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:31.770366",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/43642-wise-guys-castellano-9781638840268.html",
-          "price": 25.0,
-          "original_price": 49.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:31.770366",
-          "history": [
-            {
-              "price": 25.0,
-              "original_price": 49.99,
-              "discount_pct": 50.0,
               "date": "2026-05-22"
             }
           ]
@@ -14295,10 +14842,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/44738-sanssouci-castellano-8436578814299.html",
-          "price": 10.95,
+          "price": 15.95,
           "original_price": 40.0,
-          "discount_pct": 72.6,
-          "scraped_at": "2026-06-13T10:08:21.500883",
+          "discount_pct": 60.1,
+          "scraped_at": "2026-07-13T10:35:35.783583",
           "history": [
             {
               "price": 14.9,
@@ -14311,6 +14858,12 @@
               "original_price": 40.0,
               "discount_pct": 72.6,
               "date": "2026-06-13"
+            },
+            {
+              "price": 15.95,
+              "original_price": 40.0,
+              "discount_pct": 60.1,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -14333,29 +14886,6 @@
               "price": 30.0,
               "original_price": 59.99,
               "discount_pct": 50.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Marvel Zombies (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:29.681545",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/44933-marvel-zombies-castellano-8435407641068.html",
-          "price": 89.7,
-          "original_price": 129.99,
-          "discount_pct": 31.0,
-          "scraped_at": "2026-05-22T06:01:29.681545",
-          "history": [
-            {
-              "price": 89.7,
-              "original_price": 129.99,
-              "discount_pct": 31.0,
               "date": "2026-05-22"
             }
           ]
@@ -14416,10 +14946,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/45371-ora-et-labora-8435407640559.html",
-          "price": 14.95,
+          "price": 19.95,
           "original_price": 55.69,
-          "discount_pct": 73.2,
-          "scraped_at": "2026-06-28T10:09:05.730862",
+          "discount_pct": 64.2,
+          "scraped_at": "2026-07-13T10:35:35.777624",
           "history": [
             {
               "price": 16.95,
@@ -14432,6 +14962,12 @@
               "original_price": 55.69,
               "discount_pct": 73.2,
               "date": "2026-06-28"
+            },
+            {
+              "price": 19.95,
+              "original_price": 55.69,
+              "discount_pct": 64.2,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -14514,16 +15050,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/45543-marvel-zombies-fantastic-4-under-siege-spanish-8435407641082.html",
-          "price": 42.0,
+          "price": 30.0,
           "original_price": 59.99,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:27.615338",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-13T10:35:35.774822",
           "history": [
             {
               "price": 42.0,
               "original_price": 59.99,
               "discount_pct": 30.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 30.0,
+              "original_price": 59.99,
+              "discount_pct": 50.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -14737,29 +15279,6 @@
       ]
     },
     {
-      "name": "Lacrimosa (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:27.593819",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/46010-lacrimosa-castellano-8436589626829.html",
-          "price": 29.95,
-          "original_price": 70.0,
-          "discount_pct": 57.2,
-          "scraped_at": "2026-05-22T06:01:27.593819",
-          "history": [
-            {
-              "price": 29.95,
-              "original_price": 70.0,
-              "discount_pct": 57.2,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Oltreé + Pack de Corrección (Castellano)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:27.589091",
@@ -14790,16 +15309,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/46094-tinners-trail-spanish-1000000000001.html",
-          "price": 19.95,
+          "price": 24.95,
           "original_price": 50.0,
-          "discount_pct": 60.1,
-          "scraped_at": "2026-05-22T06:01:27.587214",
+          "discount_pct": 50.1,
+          "scraped_at": "2026-07-13T10:35:33.735138",
           "history": [
             {
               "price": 19.95,
               "original_price": 50.0,
               "discount_pct": 60.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 24.95,
+              "original_price": 50.0,
+              "discount_pct": 50.1,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -14836,16 +15361,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/46363-imperial-struggle-spanish-8436589628083.html",
-          "price": 29.95,
+          "price": 42.0,
           "original_price": 60.0,
-          "discount_pct": 50.1,
-          "scraped_at": "2026-05-22T06:01:27.583116",
+          "discount_pct": 30.0,
+          "scraped_at": "2026-07-13T10:35:33.733094",
           "history": [
             {
               "price": 29.95,
               "original_price": 60.0,
               "discount_pct": 50.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 42.0,
+              "original_price": 60.0,
+              "discount_pct": 30.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -15066,16 +15597,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48245-marvel-dagger-castellano-841333121563.html",
-          "price": 54.0,
+          "price": 45.0,
           "original_price": 89.99,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:01:25.440476",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-13T10:35:33.729125",
           "history": [
             {
               "price": 54.0,
               "original_price": 89.99,
               "discount_pct": 40.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 45.0,
+              "original_price": 89.99,
+              "discount_pct": 50.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -15112,16 +15649,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48434-la-gran-division-8435407641396.html",
-          "price": 14.95,
+          "price": 17.5,
           "original_price": 49.99,
-          "discount_pct": 70.1,
-          "scraped_at": "2026-05-22T06:01:25.435992",
+          "discount_pct": 65.0,
+          "scraped_at": "2026-07-13T10:35:33.727521",
           "history": [
             {
               "price": 14.95,
               "original_price": 49.99,
               "discount_pct": 70.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 17.5,
+              "original_price": 49.99,
+              "discount_pct": 65.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -15135,16 +15678,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48468-archeos-society-castellano-3558380103325.html",
-          "price": 14.95,
+          "price": 17.5,
           "original_price": 49.99,
-          "discount_pct": 70.1,
-          "scraped_at": "2026-05-22T06:01:25.433982",
+          "discount_pct": 65.0,
+          "scraped_at": "2026-07-13T10:35:33.726202",
           "history": [
             {
               "price": 14.95,
               "original_price": 49.99,
               "discount_pct": 70.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 17.5,
+              "original_price": 49.99,
+              "discount_pct": 65.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -15259,16 +15808,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/49406-mu-spider-geddon-castellano-8435407641907.html",
-          "price": 20.0,
+          "price": 23.95,
           "original_price": 39.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:25.424656",
+          "discount_pct": 40.1,
+          "scraped_at": "2026-07-13T10:35:33.724427",
           "history": [
             {
               "price": 20.0,
               "original_price": 39.99,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 23.95,
+              "original_price": 39.99,
+              "discount_pct": 40.1,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -15367,16 +15922,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/49551-mu-multiverse-castellano-8435407641914.html",
-          "price": 20.0,
+          "price": 23.95,
           "original_price": 39.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:25.416263",
+          "discount_pct": 40.1,
+          "scraped_at": "2026-07-13T10:35:33.722145",
           "history": [
             {
               "price": 20.0,
               "original_price": 39.99,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 23.95,
+              "original_price": 39.99,
+              "discount_pct": 40.1,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -15390,16 +15951,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/49675-waterfall-park-castellano-5425016927458.html",
-          "price": 15.95,
+          "price": 19.95,
           "original_price": 39.99,
-          "discount_pct": 60.1,
-          "scraped_at": "2026-05-22T06:01:25.414372",
+          "discount_pct": 50.1,
+          "scraped_at": "2026-07-13T10:35:33.720399",
           "history": [
             {
               "price": 15.95,
               "original_price": 39.99,
               "discount_pct": 60.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 19.95,
+              "original_price": 39.99,
+              "discount_pct": 50.1,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -15482,16 +16049,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/50090-combat-commander-pacifico-castellano.html",
-          "price": 39.9,
+          "price": 48.0,
           "original_price": 80.0,
-          "discount_pct": 50.1,
-          "scraped_at": "2026-05-22T06:01:25.405410",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-13T10:35:31.687433",
           "history": [
             {
               "price": 39.9,
               "original_price": 80.0,
               "discount_pct": 50.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 48.0,
+              "original_price": 80.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -16171,16 +16744,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/52847-general-orders-castellano.html",
-          "price": 12.5,
+          "price": 15.0,
           "original_price": 25.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:23.297726",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-13T10:35:31.676505",
           "history": [
             {
               "price": 12.5,
               "original_price": 25.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 25.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -16698,16 +17277,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/56718-pack-stroganov-exp-turukhan-castellano.html",
-          "price": 34.0,
+          "price": 39.95,
           "original_price": 85.0,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-05-22T06:01:21.201180",
+          "discount_pct": 53.0,
+          "scraped_at": "2026-07-13T10:35:29.636698",
           "history": [
             {
               "price": 34.0,
               "original_price": 85.0,
               "discount_pct": 60.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 39.95,
+              "original_price": 85.0,
+              "discount_pct": 53.0,
+              "date": "2026-07-13"
             }
           ]
         }
@@ -19768,29 +20353,6 @@
       ]
     },
     {
-      "name": "Star Wars: Imperial Assault",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:01.541299",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/34927-star-wars-imperial-assault-8435407604742.html",
-          "price": 96.79,
-          "original_price": 109.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:01:01.541299",
-          "history": [
-            {
-              "price": 96.79,
-              "original_price": 109.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Sky Team",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:01.539155",
@@ -20387,29 +20949,6 @@
             {
               "price": 6.3,
               "original_price": 7.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Scythe: Vientos de Guerra y Paz",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:56.939320",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/scythe/38489-scythe-vientos-de-guerra-y-paz-9636006023692.html",
-          "price": 27.0,
-          "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:56.939320",
-          "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
@@ -36142,35 +36681,6 @@
       ]
     },
     {
-      "name": "X-Men: Insurrección Mutante",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:38.539075",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/x-men-insurreccion-mutante/45824-x-men-insurreccion-mutante-8435407632844.html",
-          "price": 30.0,
-          "original_price": 59.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-06-18T11:14:13.305389",
-          "history": [
-            {
-              "price": 40.0,
-              "original_price": 59.99,
-              "discount_pct": 33.3,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 30.0,
-              "original_price": 59.99,
-              "discount_pct": 50.0,
-              "date": "2026-06-18"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Fanhunter: Urban Warfare",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:38.536629",
@@ -41590,29 +42100,6 @@
       ]
     },
     {
-      "name": "Robinson Crusoe: Relatos Misteriosos",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.471014",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/42878-robinson-crusoe-relatos-misteriosos-8436578816248.html",
-          "price": 39.6,
-          "original_price": 45.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.471014",
-          "history": [
-            {
-              "price": 39.6,
-              "original_price": 45.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Tipperary",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.468256",
@@ -42850,29 +43337,6 @@
               "original_price": 16.0,
               "discount_pct": 10.0,
               "date": "2026-07-01"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Flamme Rouge",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.164406",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/39387-flamme-rouge-8436578819249.html",
-          "price": 31.5,
-          "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.164406",
-          "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
             }
           ]
         }
