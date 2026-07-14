@@ -1,8 +1,598 @@
 {
-  "generated_at": "2026-07-13T10:35:47.902444",
-  "total": 2064,
-  "total_raw": 2139,
+  "generated_at": "2026-07-14T09:13:15.650034",
+  "total": 2071,
+  "total_raw": 2157,
   "games": [
+    {
+      "name": "Corre y Apuesta",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:12:36.991388",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60298-corre-y-apuesta-3558380138693.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:12:36.991388",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60298-corre-y-apuesta-3558380138693.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-22T12:55:18.522913",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-06-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu: Dark Providence",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:12:36.987388",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60308-cthulhu-dark-providence-8435407650145.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:12:36.987388",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60308-cthulhu-dark-providence-8435407650145.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-27T10:59:57.491954",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "S.T.A.L.K.E.R: El Juego de Mesa - Extras",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:12:36.983916",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60071-stalker-el-juego-de-mesa-extras-5904689272794.html",
+          "price": 69.52,
+          "original_price": 79.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:12:36.983916",
+          "history": [
+            {
+              "price": 69.52,
+              "original_price": 79.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Juego del Calcetin",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:56.538042",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60324-el-juego-del-calcetin-3558380137719.html",
+          "price": 22.49,
+          "original_price": 24.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-14T09:10:56.538042",
+          "history": [
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thunder Road: Vendetta - Carnival of Chaos",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:52.899459",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60363-thunder-road-vendetta-carnival-of-chaos-8437022228822.html",
+          "price": 43.96,
+          "original_price": 49.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:10:52.899459",
+          "history": [
+            {
+              "price": 43.96,
+              "original_price": 49.95,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60363-thunder-road-vendetta-carnival-of-chaos-8437022228822.html",
+          "price": 43.96,
+          "original_price": 49.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-30T09:24:16.999470",
+          "history": [
+            {
+              "price": 43.96,
+              "original_price": 49.95,
+              "discount_pct": 12.0,
+              "date": "2026-05-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:52.887416",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60249-dragon-eclipse-5904689274170.html",
+          "price": 161.5,
+          "original_price": 190.0,
+          "discount_pct": 15.0,
+          "scraped_at": "2026-07-14T09:10:52.887416",
+          "history": [
+            {
+              "price": 161.5,
+              "original_price": 190.0,
+              "discount_pct": 15.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60249-dragon-eclipse-5904689274170.html",
+          "price": 167.2,
+          "original_price": 190.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:58:42.414879",
+          "history": [
+            {
+              "price": 167.2,
+              "original_price": 190.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Arena Salvaje",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:49.196637",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60252-dragon-eclipse-arena-salvaje-5904689274538.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:10:49.196637",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Casa de Fado",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.898810",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60280-casa-de-fado-8436578818525.html",
+          "price": 60.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-07-14T09:10:41.898810",
+          "history": [
+            {
+              "price": 60.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60280-casa-de-fado-8436578818525.html",
+          "price": 60.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-22T05:58:42.417413",
+          "history": [
+            {
+              "price": 60.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Arena Playmats Set",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.896479",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60256-dragon-eclipse-arena-playmats-set-5904689272640.html",
+          "price": 28.8,
+          "original_price": 32.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-14T09:10:41.896479",
+          "history": [
+            {
+              "price": 28.8,
+              "original_price": 32.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60256-dragon-eclipse-arena-playmats-set-5904689272640.html",
+          "price": 28.8,
+          "original_price": 32.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:58:37.999032",
+          "history": [
+            {
+              "price": 28.8,
+              "original_price": 32.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Untamed Arena Playmat",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.894185",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60258-dragon-eclipse-untamed-arena-playmat-5904689272657.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-14T09:10:41.894185",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60258-dragon-eclipse-untamed-arena-playmat-5904689272657.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:58:37.996710",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Artbook",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.891561",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60253-dragon-eclipse-artbook-5904689272633.html",
+          "price": 24.3,
+          "original_price": 27.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-14T09:10:41.891561",
+          "history": [
+            {
+              "price": 24.3,
+              "original_price": 27.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60253-dragon-eclipse-artbook-5904689272633.html",
+          "price": 24.3,
+          "original_price": 27.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:58:51.048932",
+          "history": [
+            {
+              "price": 24.3,
+              "original_price": 27.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Mares Peligrosos",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.888474",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60251-dragon-eclipse-mares-peligrosos-5904689274477.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:10:41.888474",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Combat Deck Box",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.885816",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60255-dragon-eclipse-combat-deck-box-5904689272664.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-14T09:10:41.885816",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60255-dragon-eclipse-combat-deck-box-5904689272664.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-05T10:52:54.697724",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-06-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Busqueda de la Especie Perdida",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.883209",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60169-la-busqueda-de-la-especie-perdida-8436578819706.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-07-14T09:10:41.883209",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60169-la-busqueda-de-la-especie-perdida-8436578819706.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-22T05:59:08.169484",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "S.T.A.L.K.E.R: El Juego de Mesa - Juego de Tapetes",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.880137",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60066-stalker-el-juego-de-mesa-juego-de-tapetes-5904689272183.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-14T09:10:41.880137",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Incursión en el Reino de las Sombras",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.876749",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60250-dragon-eclipse-incursion-en-el-reino-de-las-sombras-5904689274293.html",
+          "price": 74.8,
+          "original_price": 85.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:10:41.876749",
+          "history": [
+            {
+              "price": 74.8,
+              "original_price": 85.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60250-dragon-eclipse-incursion-en-el-reino-de-las-sombras-5904689274293.html",
+          "price": 74.8,
+          "original_price": 85.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-06-03T12:01:02.095646",
+          "history": [
+            {
+              "price": 74.8,
+              "original_price": 85.0,
+              "discount_pct": 12.0,
+              "date": "2026-06-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dino Dynasty",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.874609",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60079-dino-dynasty-7350142350444.html",
+          "price": 60.72,
+          "original_price": 69.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:10:41.874609",
+          "history": [
+            {
+              "price": 60.72,
+              "original_price": 69.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Las Leyendas de Andor: Tierras Lejanas",
+      "is_new": 0,
+      "first_seen": "2026-07-14T09:10:41.858267",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/las-leyendas-de-andor/60725-las-leyendas-de-andor-tierras-lejanas-8436625611291.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:10:41.858267",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Cthulhu Gloom",
       "is_new": 0,
@@ -1718,29 +2308,6 @@
       ]
     },
     {
-      "name": "Corre y Apuesta",
-      "is_new": 0,
-      "first_seen": "2026-06-22T12:55:18.522913",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60298-corre-y-apuesta-3558380138693.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-22T12:55:18.522913",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-06-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Skull Tales: Tortuga (Expansión)",
       "is_new": 0,
       "first_seen": "2026-06-19T11:40:11.917228",
@@ -1771,16 +2338,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/39208-exit-4-el-castillo-prohibido-8436017226713.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.637918",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-14T09:10:41.869517",
           "history": [
             {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-14"
             }
           ]
         }
@@ -2687,29 +3260,6 @@
       ]
     },
     {
-      "name": "Dragon Eclipse: Combat Deck Box",
-      "is_new": 0,
-      "first_seen": "2026-06-05T10:52:54.697724",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60255-dragon-eclipse-combat-deck-box-5904689272664.html",
-          "price": 16.2,
-          "original_price": 18.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-06-05T10:52:54.697724",
-          "history": [
-            {
-              "price": 16.2,
-              "original_price": 18.0,
-              "discount_pct": 10.0,
-              "date": "2026-06-05"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Dragon Eclipse: Pack de Fundas",
       "is_new": 0,
       "first_seen": "2026-06-05T10:52:54.695381",
@@ -2805,29 +3355,6 @@
               "original_price": 19.99,
               "discount_pct": 65.2,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Dragon Eclipse: Incursión en el Reino de las Sombras",
-      "is_new": 0,
-      "first_seen": "2026-06-03T12:01:02.095646",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60250-dragon-eclipse-incursion-en-el-reino-de-las-sombras-5904689274293.html",
-          "price": 74.8,
-          "original_price": 85.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-06-03T12:01:02.095646",
-          "history": [
-            {
-              "price": 74.8,
-              "original_price": 85.0,
-              "discount_pct": 12.0,
-              "date": "2026-06-03"
             }
           ]
         }
@@ -2935,29 +3462,6 @@
               "price": 16.95,
               "original_price": null,
               "discount_pct": null,
-              "date": "2026-05-30"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Thunder Road: Vendetta - Carnival of Chaos",
-      "is_new": 0,
-      "first_seen": "2026-05-30T09:24:16.999470",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60363-thunder-road-vendetta-carnival-of-chaos-8437022228822.html",
-          "price": 43.96,
-          "original_price": 49.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-30T09:24:16.999470",
-          "history": [
-            {
-              "price": 43.96,
-              "original_price": 49.95,
-              "discount_pct": 12.0,
               "date": "2026-05-30"
             }
           ]
@@ -3417,29 +3921,6 @@
               "price": 102.0,
               "original_price": 120.0,
               "discount_pct": 15.0,
-              "date": "2026-05-27"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Cthulhu: Dark Providence",
-      "is_new": 0,
-      "first_seen": "2026-05-27T10:59:57.491954",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60308-cthulhu-dark-providence-8435407650145.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-27T10:59:57.491954",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
               "date": "2026-05-27"
             }
           ]
@@ -38141,16 +38622,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/49569-air-mail-793588575397.html",
-          "price": 12.0,
+          "price": 6.0,
           "original_price": 49.99,
-          "discount_pct": 76.0,
-          "scraped_at": "2026-05-22T05:59:29.810919",
+          "discount_pct": 88.0,
+          "scraped_at": "2026-07-14T09:10:41.872443",
           "history": [
             {
               "price": 12.0,
               "original_price": 49.99,
               "discount_pct": 76.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 49.99,
+              "discount_pct": 88.0,
+              "date": "2026-07-14"
             }
           ]
         }
@@ -41963,10 +42450,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/catan/58532-catan-expansion-piratas-y-exploradores-ed-2025-8436017221190.html",
-          "price": 28.0,
+          "price": 41.36,
           "original_price": 47.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-28T10:07:11.889002",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-14T09:10:41.870996",
           "history": [
             {
               "price": 41.36,
@@ -41979,6 +42466,12 @@
               "original_price": 47.0,
               "discount_pct": 40.0,
               "date": "2026-06-28"
+            },
+            {
+              "price": 41.36,
+              "original_price": 47.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-14"
             }
           ]
         }
@@ -43278,29 +43771,6 @@
               "price": 44.0,
               "original_price": 50.0,
               "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "La Busqueda de la Especie Perdida",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.169484",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60169-la-busqueda-de-la-especie-perdida-8436578819706.html",
-          "price": 45.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-05-22T05:59:08.169484",
-          "history": [
-            {
-              "price": 45.0,
-              "original_price": null,
-              "discount_pct": null,
               "date": "2026-05-22"
             }
           ]
@@ -46968,29 +47438,6 @@
       ]
     },
     {
-      "name": "Dragon Eclipse: Artbook",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:51.048932",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60253-dragon-eclipse-artbook-5904689272633.html",
-          "price": 24.3,
-          "original_price": 27.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:51.048932",
-          "history": [
-            {
-              "price": 24.3,
-              "original_price": 27.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "EXIT 9: Las Catacumbas del Terror (Doble)",
       "is_new": 0,
       "first_seen": "2026-05-22T05:58:46.768351",
@@ -47904,52 +48351,6 @@
               "price": 18.0,
               "original_price": 20.0,
               "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Casa de Fado",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:42.417413",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60280-casa-de-fado-8436578818525.html",
-          "price": 60.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-05-22T05:58:42.417413",
-          "history": [
-            {
-              "price": 60.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Dragon Eclipse",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:42.414879",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60249-dragon-eclipse-5904689274170.html",
-          "price": 167.2,
-          "original_price": 190.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:58:42.414879",
-          "history": [
-            {
-              "price": 167.2,
-              "original_price": 190.0,
-              "discount_pct": 12.0,
               "date": "2026-05-22"
             }
           ]
@@ -49368,52 +49769,6 @@
               "original_price": 29.99,
               "discount_pct": 25.0,
               "date": "2026-06-17"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Dragon Eclipse: Arena Playmats Set",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:37.999032",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60256-dragon-eclipse-arena-playmats-set-5904689272640.html",
-          "price": 28.8,
-          "original_price": 32.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:37.999032",
-          "history": [
-            {
-              "price": 28.8,
-              "original_price": 32.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Dragon Eclipse: Untamed Arena Playmat",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:37.996710",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60258-dragon-eclipse-untamed-arena-playmat-5904689272657.html",
-          "price": 16.2,
-          "original_price": 18.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:37.996710",
-          "history": [
-            {
-              "price": 16.2,
-              "original_price": 18.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
             }
           ]
         }
