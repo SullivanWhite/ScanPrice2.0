@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-14T09:13:15.650034",
-  "total": 2071,
-  "total_raw": 2157,
+  "generated_at": "2026-07-15T09:18:14.238985",
+  "total": 2073,
+  "total_raw": 2159,
   "games": [
+    {
+      "name": "Nippon: Zaibatsu",
+      "is_new": 0,
+      "first_seen": "2026-07-15T09:17:09.370813",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60656-nippon-zaibatsu-8436623242978.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-15T09:17:09.370813",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Splendor Duel: Los Falsificadores",
+      "is_new": 0,
+      "first_seen": "2026-07-15T09:17:09.365101",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/splendor/60569-splendor-duel-los-falsificadores-3558387003857.html",
+          "price": 9.89,
+          "original_price": 10.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-15T09:17:09.365101",
+          "history": [
+            {
+              "price": 9.89,
+              "original_price": 10.99,
+              "discount_pct": 10.0,
+              "date": "2026-07-15"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Corre y Apuesta",
       "is_new": 0,
@@ -2390,16 +2436,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/44532-exit-12-la-casa-de-los-enigmas-8436589620971.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.629461",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-15T09:16:54.562274",
           "history": [
             {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-15"
             }
           ]
         }
@@ -28955,10 +29007,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/42713-exit-10-el-museo-misterioso-8436017228717.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.628293",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-15T09:16:54.561201",
           "history": [
             {
               "price": 14.4,
@@ -28971,6 +29023,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-15"
             }
           ]
         }
@@ -35972,10 +36030,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/38091-exit-1-la-cabana-abandonada-8436017225099.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.644012",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-15T09:16:54.563361",
           "history": [
             {
               "price": 14.4,
@@ -35988,6 +36046,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-15"
             }
           ]
         }
@@ -41062,10 +41126,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/49877-exit-20-el-laberinto-maldito-8436589627161.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.619443",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-15T09:16:54.559783",
           "history": [
             {
               "price": 14.4,
@@ -41078,6 +41142,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-15"
             }
           ]
         }
@@ -44568,16 +44638,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/37381-el-soneto-806802975740.html",
-          "price": 8.0,
+          "price": 4.5,
           "original_price": 24.95,
-          "discount_pct": 67.9,
-          "scraped_at": "2026-05-22T05:59:03.944664",
+          "discount_pct": 81.0,
+          "scraped_at": "2026-07-15T09:16:54.556408",
           "history": [
             {
               "price": 8.0,
               "original_price": 24.95,
               "discount_pct": 67.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 4.5,
+              "original_price": 24.95,
+              "discount_pct": 81.0,
+              "date": "2026-07-15"
             }
           ]
         }
