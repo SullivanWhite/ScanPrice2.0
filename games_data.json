@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-15T09:18:14.238985",
-  "total": 2073,
-  "total_raw": 2159,
+  "generated_at": "2026-07-16T09:24:05.875597",
+  "total": 2075,
+  "total_raw": 2161,
   "games": [
+    {
+      "name": "Six Seven",
+      "is_new": 0,
+      "first_seen": "2026-07-16T09:21:28.162715",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60764-six-seven-793969024179.html",
+          "price": 15.03,
+          "original_price": 16.7,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-16T09:21:28.162715",
+          "history": [
+            {
+              "price": 15.03,
+              "original_price": 16.7,
+              "discount_pct": 10.0,
+              "date": "2026-07-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key enigma: Sleddy Lost Tapes",
+      "is_new": 0,
+      "first_seen": "2026-07-16T09:21:28.158913",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60758-key-enigma-sleddy-lost-tapes-695538102373.html",
+          "price": 40.39,
+          "original_price": 45.9,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-16T09:21:28.158913",
+          "history": [
+            {
+              "price": 40.39,
+              "original_price": 45.9,
+              "discount_pct": 12.0,
+              "date": "2026-07-16"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Nippon: Zaibatsu",
       "is_new": 0,
@@ -39561,16 +39607,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/50100-lacrimosa-8436589626829.html",
-          "price": 35.0,
+          "price": 61.6,
           "original_price": 70.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T05:59:25.443416",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-16T09:23:20.577236",
           "history": [
             {
               "price": 35.0,
               "original_price": 70.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 61.6,
+              "original_price": 70.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-16"
             }
           ]
         }
