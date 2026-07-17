@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-07-16T09:24:05.875597",
+  "generated_at": "2026-07-17T09:17:57.754765",
   "total": 2075,
-  "total_raw": 2161,
+  "total_raw": 2163,
   "games": [
+    {
+      "name": "Sherlock Holmes: Carlton House & Queen's Park (Autojugable)",
+      "is_new": 0,
+      "first_seen": "2026-07-17T09:17:47.925901",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/43224-sherlock-holmes-carlton-house-queen-s-park-9782370990365.html",
+          "price": 15.95,
+          "original_price": 49.99,
+          "discount_pct": 68.1,
+          "scraped_at": "2026-07-17T09:17:47.925901",
+          "history": [
+            {
+              "price": 15.95,
+              "original_price": 49.99,
+              "discount_pct": 68.1,
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/43224-sherlock-holmes-carlton-house-queen-s-park-autojugable-9782370990365.html",
+          "price": 14.95,
+          "original_price": 49.99,
+          "discount_pct": 70.1,
+          "scraped_at": "2026-05-22T06:01:31.777050",
+          "history": [
+            {
+              "price": 14.95,
+              "original_price": 49.99,
+              "discount_pct": 70.1,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3 Ring Circus (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-17T09:17:44.014533",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/49417-3-ring-circus-castellano-8436607940616.html",
+          "price": 19.95,
+          "original_price": 35.0,
+          "discount_pct": 43.0,
+          "scraped_at": "2026-07-17T09:17:44.014533",
+          "history": [
+            {
+              "price": 19.95,
+              "original_price": 35.0,
+              "discount_pct": 43.0,
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/49417-3-ring-circus-castellano.html",
+          "price": 19.95,
+          "original_price": 35.0,
+          "discount_pct": 43.0,
+          "scraped_at": "2026-05-22T06:01:25.422585",
+          "history": [
+            {
+              "price": 19.95,
+              "original_price": 35.0,
+              "discount_pct": 43.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Six Seven",
       "is_new": 0,
@@ -15019,29 +15097,6 @@
       ]
     },
     {
-      "name": "Sherlock Holmes: Carlton House & Queen's Park (Autojugable)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:31.777050",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/43224-sherlock-holmes-carlton-house-queen-s-park-autojugable-9782370990365.html",
-          "price": 14.95,
-          "original_price": 49.99,
-          "discount_pct": 70.1,
-          "scraped_at": "2026-05-22T06:01:31.777050",
-          "history": [
-            {
-              "price": 14.95,
-              "original_price": 49.99,
-              "discount_pct": 70.1,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Voces en mi Cabeza",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:31.774920",
@@ -16403,29 +16458,6 @@
               "original_price": 39.99,
               "discount_pct": 40.1,
               "date": "2026-07-13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "3 Ring Circus (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:25.422585",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/49417-3-ring-circus-castellano.html",
-          "price": 19.95,
-          "original_price": 35.0,
-          "discount_pct": 43.0,
-          "scraped_at": "2026-05-22T06:01:25.422585",
-          "history": [
-            {
-              "price": 19.95,
-              "original_price": 35.0,
-              "discount_pct": 43.0,
-              "date": "2026-05-22"
             }
           ]
         }
@@ -36778,10 +36810,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/47387-exit-17-el-bosque-encantado-8436589624597.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.623250",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-17T09:15:25.591659",
           "history": [
             {
               "price": 14.4,
@@ -36794,6 +36826,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-17"
             }
           ]
         }
@@ -39561,16 +39599,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55115-iceberg-8436589629929.html",
-          "price": 12.5,
+          "price": 22.5,
           "original_price": 25.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T05:59:25.447413",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-17T09:17:19.201416",
           "history": [
             {
               "price": 12.5,
               "original_price": 25.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-17"
             }
           ]
         }
@@ -43487,10 +43531,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58974-limit-3760269593534.html",
-          "price": 30.5,
+          "price": 32.5,
           "original_price": 49.99,
-          "discount_pct": 38.0,
-          "scraped_at": "2026-07-02T10:13:20.147582",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-07-17T09:15:25.598852",
           "history": [
             {
               "price": 43.99,
@@ -43503,6 +43547,12 @@
               "original_price": 49.99,
               "discount_pct": 38.0,
               "date": "2026-07-02"
+            },
+            {
+              "price": 32.5,
+              "original_price": 49.99,
+              "discount_pct": 34.0,
+              "date": "2026-07-17"
             }
           ]
         }
