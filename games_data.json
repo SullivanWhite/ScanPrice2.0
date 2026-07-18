@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:17:57.754765",
+  "generated_at": "2026-07-18T08:56:28.983443",
   "total": 2075,
   "total_raw": 2163,
   "games": [
@@ -16162,16 +16162,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48220-cyberpunk-2077-gangs-of-night-city-castellano-8435407641532.html",
-          "price": 45.0,
+          "price": 46.95,
           "original_price": 109.99,
-          "discount_pct": 59.1,
-          "scraped_at": "2026-05-22T06:01:27.565632",
+          "discount_pct": 57.3,
+          "scraped_at": "2026-07-18T08:56:14.919027",
           "history": [
             {
               "price": 45.0,
               "original_price": 109.99,
               "discount_pct": 59.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 46.95,
+              "original_price": 109.99,
+              "discount_pct": 57.3,
+              "date": "2026-07-18"
             }
           ]
         }
@@ -16774,10 +16780,10 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/50490-saber-ancestral.html",
-          "price": 17.95,
+          "price": 13.5,
           "original_price": 45.0,
-          "discount_pct": 60.1,
-          "scraped_at": "2026-06-12T11:08:16.605376",
+          "discount_pct": 70.0,
+          "scraped_at": "2026-07-18T08:56:12.899800",
           "history": [
             {
               "price": 20.25,
@@ -16790,6 +16796,12 @@
               "original_price": 45.0,
               "discount_pct": 60.1,
               "date": "2026-06-12"
+            },
+            {
+              "price": 13.5,
+              "original_price": 45.0,
+              "discount_pct": 70.0,
+              "date": "2026-07-18"
             }
           ]
         },
@@ -48929,16 +48941,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/azul/43325-azul-pabellon-de-verano-8435407629929.html",
-          "price": 30.0,
+          "price": 39.59,
           "original_price": 44.99,
-          "discount_pct": 33.0,
-          "scraped_at": "2026-05-22T05:58:42.368273",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-18T08:53:55.902064",
           "history": [
             {
               "price": 30.0,
               "original_price": 44.99,
               "discount_pct": 33.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 39.59,
+              "original_price": 44.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-18"
             }
           ]
         }
@@ -49332,16 +49350,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57289-sail-8436607944836.html",
-          "price": 12.0,
+          "price": 21.6,
           "original_price": 24.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T05:58:42.321974",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-18T08:55:50.122539",
           "history": [
             {
               "price": 12.0,
               "original_price": 24.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 21.6,
+              "original_price": 24.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-18"
             }
           ]
         }
