@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-07-19T09:12:41.677262",
-  "total": 2075,
-  "total_raw": 2163,
+  "generated_at": "2026-07-20T10:20:56.169992",
+  "total": 2080,
+  "total_raw": 2169,
   "games": [
+    {
+      "name": "Disney Villainous (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-20T10:20:50.338231",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/28043-disney-villainous-castellano-4005556262762.html",
+          "price": 43.35,
+          "original_price": 61.95,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-07-20T10:20:50.338231",
+          "history": [
+            {
+              "price": 43.35,
+              "original_price": 61.95,
+              "discount_pct": 30.0,
+              "date": "2026-07-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kingsburg 2ª Edición",
+      "is_new": 0,
+      "first_seen": "2026-07-20T10:20:46.500299",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/41112-kingsburg-2-edicion-1000000000001.html",
+          "price": 35.0,
+          "original_price": 50.0,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-07-20T10:20:46.500299",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": 50.0,
+              "discount_pct": 30.0,
+              "date": "2026-07-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Darwin's Journey (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-20T10:20:42.616918",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/49109-darwin-s-journey-castellano.html",
+          "price": 37.5,
+          "original_price": 50.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-07-20T10:20:42.616918",
+          "history": [
+            {
+              "price": 37.5,
+              "original_price": 50.0,
+              "discount_pct": 25.0,
+              "date": "2026-07-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "¡Aventureros al Tren! 20Th Anniversary Deluxe Train Set (5)",
+      "is_new": 0,
+      "first_seen": "2026-07-20T10:20:40.692561",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52987-aventureros-al-tren-20th-anniversary-deluxe-train-set-5.html",
+          "price": 37.5,
+          "original_price": 50.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-07-20T10:20:40.692561",
+          "history": [
+            {
+              "price": 37.5,
+              "original_price": 50.0,
+              "discount_pct": 25.0,
+              "date": "2026-07-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unrest (Catellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-20T10:20:38.776462",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52955-unrest-catellano-8436607943907.html",
+          "price": 9.95,
+          "original_price": 20.0,
+          "discount_pct": 50.3,
+          "scraped_at": "2026-07-20T10:20:38.776462",
+          "history": [
+            {
+              "price": 9.95,
+              "original_price": 20.0,
+              "discount_pct": 50.3,
+              "date": "2026-07-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52955-unrest-catellano.html",
+          "price": 9.95,
+          "original_price": 20.0,
+          "discount_pct": 50.3,
+          "scraped_at": "2026-06-13T10:08:13.770890",
+          "history": [
+            {
+              "price": 10.0,
+              "original_price": 20.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 9.95,
+              "original_price": 20.0,
+              "discount_pct": 50.3,
+              "date": "2026-06-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Disney Villainous Intro to Evil Society (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-20T10:20:38.771447",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54235-disney-villainous-intro-to-evil-society-castellano-4005556227969.html",
+          "price": 29.95,
+          "original_price": 39.95,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-07-20T10:20:38.771447",
+          "history": [
+            {
+              "price": 29.95,
+              "original_price": 39.95,
+              "discount_pct": 25.0,
+              "date": "2026-07-20"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Sherlock Holmes: Carlton House & Queen's Park (Autojugable)",
       "is_new": 0,
@@ -17435,35 +17595,6 @@
               "original_price": 45.0,
               "discount_pct": 35.0,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Unrest (Catellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:21.237150",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/52955-unrest-catellano.html",
-          "price": 9.95,
-          "original_price": 20.0,
-          "discount_pct": 50.3,
-          "scraped_at": "2026-06-13T10:08:13.770890",
-          "history": [
-            {
-              "price": 10.0,
-              "original_price": 20.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 9.95,
-              "original_price": 20.0,
-              "discount_pct": 50.3,
-              "date": "2026-06-13"
             }
           ]
         }
