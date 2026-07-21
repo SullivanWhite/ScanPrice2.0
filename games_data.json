@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:20:56.169992",
+  "generated_at": "2026-07-21T09:34:59.553900",
   "total": 2080,
   "total_raw": 2169,
   "games": [
@@ -37558,16 +37558,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/47288-beez-8435407635357.html",
-          "price": 18.0,
+          "price": 12.0,
           "original_price": 44.99,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-05-22T05:59:38.526707",
+          "discount_pct": 73.0,
+          "scraped_at": "2026-07-21T09:32:24.528678",
           "history": [
             {
               "price": 18.0,
               "original_price": 44.99,
               "discount_pct": 60.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 12.0,
+              "original_price": 44.99,
+              "discount_pct": 73.0,
+              "date": "2026-07-21"
             }
           ]
         }
