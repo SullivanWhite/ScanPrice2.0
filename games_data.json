@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-07-21T09:34:59.553900",
-  "total": 2080,
-  "total_raw": 2169,
+  "generated_at": "2026-07-22T09:35:08.328101",
+  "total": 2083,
+  "total_raw": 2172,
   "games": [
+    {
+      "name": "Zombicide (2ª Edición): PariZ",
+      "is_new": 0,
+      "first_seen": "2026-07-22T09:34:18.601531",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/expansion-de-core/60810-zombicide-2-edicion-pariz-841333141837.html",
+          "price": 52.79,
+          "original_price": 59.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-22T09:34:18.601531",
+          "history": [
+            {
+              "price": 52.79,
+              "original_price": 59.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trismegistus",
+      "is_new": 0,
+      "first_seen": "2026-07-22T09:32:39.366960",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60685-trismegistus-8436625618382.html",
+          "price": 61.6,
+          "original_price": 70.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-22T09:32:39.366960",
+          "history": [
+            {
+              "price": 61.6,
+              "original_price": 70.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Los Fantasmas no Saben Dibujar",
+      "is_new": 0,
+      "first_seen": "2026-07-22T09:32:39.186697",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60776-los-fantasmas-no-saben-dibujar-8435407651449.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-22T09:32:39.186697",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-07-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Disney Villainous (Castellano)",
       "is_new": 0,
@@ -31075,10 +31144,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/45605-exit-14-robo-en-el-misisipi-8436589621855.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.627136",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-22T09:32:35.544001",
           "history": [
             {
               "price": 14.4,
@@ -31091,6 +31160,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-22"
             }
           ]
         }
@@ -31455,10 +31530,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/45606-exit-15-vuelo-hacia-lo-desconocido-8436589621848.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.625746",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-22T09:32:35.533602",
           "history": [
             {
               "price": 14.4,
@@ -31471,6 +31546,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-22"
             }
           ]
         }
@@ -37155,10 +37236,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/39209-exit-5-la-isla-olvidada-8436017226720.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.641395",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-22T09:32:35.547025",
           "history": [
             {
               "price": 14.4,
@@ -37171,6 +37252,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-22"
             }
           ]
         }
@@ -49395,16 +49482,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58483-duplik-3558380129769.html",
-          "price": 16.5,
+          "price": 22.49,
           "original_price": 24.99,
-          "discount_pct": 33.0,
-          "scraped_at": "2026-05-22T05:58:42.332065",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-22T09:34:18.598554",
           "history": [
             {
               "price": 16.5,
               "original_price": 24.99,
               "discount_pct": 33.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-07-22"
             }
           ]
         }
