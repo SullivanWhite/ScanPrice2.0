@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-22T09:35:08.328101",
-  "total": 2083,
-  "total_raw": 2172,
+  "generated_at": "2026-07-23T09:32:02.225727",
+  "total": 2085,
+  "total_raw": 2174,
   "games": [
+    {
+      "name": "ISS Vanguard: La Flota Perdida",
+      "is_new": 0,
+      "first_seen": "2026-07-23T09:29:28.511379",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57231-iss-vanguard-la-flota-perdida-5904689271957.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-23T09:29:28.511379",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finspan: Tiburones y Arrecifes",
+      "is_new": 0,
+      "first_seen": "2026-07-23T09:29:28.503573",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/wingspan/60816-finspan-tiburones-y-arrecifes-8436625618245.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-23T09:29:28.503573",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-23"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Zombicide (2ª Edición): PariZ",
       "is_new": 0,
