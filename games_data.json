@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-07-23T09:32:02.225727",
-  "total": 2085,
-  "total_raw": 2174,
+  "generated_at": "2026-07-24T09:29:27.608437",
+  "total": 2088,
+  "total_raw": 2177,
   "games": [
+    {
+      "name": "Nucleum: Gibraltar",
+      "is_new": 0,
+      "first_seen": "2026-07-24T09:28:44.802783",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60743-nucleum-gibraltar-8436625618207.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-24T09:28:44.802783",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ISS Vanguard Corebox + Upgrade Dados + Sundrop",
+      "is_new": 0,
+      "first_seen": "2026-07-24T09:26:52.903696",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60821-iss-vanguard-corebox-upgrade-dados-sundrop-5904689270394.html",
+          "price": 189.2,
+          "original_price": 215.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-24T09:26:52.903696",
+          "history": [
+            {
+              "price": 189.2,
+              "original_price": 215.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eclipse: Mystling Academy - Peare contra Arboro",
+      "is_new": 0,
+      "first_seen": "2026-07-24T09:26:52.900705",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60814-dragon-eclipse-mystling-academy-peare-contra-arboro-5904689274668.html",
+          "price": 16.2,
+          "original_price": 18.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-24T09:26:52.900705",
+          "history": [
+            {
+              "price": 16.2,
+              "original_price": 18.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-24"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "ISS Vanguard: La Flota Perdida",
       "is_new": 0,
@@ -4655,16 +4724,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/38189-sector-6-extras-kickstarter-602561772732.html",
-          "price": 6.0,
+          "price": 3.0,
           "original_price": 28.95,
-          "discount_pct": 79.3,
-          "scraped_at": "2026-05-22T05:59:38.524707",
+          "discount_pct": 89.0,
+          "scraped_at": "2026-07-24T09:26:52.895955",
           "history": [
             {
               "price": 6.0,
               "original_price": 28.95,
               "discount_pct": 79.3,
               "date": "2026-05-22"
+            },
+            {
+              "price": 3.0,
+              "original_price": 28.95,
+              "discount_pct": 89.0,
+              "date": "2026-07-24"
             }
           ]
         }
