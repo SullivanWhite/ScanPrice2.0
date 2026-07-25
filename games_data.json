@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-07-24T09:29:27.608437",
+  "generated_at": "2026-07-25T09:08:04.151485",
   "total": 2088,
-  "total_raw": 2177,
+  "total_raw": 2179,
   "games": [
+    {
+      "name": "Tawantinsuyu: El Imperio Inca",
+      "is_new": 0,
+      "first_seen": "2026-07-25T09:07:56.144559",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/39112-tawantinsuyu-el-imperio-inca-spanish-8436578813131.html",
+          "price": 33.0,
+          "original_price": 55.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-25T09:07:56.144559",
+          "history": [
+            {
+              "price": 33.0,
+              "original_price": 55.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-25"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/39112-tawantinsuyu-el-imperio-inca-8436578813131.html",
+          "price": 33.0,
+          "original_price": 55.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-22T06:01:33.869001",
+          "history": [
+            {
+              "price": 33.0,
+              "original_price": 55.0,
+              "discount_pct": 40.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kingsburg 2ª Edición",
+      "is_new": 0,
+      "first_seen": "2026-07-25T09:07:54.104848",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/41112-kingsburg-2-edicion-spanish-1000000000001.html",
+          "price": 25.0,
+          "original_price": 50.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-07-25T09:07:54.104848",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": 50.0,
+              "discount_pct": 50.0,
+              "date": "2026-07-25"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/41112-kingsburg-2-edicion-1000000000001.html",
+          "price": 35.0,
+          "original_price": 50.0,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-07-20T10:20:46.500299",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": 50.0,
+              "discount_pct": 30.0,
+              "date": "2026-07-20"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Nucleum: Gibraltar",
       "is_new": 0,
@@ -203,29 +281,6 @@
             {
               "price": 43.35,
               "original_price": 61.95,
-              "discount_pct": 30.0,
-              "date": "2026-07-20"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Kingsburg 2ª Edición",
-      "is_new": 0,
-      "first_seen": "2026-07-20T10:20:46.500299",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/41112-kingsburg-2-edicion-1000000000001.html",
-          "price": 35.0,
-          "original_price": 50.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-07-20T10:20:46.500299",
-          "history": [
-            {
-              "price": 35.0,
-              "original_price": 50.0,
               "discount_pct": 30.0,
               "date": "2026-07-20"
             }
@@ -2388,16 +2443,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/42319-merv-spanish-8436578813919.html",
-          "price": 16.95,
+          "price": 19.95,
           "original_price": 50.0,
-          "discount_pct": 66.1,
-          "scraped_at": "2026-06-28T10:09:07.620141",
+          "discount_pct": 60.1,
+          "scraped_at": "2026-07-25T09:07:54.102815",
           "history": [
             {
               "price": 16.95,
               "original_price": 50.0,
               "discount_pct": 66.1,
               "date": "2026-06-28"
+            },
+            {
+              "price": 19.95,
+              "original_price": 50.0,
+              "discount_pct": 60.1,
+              "date": "2026-07-25"
             }
           ]
         },
@@ -14972,29 +15033,6 @@
       ]
     },
     {
-      "name": "Tawantinsuyu: El Imperio Inca",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:33.869001",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/39112-tawantinsuyu-el-imperio-inca-8436578813131.html",
-          "price": 33.0,
-          "original_price": 55.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:01:33.869001",
-          "history": [
-            {
-              "price": 33.0,
-              "original_price": 55.0,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "AH LCG: Horror a Toda Máquina",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:33.866329",
@@ -15552,16 +15590,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/43885-stroganov-spanish-8436578814541.html",
-          "price": 19.95,
+          "price": 16.9,
           "original_price": 54.95,
-          "discount_pct": 63.7,
-          "scraped_at": "2026-05-22T06:01:29.710233",
+          "discount_pct": 69.2,
+          "scraped_at": "2026-07-25T09:07:54.096113",
           "history": [
             {
               "price": 19.95,
               "original_price": 54.95,
               "discount_pct": 63.7,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.9,
+              "original_price": 54.95,
+              "discount_pct": 69.2,
+              "date": "2026-07-25"
             }
           ]
         }
@@ -17970,16 +18014,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/54279-escuela-de-robots.html",
-          "price": 41.25,
+          "price": 33.0,
           "original_price": 55.0,
-          "discount_pct": 25.0,
-          "scraped_at": "2026-05-22T06:01:21.221112",
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-25T09:07:45.901052",
           "history": [
             {
               "price": 41.25,
               "original_price": 55.0,
               "discount_pct": 25.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 33.0,
+              "original_price": 55.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-25"
             }
           ]
         }
