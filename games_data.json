@@ -1,8 +1,187 @@
 {
-  "generated_at": "2026-07-28T09:43:48.410198",
-  "total": 2088,
-  "total_raw": 2181,
+  "generated_at": "2026-07-29T09:46:33.478046",
+  "total": 2089,
+  "total_raw": 2186,
   "games": [
+    {
+      "name": "Firefly The Game 10º Aniversario Collector's Ed. (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-29T09:46:05.378380",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54787-firefly-the-game-10th-anniversary-collector-s-ed.html",
+          "price": 159.0,
+          "original_price": 265.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-29T09:46:05.378380",
+          "history": [
+            {
+              "price": 159.0,
+              "original_price": 265.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finspan: Upgrade Pack",
+      "is_new": 0,
+      "first_seen": "2026-07-29T09:45:37.850413",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/wingspan/57135-finspan-upgrade-pack-850032180955.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-29T09:45:37.850413",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/wingspan/57135-finspan-850032180955.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:29.506579",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Agros Tarraco",
+      "is_new": 0,
+      "first_seen": "2026-07-29T09:44:02.664852",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/54079-agros-tarraco-9814974531962.html",
+          "price": 19.8,
+          "original_price": 22.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-29T09:44:02.664852",
+          "history": [
+            {
+              "price": 19.8,
+              "original_price": 22.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/54079-agros-tarraco-736372337399.html",
+          "price": 19.8,
+          "original_price": 22.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:24.862533",
+          "history": [
+            {
+              "price": 19.8,
+              "original_price": 22.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urbify",
+      "is_new": 0,
+      "first_seen": "2026-07-29T09:43:59.023103",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/52651-urbify-637902221648.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-29T09:43:59.023103",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/52651-urbify-195416645577.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:42.888682",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperfect Crimes: Pop-Up Escape Book",
+      "is_new": 0,
+      "first_seen": "2026-07-29T09:43:59.016038",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57768-imperfect-crimes-pop-up-escape-book-695538102410.html",
+          "price": 57.2,
+          "original_price": 65.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-29T09:43:59.016038",
+          "history": [
+            {
+              "price": 57.2,
+              "original_price": 65.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57768-imperfect-crimes-pop-up-escape-book-9746492408450.html",
+          "price": 57.2,
+          "original_price": 65.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:12.445745",
+          "history": [
+            {
+              "price": 57.2,
+              "original_price": 65.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Merv (Castellano)",
       "is_new": 0,
@@ -27503,29 +27682,6 @@
       ]
     },
     {
-      "name": "Finspan: Upgrade Pack",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:29.506579",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/wingspan/57135-finspan-850032180955.html",
-          "price": 31.5,
-          "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:29.506579",
-          "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Karak: Set de Miniaturas Basicas",
       "is_new": 0,
       "first_seen": "2026-05-22T06:00:29.504060",
@@ -28220,29 +28376,6 @@
             {
               "price": 32.36,
               "original_price": 35.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Agros Tarraco",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:24.862533",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/54079-agros-tarraco-736372337399.html",
-          "price": 19.8,
-          "original_price": 22.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:24.862533",
-          "history": [
-            {
-              "price": 19.8,
-              "original_price": 22.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
@@ -31480,10 +31613,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/32408-genial-8436607941330.html",
-          "price": 12.5,
+          "price": 22.5,
           "original_price": 25.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-27T10:59:57.484789",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-29T09:45:37.855498",
           "history": [
             {
               "price": 22.5,
@@ -31496,6 +31629,12 @@
               "original_price": 25.0,
               "discount_pct": 50.0,
               "date": "2026-05-27"
+            },
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-29"
             }
           ]
         }
@@ -36891,29 +37030,6 @@
       ]
     },
     {
-      "name": "Urbify",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:42.888682",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/52651-urbify-195416645577.html",
-          "price": 25.2,
-          "original_price": 28.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:42.888682",
-          "history": [
-            {
-              "price": 25.2,
-              "original_price": 28.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Café",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:42.886822",
@@ -38818,16 +38934,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/43885-fairy-trails-8436572390355.html",
-          "price": 8.0,
+          "price": 4.0,
           "original_price": 15.0,
-          "discount_pct": 46.7,
-          "scraped_at": "2026-05-22T05:59:34.147881",
+          "discount_pct": 73.0,
+          "scraped_at": "2026-07-29T09:43:55.328460",
           "history": [
             {
               "price": 8.0,
               "original_price": 15.0,
               "discount_pct": 46.7,
               "date": "2026-05-22"
+            },
+            {
+              "price": 4.0,
+              "original_price": 15.0,
+              "discount_pct": 73.0,
+              "date": "2026-07-29"
             }
           ]
         }
@@ -40373,10 +40495,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/51672-exit-regreso-a-la-cabana-abandonada-8436589629219.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.618006",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-29T09:43:55.325375",
           "history": [
             {
               "price": 14.4,
@@ -40389,6 +40511,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-29"
             }
           ]
         }
@@ -43410,29 +43538,6 @@
               "price": 14.36,
               "original_price": 15.95,
               "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Imperfect Crimes: Pop-Up Escape Book",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.445745",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57768-imperfect-crimes-pop-up-escape-book-9746492408450.html",
-          "price": 57.2,
-          "original_price": 65.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.445745",
-          "history": [
-            {
-              "price": 57.2,
-              "original_price": 65.0,
-              "discount_pct": 12.0,
               "date": "2026-05-22"
             }
           ]
