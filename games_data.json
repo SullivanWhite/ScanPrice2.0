@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-07-29T09:46:33.478046",
-  "total": 2089,
-  "total_raw": 2186,
+  "generated_at": "2026-07-30T09:37:34.018300",
+  "total": 2092,
+  "total_raw": 2189,
   "games": [
+    {
+      "name": "Altered: La prueba del hielo Sobre (1) (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-07-30T09:37:07.674289",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54039-altered-la-prueba-del-hielo-sobre-1-castellano-3760397180965.html",
+          "price": 2.4,
+          "original_price": 4.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-30T09:37:07.674289",
+          "history": [
+            {
+              "price": 2.4,
+              "original_price": 4.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LEGO Ninjago: Destiny's Bounty Adventures + Promo",
+      "is_new": 0,
+      "first_seen": "2026-07-30T09:34:55.426798",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60864-lego-ninjago-destiny-s-bounty-adventures-promo-5704339007406.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-30T09:34:55.426798",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Hilo Invisible",
+      "is_new": 0,
+      "first_seen": "2026-07-30T09:34:55.424210",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60861-el-hilo-invisible-8437027027536.html",
+          "price": 23.36,
+          "original_price": 25.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-30T09:34:55.424210",
+          "history": [
+            {
+              "price": 23.36,
+              "original_price": 25.95,
+              "discount_pct": 10.0,
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Firefly The Game 10º Aniversario Collector's Ed. (Castellano)",
       "is_new": 0,
@@ -17848,16 +17917,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/52296-anunnaki-el-amanecer-de-los-dioses.html",
-          "price": 85.0,
+          "price": 75.0,
           "original_price": 100.0,
-          "discount_pct": 15.0,
-          "scraped_at": "2026-05-22T06:01:23.306718",
+          "discount_pct": 25.0,
+          "scraped_at": "2026-07-30T09:37:11.101535",
           "history": [
             {
               "price": 85.0,
               "original_price": 100.0,
               "discount_pct": 15.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 75.0,
+              "original_price": 100.0,
+              "discount_pct": 25.0,
+              "date": "2026-07-30"
             }
           ]
         }
@@ -38172,16 +38247,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/43105-el-desafio-de-los-templos-8436572390294.html",
-          "price": 14.0,
+          "price": 7.0,
           "original_price": 31.95,
-          "discount_pct": 56.2,
-          "scraped_at": "2026-05-22T05:59:34.213118",
+          "discount_pct": 78.0,
+          "scraped_at": "2026-07-30T09:34:55.414807",
           "history": [
             {
               "price": 14.0,
               "original_price": 31.95,
               "discount_pct": 56.2,
               "date": "2026-05-22"
+            },
+            {
+              "price": 7.0,
+              "original_price": 31.95,
+              "discount_pct": 78.0,
+              "date": "2026-07-30"
             }
           ]
         }
