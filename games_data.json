@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-07-30T09:37:34.018300",
-  "total": 2092,
-  "total_raw": 2189,
+  "generated_at": "2026-07-31T09:52:31.706904",
+  "total": 2096,
+  "total_raw": 2193,
   "games": [
+    {
+      "name": "The Mandalorian: Adventures - Consagrados al Credo",
+      "is_new": 0,
+      "first_seen": "2026-07-31T09:50:03.436280",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60844-the-mandalorian-adventures-consagrados-al-credo-841333139360.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-31T09:50:03.436280",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galaxy Trucker: ¡¿Hacer Qué?!",
+      "is_new": 0,
+      "first_seen": "2026-07-31T09:50:03.431709",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/galaxy-trucker/60842-galaxy-trucker-hacer-que-8436625612199.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-31T09:50:03.431709",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tembo",
+      "is_new": 0,
+      "first_seen": "2026-07-31T09:50:03.429806",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60815-tembo-8436625613165.html",
+          "price": 34.2,
+          "original_price": 38.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-31T09:50:03.429806",
+          "history": [
+            {
+              "price": 34.2,
+              "original_price": 38.0,
+              "discount_pct": 10.0,
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Glasgow Train Robbery",
+      "is_new": 0,
+      "first_seen": "2026-07-31T09:50:03.425699",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60867-the-glasgow-train-robbery-8495390976790.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-31T09:50:03.425699",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Altered: La prueba del hielo Sobre (1) (Castellano)",
       "is_new": 0,
@@ -38634,16 +38726,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/50220-et-el-extraterrestre-889698676717.html",
-          "price": 18.0,
+          "price": 12.0,
           "original_price": 39.95,
-          "discount_pct": 54.9,
-          "scraped_at": "2026-05-22T05:59:34.179866",
+          "discount_pct": 69.0,
+          "scraped_at": "2026-07-31T09:50:57.217039",
           "history": [
             {
               "price": 18.0,
               "original_price": 39.95,
               "discount_pct": 54.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 12.0,
+              "original_price": 39.95,
+              "discount_pct": 69.0,
+              "date": "2026-07-31"
             }
           ]
         }
