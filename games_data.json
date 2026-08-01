@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-07-31T09:52:31.706904",
-  "total": 2096,
-  "total_raw": 2193,
+  "generated_at": "2026-08-01T09:13:50.543094",
+  "total": 2097,
+  "total_raw": 2194,
   "games": [
+    {
+      "name": "Orloj: The Prague Astronomical Clock",
+      "is_new": 0,
+      "first_seen": "2026-08-01T09:11:33.495940",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59228-orloj-the-prague-astronomical-clock-609143667066.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-01T09:11:33.495940",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-01"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "The Mandalorian: Adventures - Consagrados al Credo",
       "is_new": 0,
