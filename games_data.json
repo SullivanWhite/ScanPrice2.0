@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-02T09:17:30.944619",
-  "total": 2097,
-  "total_raw": 2194,
+  "generated_at": "2026-08-03T10:52:14.715432",
+  "total": 2099,
+  "total_raw": 2196,
   "games": [
+    {
+      "name": "Market Fresh",
+      "is_new": 0,
+      "first_seen": "2026-08-03T10:49:46.432782",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60891-market-fresh-5010996388728.html",
+          "price": 35.16,
+          "original_price": 39.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-03T10:49:46.432782",
+          "history": [
+            {
+              "price": 35.16,
+              "original_price": 39.95,
+              "discount_pct": 12.0,
+              "date": "2026-08-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boop.",
+      "is_new": 0,
+      "first_seen": "2026-08-03T10:49:46.425597",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60887-boop-8435163900270.html",
+          "price": 22.46,
+          "original_price": 24.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-03T10:49:46.425597",
+          "history": [
+            {
+              "price": 22.46,
+              "original_price": 24.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-03"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Orloj: The Prague Astronomical Clock",
       "is_new": 0,
@@ -36582,10 +36628,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59039-fromage-3558380132905.html",
-          "price": 39.99,
+          "price": 43.99,
           "original_price": 49.99,
-          "discount_pct": 20.0,
-          "scraped_at": "2026-07-09T10:34:01.549751",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-03T10:51:32.562418",
           "history": [
             {
               "price": 43.99,
@@ -36598,6 +36644,12 @@
               "original_price": 49.99,
               "discount_pct": 20.0,
               "date": "2026-07-09"
+            },
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-03"
             }
           ]
         }
@@ -45055,10 +45107,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/40037-exit-7-el-tesoro-hundido-8436017227123.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.632945",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-03T10:49:46.439573",
           "history": [
             {
               "price": 14.4,
@@ -45071,6 +45123,12 @@
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-03"
             }
           ]
         }
