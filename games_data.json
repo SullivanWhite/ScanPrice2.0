@@ -1,8 +1,231 @@
 {
-  "generated_at": "2026-08-03T10:52:14.715432",
-  "total": 2099,
-  "total_raw": 2196,
+  "generated_at": "2026-08-04T09:46:14.055186",
+  "total": 2107,
+  "total_raw": 2205,
   "games": [
+    {
+      "name": "Darwin's Journey: Premium Sleeves Pack",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.792257",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/darwin-s-journey/56227-darwin-s-journey-premium-sleeves-pack-602573705759.html",
+          "price": 4.46,
+          "original_price": 4.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-04T09:43:43.792257",
+          "history": [
+            {
+              "price": 4.46,
+              "original_price": 4.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Darwin's Journey: Darwin Worked Mini-Expansion",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.789633",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/darwin-s-journey/56225-darwin-s-journey-darwin-worked-mini-expansion-602573705766.html",
+          "price": 4.46,
+          "original_price": 4.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-04T09:43:43.789633",
+          "history": [
+            {
+              "price": 4.46,
+              "original_price": 4.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Darwin's Journey: Great Ship Mini-Expansion",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.787138",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/darwin-s-journey/56226-darwin-s-journey-great-ship-mini-expansion-602573705803.html",
+          "price": 8.95,
+          "original_price": 9.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-04T09:43:43.787138",
+          "history": [
+            {
+              "price": 8.95,
+              "original_price": 9.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Topoum: Bratatatata",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.784691",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/39954-topoum-bratatatata-8414606723348.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-04T09:43:43.784691",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oltréé: Monturas y Corceles",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.781750",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/oltree/56936-oltree-monturas-y-corceles-8436578818624.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-04T09:43:43.781750",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/oltree-monturas-y-corceles-86243.html",
+          "price": 10.5,
+          "original_price": 15.0,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-05-22T06:02:00.814282",
+          "history": [
+            {
+              "price": 10.5,
+              "original_price": 15.0,
+              "discount_pct": 30.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trickerion: Leyendas del Ilusionismo (Paquete de Ampliación de Aniversario)",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.778802",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/trickerion/59534-trickerion-leyendas-del-ilusionismo-paquete-de-ampliacion-de-aniversario-8436623242626.html",
+          "price": 48.4,
+          "original_price": 55.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-04T09:43:43.778802",
+          "history": [
+            {
+              "price": 48.4,
+              "original_price": 55.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heroes of Might and Magic 3: The Board Game - Expansión Fortaleza",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.776761",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57556-heroes-of-might-and-magic-3-the-board-game-expansion-fortaleza-5901414675523.html",
+          "price": 42.23,
+          "original_price": 47.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-04T09:43:43.776761",
+          "history": [
+            {
+              "price": 42.23,
+              "original_price": 47.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trickerion: Leyendas del Ilusionismo - Expansion Artes Arcanas",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.774044",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/trickerion/59536-trickerion-leyendas-del-ilusionismo-expansion-artes-arcanas-8436623242640.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-04T09:43:43.774044",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pack Galaxy Trucker + Expansión Bocinas en el Espacio",
+      "is_new": 0,
+      "first_seen": "2026-08-04T09:43:43.768980",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/galaxy-trucker/60785-pack-galaxy-trucker-expansion-bocinas-en-el-espacio.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-04T09:43:43.768980",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Market Fresh",
       "is_new": 0,
@@ -10563,29 +10786,6 @@
               "original_price": 24.99,
               "discount_pct": 35.0,
               "date": "2026-07-02"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Oltréé: Monturas y corceles",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:02:00.814282",
-      "prices": [
-        {
-          "source": "dungeonmarvels",
-          "url": "https://dungeonmarvels.com/oltree-monturas-y-corceles-86243.html",
-          "price": 10.5,
-          "original_price": 15.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:02:00.814282",
-          "history": [
-            {
-              "price": 10.5,
-              "original_price": 15.0,
-              "discount_pct": 30.0,
-              "date": "2026-05-22"
             }
           ]
         }
