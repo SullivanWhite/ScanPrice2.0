@@ -1,8 +1,170 @@
 {
-  "generated_at": "2026-08-04T09:46:14.055186",
-  "total": 2107,
-  "total_raw": 2205,
+  "generated_at": "2026-08-05T09:44:46.636072",
+  "total": 2108,
+  "total_raw": 2209,
   "games": [
+    {
+      "name": "Superstore 3000 (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-08-05T09:44:31.046507",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/53824-superstore-3000-castellano-3558380123484.html",
+          "price": 30.0,
+          "original_price": 37.5,
+          "discount_pct": 20.0,
+          "scraped_at": "2026-08-05T09:44:31.046507",
+          "history": [
+            {
+              "price": 30.0,
+              "original_price": 37.5,
+              "discount_pct": 20.0,
+              "date": "2026-08-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coming of Age",
+      "is_new": 0,
+      "first_seen": "2026-08-05T09:44:29.145820",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/56645-coming-of-age-793588575557.html",
+          "price": 44.0,
+          "original_price": 54.99,
+          "discount_pct": 20.0,
+          "scraped_at": "2026-08-05T09:44:29.145820",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 54.99,
+              "discount_pct": 20.0,
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/coming-of-age-90911.html",
+          "price": 38.49,
+          "original_price": 54.99,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-05-22T06:01:52.835185",
+          "history": [
+            {
+              "price": 38.49,
+              "original_price": 54.99,
+              "discount_pct": 30.0,
+              "date": "2026-05-22"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58874-coming-of-age-793588575557.html",
+          "price": 35.74,
+          "original_price": 54.99,
+          "discount_pct": 35.0,
+          "scraped_at": "2026-06-18T11:13:04.095941",
+          "history": [
+            {
+              "price": 48.39,
+              "original_price": 54.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 35.74,
+              "original_price": 54.99,
+              "discount_pct": 35.0,
+              "date": "2026-06-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Sonata",
+      "is_new": 0,
+      "first_seen": "2026-08-05T09:42:36.126908",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/45447-black-sonata-672975430320.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-05T09:42:36.126908",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/45447-black-sonata-672975430320.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:12.473364",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SETI: Agencias Espaciales (+2 Promos)",
+      "is_new": 0,
+      "first_seen": "2026-08-05T09:42:36.116939",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59733-seti-agencias-espaciales-2-promos-8436625614179.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-05T09:42:36.116939",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59733-seti-agencias-espaciales-2-promos-8436625614179.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.233096",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Darwin's Journey: Premium Sleeves Pack",
       "is_new": 0,
@@ -12509,51 +12671,6 @@
       ]
     },
     {
-      "name": "Coming of Age",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:52.835185",
-      "prices": [
-        {
-          "source": "dungeonmarvels",
-          "url": "https://dungeonmarvels.com/coming-of-age-90911.html",
-          "price": 38.49,
-          "original_price": 54.99,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:52.835185",
-          "history": [
-            {
-              "price": 38.49,
-              "original_price": 54.99,
-              "discount_pct": 30.0,
-              "date": "2026-05-22"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/58874-coming-of-age-793588575557.html",
-          "price": 35.74,
-          "original_price": 54.99,
-          "discount_pct": 35.0,
-          "scraped_at": "2026-06-18T11:13:04.095941",
-          "history": [
-            {
-              "price": 48.39,
-              "original_price": 54.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 35.74,
-              "original_price": 54.99,
-              "discount_pct": 35.0,
-              "date": "2026-06-18"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "UniVersus CCG: Teenage Mutant Ninja Turtles Hanging Booster (1 sobre)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:52.830041",
@@ -22933,16 +23050,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/king-of-tokyo/55814-king-of-tokyo-origins-8436607944928.html",
-          "price": 12.5,
+          "price": 22.5,
           "original_price": 25.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:00:52.252686",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-05T09:44:06.258918",
           "history": [
             {
               "price": 12.5,
               "original_price": 25.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-05"
             }
           ]
         }
@@ -43769,29 +43892,6 @@
       ]
     },
     {
-      "name": "Black Sonata",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.473364",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/45447-black-sonata-672975430320.html",
-          "price": 26.96,
-          "original_price": 29.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:12.473364",
-          "history": [
-            {
-              "price": 26.96,
-              "original_price": 29.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Tipperary",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.468256",
@@ -44336,29 +44436,6 @@
             {
               "price": 26.96,
               "original_price": 29.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "SETI: Agencias Espaciales (+2 Promos)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.233096",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59733-seti-agencias-espaciales-2-promos-8436625614179.html",
-          "price": 27.0,
-          "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.233096",
-          "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
