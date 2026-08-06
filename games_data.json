@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-08-05T09:44:46.636072",
-  "total": 2108,
-  "total_raw": 2209,
+  "generated_at": "2026-08-06T09:47:45.163580",
+  "total": 2110,
+  "total_raw": 2213,
   "games": [
+    {
+      "name": "Splendor: Premium Art Sleeves",
+      "is_new": 0,
+      "first_seen": "2026-08-06T09:45:22.066157",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57862-splendor-premium-art-sleeves-4251715418161.html",
+          "price": 14.39,
+          "original_price": 15.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-06T09:45:22.066157",
+          "history": [
+            {
+              "price": 14.39,
+              "original_price": 15.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key enigma: Sleddy Lost Tapes - The Last Episode",
+      "is_new": 0,
+      "first_seen": "2026-08-06T09:45:22.060067",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60759-key-enigma-sleddy-lost-tapes-the-last-episode-695538102366.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-06T09:45:22.060067",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Criaturas de Serie B",
+      "is_new": 0,
+      "first_seen": "2026-08-06T09:45:22.056209",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/42796-criaturas-de-serie-b-8425402271414.html",
+          "price": 20.66,
+          "original_price": 22.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-06T09:45:22.056209",
+          "history": [
+            {
+              "price": 20.66,
+              "original_price": 22.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/42796-criaturas-de-serie-b-8425402271414.html",
+          "price": 20.66,
+          "original_price": 22.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:04.009082",
+          "history": [
+            {
+              "price": 20.66,
+              "original_price": 22.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Criaturas de Serie B: Expansión I",
+      "is_new": 0,
+      "first_seen": "2026-08-06T09:45:22.053218",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/42797-criaturas-de-serie-b-expansion-i-8425402448960.html",
+          "price": 8.95,
+          "original_price": 9.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-06T09:45:22.053218",
+          "history": [
+            {
+              "price": 8.95,
+              "original_price": 9.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/42797-criaturas-de-serie-b-expansion-i-8425402448960.html",
+          "price": 8.95,
+          "original_price": 9.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.228781",
+          "history": [
+            {
+              "price": 8.95,
+              "original_price": 9.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Superstore 3000 (Castellano)",
       "is_new": 0,
@@ -3803,16 +3927,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/exit/39210-exit-6-la-estacion-polar-8436017226737.html",
-          "price": 9.5,
+          "price": 14.4,
           "original_price": 16.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-06-19T11:40:05.635170",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-06T09:45:14.503591",
           "history": [
             {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
               "date": "2026-06-19"
+            },
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-06"
             }
           ]
         }
@@ -32731,16 +32861,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/special-guests/32057-zombicide-special-guest-adrian-smith-8435407623989.html",
-          "price": 8.0,
+          "price": 4.0,
           "original_price": 24.95,
-          "discount_pct": 67.9,
-          "scraped_at": "2026-05-22T06:00:05.698378",
+          "discount_pct": 83.0,
+          "scraped_at": "2026-08-06T09:45:22.058569",
           "history": [
             {
               "price": 8.0,
               "original_price": 24.95,
               "discount_pct": 67.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 4.0,
+              "original_price": 24.95,
+              "discount_pct": 83.0,
+              "date": "2026-08-06"
             }
           ]
         }
@@ -33813,10 +33949,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55632-machi-koro-2-edicion-8435407642478.html",
-          "price": 19.5,
+          "price": 26.39,
           "original_price": 29.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-06-02T11:23:58.274625",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-06T09:47:02.780534",
           "history": [
             {
               "price": 26.99,
@@ -33829,6 +33965,12 @@
               "original_price": 29.99,
               "discount_pct": 34.0,
               "date": "2026-06-02"
+            },
+            {
+              "price": 26.39,
+              "original_price": 29.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-06"
             }
           ]
         }
@@ -44467,29 +44609,6 @@
       ]
     },
     {
-      "name": "Criaturas de Serie B: Expansión I",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.228781",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/42797-criaturas-de-serie-b-expansion-i-8425402448960.html",
-          "price": 8.95,
-          "original_price": 9.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.228781",
-          "history": [
-            {
-              "price": 8.95,
-              "original_price": 9.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Lutier",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.222055",
@@ -45180,29 +45299,6 @@
               "price": 52.8,
               "original_price": 60.0,
               "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Criaturas de Serie B",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:04.009082",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/42796-criaturas-de-serie-b-8425402271414.html",
-          "price": 20.66,
-          "original_price": 22.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:04.009082",
-          "history": [
-            {
-              "price": 20.66,
-              "original_price": 22.95,
-              "discount_pct": 10.0,
               "date": "2026-05-22"
             }
           ]
