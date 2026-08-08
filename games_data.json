@@ -1,8 +1,148 @@
 {
-  "generated_at": "2026-08-07T08:21:12.268481",
-  "total": 2111,
-  "total_raw": 2214,
+  "generated_at": "2026-08-08T07:56:00.076712",
+  "total": 2113,
+  "total_raw": 2218,
   "games": [
+    {
+      "name": "Cyberpunk 2077: Familias Y Proscritos (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-08-08T07:55:43.410859",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/48221-cyberpunk-2077-families-and-outcasts-castellano-8435407641549.html",
+          "price": 25.0,
+          "original_price": 49.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-08-08T07:55:43.410859",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": 49.99,
+              "discount_pct": 50.0,
+              "date": "2026-08-08"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/48221-cyberpunk-2077-familias-y-proscritos-castellano-8435407641549.html",
+          "price": 25.0,
+          "original_price": 49.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-22T06:01:27.563122",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": 49.99,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ahora O Nunca",
+      "is_new": 0,
+      "first_seen": "2026-08-08T07:55:41.397152",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/51291-ahora-o-nunca-8436589626898.html",
+          "price": 39.0,
+          "original_price": 65.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-08-08T07:55:41.397152",
+          "history": [
+            {
+              "price": 39.0,
+              "original_price": 65.0,
+              "discount_pct": 40.0,
+              "date": "2026-08-08"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/51291-ahora-o-nunca.html",
+          "price": 39.0,
+          "original_price": 65.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-22T06:01:23.331916",
+          "history": [
+            {
+              "price": 39.0,
+              "original_price": 65.0,
+              "discount_pct": 40.0,
+              "date": "2026-05-22"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/54231-ahora-o-nunca-8436589626898.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T06:00:29.550352",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skull Tales: Minis del Mar (Expansión)",
+      "is_new": 0,
+      "first_seen": "2026-08-08T07:53:31.569352",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/skull-tales/60460-skull-tales-minis-del-mar-expansion-602561010742.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-08T07:53:31.569352",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skull Tales: ¡Oh Capitán, mi Capitán! (Expansión)",
+      "is_new": 0,
+      "first_seen": "2026-08-08T07:53:31.565188",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/skull-tales/60461-skull-tales-oh-capitan-mi-capitan-expansion-698142510336.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-08T07:53:31.565188",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-08"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Votes for Women",
       "is_new": 0,
@@ -17495,29 +17635,6 @@
       ]
     },
     {
-      "name": "Cyberpunk 2077: Familias Y Proscritos (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:27.563122",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/48221-cyberpunk-2077-familias-y-proscritos-castellano-8435407641549.html",
-          "price": 25.0,
-          "original_price": 49.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:27.563122",
-          "history": [
-            {
-              "price": 25.0,
-              "original_price": 49.99,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "LOTRLCG: Cazador de Sueños Expansión de Campaña",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:25.443125",
@@ -18288,45 +18405,6 @@
               "price": 30.0,
               "original_price": 50.0,
               "discount_pct": 40.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Ahora O Nunca",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:23.331916",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/51291-ahora-o-nunca.html",
-          "price": 39.0,
-          "original_price": 65.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:01:23.331916",
-          "history": [
-            {
-              "price": 39.0,
-              "original_price": 65.0,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/54231-ahora-o-nunca-8436589626898.html",
-          "price": 52.8,
-          "original_price": 60.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:29.550352",
-          "history": [
-            {
-              "price": 52.8,
-              "original_price": 60.0,
-              "discount_pct": 12.0,
               "date": "2026-05-22"
             }
           ]
@@ -25995,16 +26073,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/the-artemis-project/47910-the-artemis-project-8436564811769.html",
-          "price": 55.4,
+          "price": 18.0,
           "original_price": 62.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:38.744510",
+          "discount_pct": 71.0,
+          "scraped_at": "2026-08-08T07:53:31.576772",
           "history": [
             {
               "price": 55.4,
               "original_price": 62.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 18.0,
+              "original_price": 62.95,
+              "discount_pct": 71.0,
+              "date": "2026-08-08"
             }
           ]
         }
