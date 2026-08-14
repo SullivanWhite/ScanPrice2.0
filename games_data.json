@@ -1,8 +1,311 @@
 {
-  "generated_at": "2026-08-13T08:27:22.902924",
-  "total": 2121,
-  "total_raw": 2227,
+  "generated_at": "2026-08-14T08:25:05.752368",
+  "total": 2125,
+  "total_raw": 2236,
   "games": [
+    {
+      "name": "Sky Team",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:24:20.041141",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55340-sky-team-8435407642386.html",
+          "price": 26.99,
+          "original_price": 29.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-14T08:24:20.041141",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 29.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/55340-sky-team-8435407642386.html",
+          "price": 26.99,
+          "original_price": 29.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:01:01.539155",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 29.99,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sky Team: Turbulence",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:48.370801",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58801-sky-team-turbulence-8435407650794.html",
+          "price": 11.69,
+          "original_price": 12.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-14T08:22:48.370801",
+          "history": [
+            {
+              "price": 11.69,
+              "original_price": 12.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58801-sky-team-turbulence-8435407650794.html",
+          "price": 11.69,
+          "original_price": 12.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.178823",
+          "history": [
+            {
+              "price": 11.69,
+              "original_price": 12.99,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Cueva de Maese Ocelote",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:48.368442",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57351-la-cueva-de-maese-ocelote-8435407650763.html",
+          "price": 15.0,
+          "original_price": 24.99,
+          "discount_pct": 39.0,
+          "scraped_at": "2026-08-14T08:22:48.368442",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 24.99,
+              "discount_pct": 39.0,
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/55126-la-cueva-de-maese-ocelote.html",
+          "price": 17.5,
+          "original_price": 24.99,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-05-22T06:01:21.214226",
+          "history": [
+            {
+              "price": 17.5,
+              "original_price": 24.99,
+              "discount_pct": 30.0,
+              "date": "2026-05-22"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57351-la-cueva-de-maese-ocelote-8435407650763.html",
+          "price": 15.0,
+          "original_price": 24.99,
+          "discount_pct": 39.0,
+          "scraped_at": "2026-05-22T05:59:03.967710",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 24.99,
+              "discount_pct": 39.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finca",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:48.365438",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58151-finca-8436607947684.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-14T08:22:48.365438",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58151-finca-8436607947684.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.176121",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Sonata: El Joven Misterioso",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:44.719143",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57451-black-sonata-el-joven-misterioso-672975430337.html",
+          "price": 14.36,
+          "original_price": 15.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-14T08:22:44.719143",
+          "history": [
+            {
+              "price": 14.36,
+              "original_price": 15.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57451-black-sonata-el-joven-misterioso-672975430337.html",
+          "price": 14.36,
+          "original_price": 15.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:12.447949",
+          "history": [
+            {
+              "price": 14.36,
+              "original_price": 15.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Line of Fire: Burnt Moon",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:41.108553",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59787-line-of-fire-burnt-moon-703818994874.html",
+          "price": 19.5,
+          "original_price": 30.0,
+          "discount_pct": 35.0,
+          "scraped_at": "2026-08-14T08:22:41.108553",
+          "history": [
+            {
+              "price": 19.5,
+              "original_price": 30.0,
+              "discount_pct": 35.0,
+              "date": "2026-08-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aprender Jugando: Secundaria",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:37.419972",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56118-aprender-jugando-secundaria-8436607945291.html",
+          "price": 19.0,
+          "original_price": 20.0,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-14T08:22:37.419972",
+          "history": [
+            {
+              "price": 19.0,
+              "original_price": 20.0,
+              "discount_pct": 5.0,
+              "date": "2026-08-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aprender Jugando: Primaria",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:37.414404",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56155-aprender-jugando-primaria-8436607944720.html",
+          "price": 19.0,
+          "original_price": 20.0,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-14T08:22:37.414404",
+          "history": [
+            {
+              "price": 19.0,
+              "original_price": 20.0,
+              "discount_pct": 5.0,
+              "date": "2026-08-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Godzilla: King of the Monsters",
+      "is_new": 0,
+      "first_seen": "2026-08-14T08:22:33.777427",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/ofertas/45328-godzilla-king-of-the-monsters-8436564811912.html",
+          "price": 8.0,
+          "original_price": 39.95,
+          "discount_pct": 79.0,
+          "scraped_at": "2026-08-14T08:22:33.777427",
+          "history": [
+            {
+              "price": 8.0,
+              "original_price": 39.95,
+              "discount_pct": 79.0,
+              "date": "2026-08-14"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Kitchen Rush Expansion Postres Deliciosos",
       "is_new": 0,
@@ -19328,45 +19631,6 @@
       ]
     },
     {
-      "name": "La Cueva De Maese Ocelote",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:21.214226",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/55126-la-cueva-de-maese-ocelote.html",
-          "price": 17.5,
-          "original_price": 24.99,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:21.214226",
-          "history": [
-            {
-              "price": 17.5,
-              "original_price": 24.99,
-              "discount_pct": 30.0,
-              "date": "2026-05-22"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57351-la-cueva-de-maese-ocelote-8435407650763.html",
-          "price": 15.0,
-          "original_price": 24.99,
-          "discount_pct": 39.0,
-          "scraped_at": "2026-05-22T05:59:03.967710",
-          "history": [
-            {
-              "price": 15.0,
-              "original_price": 24.99,
-              "discount_pct": 39.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Transgalactica",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:21.212019",
@@ -22564,29 +22828,6 @@
               "price": 52.79,
               "original_price": 59.99,
               "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Sky Team",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:01.539155",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/55340-sky-team-8435407642386.html",
-          "price": 26.99,
-          "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:01:01.539155",
-          "history": [
-            {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
               "date": "2026-05-22"
             }
           ]
@@ -41470,10 +41711,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/heroquest/57343-heroquest-el-despertar--5010996320902.html",
-          "price": 33.0,
+          "price": 39.59,
           "original_price": 44.99,
-          "discount_pct": 26.0,
-          "scraped_at": "2026-06-09T10:37:26.321310",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-14T08:22:48.376245",
           "history": [
             {
               "price": 39.59,
@@ -41486,6 +41727,12 @@
               "original_price": 44.99,
               "discount_pct": 26.0,
               "date": "2026-06-09"
+            },
+            {
+              "price": 39.59,
+              "original_price": 44.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-14"
             }
           ]
         }
@@ -44549,29 +44796,6 @@
       ]
     },
     {
-      "name": "Black Sonata: El Joven Misterioso",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.447949",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57451-black-sonata-el-joven-misterioso-672975430337.html",
-          "price": 14.36,
-          "original_price": 15.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:12.447949",
-          "history": [
-            {
-              "price": 14.36,
-              "original_price": 15.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Medical Mysteries: Miami Flatline",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.443491",
@@ -45388,52 +45612,6 @@
               "price": 3.5,
               "original_price": null,
               "discount_pct": null,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Sky Team: Turbulence",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.178823",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58801-sky-team-turbulence-8435407650794.html",
-          "price": 11.69,
-          "original_price": 12.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.178823",
-          "history": [
-            {
-              "price": 11.69,
-              "original_price": 12.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Finca",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.176121",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58151-finca-8436607947684.html",
-          "price": 31.5,
-          "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.176121",
-          "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
               "date": "2026-05-22"
             }
           ]
@@ -46726,16 +46904,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/51221-cronicas-de-avel-nuevas-aventuras-8435407641365.html",
-          "price": 26.0,
+          "price": 35.99,
           "original_price": 39.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-05-22T05:58:59.685417",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-14T08:24:20.039313",
           "history": [
             {
               "price": 26.0,
               "original_price": 39.99,
               "discount_pct": 34.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 35.99,
+              "original_price": 39.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-14"
             }
           ]
         }
