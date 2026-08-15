@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-14T08:25:05.752368",
+  "generated_at": "2026-08-15T07:39:12.060703",
   "total": 2125,
-  "total_raw": 2236,
+  "total_raw": 2237,
   "games": [
+    {
+      "name": "Firefly The Game 10º Aniversario Collector's Ed. (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-08-15T07:38:54.364286",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54787-firefly-the-game-10-aniversario-collector-s-ed-castellano.html",
+          "price": 159.0,
+          "original_price": 265.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-08-15T07:38:54.364286",
+          "history": [
+            {
+              "price": 159.0,
+              "original_price": 265.0,
+              "discount_pct": 40.0,
+              "date": "2026-08-15"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54787-firefly-the-game-10th-anniversary-collector-s-ed.html",
+          "price": 159.0,
+          "original_price": 265.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-29T09:46:05.378380",
+          "history": [
+            {
+              "price": 159.0,
+              "original_price": 265.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-29"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Sky Team",
       "is_new": 0,
@@ -1426,29 +1465,6 @@
               "original_price": 25.95,
               "discount_pct": 10.0,
               "date": "2026-07-30"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Firefly The Game 10º Aniversario Collector's Ed. (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-07-29T09:46:05.378380",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/54787-firefly-the-game-10th-anniversary-collector-s-ed.html",
-          "price": 159.0,
-          "original_price": 265.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-07-29T09:46:05.378380",
-          "history": [
-            {
-              "price": 159.0,
-              "original_price": 265.0,
-              "discount_pct": 40.0,
-              "date": "2026-07-29"
             }
           ]
         }
