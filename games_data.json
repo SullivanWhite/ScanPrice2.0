@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-17T07:58:50.770052",
-  "total": 2125,
-  "total_raw": 2237,
+  "generated_at": "2026-08-18T07:47:46.403655",
+  "total": 2128,
+  "total_raw": 2240,
   "games": [
+    {
+      "name": "Beast: Pack de Miniaturas",
+      "is_new": 0,
+      "first_seen": "2026-08-18T07:45:22.326846",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/juegos-de-tablero/60991-beast-pack-de-miniaturas-8437022228723.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-18T07:45:22.326846",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast: Shattered Isles",
+      "is_new": 0,
+      "first_seen": "2026-08-18T07:45:22.144252",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/juegos-de-tablero/60993-beast-shattered-isles-8437022228686.html",
+          "price": 44.87,
+          "original_price": 50.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-18T07:45:22.144252",
+          "history": [
+            {
+              "price": 44.87,
+              "original_price": 50.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast: Shattered Isles (Pack de Miniaturas)",
+      "is_new": 0,
+      "first_seen": "2026-08-18T07:45:18.460385",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60994-beast-shattered-isles-pack-de-miniaturas-8437022228730.html",
+          "price": 23.39,
+          "original_price": 25.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-18T07:45:18.460385",
+          "history": [
+            {
+              "price": 23.39,
+              "original_price": 25.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Firefly The Game 10º Aniversario Collector's Ed. (Castellano)",
       "is_new": 0,
