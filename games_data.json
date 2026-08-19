@@ -1,8 +1,239 @@
 {
-  "generated_at": "2026-08-18T07:47:46.403655",
-  "total": 2128,
-  "total_raw": 2240,
+  "generated_at": "2026-08-19T07:48:17.122684",
+  "total": 2131,
+  "total_raw": 2247,
   "games": [
+    {
+      "name": "Los Rugientes años 20",
+      "is_new": 0,
+      "first_seen": "2026-08-19T07:45:40.305085",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58109-los-rugientes-anos-20-8436578819751.html",
+          "price": 9.0,
+          "original_price": 10.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-19T07:45:40.305085",
+          "history": [
+            {
+              "price": 9.0,
+              "original_price": 10.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urban Sketchers",
+      "is_new": 0,
+      "first_seen": "2026-08-19T07:45:40.302765",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59180-urban-sketchers-753389455847.html",
+          "price": 32.36,
+          "original_price": 35.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-19T07:45:40.302765",
+          "history": [
+            {
+              "price": 32.36,
+              "original_price": 35.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59180-urban-sketchers-753389455847.html",
+          "price": 32.36,
+          "original_price": 35.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:56.997701",
+          "history": [
+            {
+              "price": 32.36,
+              "original_price": 35.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transgalactica",
+      "is_new": 0,
+      "first_seen": "2026-08-19T07:45:40.300706",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57481-transgalactica-8436607946632.html",
+          "price": 48.4,
+          "original_price": 55.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-19T07:45:40.300706",
+          "history": [
+            {
+              "price": 48.4,
+              "original_price": 55.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/55536-transgalactica-8436607946632.html",
+          "price": 21.95,
+          "original_price": 55.0,
+          "discount_pct": 60.1,
+          "scraped_at": "2026-06-13T10:08:13.763283",
+          "history": [
+            {
+              "price": 22.0,
+              "original_price": 55.0,
+              "discount_pct": 60.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 21.95,
+              "original_price": 55.0,
+              "discount_pct": 60.1,
+              "date": "2026-06-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DCeased: Gotham City Outbreak",
+      "is_new": 0,
+      "first_seen": "2026-08-19T07:45:40.298518",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57346-dceased-gotham-city-outbreak-8435407650022.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-19T07:45:40.298518",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57346-dceased-gotham-city-outbreak-8435407650022.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:58:46.698734",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast: Enconos Metalicos",
+      "is_new": 0,
+      "first_seen": "2026-08-19T07:45:40.296236",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61004-beast-enconos-metalicos-7350140370017.html",
+          "price": 11.69,
+          "original_price": 12.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-19T07:45:40.296236",
+          "history": [
+            {
+              "price": 11.69,
+              "original_price": 12.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kadath",
+      "is_new": 0,
+      "first_seen": "2026-08-19T07:45:40.293997",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60057-kadath-726367811904.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-19T07:45:40.293997",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Chase",
+      "is_new": 0,
+      "first_seen": "2026-08-19T07:45:39.365254",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57956-city-chase-8431618045169.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-19T07:45:39.365254",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57956-city-chase-8431618045169.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.235067",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Beast: Pack de Miniaturas",
       "is_new": 0,
@@ -19716,35 +19947,6 @@
       ]
     },
     {
-      "name": "Transgalactica",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:21.212019",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/55536-transgalactica-8436607946632.html",
-          "price": 21.95,
-          "original_price": 55.0,
-          "discount_pct": 60.1,
-          "scraped_at": "2026-06-13T10:08:13.763283",
-          "history": [
-            {
-              "price": 22.0,
-              "original_price": 55.0,
-              "discount_pct": 60.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 21.95,
-              "original_price": 55.0,
-              "discount_pct": 60.1,
-              "date": "2026-06-13"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "MCP: Defenders Affiliation Pack",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:21.209904",
@@ -22981,29 +23183,6 @@
             {
               "price": 22.5,
               "original_price": 25.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Urban Sketchers",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:56.997701",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59180-urban-sketchers-753389455847.html",
-          "price": 32.36,
-          "original_price": 35.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:56.997701",
-          "history": [
-            {
-              "price": 32.36,
-              "original_price": 35.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
@@ -45203,29 +45382,6 @@
       ]
     },
     {
-      "name": "City Chase",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.235067",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57956-city-chase-8431618045169.html",
-          "price": 26.96,
-          "original_price": 29.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.235067",
-          "history": [
-            {
-              "price": 26.96,
-              "original_price": 29.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Orleans: Big Box",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.231262",
@@ -50042,29 +50198,6 @@
               "price": 11.7,
               "original_price": 13.0,
               "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "DCeased: Gotham City Outbreak",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:46.698734",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57346-dceased-gotham-city-outbreak-8435407650022.html",
-          "price": 43.99,
-          "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:58:46.698734",
-          "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
               "date": "2026-05-22"
             }
           ]
