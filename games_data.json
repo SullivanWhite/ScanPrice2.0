@@ -1,8 +1,535 @@
 {
-  "generated_at": "2026-08-19T07:48:17.122684",
-  "total": 2131,
-  "total_raw": 2247,
+  "generated_at": "2026-08-20T07:50:38.373955",
+  "total": 2136,
+  "total_raw": 2262,
   "games": [
+    {
+      "name": "Nucleum",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.487080",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57573-nucleum-8436578817276.html",
+          "price": 61.6,
+          "original_price": 70.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-20T07:48:08.487080",
+          "history": [
+            {
+              "price": 61.6,
+              "original_price": 70.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57573-nucleum-8436578817276.html",
+          "price": 61.6,
+          "original_price": 70.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:12.464907",
+          "history": [
+            {
+              "price": 61.6,
+              "original_price": 70.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terra de Castells",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.484503",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59469-terra-de-castells-634065679361.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-20T07:48:08.484503",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59469-terra-de-castells-634065679361.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.204546",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ubongo! - Brain Games",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.482600",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57340-ubongo-brain-games-8436607947820.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-20T07:48:08.482600",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57340-ubongo-brain-games-8436607947820.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:57.002264",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stephens",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.480629",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57575-stephens-8436578818761.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-20T07:48:08.480629",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57575-stephens-8436578818761.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:12.441297",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Listos, Listas y Listakens (Edicion Clásica)",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.478617",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57931-listos-listas-y-listakens-edicion-clasica-8435450255106.html",
+          "price": 12.3,
+          "original_price": 12.95,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-20T07:48:08.478617",
+          "history": [
+            {
+              "price": 12.3,
+              "original_price": 12.95,
+              "discount_pct": 5.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57931-listos-listas-y-listakens-edicion-clasica-8435450255106.html",
+          "price": 12.3,
+          "original_price": 12.95,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-22T05:59:08.243281",
+          "history": [
+            {
+              "price": 12.3,
+              "original_price": 12.95,
+              "discount_pct": 5.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gigantes Moviendo Mueblecitos",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.476458",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57967-gigantes-moviendo-mueblecitos-810171411440.html",
+          "price": 13.0,
+          "original_price": 19.99,
+          "discount_pct": 34.0,
+          "scraped_at": "2026-08-20T07:48:08.476458",
+          "history": [
+            {
+              "price": 13.0,
+              "original_price": 19.99,
+              "discount_pct": 34.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/gigantes-moviendo-mueblecitos-89639.html",
+          "price": 11.99,
+          "original_price": 19.98,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-05-22T06:01:55.494075",
+          "history": [
+            {
+              "price": 11.99,
+              "original_price": 19.98,
+              "discount_pct": 40.0,
+              "date": "2026-05-22"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57967-gigantes-moviendo-mueblecitos-810171411440.html",
+          "price": 13.0,
+          "original_price": 19.99,
+          "discount_pct": 34.0,
+          "scraped_at": "2026-06-02T11:23:58.278565",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            },
+            {
+              "price": 13.0,
+              "original_price": 19.99,
+              "discount_pct": 34.0,
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Litoral",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.474367",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58681-litoral-8436578819621.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-20T07:48:08.474367",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58681-litoral-8436578819621.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.173914",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Astro Knights",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.470549",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58324-astro-knights-8436607944171.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-20T07:48:08.470549",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paradise Resort",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.468249",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59136-paradise-resort-6379029096832.html",
+          "price": 32.36,
+          "original_price": 35.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-20T07:48:08.468249",
+          "history": [
+            {
+              "price": 32.36,
+              "original_price": 35.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59136-paradise-resort-6379029096832.html",
+          "price": 32.36,
+          "original_price": 35.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.215183",
+          "history": [
+            {
+              "price": 32.36,
+              "original_price": 35.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Colour Festival",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:08.455044",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59158-colour-festival-8437027027345.html",
+          "price": 13.46,
+          "original_price": 14.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-20T07:48:08.455044",
+          "history": [
+            {
+              "price": 13.46,
+              "original_price": 14.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minecrash",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:04.973896",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59407-minecrash-8436564815040.html",
+          "price": 22.46,
+          "original_price": 24.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-20T07:48:04.973896",
+          "history": [
+            {
+              "price": 22.46,
+              "original_price": 24.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Valle de los Molinos: Velas Florecientes",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:04.962202",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59691-el-valle-de-los-molinos-velas-florecientes-8436623242688.html",
+          "price": 19.8,
+          "original_price": 22.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-20T07:48:04.962202",
+          "history": [
+            {
+              "price": 19.8,
+              "original_price": 22.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59691-el-valle-de-los-molinos-velas-florecientes-8436623242688.html",
+          "price": 19.8,
+          "original_price": 22.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.202499",
+          "history": [
+            {
+              "price": 19.8,
+              "original_price": 22.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diluvium",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:04.848195",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60281-diluvium-698142705206.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-20T07:48:04.848195",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/60281-diluvium-698142705206.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-28T11:03:09.072535",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aprendre Jugant: Primaria (Català)",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:04.845833",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56117-aprender-jugando-primaria-8436607944829.html",
+          "price": 19.0,
+          "original_price": 20.0,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-20T07:48:04.845833",
+          "history": [
+            {
+              "price": 19.0,
+              "original_price": 20.0,
+              "discount_pct": 5.0,
+              "date": "2026-08-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Juego como Herramienta de Aprendizaje",
+      "is_new": 0,
+      "first_seen": "2026-08-20T07:48:04.840858",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56943-el-juego-como-heramienta-de-aprendizaje-9788409576333.html",
+          "price": 16.1,
+          "original_price": 16.95,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-20T07:48:04.840858",
+          "history": [
+            {
+              "price": 16.1,
+              "original_price": 16.95,
+              "discount_pct": 5.0,
+              "date": "2026-08-20"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Los Rugientes años 20",
       "is_new": 0,
@@ -6269,29 +6796,6 @@
               "price": 17.99,
               "original_price": 29.99,
               "discount_pct": 40.0,
-              "date": "2026-05-28"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Diluvium",
-      "is_new": 0,
-      "first_seen": "2026-05-28T11:03:09.072535",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/60281-diluvium-698142705206.html",
-          "price": 39.6,
-          "original_price": 45.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-28T11:03:09.072535",
-          "history": [
-            {
-              "price": 39.6,
-              "original_price": 45.0,
-              "discount_pct": 12.0,
               "date": "2026-05-28"
             }
           ]
@@ -13272,51 +13776,6 @@
               "original_price": 20.0,
               "discount_pct": 30.0,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Gigantes moviendo mueblecitos",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:55.494075",
-      "prices": [
-        {
-          "source": "dungeonmarvels",
-          "url": "https://dungeonmarvels.com/gigantes-moviendo-mueblecitos-89639.html",
-          "price": 11.99,
-          "original_price": 19.98,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:01:55.494075",
-          "history": [
-            {
-              "price": 11.99,
-              "original_price": 19.98,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57967-gigantes-moviendo-mueblecitos-810171411440.html",
-          "price": 13.0,
-          "original_price": 19.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-06-02T11:23:58.278565",
-          "history": [
-            {
-              "price": 17.99,
-              "original_price": 19.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
-              "price": 13.0,
-              "original_price": 19.99,
-              "discount_pct": 34.0,
-              "date": "2026-06-02"
             }
           ]
         }
@@ -23137,29 +23596,6 @@
             {
               "price": 24.3,
               "original_price": 27.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Ubongo! - Brain Games",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:57.002264",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57340-ubongo-brain-games-8436607947820.html",
-          "price": 13.5,
-          "original_price": 15.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:57.002264",
-          "history": [
-            {
-              "price": 13.5,
-              "original_price": 15.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
@@ -44922,29 +45358,6 @@
       ]
     },
     {
-      "name": "Nucleum",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.464907",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57573-nucleum-8436578817276.html",
-          "price": 61.6,
-          "original_price": 70.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.464907",
-          "history": [
-            {
-              "price": 61.6,
-              "original_price": 70.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "The Art of Heroes of Might and Magic 3: The Board Game",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.462833",
@@ -45076,29 +45489,6 @@
               "price": 24.3,
               "original_price": 27.0,
               "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Stephens",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.441297",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57575-stephens-8436578818761.html",
-          "price": 52.8,
-          "original_price": 60.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.441297",
-          "history": [
-            {
-              "price": 52.8,
-              "original_price": 60.0,
-              "discount_pct": 12.0,
               "date": "2026-05-22"
             }
           ]
@@ -45290,29 +45680,6 @@
       ]
     },
     {
-      "name": "Listos, Listas y Listakens (Edicion Clásica)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.243281",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57931-listos-listas-y-listakens-edicion-clasica-8435450255106.html",
-          "price": 12.3,
-          "original_price": 12.95,
-          "discount_pct": 5.0,
-          "scraped_at": "2026-05-22T05:59:08.243281",
-          "history": [
-            {
-              "price": 12.3,
-              "original_price": 12.95,
-              "discount_pct": 5.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Listos, Listas y Listakens (Party)",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.241088",
@@ -45474,29 +45841,6 @@
       ]
     },
     {
-      "name": "Paradise Resort",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.215183",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59136-paradise-resort-6379029096832.html",
-          "price": 32.36,
-          "original_price": 35.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.215183",
-          "history": [
-            {
-              "price": 32.36,
-              "original_price": 35.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Tic Tac Tumba",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.212975",
@@ -45599,52 +45943,6 @@
             {
               "price": 17.96,
               "original_price": 19.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Terra de Castells",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.204546",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59469-terra-de-castells-634065679361.html",
-          "price": 27.0,
-          "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.204546",
-          "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "El Valle de los Molinos: Velas Florecientes",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.202499",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59691-el-valle-de-los-molinos-velas-florecientes-8436623242688.html",
-          "price": 19.8,
-          "original_price": 22.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.202499",
-          "history": [
-            {
-              "price": 19.8,
-              "original_price": 22.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
@@ -45853,29 +46151,6 @@
               "price": 3.5,
               "original_price": null,
               "discount_pct": null,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Litoral",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.173914",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58681-litoral-8436578819621.html",
-          "price": 18.0,
-          "original_price": 20.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.173914",
-          "history": [
-            {
-              "price": 18.0,
-              "original_price": 20.0,
-              "discount_pct": 10.0,
               "date": "2026-05-22"
             }
           ]
