@@ -1,8 +1,591 @@
 {
-  "generated_at": "2026-08-20T07:50:38.373955",
-  "total": 2136,
-  "total_raw": 2262,
+  "generated_at": "2026-08-21T07:52:11.491911",
+  "total": 2142,
+  "total_raw": 2279,
   "games": [
+    {
+      "name": "Tianxia",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:51:05.324956",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58425-tianxia-8436578819836.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-21T07:51:05.324956",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58425-tianxia-8436578819836.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:08.190639",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Art of Heroes of Might and Magic 3: The Board Game",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.596423",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57557-the-art-of-heroes-of-might-and-magic-3-the-board-game--5901414674762.html",
+          "price": 39.89,
+          "original_price": 41.99,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-21T07:49:31.596423",
+          "history": [
+            {
+              "price": 39.89,
+              "original_price": 41.99,
+              "discount_pct": 5.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57557-the-art-of-heroes-of-might-and-magic-3-the-board-game--5901414674762.html",
+          "price": 39.89,
+          "original_price": 41.99,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-22T05:59:12.462833",
+          "history": [
+            {
+              "price": 39.89,
+              "original_price": 41.99,
+              "discount_pct": 5.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperfect Crimes: Pop-Up Escape Book",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.593725",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57768-imperfect-crimes-pop-up-escape-book-695538102410.html",
+          "price": 57.2,
+          "original_price": 65.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-21T07:49:31.593725",
+          "history": [
+            {
+              "price": 57.2,
+              "original_price": 65.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57768-imperfect-crimes-pop-up-escape-book-695538102410.html",
+          "price": 57.2,
+          "original_price": 65.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-07-29T09:43:59.016038",
+          "history": [
+            {
+              "price": 57.2,
+              "original_price": 65.0,
+              "discount_pct": 12.0,
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57768-imperfect-crimes-pop-up-escape-book-9746492408450.html",
+          "price": 57.2,
+          "original_price": 65.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:12.445745",
+          "history": [
+            {
+              "price": 57.2,
+              "original_price": 65.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pulitzer (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.590333",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58643-pulitzer-promo-8437028641076.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-21T07:49:31.590333",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58643-pulitzer-promo-8437028641076.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:08.219808",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nucleum: Instituto de Investigación Energetica",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.587529",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58424-nucleum-instituto-de-investigacion-energetica-8436578819713.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:31.587529",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58424-nucleum-instituto-de-investigacion-energetica-8436578819713.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:56.990933",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ruler",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.584846",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58969-ruler-8436564815071.html",
+          "price": 17.96,
+          "original_price": 19.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:31.584846",
+          "history": [
+            {
+              "price": 17.96,
+              "original_price": 19.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Listos, Listas y Listakens (Junior)",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.582331",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57933-listos-listas-y-listakens-junior-8435450255113.html",
+          "price": 12.3,
+          "original_price": 12.95,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-21T07:49:31.582331",
+          "history": [
+            {
+              "price": 12.3,
+              "original_price": 12.95,
+              "discount_pct": 5.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57933-listos-listas-y-listakens-junior-8435450255113.html",
+          "price": 12.3,
+          "original_price": 12.95,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-22T05:59:08.236997",
+          "history": [
+            {
+              "price": 12.3,
+              "original_price": 12.95,
+              "discount_pct": 5.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EXIT 24: La Fuga",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.576300",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/exit/58718-exit-24-la-fuga-8436607946182.html",
+          "price": 14.4,
+          "original_price": 16.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:31.576300",
+          "history": [
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58718-exit-24-la-fuga-8436607946182.html",
+          "price": 14.4,
+          "original_price": 16.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.247347",
+          "history": [
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "S.T.A.L.K.E.R: El Juego de Mesa - Libro de Arte",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.573656",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60067-stalker-el-juego-de-mesa-libro-de-arte-5904689272190.html",
+          "price": 26.1,
+          "original_price": 29.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:31.573656",
+          "history": [
+            {
+              "price": 26.1,
+              "original_price": 29.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trucos Trucados",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:31.570510",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59182-trucos-trucados-8436623242893.html",
+          "price": 25.2,
+          "original_price": 28.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:31.570510",
+          "history": [
+            {
+              "price": 25.2,
+              "original_price": 28.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Misterio de la Abadía",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:27.915740",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57354-el-misterio-de-la-abadia-8436578817887.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-21T07:49:27.915740",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57354-el-misterio-de-la-abadia-8436578817887.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:12.433842",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "S.T.A.L.K.E.R: El Juego de Mesa - Stalker",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:27.913214",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59213-stalker-el-juego-de-mesa-stalker-5904689272749.html",
+          "price": 124.0,
+          "original_price": 155.0,
+          "discount_pct": 20.0,
+          "scraped_at": "2026-08-21T07:49:27.913214",
+          "history": [
+            {
+              "price": 124.0,
+              "original_price": 155.0,
+              "discount_pct": 20.0,
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tiletum: Prospección de Plata",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:27.910744",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57855-tiletum-prospeccion-de-plata-8436578819669.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:27.910744",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57855-tiletum-prospeccion-de-plata-8436578819669.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:12.437210",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Postales + Promo",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:27.906649",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61014-postales-promo-8421005001816.html",
+          "price": 31.46,
+          "original_price": 34.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:27.906649",
+          "history": [
+            {
+              "price": 31.46,
+              "original_price": 34.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frost Punk: Expansión Frostlander",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:27.903858",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57520-frost-punk-expansion-frostlander-8436578815951.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:27.903858",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57520-frost-punk-expansion-frostlander-8436578815951.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:12.450569",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Radlands: Superdeluxe",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:27.900758",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59785-radlands-superdeluxe-8436578815876.html",
+          "price": 61.6,
+          "original_price": 70.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-21T07:49:27.900758",
+          "history": [
+            {
+              "price": 61.6,
+              "original_price": 70.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59785-radlands-superdeluxe-8436578815876.html",
+          "price": 61.6,
+          "original_price": 70.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:58:55.363649",
+          "history": [
+            {
+              "price": 61.6,
+              "original_price": 70.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Splendor: Game Mat",
+      "is_new": 0,
+      "first_seen": "2026-08-21T07:49:27.234989",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57861-splendor-game-mat-4251715418178.html",
+          "price": 31.49,
+          "original_price": 34.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-21T07:49:27.234989",
+          "history": [
+            {
+              "price": 31.49,
+              "original_price": 34.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Nucleum",
       "is_new": 0,
@@ -243,12 +826,6 @@
           "discount_pct": 34.0,
           "scraped_at": "2026-06-02T11:23:58.278565",
           "history": [
-            {
-              "price": 17.99,
-              "original_price": 19.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 13.0,
               "original_price": 19.99,
@@ -622,12 +1199,6 @@
           "scraped_at": "2026-06-13T10:08:13.763283",
           "history": [
             {
-              "price": 22.0,
-              "original_price": 55.0,
-              "discount_pct": 60.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 21.95,
               "original_price": 55.0,
               "discount_pct": 60.1,
@@ -854,16 +1425,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/54787-firefly-the-game-10th-anniversary-collector-s-ed.html",
-          "price": 159.0,
+          "price": 172.25,
           "original_price": 265.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-07-29T09:46:05.378380",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-08-21T07:51:46.894061",
           "history": [
             {
               "price": 159.0,
               "original_price": 265.0,
               "discount_pct": 40.0,
               "date": "2026-07-29"
+            },
+            {
+              "price": 172.25,
+              "original_price": 265.0,
+              "discount_pct": 35.0,
+              "date": "2026-08-21"
             }
           ]
         }
@@ -1751,12 +2328,6 @@
           "scraped_at": "2026-06-18T11:13:04.095941",
           "history": [
             {
-              "price": 48.39,
-              "original_price": 54.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 35.74,
               "original_price": 54.99,
               "discount_pct": 35.0,
@@ -2415,45 +2986,6 @@
       ]
     },
     {
-      "name": "Imperfect Crimes: Pop-Up Escape Book",
-      "is_new": 0,
-      "first_seen": "2026-07-29T09:43:59.016038",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57768-imperfect-crimes-pop-up-escape-book-695538102410.html",
-          "price": 57.2,
-          "original_price": 65.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-07-29T09:43:59.016038",
-          "history": [
-            {
-              "price": 57.2,
-              "original_price": 65.0,
-              "discount_pct": 12.0,
-              "date": "2026-07-29"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57768-imperfect-crimes-pop-up-escape-book-9746492408450.html",
-          "price": 57.2,
-          "original_price": 65.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.445745",
-          "history": [
-            {
-              "price": 57.2,
-              "original_price": 65.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Merv (Castellano)",
       "is_new": 0,
       "first_seen": "2026-07-26T09:22:49.153486",
@@ -2543,12 +3075,6 @@
           "discount_pct": 69.2,
           "scraped_at": "2026-07-25T09:07:54.096113",
           "history": [
-            {
-              "price": 19.95,
-              "original_price": 54.95,
-              "discount_pct": 63.7,
-              "date": "2026-05-22"
-            },
             {
               "price": 16.9,
               "original_price": 54.95,
@@ -2925,12 +3451,6 @@
           "discount_pct": 50.3,
           "scraped_at": "2026-06-13T10:08:13.770890",
           "history": [
-            {
-              "price": 10.0,
-              "original_price": 20.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.95,
               "original_price": 20.0,
@@ -3792,12 +4312,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-06-18T11:14:13.305389",
           "history": [
-            {
-              "price": 40.0,
-              "original_price": 59.99,
-              "discount_pct": 33.3,
-              "date": "2026-05-22"
-            },
             {
               "price": 30.0,
               "original_price": 59.99,
@@ -4721,12 +5235,6 @@
           "scraped_at": "2026-06-23T10:39:35.862801",
           "history": [
             {
-              "price": 35.16,
-              "original_price": 39.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 29.96,
               "original_price": 39.95,
               "discount_pct": 25.0,
@@ -4982,12 +5490,6 @@
           "scraped_at": "2026-06-28T10:08:43.168489",
           "history": [
             {
-              "price": 41.36,
-              "original_price": 47.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 28.0,
               "original_price": 47.0,
               "discount_pct": 40.0,
@@ -5065,12 +5567,6 @@
           "discount_pct": 70.1,
           "scraped_at": "2026-06-13T10:08:19.577897",
           "history": [
-            {
-              "price": 18.0,
-              "original_price": 60.0,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 17.95,
               "original_price": 60.0,
@@ -5183,12 +5679,6 @@
           "discount_pct": 50.1,
           "scraped_at": "2026-06-12T11:08:16.598245",
           "history": [
-            {
-              "price": 18.0,
-              "original_price": 36.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 17.95,
               "original_price": 36.0,
@@ -6056,12 +6546,6 @@
           "scraped_at": "2026-07-13T10:35:37.826059",
           "history": [
             {
-              "price": 24.0,
-              "original_price": 60.0,
-              "discount_pct": 60.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 35.95,
               "original_price": 60.0,
               "discount_pct": 40.1,
@@ -6855,12 +7339,6 @@
           "scraped_at": "2026-05-25T11:17:52.558733",
           "history": [
             {
-              "price": 96.79,
-              "original_price": 109.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 109.99,
               "original_price": 124.99,
               "discount_pct": 12.0,
@@ -7290,12 +7768,6 @@
           "discount_pct": 89.0,
           "scraped_at": "2026-07-24T09:26:52.895955",
           "history": [
-            {
-              "price": 6.0,
-              "original_price": 28.95,
-              "discount_pct": 79.3,
-              "date": "2026-05-22"
-            },
             {
               "price": 3.0,
               "original_price": 28.95,
@@ -12577,12 +13049,6 @@
           "scraped_at": "2026-07-02T10:13:20.150592",
           "history": [
             {
-              "price": 24.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-05-22"
-            },
-            {
               "price": 16.0,
               "original_price": 24.99,
               "discount_pct": 35.0,
@@ -16550,12 +17016,6 @@
           "scraped_at": "2026-07-13T10:35:41.937062",
           "history": [
             {
-              "price": 22.2,
-              "original_price": 37.0,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 24.9,
               "original_price": 37.0,
               "discount_pct": 32.7,
@@ -16848,12 +17308,6 @@
           "scraped_at": "2026-06-12T11:08:25.917330",
           "history": [
             {
-              "price": 10.5,
-              "original_price": 15.0,
-              "discount_pct": 30.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.95,
               "original_price": 15.0,
               "discount_pct": 33.7,
@@ -17084,12 +17538,6 @@
           "scraped_at": "2026-07-13T10:35:39.907405",
           "history": [
             {
-              "price": 8.95,
-              "original_price": 34.99,
-              "discount_pct": 74.4,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.95,
               "original_price": 34.99,
               "discount_pct": 57.3,
@@ -17135,12 +17583,6 @@
           "discount_pct": 57.3,
           "scraped_at": "2026-07-13T10:35:39.905716",
           "history": [
-            {
-              "price": 8.95,
-              "original_price": 34.99,
-              "discount_pct": 74.4,
-              "date": "2026-05-22"
-            },
             {
               "price": 14.95,
               "original_price": 34.99,
@@ -17295,12 +17737,6 @@
           "discount_pct": 33.4,
           "scraped_at": "2026-06-13T10:08:23.431179",
           "history": [
-            {
-              "price": 29.2,
-              "original_price": 44.95,
-              "discount_pct": 35.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 29.95,
               "original_price": 44.95,
@@ -17748,12 +18184,6 @@
           "scraped_at": "2026-07-13T10:35:37.828904",
           "history": [
             {
-              "price": 11.95,
-              "original_price": 34.99,
-              "discount_pct": 65.8,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.95,
               "original_price": 34.99,
               "discount_pct": 57.3,
@@ -17884,12 +18314,6 @@
           "discount_pct": 50.1,
           "scraped_at": "2026-07-13T10:35:37.823271",
           "history": [
-            {
-              "price": 11.95,
-              "original_price": 39.99,
-              "discount_pct": 70.1,
-              "date": "2026-05-22"
-            },
             {
               "price": 19.95,
               "original_price": 39.99,
@@ -18107,12 +18531,6 @@
           "scraped_at": "2026-06-13T10:08:21.504251",
           "history": [
             {
-              "price": 19.95,
-              "original_price": 55.0,
-              "discount_pct": 63.7,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.95,
               "original_price": 55.0,
               "discount_pct": 72.8,
@@ -18135,12 +18553,6 @@
           "discount_pct": 50.1,
           "scraped_at": "2026-06-12T11:08:22.200002",
           "history": [
-            {
-              "price": 40.0,
-              "original_price": 80.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 39.9,
               "original_price": 80.0,
@@ -18233,12 +18645,6 @@
           "discount_pct": 60.1,
           "scraped_at": "2026-07-13T10:35:35.783583",
           "history": [
-            {
-              "price": 14.9,
-              "original_price": 40.0,
-              "discount_pct": 62.7,
-              "date": "2026-05-22"
-            },
             {
               "price": 10.95,
               "original_price": 40.0,
@@ -18338,12 +18744,6 @@
           "scraped_at": "2026-07-13T10:35:35.777624",
           "history": [
             {
-              "price": 16.95,
-              "original_price": 55.69,
-              "discount_pct": 69.6,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.95,
               "original_price": 55.69,
               "discount_pct": 73.2,
@@ -18441,12 +18841,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-07-13T10:35:35.774822",
           "history": [
-            {
-              "price": 42.0,
-              "original_price": 59.99,
-              "discount_pct": 30.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 30.0,
               "original_price": 59.99,
@@ -18701,12 +19095,6 @@
           "scraped_at": "2026-07-13T10:35:33.735138",
           "history": [
             {
-              "price": 19.95,
-              "original_price": 50.0,
-              "discount_pct": 60.1,
-              "date": "2026-05-22"
-            },
-            {
               "price": 24.95,
               "original_price": 50.0,
               "discount_pct": 50.1,
@@ -18752,12 +19140,6 @@
           "discount_pct": 30.0,
           "scraped_at": "2026-07-13T10:35:33.733094",
           "history": [
-            {
-              "price": 29.95,
-              "original_price": 60.0,
-              "discount_pct": 50.1,
-              "date": "2026-05-22"
-            },
             {
               "price": 42.0,
               "original_price": 60.0,
@@ -18920,12 +19302,6 @@
           "scraped_at": "2026-07-18T08:56:14.919027",
           "history": [
             {
-              "price": 45.0,
-              "original_price": 109.99,
-              "discount_pct": 59.1,
-              "date": "2026-05-22"
-            },
-            {
               "price": 46.95,
               "original_price": 109.99,
               "discount_pct": 57.3,
@@ -18971,12 +19347,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-07-13T10:35:33.729125",
           "history": [
-            {
-              "price": 54.0,
-              "original_price": 89.99,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 45.0,
               "original_price": 89.99,
@@ -19024,12 +19394,6 @@
           "scraped_at": "2026-07-13T10:35:33.727521",
           "history": [
             {
-              "price": 14.95,
-              "original_price": 49.99,
-              "discount_pct": 70.1,
-              "date": "2026-05-22"
-            },
-            {
               "price": 17.5,
               "original_price": 49.99,
               "discount_pct": 65.0,
@@ -19052,12 +19416,6 @@
           "discount_pct": 65.0,
           "scraped_at": "2026-07-13T10:35:33.726202",
           "history": [
-            {
-              "price": 14.95,
-              "original_price": 49.99,
-              "discount_pct": 70.1,
-              "date": "2026-05-22"
-            },
             {
               "price": 17.5,
               "original_price": 49.99,
@@ -19183,12 +19541,6 @@
           "scraped_at": "2026-07-13T10:35:33.724427",
           "history": [
             {
-              "price": 20.0,
-              "original_price": 39.99,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 23.95,
               "original_price": 39.99,
               "discount_pct": 40.1,
@@ -19274,12 +19626,6 @@
           "scraped_at": "2026-07-13T10:35:33.722145",
           "history": [
             {
-              "price": 20.0,
-              "original_price": 39.99,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 23.95,
               "original_price": 39.99,
               "discount_pct": 40.1,
@@ -19302,12 +19648,6 @@
           "discount_pct": 50.1,
           "scraped_at": "2026-07-13T10:35:33.720399",
           "history": [
-            {
-              "price": 15.95,
-              "original_price": 39.99,
-              "discount_pct": 60.1,
-              "date": "2026-05-22"
-            },
             {
               "price": 19.95,
               "original_price": 39.99,
@@ -19400,12 +19740,6 @@
           "discount_pct": 40.0,
           "scraped_at": "2026-07-13T10:35:31.687433",
           "history": [
-            {
-              "price": 39.9,
-              "original_price": 80.0,
-              "discount_pct": 50.1,
-              "date": "2026-05-22"
-            },
             {
               "price": 48.0,
               "original_price": 80.0,
@@ -19514,12 +19848,6 @@
           "discount_pct": 70.0,
           "scraped_at": "2026-07-18T08:56:12.899800",
           "history": [
-            {
-              "price": 20.25,
-              "original_price": 45.0,
-              "discount_pct": 55.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 17.95,
               "original_price": 45.0,
@@ -19673,12 +20001,6 @@
           "discount_pct": 50.2,
           "scraped_at": "2026-06-12T11:08:16.603352",
           "history": [
-            {
-              "price": 15.0,
-              "original_price": 30.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 14.95,
               "original_price": 30.0,
@@ -19933,12 +20255,6 @@
           "scraped_at": "2026-07-30T09:37:11.101535",
           "history": [
             {
-              "price": 85.0,
-              "original_price": 100.0,
-              "discount_pct": 15.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 75.0,
               "original_price": 100.0,
               "discount_pct": 25.0,
@@ -20024,12 +20340,6 @@
           "scraped_at": "2026-06-13T10:08:15.685306",
           "history": [
             {
-              "price": 15.0,
-              "original_price": 30.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.95,
               "original_price": 30.0,
               "discount_pct": 50.2,
@@ -20069,12 +20379,6 @@
           "scraped_at": "2026-07-13T10:35:31.676505",
           "history": [
             {
-              "price": 12.5,
-              "original_price": 25.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 15.0,
               "original_price": 25.0,
               "discount_pct": 40.0,
@@ -20097,12 +20401,6 @@
           "discount_pct": 35.2,
           "scraped_at": "2026-06-13T10:08:15.683526",
           "history": [
-            {
-              "price": 14.95,
-              "original_price": 20.0,
-              "discount_pct": 25.3,
-              "date": "2026-05-22"
-            },
             {
               "price": 12.95,
               "original_price": 20.0,
@@ -20150,12 +20448,6 @@
           "scraped_at": "2026-06-13T10:08:13.769803",
           "history": [
             {
-              "price": 15.0,
-              "original_price": 25.0,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.95,
               "original_price": 25.0,
               "discount_pct": 40.2,
@@ -20202,12 +20494,6 @@
           "scraped_at": "2026-06-13T10:08:13.768505",
           "history": [
             {
-              "price": 30.0,
-              "original_price": 60.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 29.95,
               "original_price": 60.0,
               "discount_pct": 50.1,
@@ -20230,12 +20516,6 @@
           "discount_pct": 60.1,
           "scraped_at": "2026-06-13T10:08:13.767382",
           "history": [
-            {
-              "price": 24.0,
-              "original_price": 60.0,
-              "discount_pct": 60.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 23.95,
               "original_price": 60.0,
@@ -20322,12 +20602,6 @@
           "scraped_at": "2026-07-25T09:07:45.901052",
           "history": [
             {
-              "price": 41.25,
-              "original_price": 55.0,
-              "discount_pct": 25.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 33.0,
               "original_price": 55.0,
               "discount_pct": 40.0,
@@ -20373,12 +20647,6 @@
           "discount_pct": 50.2,
           "scraped_at": "2026-06-13T10:08:13.765240",
           "history": [
-            {
-              "price": 15.0,
-              "original_price": 30.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 14.95,
               "original_price": 30.0,
@@ -20510,12 +20778,6 @@
           "discount_pct": 53.0,
           "scraped_at": "2026-07-13T10:35:29.636698",
           "history": [
-            {
-              "price": 34.0,
-              "original_price": 85.0,
-              "discount_pct": 60.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 39.95,
               "original_price": 85.0,
@@ -21736,12 +21998,6 @@
           "scraped_at": "2026-07-01T10:45:52.168985",
           "history": [
             {
-              "price": 41.36,
-              "original_price": 47.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 28.0,
               "original_price": 47.0,
               "discount_pct": 40.0,
@@ -22069,12 +22325,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-05-28T11:03:09.078885",
           "history": [
-            {
-              "price": 31.46,
-              "original_price": 34.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 35.06,
               "original_price": 38.95,
@@ -23673,29 +23923,6 @@
       ]
     },
     {
-      "name": "Nucleum: Instituto de Investigación Energetica",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:56.990933",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58424-nucleum-instituto-de-investigacion-energetica-8436578819713.html",
-          "price": 25.2,
-          "original_price": 28.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:56.990933",
-          "history": [
-            {
-              "price": 25.2,
-              "original_price": 28.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Set a Watch (Edición Deluxe Revisada)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:00:56.987889",
@@ -24007,12 +24234,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-05-25T11:17:52.557236",
           "history": [
-            {
-              "price": 12.5,
-              "original_price": 25.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 22.5,
               "original_price": 25.0,
@@ -24451,12 +24672,6 @@
           "scraped_at": "2026-08-05T09:44:06.258918",
           "history": [
             {
-              "price": 12.5,
-              "original_price": 25.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
@@ -24641,12 +24856,6 @@
           "scraped_at": "2026-06-17T11:55:42.314890",
           "history": [
             {
-              "price": 26.96,
-              "original_price": 29.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.98,
               "original_price": 29.95,
               "discount_pct": 50.0,
@@ -24785,12 +24994,6 @@
           "scraped_at": "2026-08-12T08:24:22.708809",
           "history": [
             {
-              "price": 43.96,
-              "original_price": 49.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 15.0,
               "original_price": 49.95,
               "discount_pct": 69.0,
@@ -24836,12 +25039,6 @@
           "discount_pct": 30.0,
           "scraped_at": "2026-07-11T08:53:28.452619",
           "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 21.0,
               "original_price": 30.0,
@@ -25027,12 +25224,6 @@
           "scraped_at": "2026-06-18T11:13:04.099923",
           "history": [
             {
-              "price": 53.67,
-              "original_price": 60.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 42.69,
               "original_price": 60.99,
               "discount_pct": 30.0,
@@ -25056,12 +25247,6 @@
           "scraped_at": "2026-06-18T11:13:04.097948",
           "history": [
             {
-              "price": 71.27,
-              "original_price": 80.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 56.69,
               "original_price": 80.99,
               "discount_pct": 30.0,
@@ -25084,12 +25269,6 @@
           "discount_pct": 30.0,
           "scraped_at": "2026-06-18T11:13:04.098777",
           "history": [
-            {
-              "price": 34.19,
-              "original_price": 37.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 26.59,
               "original_price": 37.99,
@@ -25390,12 +25569,6 @@
           "scraped_at": "2026-06-18T11:13:04.094964",
           "history": [
             {
-              "price": 35.16,
-              "original_price": 39.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 25.97,
               "original_price": 39.95,
               "discount_pct": 35.0,
@@ -25464,12 +25637,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-06-18T11:13:04.096997",
           "history": [
-            {
-              "price": 35.16,
-              "original_price": 39.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 25.97,
               "original_price": 39.95,
@@ -25632,12 +25799,6 @@
           "scraped_at": "2026-08-11T08:12:39.223010",
           "history": [
             {
-              "price": 39.56,
-              "original_price": 44.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 12.0,
               "original_price": 44.95,
               "discount_pct": 73.0,
@@ -25798,12 +25959,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-06-05T10:52:54.692785",
           "history": [
-            {
-              "price": 52.8,
-              "original_price": 60.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 30.0,
               "original_price": 60.0,
@@ -26012,12 +26167,6 @@
           "scraped_at": "2026-08-11T08:12:39.234990",
           "history": [
             {
-              "price": 39.56,
-              "original_price": 44.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 29.22,
               "original_price": 44.95,
               "discount_pct": 35.0,
@@ -26132,12 +26281,6 @@
           "discount_pct": 40.0,
           "scraped_at": "2026-07-07T10:29:31.663623",
           "history": [
-            {
-              "price": 48.39,
-              "original_price": 54.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 32.99,
               "original_price": 54.99,
@@ -26599,12 +26742,6 @@
           "scraped_at": "2026-07-07T10:29:28.749369",
           "history": [
             {
-              "price": 39.59,
-              "original_price": 44.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 26.99,
               "original_price": 44.99,
               "discount_pct": 40.0,
@@ -27019,12 +27156,6 @@
           "scraped_at": "2026-05-27T10:59:57.489955",
           "history": [
             {
-              "price": 31.49,
-              "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 18.0,
               "original_price": 34.99,
               "discount_pct": 48.0,
@@ -27093,12 +27224,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-06-02T11:23:58.269025",
           "history": [
-            {
-              "price": 22.49,
-              "original_price": 24.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 16.0,
               "original_price": 24.99,
@@ -27260,12 +27385,6 @@
           "discount_pct": 71.0,
           "scraped_at": "2026-08-08T07:53:31.576772",
           "history": [
-            {
-              "price": 55.4,
-              "original_price": 62.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 18.0,
               "original_price": 62.95,
@@ -27496,12 +27615,6 @@
           "discount_pct": 30.0,
           "scraped_at": "2026-06-18T11:13:07.223018",
           "history": [
-            {
-              "price": 31.46,
-              "original_price": 34.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 24.47,
               "original_price": 34.95,
@@ -27847,12 +27960,6 @@
           "discount_pct": 84.0,
           "scraped_at": "2026-08-11T08:12:39.225602",
           "history": [
-            {
-              "price": 11.66,
-              "original_price": 12.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 2.0,
               "original_price": 12.95,
@@ -28360,12 +28467,6 @@
           "scraped_at": "2026-06-30T10:34:39.813770",
           "history": [
             {
-              "price": 31.49,
-              "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 17.5,
               "original_price": 34.99,
               "discount_pct": 50.0,
@@ -28435,12 +28536,6 @@
           "scraped_at": "2026-05-28T11:00:45.556611",
           "history": [
             {
-              "price": 109.99,
-              "original_price": 124.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 87.5,
               "original_price": 124.99,
               "discount_pct": 29.0,
@@ -28509,12 +28604,6 @@
           "discount_pct": 25.0,
           "scraped_at": "2026-06-17T11:55:42.301962",
           "history": [
-            {
-              "price": 48.4,
-              "original_price": 55.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 41.25,
               "original_price": 55.0,
@@ -28814,12 +28903,6 @@
           "discount_pct": 40.0,
           "scraped_at": "2026-07-07T10:29:28.742396",
           "history": [
-            {
-              "price": 19.79,
-              "original_price": 21.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 13.19,
               "original_price": 21.99,
@@ -29465,12 +29548,6 @@
           "scraped_at": "2026-06-18T11:13:07.222005",
           "history": [
             {
-              "price": 43.96,
-              "original_price": 49.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 34.97,
               "original_price": 49.95,
               "discount_pct": 30.0,
@@ -29493,12 +29570,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-07-09T10:33:54.405126",
           "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 32.49,
               "original_price": 49.99,
@@ -29569,12 +29640,6 @@
           "scraped_at": "2026-07-07T10:30:58.785254",
           "history": [
             {
-              "price": 44.0,
-              "original_price": 50.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 32.5,
               "original_price": 50.0,
               "discount_pct": 35.0,
@@ -29598,12 +29663,6 @@
           "scraped_at": "2026-06-30T10:34:39.814899",
           "history": [
             {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 15.0,
               "original_price": 29.99,
               "discount_pct": 50.0,
@@ -29626,12 +29685,6 @@
           "discount_pct": 34.0,
           "scraped_at": "2026-07-02T10:13:20.148981",
           "history": [
-            {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 19.5,
               "original_price": 29.99,
@@ -30047,12 +30100,6 @@
           "scraped_at": "2026-05-27T10:59:57.496808",
           "history": [
             {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 15.0,
               "original_price": 29.99,
               "discount_pct": 49.0,
@@ -30305,12 +30352,6 @@
           "discount_pct": 30.0,
           "scraped_at": "2026-06-18T11:13:04.101172",
           "history": [
-            {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 20.99,
               "original_price": 29.99,
@@ -31094,12 +31135,6 @@
           "scraped_at": "2026-06-02T11:23:58.275547",
           "history": [
             {
-              "price": 31.49,
-              "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 23.0,
               "original_price": 34.99,
               "discount_pct": 34.0,
@@ -31628,12 +31663,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-15T09:16:54.561201",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -32216,12 +32245,6 @@
           "scraped_at": "2026-06-17T11:55:42.303037",
           "history": [
             {
-              "price": 48.39,
-              "original_price": 54.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 41.24,
               "original_price": 54.99,
               "discount_pct": 25.0,
@@ -32337,12 +32360,6 @@
           "scraped_at": "2026-06-17T11:55:42.308070",
           "history": [
             {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 22.49,
               "original_price": 29.99,
               "discount_pct": 25.0,
@@ -32365,12 +32382,6 @@
           "discount_pct": 25.0,
           "scraped_at": "2026-06-17T11:55:42.306888",
           "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 37.49,
               "original_price": 49.99,
@@ -33476,12 +33487,6 @@
           "scraped_at": "2026-07-22T09:32:35.544001",
           "history": [
             {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
@@ -33602,12 +33607,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-29T09:45:37.855498",
           "history": [
-            {
-              "price": 22.5,
-              "original_price": 25.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 12.5,
               "original_price": 25.0,
@@ -33868,12 +33867,6 @@
           "scraped_at": "2026-07-22T09:32:35.533602",
           "history": [
             {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
@@ -34018,12 +34011,6 @@
           "scraped_at": "2026-07-06T11:42:05.068447",
           "history": [
             {
-              "price": 7.0,
-              "original_price": 29.95,
-              "discount_pct": 76.6,
-              "date": "2026-05-22"
-            },
-            {
               "price": 4.0,
               "original_price": 29.95,
               "discount_pct": 86.0,
@@ -34161,12 +34148,6 @@
           "discount_pct": 83.0,
           "scraped_at": "2026-08-06T09:45:22.058569",
           "history": [
-            {
-              "price": 8.0,
-              "original_price": 24.95,
-              "discount_pct": 67.9,
-              "date": "2026-05-22"
-            },
             {
               "price": 4.0,
               "original_price": 24.95,
@@ -34604,12 +34585,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-06-11T11:26:54.294818",
           "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 35.0,
               "original_price": 49.99,
@@ -35192,12 +35167,6 @@
           "scraped_at": "2026-06-30T10:34:39.808998",
           "history": [
             {
-              "price": 22.49,
-              "original_price": 24.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 12.5,
               "original_price": 24.99,
               "discount_pct": 50.0,
@@ -35221,12 +35190,6 @@
           "scraped_at": "2026-07-06T11:42:53.886302",
           "history": [
             {
-              "price": 4.0,
-              "original_price": 15.95,
-              "discount_pct": 74.9,
-              "date": "2026-05-22"
-            },
-            {
               "price": 2.0,
               "original_price": 15.95,
               "discount_pct": 87.0,
@@ -35249,12 +35212,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-08-06T09:47:02.780534",
           "history": [
-            {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 19.5,
               "original_price": 29.99,
@@ -35675,12 +35632,6 @@
           "discount_pct": 83.0,
           "scraped_at": "2026-06-18T11:13:16.808843",
           "history": [
-            {
-              "price": 18.0,
-              "original_price": 59.95,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 10.0,
               "original_price": 59.95,
@@ -36533,12 +36484,6 @@
           "scraped_at": "2026-07-02T10:14:50.365944",
           "history": [
             {
-              "price": 49.27,
-              "original_price": 55.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 36.5,
               "original_price": 55.99,
               "discount_pct": 34.0,
@@ -36676,12 +36621,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-06T11:41:58.943326",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -37149,12 +37088,6 @@
           "scraped_at": "2026-07-06T11:41:58.942263",
           "history": [
             {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
@@ -37206,12 +37139,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-07T10:30:58.787980",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -37403,12 +37330,6 @@
           "scraped_at": "2026-07-03T10:09:28.375139",
           "history": [
             {
-              "price": 41.36,
-              "original_price": 47.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 28.0,
               "original_price": 47.0,
               "discount_pct": 40.0,
@@ -37552,12 +37473,6 @@
           "discount_pct": 20.0,
           "scraped_at": "2026-06-17T11:55:49.157390",
           "history": [
-            {
-              "price": 96.79,
-              "original_price": 109.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 87.99,
               "original_price": 109.99,
@@ -37812,12 +37727,6 @@
           "scraped_at": "2026-06-17T11:55:42.291744",
           "history": [
             {
-              "price": 31.49,
-              "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 25.0,
               "original_price": 34.99,
               "discount_pct": 28.0,
@@ -37840,12 +37749,6 @@
           "discount_pct": 69.0,
           "scraped_at": "2026-05-22T10:28:12.489682",
           "history": [
-            {
-              "price": 35.19,
-              "original_price": 39.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 12.0,
               "original_price": 39.99,
@@ -38238,12 +38141,6 @@
           "scraped_at": "2026-06-30T10:34:39.812604",
           "history": [
             {
-              "price": 20.25,
-              "original_price": 22.5,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 11.25,
               "original_price": 22.5,
               "discount_pct": 50.0,
@@ -38289,12 +38186,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-10T10:27:18.037129",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -38393,12 +38284,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-08-03T10:51:32.562418",
           "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 39.99,
               "original_price": 49.99,
@@ -38613,12 +38498,6 @@
           "scraped_at": "2026-06-17T11:55:42.309071",
           "history": [
             {
-              "price": 96.79,
-              "original_price": 109.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 82.49,
               "original_price": 109.99,
               "discount_pct": 25.0,
@@ -38687,12 +38566,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-15T09:16:54.563361",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -39367,12 +39240,6 @@
           "scraped_at": "2026-07-17T09:15:25.591659",
           "history": [
             {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
@@ -39517,12 +39384,6 @@
           "scraped_at": "2026-07-09T10:34:01.548407",
           "history": [
             {
-              "price": 65.99,
-              "original_price": 74.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 59.99,
               "original_price": 74.99,
               "discount_pct": 20.0,
@@ -39568,12 +39429,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-22T09:32:35.547025",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -39903,12 +39758,6 @@
           "scraped_at": "2026-06-02T11:23:58.273560",
           "history": [
             {
-              "price": 9.0,
-              "original_price": 29.95,
-              "discount_pct": 69.9,
-              "date": "2026-05-22"
-            },
-            {
               "price": 5.0,
               "original_price": 29.95,
               "discount_pct": 83.0,
@@ -39978,12 +39827,6 @@
           "scraped_at": "2026-07-21T09:32:24.528678",
           "history": [
             {
-              "price": 18.0,
-              "original_price": 44.99,
-              "discount_pct": 60.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 12.0,
               "original_price": 44.99,
               "discount_pct": 73.0,
@@ -40030,12 +39873,6 @@
           "scraped_at": "2026-07-09T10:35:04.398857",
           "history": [
             {
-              "price": 30.0,
-              "original_price": 49.99,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 25.0,
               "original_price": 49.99,
               "discount_pct": 50.0,
@@ -40058,12 +39895,6 @@
           "discount_pct": 82.0,
           "scraped_at": "2026-07-08T09:30:31.220533",
           "history": [
-            {
-              "price": 10.5,
-              "original_price": 34.99,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 6.0,
               "original_price": 34.99,
@@ -40180,12 +40011,6 @@
           "scraped_at": "2026-07-30T09:34:55.414807",
           "history": [
             {
-              "price": 14.0,
-              "original_price": 31.95,
-              "discount_pct": 56.2,
-              "date": "2026-05-22"
-            },
-            {
               "price": 7.0,
               "original_price": 31.95,
               "discount_pct": 78.0,
@@ -40231,12 +40056,6 @@
           "discount_pct": 85.0,
           "scraped_at": "2026-07-08T09:30:03.911280",
           "history": [
-            {
-              "price": 18.0,
-              "original_price": 59.99,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.0,
               "original_price": 59.99,
@@ -40353,12 +40172,6 @@
           "scraped_at": "2026-07-02T10:14:29.442963",
           "history": [
             {
-              "price": 8.0,
-              "original_price": 30.0,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
-            {
               "price": 6.0,
               "original_price": 30.0,
               "discount_pct": 80.0,
@@ -40404,12 +40217,6 @@
           "discount_pct": 73.0,
           "scraped_at": "2026-06-26T10:27:29.806140",
           "history": [
-            {
-              "price": 30.0,
-              "original_price": 59.95,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 16.0,
               "original_price": 59.95,
@@ -40457,12 +40264,6 @@
           "scraped_at": "2026-06-05T10:52:54.694213",
           "history": [
             {
-              "price": 11.0,
-              "original_price": 22.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 5.0,
               "original_price": 22.0,
               "discount_pct": 77.0,
@@ -40485,12 +40286,6 @@
           "discount_pct": 80.0,
           "scraped_at": "2026-07-02T10:13:20.157245",
           "history": [
-            {
-              "price": 7.0,
-              "original_price": 23.99,
-              "discount_pct": 70.8,
-              "date": "2026-05-22"
-            },
             {
               "price": 4.8,
               "original_price": 24.0,
@@ -40538,12 +40333,6 @@
           "scraped_at": "2026-07-02T10:13:20.161524",
           "history": [
             {
-              "price": 8.0,
-              "original_price": 29.95,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
-            {
               "price": 6.0,
               "original_price": 30.0,
               "discount_pct": 80.0,
@@ -40566,12 +40355,6 @@
           "discount_pct": 69.0,
           "scraped_at": "2026-07-31T09:50:57.217039",
           "history": [
-            {
-              "price": 18.0,
-              "original_price": 39.95,
-              "discount_pct": 54.9,
-              "date": "2026-05-22"
-            },
             {
               "price": 12.0,
               "original_price": 39.95,
@@ -40619,12 +40402,6 @@
           "scraped_at": "2026-05-29T10:52:13.072786",
           "history": [
             {
-              "price": 18.0,
-              "original_price": 39.95,
-              "discount_pct": 54.9,
-              "date": "2026-05-22"
-            },
-            {
               "price": 8.0,
               "original_price": 39.95,
               "discount_pct": 79.0,
@@ -40647,12 +40424,6 @@
           "discount_pct": 59.0,
           "scraped_at": "2026-06-23T10:39:35.872384",
           "history": [
-            {
-              "price": 24.0,
-              "original_price": 39.95,
-              "discount_pct": 39.9,
-              "date": "2026-05-22"
-            },
             {
               "price": 16.0,
               "original_price": 39.95,
@@ -40746,12 +40517,6 @@
           "scraped_at": "2026-07-02T10:13:20.133433",
           "history": [
             {
-              "price": 8.0,
-              "original_price": 29.95,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
-            {
               "price": 6.0,
               "original_price": 30.0,
               "discount_pct": 80.0,
@@ -40797,12 +40562,6 @@
           "discount_pct": 80.0,
           "scraped_at": "2026-07-02T10:13:20.159620",
           "history": [
-            {
-              "price": 8.0,
-              "original_price": 29.95,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
             {
               "price": 6.0,
               "original_price": 30.0,
@@ -40850,12 +40609,6 @@
           "scraped_at": "2026-06-04T10:42:27.509340",
           "history": [
             {
-              "price": 28.0,
-              "original_price": 54.95,
-              "discount_pct": 49.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 13.0,
               "original_price": 54.95,
               "discount_pct": 76.0,
@@ -40878,12 +40631,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-06-18T11:14:00.781813",
           "history": [
-            {
-              "price": 54.0,
-              "original_price": 89.99,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 45.0,
               "original_price": 89.99,
@@ -40953,12 +40700,6 @@
           "discount_pct": 73.0,
           "scraped_at": "2026-07-29T09:43:55.328460",
           "history": [
-            {
-              "price": 8.0,
-              "original_price": 15.0,
-              "discount_pct": 46.7,
-              "date": "2026-05-22"
-            },
             {
               "price": 4.0,
               "original_price": 15.0,
@@ -41328,12 +41069,6 @@
           "scraped_at": "2026-06-18T11:14:13.297962",
           "history": [
             {
-              "price": 35.74,
-              "original_price": 54.99,
-              "discount_pct": 35.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 30.24,
               "original_price": 54.99,
               "discount_pct": 45.0,
@@ -41356,12 +41091,6 @@
           "discount_pct": 88.0,
           "scraped_at": "2026-07-14T09:10:41.872443",
           "history": [
-            {
-              "price": 12.0,
-              "original_price": 49.99,
-              "discount_pct": 76.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 6.0,
               "original_price": 49.99,
@@ -41455,12 +41184,6 @@
           "scraped_at": "2026-06-30T10:35:27.860215",
           "history": [
             {
-              "price": 23.99,
-              "original_price": 39.99,
-              "discount_pct": 40.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 16.0,
               "original_price": 39.99,
               "discount_pct": 60.0,
@@ -41529,12 +41252,6 @@
           "discount_pct": 81.0,
           "scraped_at": "2026-06-04T10:42:27.506739",
           "history": [
-            {
-              "price": 15.0,
-              "original_price": 49.95,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.0,
               "original_price": 49.95,
@@ -41765,12 +41482,6 @@
           "discount_pct": 81.0,
           "scraped_at": "2026-06-11T11:26:54.286155",
           "history": [
-            {
-              "price": 15.0,
-              "original_price": 49.95,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.0,
               "original_price": 49.95,
@@ -42186,12 +41897,6 @@
           "scraped_at": "2026-07-17T09:17:19.201416",
           "history": [
             {
-              "price": 12.5,
-              "original_price": 25.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
@@ -42237,12 +41942,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-07-16T09:23:20.577236",
           "history": [
-            {
-              "price": 35.0,
-              "original_price": 70.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 61.6,
               "original_price": 70.0,
@@ -42359,12 +42058,6 @@
           "scraped_at": "2026-07-03T10:09:28.373389",
           "history": [
             {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
@@ -42416,12 +42109,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-08-14T08:22:48.376245",
           "history": [
-            {
-              "price": 39.59,
-              "original_price": 44.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 33.0,
               "original_price": 44.99,
@@ -42520,12 +42207,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-29T09:43:55.325375",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -43821,12 +43502,6 @@
           "scraped_at": "2026-07-15T09:16:54.559783",
           "history": [
             {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.5,
               "original_price": 16.0,
               "discount_pct": 40.0,
@@ -44201,12 +43876,6 @@
           "scraped_at": "2026-07-28T09:41:18.604544",
           "history": [
             {
-              "price": 12.0,
-              "original_price": 24.95,
-              "discount_pct": 51.9,
-              "date": "2026-05-22"
-            },
-            {
               "price": 7.0,
               "original_price": 24.95,
               "discount_pct": 71.0,
@@ -44229,12 +43898,6 @@
           "discount_pct": 80.0,
           "scraped_at": "2026-07-02T10:14:26.498506",
           "history": [
-            {
-              "price": 8.0,
-              "original_price": 30.0,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
             {
               "price": 6.0,
               "original_price": 30.0,
@@ -44259,12 +43922,6 @@
           "scraped_at": "2026-07-02T10:13:20.153343",
           "history": [
             {
-              "price": 8.0,
-              "original_price": 29.95,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
-            {
               "price": 6.0,
               "original_price": 30.0,
               "discount_pct": 80.0,
@@ -44287,12 +43944,6 @@
           "discount_pct": 80.0,
           "scraped_at": "2026-07-02T10:13:20.158401",
           "history": [
-            {
-              "price": 8.0,
-              "original_price": 29.95,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
             {
               "price": 6.0,
               "original_price": 30.0,
@@ -44317,12 +43968,6 @@
           "scraped_at": "2026-07-08T09:30:31.218573",
           "history": [
             {
-              "price": 18.0,
-              "original_price": 59.99,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 9.0,
               "original_price": 59.99,
               "discount_pct": 85.0,
@@ -44345,12 +43990,6 @@
           "discount_pct": 80.0,
           "scraped_at": "2026-07-02T10:13:20.156104",
           "history": [
-            {
-              "price": 8.0,
-              "original_price": 29.95,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
             {
               "price": 6.0,
               "original_price": 30.0,
@@ -44375,12 +44014,6 @@
           "scraped_at": "2026-07-02T10:13:20.154525",
           "history": [
             {
-              "price": 8.0,
-              "original_price": 29.95,
-              "discount_pct": 73.3,
-              "date": "2026-05-22"
-            },
-            {
               "price": 6.0,
               "original_price": 30.0,
               "discount_pct": 80.0,
@@ -44403,12 +44036,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-03T10:09:19.564838",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -45221,12 +44848,6 @@
           "scraped_at": "2026-07-14T09:10:41.870996",
           "history": [
             {
-              "price": 41.36,
-              "original_price": 47.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 28.0,
               "original_price": 47.0,
               "discount_pct": 40.0,
@@ -45358,29 +44979,6 @@
       ]
     },
     {
-      "name": "The Art of Heroes of Might and Magic 3: The Board Game",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.462833",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57557-the-art-of-heroes-of-might-and-magic-3-the-board-game--5901414674762.html",
-          "price": 39.89,
-          "original_price": 41.99,
-          "discount_pct": 5.0,
-          "scraped_at": "2026-05-22T05:59:12.462833",
-          "history": [
-            {
-              "price": 39.89,
-              "original_price": 41.99,
-              "discount_pct": 5.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Heroes of Might and Magic 3: The Board Game - Expansión Inferno",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.460681",
@@ -45450,29 +45048,6 @@
       ]
     },
     {
-      "name": "Frost Punk: Expansión Frostlander",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.450569",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57520-frost-punk-expansion-frostlander-8436578815951.html",
-          "price": 18.0,
-          "original_price": 20.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:12.450569",
-          "history": [
-            {
-              "price": 18.0,
-              "original_price": 20.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Medical Mysteries: Miami Flatline",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.443491",
@@ -45512,52 +45087,6 @@
               "price": 27.0,
               "original_price": 30.0,
               "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Tiletum: Prospección de Plata",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.437210",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57855-tiletum-prospeccion-de-plata-8436578819669.html",
-          "price": 27.0,
-          "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:12.437210",
-          "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "El Misterio de la Abadía",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.433842",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57354-el-misterio-de-la-abadia-8436578817887.html",
-          "price": 35.2,
-          "original_price": 40.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.433842",
-          "history": [
-            {
-              "price": 35.2,
-              "original_price": 40.0,
-              "discount_pct": 12.0,
               "date": "2026-05-22"
             }
           ]
@@ -45634,29 +45163,6 @@
       ]
     },
     {
-      "name": "EXIT 24: La Fuga",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.247347",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58718-exit-24-la-fuga-8436607946182.html",
-          "price": 14.4,
-          "original_price": 16.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.247347",
-          "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Underwater Cities: New Discoveries",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.245328",
@@ -45726,29 +45232,6 @@
       ]
     },
     {
-      "name": "Listos, Listas y Listakens (Junior)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.236997",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57933-listos-listas-y-listakens-junior-8435450255113.html",
-          "price": 12.3,
-          "original_price": 12.95,
-          "discount_pct": 5.0,
-          "scraped_at": "2026-05-22T05:59:08.236997",
-          "history": [
-            {
-              "price": 12.3,
-              "original_price": 12.95,
-              "discount_pct": 5.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Orleans: Big Box",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.231262",
@@ -45795,29 +45278,6 @@
       ]
     },
     {
-      "name": "Pulitzer (+ Promo)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.219808",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58643-pulitzer-promo-8437028641076.html",
-          "price": 52.8,
-          "original_price": 60.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:08.219808",
-          "history": [
-            {
-              "price": 52.8,
-              "original_price": 60.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Underwater Cities: Data Era",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.217223",
@@ -45854,12 +45314,6 @@
           "scraped_at": "2026-06-16T12:17:58.911475",
           "history": [
             {
-              "price": 18.32,
-              "original_price": 20.35,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 16.65,
               "original_price": 18.5,
               "discount_pct": 10.0,
@@ -45882,12 +45336,6 @@
           "discount_pct": 34.0,
           "scraped_at": "2026-07-17T09:15:25.598852",
           "history": [
-            {
-              "price": 43.99,
-              "original_price": 49.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 30.5,
               "original_price": 49.99,
@@ -46043,29 +45491,6 @@
       ]
     },
     {
-      "name": "Tianxia",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.190639",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58425-tianxia-8436578819836.html",
-          "price": 52.8,
-          "original_price": 60.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:08.190639",
-          "history": [
-            {
-              "price": 52.8,
-              "original_price": 60.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Catan (Català)",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.188300",
@@ -46193,12 +45618,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-01T10:45:52.165717",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -46436,12 +45855,6 @@
           "scraped_at": "2026-06-01T12:45:15.579418",
           "history": [
             {
-              "price": 22.5,
-              "original_price": 25.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 12.5,
               "original_price": 25.0,
               "discount_pct": 50.0,
@@ -46510,12 +45923,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-08-03T10:49:46.439573",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -46959,12 +46366,6 @@
           "discount_pct": 81.0,
           "scraped_at": "2026-07-15T09:16:54.556408",
           "history": [
-            {
-              "price": 8.0,
-              "original_price": 24.95,
-              "discount_pct": 67.9,
-              "date": "2026-05-22"
-            },
             {
               "price": 4.5,
               "original_price": 24.95,
@@ -47426,12 +46827,6 @@
           "scraped_at": "2026-08-14T08:24:20.039313",
           "history": [
             {
-              "price": 26.0,
-              "original_price": 39.99,
-              "discount_pct": 34.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 35.99,
               "original_price": 39.99,
               "discount_pct": 10.0,
@@ -47800,12 +47195,6 @@
           "scraped_at": "2026-07-03T10:10:48.515629",
           "history": [
             {
-              "price": 39.0,
-              "original_price": 59.99,
-              "discount_pct": 34.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 52.79,
               "original_price": 59.99,
               "discount_pct": 12.0,
@@ -48151,12 +47540,6 @@
           "scraped_at": "2026-07-02T10:14:50.361965",
           "history": [
             {
-              "price": 17.99,
-              "original_price": 19.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 13.0,
               "original_price": 19.99,
               "discount_pct": 34.0,
@@ -48248,12 +47631,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-06-30T10:34:39.811446",
           "history": [
-            {
-              "price": 31.49,
-              "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 17.5,
               "original_price": 34.99,
@@ -48370,12 +47747,6 @@
           "scraped_at": "2026-07-06T11:41:58.937549",
           "history": [
             {
-              "price": 44.0,
-              "original_price": 50.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 37.5,
               "original_price": 50.0,
               "discount_pct": 25.0,
@@ -48450,12 +47821,6 @@
           "discount_pct": 34.0,
           "scraped_at": "2026-07-02T10:13:20.151719",
           "history": [
-            {
-              "price": 31.49,
-              "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 23.0,
               "original_price": 34.99,
@@ -48666,29 +48031,6 @@
             {
               "price": 44.0,
               "original_price": 50.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Radlands: Superdeluxe",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:55.363649",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59785-radlands-superdeluxe-8436578815876.html",
-          "price": 61.6,
-          "original_price": 70.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:58:55.363649",
-          "history": [
-            {
-              "price": 61.6,
-              "original_price": 70.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
             }
@@ -49422,12 +48764,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-07T10:30:58.789196",
           "history": [
-            {
-              "price": 14.4,
-              "original_price": 16.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 9.5,
               "original_price": 16.0,
@@ -50815,12 +50151,6 @@
           "scraped_at": "2026-06-05T10:53:11.903949",
           "history": [
             {
-              "price": 3.0,
-              "original_price": 14.99,
-              "discount_pct": 80.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 4.2,
               "original_price": 14.99,
               "discount_pct": 71.0,
@@ -51028,12 +50358,6 @@
           "scraped_at": "2026-07-01T10:47:25.034178",
           "history": [
             {
-              "price": 27.0,
-              "original_price": 41.99,
-              "discount_pct": 35.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 37.79,
               "original_price": 41.99,
               "discount_pct": 10.0,
@@ -51103,12 +50427,6 @@
           "scraped_at": "2026-06-19T11:40:18.180425",
           "history": [
             {
-              "price": 33.74,
-              "original_price": 44.99,
-              "discount_pct": 25.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 29.24,
               "original_price": 44.99,
               "discount_pct": 35.0,
@@ -51131,12 +50449,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-07-18T08:53:55.902064",
           "history": [
-            {
-              "price": 30.0,
-              "original_price": 44.99,
-              "discount_pct": 33.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 39.59,
               "original_price": 44.99,
@@ -51299,12 +50611,6 @@
           "scraped_at": "2026-07-02T10:13:26.316720",
           "history": [
             {
-              "price": 67.46,
-              "original_price": 89.95,
-              "discount_pct": 25.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 58.47,
               "original_price": 89.95,
               "discount_pct": 35.0,
@@ -51327,12 +50633,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-06-19T11:40:15.081450",
           "history": [
-            {
-              "price": 32.96,
-              "original_price": 43.95,
-              "discount_pct": 25.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 28.57,
               "original_price": 43.95,
@@ -51449,12 +50749,6 @@
           "scraped_at": "2026-07-22T09:34:18.598554",
           "history": [
             {
-              "price": 16.5,
-              "original_price": 24.99,
-              "discount_pct": 33.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 22.49,
               "original_price": 24.99,
               "discount_pct": 10.0,
@@ -51547,12 +50841,6 @@
           "scraped_at": "2026-07-18T08:55:50.122539",
           "history": [
             {
-              "price": 12.0,
-              "original_price": 24.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 21.6,
               "original_price": 24.0,
               "discount_pct": 10.0,
@@ -51575,12 +50863,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-06-10T11:02:38.478277",
           "history": [
-            {
-              "price": 16.5,
-              "original_price": 24.99,
-              "discount_pct": 33.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 22.49,
               "original_price": 24.99,
@@ -51627,12 +50909,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-06-19T11:40:21.230842",
           "history": [
-            {
-              "price": 59.99,
-              "original_price": 79.99,
-              "discount_pct": 25.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 51.99,
               "original_price": 79.99,
@@ -51795,12 +51071,6 @@
           "scraped_at": "2026-06-30T10:34:51.634918",
           "history": [
             {
-              "price": 21.0,
-              "original_price": 34.99,
-              "discount_pct": 39.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 14.0,
               "original_price": 34.99,
               "discount_pct": 60.0,
@@ -51915,12 +51185,6 @@
           "discount_pct": 19.0,
           "scraped_at": "2026-05-28T11:00:50.257070",
           "history": [
-            {
-              "price": 70.0,
-              "original_price": 99.95,
-              "discount_pct": 29.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 80.0,
               "original_price": 99.95,
@@ -52151,12 +51415,6 @@
           "discount_pct": 25.0,
           "scraped_at": "2026-06-17T11:55:42.297324",
           "history": [
-            {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 22.49,
               "original_price": 29.99,
