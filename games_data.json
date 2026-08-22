@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-21T07:52:11.491911",
+  "generated_at": "2026-08-22T07:40:19.828085",
   "total": 2142,
-  "total_raw": 2279,
+  "total_raw": 2280,
   "games": [
+    {
+      "name": "Genial - Brain Games",
+      "is_new": 0,
+      "first_seen": "2026-08-22T07:37:41.803252",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-familiares/57341-genial-brain-games-8436607947844.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-22T07:37:41.803252",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-22"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57341-genial-brain-games-8436607947844.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.253757",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Tianxia",
       "is_new": 0,
@@ -45086,29 +45125,6 @@
             {
               "price": 27.0,
               "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Genial - Brain Games",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.253757",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57341-genial-brain-games-8436607947844.html",
-          "price": 13.5,
-          "original_price": 15.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.253757",
-          "history": [
-            {
-              "price": 13.5,
-              "original_price": 15.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
