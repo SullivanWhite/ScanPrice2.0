@@ -1,8 +1,233 @@
 {
-  "generated_at": "2026-08-23T07:41:56.173854",
-  "total": 2142,
-  "total_raw": 2280,
+  "generated_at": "2026-08-24T08:03:33.891875",
+  "total": 2145,
+  "total_raw": 2287,
   "games": [
+    {
+      "name": "Skytear Winterdeep Expansión",
+      "is_new": 0,
+      "first_seen": "2026-08-24T08:03:25.141015",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38776-skytear-winterdeep-expansion-spanish-8058269030520.html",
+          "price": 12.0,
+          "original_price": 30.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-08-24T08:03:25.141015",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": 30.0,
+              "discount_pct": 60.0,
+              "date": "2026-08-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skytear Liothan Expansión",
+      "is_new": 0,
+      "first_seen": "2026-08-24T08:03:25.138631",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38777-skytear-liothan-expansion-spanish-8058269030605.html",
+          "price": 12.0,
+          "original_price": 30.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-08-24T08:03:25.138631",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": 30.0,
+              "discount_pct": 60.0,
+              "date": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38777-skytear-liothan-expansion-8058269030605.html",
+          "price": 15.0,
+          "original_price": 30.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-22T06:01:33.872922",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 30.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skytear Kurumo Expansión",
+      "is_new": 0,
+      "first_seen": "2026-08-24T08:03:25.136024",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38778-skytear-kurumo-expansion-spanish-8058269030582.html",
+          "price": 12.0,
+          "original_price": 30.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-08-24T08:03:25.136024",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": 30.0,
+              "discount_pct": 60.0,
+              "date": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38778-skytear-kurumo-expansion-8058269030582.html",
+          "price": 15.0,
+          "original_price": 30.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-22T06:01:33.870965",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 30.0,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skytear Nupten Expansión",
+      "is_new": 0,
+      "first_seen": "2026-08-24T08:03:25.132953",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/38781-skytear-nupten-expansion-spanish-8058269030643.html",
+          "price": 12.0,
+          "original_price": 30.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-08-24T08:03:25.132953",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": 30.0,
+              "discount_pct": 60.0,
+              "date": "2026-08-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mosaic: Una Historia de la Civilización: Edición Coloso (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-08-24T08:03:15.325292",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/49084-mosaic-una-historia-de-la-civilizacion-edicion-coloso-castellano-8421005001571.html",
+          "price": 146.2,
+          "original_price": 194.95,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-08-24T08:03:15.325292",
+          "history": [
+            {
+              "price": 146.2,
+              "original_price": 194.95,
+              "discount_pct": 25.0,
+              "date": "2026-08-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tipperary",
+      "is_new": 0,
+      "first_seen": "2026-08-24T08:00:50.061635",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57348-tipperary-3558380125259.html",
+          "price": 34.64,
+          "original_price": 38.49,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-24T08:00:50.061635",
+          "history": [
+            {
+              "price": 34.64,
+              "original_price": 38.49,
+              "discount_pct": 10.0,
+              "date": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57348-tipperary-3558380125259.html",
+          "price": 34.64,
+          "original_price": 38.49,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:12.468256",
+          "history": [
+            {
+              "price": 34.64,
+              "original_price": 38.49,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pérgola",
+      "is_new": 0,
+      "first_seen": "2026-08-24T08:00:50.056097",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57448-pergola-5906954790347.html",
+          "price": 37.79,
+          "original_price": 41.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-24T08:00:50.056097",
+          "history": [
+            {
+              "price": 37.79,
+              "original_price": 41.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57448-pergola-5906954790347.html",
+          "price": 37.79,
+          "original_price": 41.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-07-01T10:47:25.034178",
+          "history": [
+            {
+              "price": 37.79,
+              "original_price": 41.99,
+              "discount_pct": 10.0,
+              "date": "2026-07-01"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Genial - Brain Games",
       "is_new": 0,
@@ -17842,52 +18067,6 @@
               "price": 4.0,
               "original_price": 19.95,
               "discount_pct": 79.9,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Skytear Liothan Expansión",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:33.872922",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/38777-skytear-liothan-expansion-8058269030605.html",
-          "price": 15.0,
-          "original_price": 30.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:33.872922",
-          "history": [
-            {
-              "price": 15.0,
-              "original_price": 30.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Skytear Kurumo Expansión",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:33.870965",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/38778-skytear-kurumo-expansion-8058269030582.html",
-          "price": 15.0,
-          "original_price": 30.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:33.870965",
-          "history": [
-            {
-              "price": 15.0,
-              "original_price": 30.0,
-              "discount_pct": 50.0,
               "date": "2026-05-22"
             }
           ]
@@ -44995,29 +45174,6 @@
       ]
     },
     {
-      "name": "Tipperary",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.468256",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57348-tipperary-3558380125259.html",
-          "price": 34.64,
-          "original_price": 38.49,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:12.468256",
-          "history": [
-            {
-              "price": 34.64,
-              "original_price": 38.49,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Heroes of Might and Magic 3: The Board Game - Expansión Inferno",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.460681",
@@ -50355,29 +50511,6 @@
               "original_price": 230.0,
               "discount_pct": 56.0,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pérgola",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:42.378334",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57448-pergola-5906954790347.html",
-          "price": 37.79,
-          "original_price": 41.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-07-01T10:47:25.034178",
-          "history": [
-            {
-              "price": 37.79,
-              "original_price": 41.99,
-              "discount_pct": 10.0,
-              "date": "2026-07-01"
             }
           ]
         }
