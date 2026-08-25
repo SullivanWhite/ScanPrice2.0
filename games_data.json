@@ -1,8 +1,318 @@
 {
-  "generated_at": "2026-08-24T08:03:33.891875",
-  "total": 2145,
-  "total_raw": 2287,
+  "generated_at": "2026-08-25T07:52:49.221279",
+  "total": 2150,
+  "total_raw": 2297,
   "games": [
+    {
+      "name": "Aprendre Jugant: Secundaria (Català)",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:15.004356",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/libros/56154-aprendre-jugant-secundaria-catala-8436607945284.html",
+          "price": 19.0,
+          "original_price": 20.0,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-25T07:50:15.004356",
+          "history": [
+            {
+              "price": 19.0,
+              "original_price": 20.0,
+              "discount_pct": 5.0,
+              "date": "2026-08-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Welcome Hacia el Perfecto Hogar (2a Edicion)",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:15.001691",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/welcome/56364-welcome-hacia-el-perfecto-hogar-2a-edicion-8435450254932.html",
+          "price": null,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-08-25T07:50:15.001691",
+          "history": [
+            {
+              "price": null,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/56364-welcome-hacia-el-perfecto-hogar-2a-edicion-8435450254932.html",
+          "price": null,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-22T05:59:08.208680",
+          "history": [
+            {
+              "price": null,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tic Tac Tumba",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:14.999692",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58836-tic-tac-tumba-8437027027307.html",
+          "price": 16.65,
+          "original_price": 18.5,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-25T07:50:14.999692",
+          "history": [
+            {
+              "price": 16.65,
+              "original_price": 18.5,
+              "discount_pct": 10.0,
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58836-tic-tac-tumba-8437027027307.html",
+          "price": 16.65,
+          "original_price": 18.5,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-06-16T12:17:58.911475",
+          "history": [
+            {
+              "price": 16.65,
+              "original_price": 18.5,
+              "discount_pct": 10.0,
+              "date": "2026-06-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tianxia: Monedas Metalicas",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:14.997556",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58428-tianxia-monedas-metalicas-6425453002342.html",
+          "price": 24.26,
+          "original_price": 26.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-25T07:50:14.997556",
+          "history": [
+            {
+              "price": 24.26,
+              "original_price": 26.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58428-tianxia-monedas-metalicas-6425453002342.html",
+          "price": 24.26,
+          "original_price": 26.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.183677",
+          "history": [
+            {
+              "price": 24.26,
+              "original_price": 26.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flores Escarchadas",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:14.993172",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60898-flores-escarchadas-8435407651807.html",
+          "price": 31.49,
+          "original_price": 34.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-25T07:50:14.993172",
+          "history": [
+            {
+              "price": 31.49,
+              "original_price": 34.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heroes of Might and Magic 3: The Board Game - Expansión Inferno",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:11.415063",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57555-heroes-of-might-and-magic-3-the-board-game-expansion-inferno-5901414675547.html",
+          "price": 42.23,
+          "original_price": 47.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-25T07:50:11.415063",
+          "history": [
+            {
+              "price": 42.23,
+              "original_price": 47.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57555-heroes-of-might-and-magic-3-the-board-game-expansion-inferno-5901414675547.html",
+          "price": 42.23,
+          "original_price": 47.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:12.460681",
+          "history": [
+            {
+              "price": 42.23,
+              "original_price": 47.99,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nucleum: Australia",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:11.412931",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57521-nucleum-australia-8436578817740.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-25T07:50:11.412931",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57521-nucleum-australia-8436578817740.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:12.458229",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Los Pitufos: La Aldea Escondida",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:11.409010",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58399-los-pitufos-la-aldea-escondida-6379029686422.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-25T07:50:11.409010",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Space Park",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:11.406032",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59378-space-park-8425402885611.html",
+          "price": 25.16,
+          "original_price": 27.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-25T07:50:11.406032",
+          "history": [
+            {
+              "price": 25.16,
+              "original_price": 27.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cereal Killer",
+      "is_new": 0,
+      "first_seen": "2026-08-25T07:50:11.401790",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59279-cereal-killer-656272620578.html",
+          "price": 11.66,
+          "original_price": 12.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-25T07:50:11.401790",
+          "history": [
+            {
+              "price": 11.66,
+              "original_price": 12.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-25"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Skytear Winterdeep Expansión",
       "is_new": 0,
@@ -45174,52 +45484,6 @@
       ]
     },
     {
-      "name": "Heroes of Might and Magic 3: The Board Game - Expansión Inferno",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.460681",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57555-heroes-of-might-and-magic-3-the-board-game-expansion-inferno-5901414675547.html",
-          "price": 42.23,
-          "original_price": 47.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:12.460681",
-          "history": [
-            {
-              "price": 42.23,
-              "original_price": 47.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Nucleum: Australia",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.458229",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57521-nucleum-australia-8436578817740.html",
-          "price": 27.0,
-          "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:12.458229",
-          "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Root: Pack de Secuaces Ribereños",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:12.456262",
@@ -45473,29 +45737,6 @@
       ]
     },
     {
-      "name": "Tic Tac Tumba",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.212975",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58836-tic-tac-tumba-8437027027307.html",
-          "price": 16.65,
-          "original_price": 18.5,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-06-16T12:17:58.911475",
-          "history": [
-            {
-              "price": 16.65,
-              "original_price": 18.5,
-              "discount_pct": 10.0,
-              "date": "2026-06-16"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Limit",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.211026",
@@ -45519,29 +45760,6 @@
               "original_price": 49.99,
               "discount_pct": 34.0,
               "date": "2026-07-17"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Welcome Hacia el Perfecto Hogar (2a Edicion)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.208680",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/56364-welcome-hacia-el-perfecto-hogar-2a-edicion-8435450254932.html",
-          "price": null,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-05-22T05:59:08.208680",
-          "history": [
-            {
-              "price": null,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-05-22"
             }
           ]
         }
@@ -45702,29 +45920,6 @@
               "price": 3.5,
               "original_price": null,
               "discount_pct": null,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Tianxia: Monedas Metalicas",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.183677",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58428-tianxia-monedas-metalicas-6425453002342.html",
-          "price": 24.26,
-          "original_price": 26.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.183677",
-          "history": [
-            {
-              "price": 24.26,
-              "original_price": 26.95,
-              "discount_pct": 10.0,
               "date": "2026-05-22"
             }
           ]
