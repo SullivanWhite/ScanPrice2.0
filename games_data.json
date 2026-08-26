@@ -1,8 +1,343 @@
 {
-  "generated_at": "2026-08-25T07:52:49.221279",
-  "total": 2150,
-  "total_raw": 2297,
+  "generated_at": "2026-08-26T07:54:43.622421",
+  "total": 2151,
+  "total_raw": 2306,
   "games": [
+    {
+      "name": "Caza Bombas",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:53:29.451568",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57273-caza-bombas-8436607945925.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-26T07:53:29.451568",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57273-caza-bombas-8436607945925.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:08.249383",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SETI",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:53:25.799311",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/56496-seti--8436607947288.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-26T07:53:25.799311",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/56496-seti--8436607947288.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:08.251403",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tianxia: Nuevos Barcos",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:53:25.796913",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58426-tianxia-nuevos-barcos-6425453002168.html",
+          "price": 3.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-08-26T07:53:25.796913",
+          "history": [
+            {
+              "price": 3.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58426-tianxia-nuevos-barcos-6425453002168.html",
+          "price": 3.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-05-22T05:59:08.181171",
+          "history": [
+            {
+              "price": 3.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pyradice",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:53:25.794318",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/juegos-de-dados/58934-pyradice-5600849320854.html",
+          "price": 17.96,
+          "original_price": 19.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-26T07:53:25.794318",
+          "history": [
+            {
+              "price": 17.96,
+              "original_price": 19.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58934-pyradice-5600849320854.html",
+          "price": 17.96,
+          "original_price": 19.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.206641",
+          "history": [
+            {
+              "price": 17.96,
+              "original_price": 19.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hutan",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:53:25.787660",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59477-hutan-8436607945987.html",
+          "price": 34.2,
+          "original_price": 38.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-26T07:53:25.787660",
+          "history": [
+            {
+              "price": 34.2,
+              "original_price": 38.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Listos, Listas y Listakens (Party)",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:52:01.209441",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57932-listos-listas-y-listakens-party-8435450255120.html",
+          "price": 12.3,
+          "original_price": 12.95,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-08-26T07:52:01.209441",
+          "history": [
+            {
+              "price": 12.3,
+              "original_price": 12.95,
+              "discount_pct": 5.0,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57932-listos-listas-y-listakens-party-8435450255120.html",
+          "price": 12.3,
+          "original_price": 12.95,
+          "discount_pct": 5.0,
+          "scraped_at": "2026-05-22T05:59:08.241088",
+          "history": [
+            {
+              "price": 12.3,
+              "original_price": 12.95,
+              "discount_pct": 5.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Underwater Cities: Data Era",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:51:57.395347",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59178-underwater-cities-data-era-8421005001748.html",
+          "price": 31.46,
+          "original_price": 34.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-26T07:51:57.395347",
+          "history": [
+            {
+              "price": 31.46,
+              "original_price": 34.95,
+              "discount_pct": 10.0,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59178-underwater-cities-data-era-8421005001748.html",
+          "price": 31.46,
+          "original_price": 34.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.217223",
+          "history": [
+            {
+              "price": 31.46,
+              "original_price": 34.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eila y el Brillo Misterioso",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:51:53.536178",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58594-eila-y-el-brillo-misterioso-8436578819256.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-26T07:51:53.536178",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58594-eila-y-el-brillo-misterioso-8436578819256.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:08.171733",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Overparked",
+      "is_new": 0,
+      "first_seen": "2026-08-26T07:51:53.531747",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57574-overparked-8436578819386.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-26T07:51:53.531747",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57574-overparked-8436578819386.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:12.439268",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Aprendre Jugant: Secundaria (Català)",
       "is_new": 0,
@@ -37996,16 +38331,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59792-metal-gear-solid-el-juego-de-mesa-8435407650572.html",
-          "price": 87.99,
+          "price": 96.79,
           "original_price": 109.99,
-          "discount_pct": 20.0,
-          "scraped_at": "2026-06-17T11:55:49.157390",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-26T07:53:25.801845",
           "history": [
             {
               "price": 87.99,
               "original_price": 109.99,
               "discount_pct": 20.0,
               "date": "2026-06-17"
+            },
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-26"
             }
           ]
         }
@@ -39906,16 +40247,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59044-fromage-deluxe-set-8435407651210.html",
-          "price": 59.99,
+          "price": 65.99,
           "original_price": 74.99,
-          "discount_pct": 20.0,
-          "scraped_at": "2026-07-09T10:34:01.548407",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-26T07:51:57.316015",
           "history": [
             {
               "price": 59.99,
               "original_price": 74.99,
               "discount_pct": 20.0,
               "date": "2026-07-09"
+            },
+            {
+              "price": 65.99,
+              "original_price": 74.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-26"
             }
           ]
         }
@@ -45530,75 +45877,6 @@
       ]
     },
     {
-      "name": "Overparked",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:12.439268",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57574-overparked-8436578819386.html",
-          "price": 27.0,
-          "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:12.439268",
-          "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "SETI",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.251403",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/56496-seti--8436607947288.html",
-          "price": 66.0,
-          "original_price": 75.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:08.251403",
-          "history": [
-            {
-              "price": 66.0,
-              "original_price": 75.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Caza Bombas",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.249383",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57273-caza-bombas-8436607945925.html",
-          "price": 35.2,
-          "original_price": 40.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:08.249383",
-          "history": [
-            {
-              "price": 35.2,
-              "original_price": 40.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Underwater Cities: New Discoveries",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.245328",
@@ -45615,29 +45893,6 @@
               "price": 49.46,
               "original_price": 54.95,
               "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Listos, Listas y Listakens (Party)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.241088",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57932-listos-listas-y-listakens-party-8435450255120.html",
-          "price": 12.3,
-          "original_price": 12.95,
-          "discount_pct": 5.0,
-          "scraped_at": "2026-05-22T05:59:08.241088",
-          "history": [
-            {
-              "price": 12.3,
-              "original_price": 12.95,
-              "discount_pct": 5.0,
               "date": "2026-05-22"
             }
           ]
@@ -45714,29 +45969,6 @@
       ]
     },
     {
-      "name": "Underwater Cities: Data Era",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.217223",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59178-underwater-cities-data-era-8421005001748.html",
-          "price": 31.46,
-          "original_price": 34.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.217223",
-          "history": [
-            {
-              "price": 31.46,
-              "original_price": 34.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Limit",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.211026",
@@ -45760,29 +45992,6 @@
               "original_price": 49.99,
               "discount_pct": 34.0,
               "date": "2026-07-17"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pyradice",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.206641",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58934-pyradice-5600849320854.html",
-          "price": 17.96,
-          "original_price": 19.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.206641",
-          "history": [
-            {
-              "price": 17.96,
-              "original_price": 19.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
             }
           ]
         }
@@ -45920,52 +46129,6 @@
               "price": 3.5,
               "original_price": null,
               "discount_pct": null,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Tianxia: Nuevos Barcos",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.181171",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58426-tianxia-nuevos-barcos-6425453002168.html",
-          "price": 3.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-05-22T05:59:08.181171",
-          "history": [
-            {
-              "price": 3.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Eila y el Brillo Misterioso",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.171733",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58594-eila-y-el-brillo-misterioso-8436578819256.html",
-          "price": 44.0,
-          "original_price": 50.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:08.171733",
-          "history": [
-            {
-              "price": 44.0,
-              "original_price": 50.0,
-              "discount_pct": 12.0,
               "date": "2026-05-22"
             }
           ]
