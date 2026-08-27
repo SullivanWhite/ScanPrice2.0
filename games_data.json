@@ -1,8 +1,339 @@
 {
-  "generated_at": "2026-08-26T07:54:43.622421",
-  "total": 2151,
-  "total_raw": 2306,
+  "generated_at": "2026-08-27T18:15:59.830985",
+  "total": 2162,
+  "total_raw": 2319,
   "games": [
+    {
+      "name": "Set de Dados Mazu",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:51.309577",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/27489-rum-bones-mazu-s-dreadful-curse-dice-817009019779.html",
+          "price": 6.5,
+          "original_price": 12.95,
+          "discount_pct": 49.8,
+          "scraped_at": "2026-08-27T18:15:51.309577",
+          "history": [
+            {
+              "price": 6.5,
+              "original_price": 12.95,
+              "discount_pct": 49.8,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cry Havoc",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:51.303523",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/32780-cry-havoc-spanish-8435407611689.html",
+          "price": 48.95,
+          "original_price": 69.95,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-08-27T18:15:51.303523",
+          "history": [
+            {
+              "price": 48.95,
+              "original_price": 69.95,
+              "discount_pct": 30.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fairy Tale Inn",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:48.247299",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/39899-fairy-tale-inn-spanish-8435407633766.html",
+          "price": 20.0,
+          "original_price": 39.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-08-27T18:15:48.247299",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 39.99,
+              "discount_pct": 50.0,
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/ofertas/45947-fairy-tale-inn-8435407633766.html",
+          "price": 12.0,
+          "original_price": 39.99,
+          "discount_pct": 70.0,
+          "scraped_at": "2026-05-22T05:59:34.221551",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": 39.99,
+              "discount_pct": 70.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marvel Champions Gamora (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:48.243073",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/40322-marvel-champions-garmorra-spanish-8435407633360.html",
+          "price": 12.75,
+          "original_price": 16.99,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-08-27T18:15:48.243073",
+          "history": [
+            {
+              "price": 12.75,
+              "original_price": 16.99,
+              "discount_pct": 25.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "River Dragons",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:41.983471",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/45804-river-dragons-8435407640177.html",
+          "price": 24.75,
+          "original_price": 32.99,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-08-27T18:15:41.983471",
+          "history": [
+            {
+              "price": 24.75,
+              "original_price": 32.99,
+              "discount_pct": 25.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHYF: Cazadores de la Costa Helada",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:41.978533",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/46796-chyf-cazadores-de-la-costa-helada-889696015594.html",
+          "price": 17.5,
+          "original_price": 34.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-08-27T18:15:41.978533",
+          "history": [
+            {
+              "price": 17.5,
+              "original_price": 34.99,
+              "discount_pct": 50.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "General Orders (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:35.845066",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52847-general-orders-castellano-8436607943013.html",
+          "price": 15.0,
+          "original_price": 25.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-08-27T18:15:35.845066",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 25.0,
+              "discount_pct": 40.0,
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52847-general-orders-castellano.html",
+          "price": 15.0,
+          "original_price": 25.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-13T10:35:31.676505",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": 25.0,
+              "discount_pct": 40.0,
+              "date": "2026-07-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHYF: Tripulación del Victoria de Hierro",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:35.842474",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/52923-chyf-tripulacion-del-victoria-de-hierro-889696016140.html",
+          "price": 28.5,
+          "original_price": 37.99,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-08-27T18:15:35.842474",
+          "history": [
+            {
+              "price": 28.5,
+              "original_price": 37.99,
+              "discount_pct": 25.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHYF: Caballeros Juramentados De La Hermandad",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:32.716359",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/53895-chyf-caballeros-juramentados-de-la-hermandad-889696018175.html",
+          "price": 30.0,
+          "original_price": 39.99,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-08-27T18:15:32.716359",
+          "history": [
+            {
+              "price": 30.0,
+              "original_price": 39.99,
+              "discount_pct": 25.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ISS Vanguard",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:32.711888",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54161-iss-vanguard.html",
+          "price": 142.5,
+          "original_price": 190.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-08-27T18:15:32.711888",
+          "history": [
+            {
+              "price": 142.5,
+              "original_price": 190.0,
+              "discount_pct": 25.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Las Ruinas De Arnak: Cofre De Aventuras",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:15:32.708403",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54489-las-ruinas-de-arnak-cofre-de-aventuras-8336607949476.html",
+          "price": 56.0,
+          "original_price": 80.0,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-08-27T18:15:32.708403",
+          "history": [
+            {
+              "price": 56.0,
+              "original_price": 80.0,
+              "discount_pct": 30.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bohemios",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:13:18.192164",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59835-bohemios-8436625611529.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-27T18:13:18.192164",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thunder Road: Vendetta",
+      "is_new": 0,
+      "first_seen": "2026-08-27T18:13:14.383310",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57699-thunder-road-vendetta-8437022228631.html",
+          "price": 61.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-08-27T18:13:14.383310",
+          "history": [
+            {
+              "price": 61.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Caza Bombas",
       "is_new": 0,
@@ -21229,29 +21560,6 @@
       ]
     },
     {
-      "name": "General Orders (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:23.297726",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/52847-general-orders-castellano.html",
-          "price": 15.0,
-          "original_price": 25.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-07-13T10:35:31.676505",
-          "history": [
-            {
-              "price": 15.0,
-              "original_price": 25.0,
-              "discount_pct": 40.0,
-              "date": "2026-07-13"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Belratti (Catellano)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:23.295690",
@@ -34471,12 +34779,6 @@
           "scraped_at": "2026-07-29T09:45:37.855498",
           "history": [
             {
-              "price": 12.5,
-              "original_price": 25.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-27"
-            },
-            {
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
@@ -40775,29 +41077,6 @@
               "original_price": 34.99,
               "discount_pct": 82.0,
               "date": "2026-07-08"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Fairy Tale Inn",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:34.221551",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/ofertas/45947-fairy-tale-inn-8435407633766.html",
-          "price": 12.0,
-          "original_price": 39.99,
-          "discount_pct": 70.0,
-          "scraped_at": "2026-05-22T05:59:34.221551",
-          "history": [
-            {
-              "price": 12.0,
-              "original_price": 39.99,
-              "discount_pct": 70.0,
-              "date": "2026-05-22"
             }
           ]
         }
