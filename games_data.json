@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-08-27T18:15:59.830985",
-  "total": 2162,
-  "total_raw": 2319,
+  "generated_at": "2026-08-28T19:25:20.330189",
+  "total": 2166,
+  "total_raw": 2325,
   "games": [
+    {
+      "name": "Lutier",
+      "is_new": 0,
+      "first_seen": "2026-08-28T19:22:43.653867",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59357-lutier-8436607947646.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-28T19:22:43.653867",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-08-28"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/59357-lutier-8436607947646.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-05-22T05:59:08.222055",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dioses de Roma",
+      "is_new": 0,
+      "first_seen": "2026-08-28T19:22:43.648363",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61086-dioses-de-roma-8436578817269.html",
+          "price": 17.5,
+          "original_price": 35.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-08-28T19:22:43.648363",
+          "history": [
+            {
+              "price": 17.5,
+              "original_price": 35.0,
+              "discount_pct": 50.0,
+              "date": "2026-08-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ostia: Expansión Mecenas",
+      "is_new": 0,
+      "first_seen": "2026-08-28T19:22:40.072627",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61085-ostia-expansion-mecenas-8436625618344.html",
+          "price": 9.0,
+          "original_price": 10.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-28T19:22:40.072627",
+          "history": [
+            {
+              "price": 9.0,
+              "original_price": 10.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wraith and The Giants",
+      "is_new": 0,
+      "first_seen": "2026-08-28T19:22:40.067115",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61081-wraith-and-the-giants-8436564815057.html",
+          "price": 37.8,
+          "original_price": 42.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-28T19:22:40.067115",
+          "history": [
+            {
+              "price": 37.8,
+              "original_price": 42.95,
+              "discount_pct": 12.0,
+              "date": "2026-08-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barrage: Corporaciones Lejanas",
+      "is_new": 0,
+      "first_seen": "2026-08-28T19:22:40.064930",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61080-barrage-corporaciones-lejanas-8436625618146.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-28T19:22:40.064930",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thunder Road: Vendetta",
+      "is_new": 0,
+      "first_seen": "2026-08-28T19:22:40.058975",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/57699-thunder-road-vendetta-8437022228631.html",
+          "price": 54.55,
+          "original_price": 61.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-08-28T19:22:40.058975",
+          "history": [
+            {
+              "price": 54.55,
+              "original_price": 61.99,
+              "discount_pct": 12.0,
+              "date": "2026-08-28"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/57699-thunder-road-vendetta-8437022228631.html",
+          "price": 61.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-08-27T18:13:14.383310",
+          "history": [
+            {
+              "price": 61.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Set de Dados Mazu",
       "is_new": 0,
@@ -305,29 +475,6 @@
               "price": 31.5,
               "original_price": 35.0,
               "discount_pct": 10.0,
-              "date": "2026-08-27"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Thunder Road: Vendetta",
-      "is_new": 0,
-      "first_seen": "2026-08-27T18:13:14.383310",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/57699-thunder-road-vendetta-8437022228631.html",
-          "price": 61.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-08-27T18:13:14.383310",
-          "history": [
-            {
-              "price": 61.99,
-              "original_price": null,
-              "discount_pct": null,
               "date": "2026-08-27"
             }
           ]
@@ -10201,16 +10348,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/paleo/48243-paleo-un-nuevo-comienzo-8436589626027.html",
-          "price": 17.5,
+          "price": 31.5,
           "original_price": 35.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T05:58:42.391798",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-28T19:24:17.100421",
           "history": [
             {
               "price": 17.5,
               "original_price": 35.0,
               "discount_pct": 50.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-28"
             }
           ]
         }
@@ -46225,29 +46378,6 @@
       ]
     },
     {
-      "name": "Lutier",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:59:08.222055",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/59357-lutier-8436607947646.html",
-          "price": 66.0,
-          "original_price": 75.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:08.222055",
-          "history": [
-            {
-              "price": 66.0,
-              "original_price": 75.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Limit",
       "is_new": 0,
       "first_seen": "2026-05-22T05:59:08.211026",
@@ -48343,16 +48473,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/42341-jaipur-3558380063902.html",
-          "price": 13.0,
+          "price": 17.99,
           "original_price": 19.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-07-02T10:14:50.361965",
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-28T19:24:17.102325",
           "history": [
             {
               "price": 13.0,
               "original_price": 19.99,
               "discount_pct": 34.0,
               "date": "2026-07-02"
+            },
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-08-28"
             }
           ]
         }
