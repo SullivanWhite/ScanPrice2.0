@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-28T19:25:20.330189",
-  "total": 2166,
-  "total_raw": 2325,
+  "generated_at": "2026-08-29T13:10:01.350250",
+  "total": 2167,
+  "total_raw": 2326,
   "games": [
+    {
+      "name": "TseuQuesT (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-08-29T13:09:55.777055",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/44-tseuquest-castellano-8437026809010.html",
+          "price": 99.95,
+          "original_price": 142.8,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-08-29T13:09:55.777055",
+          "history": [
+            {
+              "price": 99.95,
+              "original_price": 142.8,
+              "discount_pct": 30.0,
+              "date": "2026-08-29"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Lutier",
       "is_new": 0,
@@ -3367,16 +3390,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48221-cyberpunk-2077-families-and-outcasts-castellano-8435407641549.html",
-          "price": 25.0,
+          "price": 29.95,
           "original_price": 49.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-08-08T07:55:43.410859",
+          "discount_pct": 40.1,
+          "scraped_at": "2026-08-29T13:09:41.093831",
           "history": [
             {
               "price": 25.0,
               "original_price": 49.99,
               "discount_pct": 50.0,
               "date": "2026-08-08"
+            },
+            {
+              "price": 29.95,
+              "original_price": 49.99,
+              "discount_pct": 40.1,
+              "date": "2026-08-29"
             }
           ]
         },
@@ -8304,16 +8333,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/39898-en-una-escala-de-1-a-t-rex-spanish-3558380076780.html",
-          "price": 6.95,
+          "price": 7.95,
           "original_price": 19.99,
-          "discount_pct": 65.2,
-          "scraped_at": "2026-06-03T12:03:26.511504",
+          "discount_pct": 60.2,
+          "scraped_at": "2026-08-29T13:09:50.552253",
           "history": [
             {
               "price": 6.95,
               "original_price": 19.99,
               "discount_pct": 65.2,
               "date": "2026-06-03"
+            },
+            {
+              "price": 7.95,
+              "original_price": 19.99,
+              "discount_pct": 60.2,
+              "date": "2026-08-29"
             }
           ]
         },
@@ -10353,12 +10388,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-08-28T19:24:17.100421",
           "history": [
-            {
-              "price": 17.5,
-              "original_price": 35.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 31.5,
               "original_price": 35.0,
@@ -20062,16 +20091,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/45017-marvel-united-x-men-8435407640610.html",
-          "price": 25.0,
+          "price": 24.95,
           "original_price": 39.99,
-          "discount_pct": 37.5,
-          "scraped_at": "2026-05-22T06:01:29.677310",
+          "discount_pct": 37.6,
+          "scraped_at": "2026-08-29T13:09:44.255805",
           "history": [
             {
               "price": 25.0,
               "original_price": 39.99,
               "discount_pct": 37.5,
               "date": "2026-05-22"
+            },
+            {
+              "price": 24.95,
+              "original_price": 39.99,
+              "discount_pct": 37.6,
+              "date": "2026-08-29"
             }
           ]
         }
@@ -20643,16 +20678,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/48220-cyberpunk-2077-gangs-of-night-city-castellano-8435407641532.html",
-          "price": 46.95,
+          "price": 49.95,
           "original_price": 109.99,
-          "discount_pct": 57.3,
-          "scraped_at": "2026-07-18T08:56:14.919027",
+          "discount_pct": 54.6,
+          "scraped_at": "2026-08-29T13:09:41.094973",
           "history": [
             {
               "price": 46.95,
               "original_price": 109.99,
               "discount_pct": 57.3,
               "date": "2026-07-18"
+            },
+            {
+              "price": 49.95,
+              "original_price": 109.99,
+              "discount_pct": 54.6,
+              "date": "2026-08-29"
             }
           ]
         }
@@ -20882,16 +20923,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/49406-mu-spider-geddon-castellano-8435407641907.html",
-          "price": 23.95,
+          "price": 24.95,
           "original_price": 39.99,
-          "discount_pct": 40.1,
-          "scraped_at": "2026-07-13T10:35:33.724427",
+          "discount_pct": 37.6,
+          "scraped_at": "2026-08-29T13:09:41.091114",
           "history": [
             {
               "price": 23.95,
               "original_price": 39.99,
               "discount_pct": 40.1,
               "date": "2026-07-13"
+            },
+            {
+              "price": 24.95,
+              "original_price": 39.99,
+              "discount_pct": 37.6,
+              "date": "2026-08-29"
             }
           ]
         }
@@ -20967,16 +21014,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/49551-mu-multiverse-castellano-8435407641914.html",
-          "price": 23.95,
+          "price": 24.95,
           "original_price": 39.99,
-          "discount_pct": 40.1,
-          "scraped_at": "2026-07-13T10:35:33.722145",
+          "discount_pct": 37.6,
+          "scraped_at": "2026-08-29T13:09:41.089053",
           "history": [
             {
               "price": 23.95,
               "original_price": 39.99,
               "discount_pct": 40.1,
               "date": "2026-07-13"
+            },
+            {
+              "price": 24.95,
+              "original_price": 39.99,
+              "discount_pct": 37.6,
+              "date": "2026-08-29"
             }
           ]
         }
@@ -21128,16 +21181,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/50451-alta-tension-el-juego-de-cartas-8435407613478.html",
-          "price": 3.95,
+          "price": 4.95,
           "original_price": 19.99,
-          "discount_pct": 80.2,
-          "scraped_at": "2026-05-22T06:01:25.401232",
+          "discount_pct": 75.2,
+          "scraped_at": "2026-08-29T13:09:41.085572",
           "history": [
             {
               "price": 3.95,
               "original_price": 19.99,
               "discount_pct": 80.2,
               "date": "2026-05-22"
+            },
+            {
+              "price": 4.95,
+              "original_price": 19.99,
+              "discount_pct": 75.2,
+              "date": "2026-08-29"
             }
           ]
         }
