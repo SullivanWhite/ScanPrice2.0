@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:32:11.165397",
+  "generated_at": "2026-09-02T12:06:14.540115",
   "total": 2167,
   "total_raw": 2326,
   "games": [
@@ -8338,12 +8338,6 @@
           "discount_pct": 60.2,
           "scraped_at": "2026-08-29T13:09:50.552253",
           "history": [
-            {
-              "price": 6.95,
-              "original_price": 19.99,
-              "discount_pct": 65.2,
-              "date": "2026-06-03"
-            },
             {
               "price": 7.95,
               "original_price": 19.99,
@@ -33633,16 +33627,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58878-nyakuza-8435407650855.html",
-          "price": 31.49,
+          "price": 23.0,
           "original_price": 34.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:15.676890",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-09-02T12:03:33.350337",
           "history": [
             {
               "price": 31.49,
               "original_price": 34.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 23.0,
+              "original_price": 34.99,
+              "discount_pct": 34.0,
+              "date": "2026-09-02"
             }
           ]
         }
