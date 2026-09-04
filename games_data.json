@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-03T12:05:24.857674",
-  "total": 2171,
-  "total_raw": 2330,
+  "generated_at": "2026-09-04T12:07:36.826563",
+  "total": 2174,
+  "total_raw": 2333,
   "games": [
+    {
+      "name": "El Señor de los Anillos: Viajes por la Tierra Media",
+      "is_new": 0,
+      "first_seen": "2026-09-04T12:04:51.929131",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/el-senor-de-los-anillos-viajes-por-la-tierra-media/41237-el-senor-de-los-anillos-viajes-por-la-tierra-media-8435407625266.html",
+          "price": 96.79,
+          "original_price": 109.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-04T12:04:51.929131",
+          "history": [
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gunsen: La Batalla por Toshi Ranbo (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-09-04T12:04:51.925359",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61027-gunsen-la-batalla-por-toshi-ranbo-promo-841333139544.html",
+          "price": 52.79,
+          "original_price": 59.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-04T12:04:51.925359",
+          "history": [
+            {
+              "price": 52.79,
+              "original_price": 59.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akropolis",
+      "is_new": 0,
+      "first_seen": "2026-09-04T12:04:51.919154",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60597-akropolis-8436625610218.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-04T12:04:51.919154",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-09-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Scythe: Vientos de Guerra y Paz (+Promo)",
       "is_new": 0,
@@ -32604,12 +32673,6 @@
           "scraped_at": "2026-09-03T12:04:19.405923",
           "history": [
             {
-              "price": 23.0,
-              "original_price": 34.99,
-              "discount_pct": 34.0,
-              "date": "2026-06-02"
-            },
-            {
               "price": 31.49,
               "original_price": 34.99,
               "discount_pct": 10.0,
@@ -36054,12 +36117,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-06-11T11:26:54.294818",
           "history": [
-            {
-              "price": 35.0,
-              "original_price": 49.99,
-              "discount_pct": 29.0,
-              "date": "2026-06-05"
-            },
             {
               "price": 43.99,
               "original_price": 49.99,
