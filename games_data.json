@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:07:36.826563",
+  "generated_at": "2026-09-05T11:16:18.841713",
   "total": 2174,
   "total_raw": 2333,
   "games": [
@@ -20333,16 +20333,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/45377-monolyth-889696015310.html",
-          "price": 19.95,
+          "price": 14.95,
           "original_price": 49.99,
-          "discount_pct": 60.1,
-          "scraped_at": "2026-05-22T06:01:29.668479",
+          "discount_pct": 70.1,
+          "scraped_at": "2026-09-05T11:16:03.114252",
           "history": [
             {
               "price": 19.95,
               "original_price": 49.99,
               "discount_pct": 60.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.95,
+              "original_price": 49.99,
+              "discount_pct": 70.1,
+              "date": "2026-09-05"
             }
           ]
         }
