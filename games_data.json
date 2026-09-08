@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:29:59.691799",
+  "generated_at": "2026-09-08T12:07:51.282799",
   "total": 2174,
   "total_raw": 2333,
   "games": [
@@ -21365,16 +21365,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/50487-las-tribus-del-viento-8425402885734.html",
-          "price": 22.5,
+          "price": 19.95,
           "original_price": 44.95,
-          "discount_pct": 49.9,
-          "scraped_at": "2026-05-22T06:01:25.399045",
+          "discount_pct": 55.6,
+          "scraped_at": "2026-09-08T12:07:30.563147",
           "history": [
             {
               "price": 22.5,
               "original_price": 44.95,
               "discount_pct": 49.9,
               "date": "2026-05-22"
+            },
+            {
+              "price": 19.95,
+              "original_price": 44.95,
+              "discount_pct": 55.6,
+              "date": "2026-09-08"
             }
           ]
         },
@@ -21511,16 +21517,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/51036-adventure-tactics-la-torre-de-domianne.html",
-          "price": 78.0,
+          "price": 59.95,
           "original_price": 130.0,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-05-22T06:01:23.340792",
+          "discount_pct": 53.9,
+          "scraped_at": "2026-09-08T12:07:30.482475",
           "history": [
             {
               "price": 78.0,
               "original_price": 130.0,
               "discount_pct": 40.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 59.95,
+              "original_price": 130.0,
+              "discount_pct": 53.9,
+              "date": "2026-09-08"
             }
           ]
         }
@@ -22334,16 +22346,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/57733-adventure-tactics-la-torre-de-domianne-pack-de-heroe-1.html",
-          "price": 17.5,
+          "price": 9.95,
           "original_price": 25.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:21.198945",
+          "discount_pct": 60.2,
+          "scraped_at": "2026-09-08T12:07:27.193602",
           "history": [
             {
               "price": 17.5,
               "original_price": 25.0,
               "discount_pct": 30.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 9.95,
+              "original_price": 25.0,
+              "discount_pct": 60.2,
+              "date": "2026-09-08"
             }
           ]
         }
@@ -22357,16 +22375,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/57734-adventure-tactics-la-torre-de-domianne-explorando-estellia-libro-1.html",
-          "price": 7.0,
+          "price": 2.95,
           "original_price": 10.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:21.196768",
+          "discount_pct": 70.5,
+          "scraped_at": "2026-09-08T12:07:27.192302",
           "history": [
             {
               "price": 7.0,
               "original_price": 10.0,
               "discount_pct": 30.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 2.95,
+              "original_price": 10.0,
+              "discount_pct": 70.5,
+              "date": "2026-09-08"
             }
           ]
         }
@@ -22380,16 +22404,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/57735-adventure-tactics-la-torre-de-domianne-mas-alla-de-la-torre-libro-2.html",
-          "price": 7.0,
+          "price": 2.95,
           "original_price": 10.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:21.194278",
+          "discount_pct": 70.5,
+          "scraped_at": "2026-09-08T12:07:27.190424",
           "history": [
             {
               "price": 7.0,
               "original_price": 10.0,
               "discount_pct": 30.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 2.95,
+              "original_price": 10.0,
+              "discount_pct": 70.5,
+              "date": "2026-09-08"
             }
           ]
         }
@@ -22403,16 +22433,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/57736-adventure-tactics-la-torre-de-domianne-aventuras-con-alquimia.html",
-          "price": 38.5,
+          "price": 21.95,
           "original_price": 55.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:21.191989",
+          "discount_pct": 60.1,
+          "scraped_at": "2026-09-08T12:07:27.188266",
           "history": [
             {
               "price": 38.5,
               "original_price": 55.0,
               "discount_pct": 30.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 21.95,
+              "original_price": 55.0,
+              "discount_pct": 60.1,
+              "date": "2026-09-08"
             }
           ]
         }
@@ -43618,12 +43654,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-08-14T08:22:48.376245",
           "history": [
-            {
-              "price": 33.0,
-              "original_price": 44.99,
-              "discount_pct": 26.0,
-              "date": "2026-06-09"
-            },
             {
               "price": 39.59,
               "original_price": 44.99,
