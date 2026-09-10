@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:19:40.939542",
+  "generated_at": "2026-09-10T12:13:32.077539",
   "total": 2175,
   "total_raw": 2334,
   "games": [
@@ -41514,16 +41514,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/47786-espias-en-la-sombra-8436572390690.html",
-          "price": 12.0,
+          "price": 6.0,
           "original_price": 30.0,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-05-22T05:59:34.215402",
+          "discount_pct": 80.0,
+          "scraped_at": "2026-09-10T12:10:56.843110",
           "history": [
             {
               "price": 12.0,
               "original_price": 30.0,
               "discount_pct": 60.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 6.0,
+              "original_price": 30.0,
+              "discount_pct": 80.0,
+              "date": "2026-09-10"
             }
           ]
         }
@@ -42738,12 +42744,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-09-09T12:18:38.928358",
           "history": [
-            {
-              "price": 15.0,
-              "original_price": 30.0,
-              "discount_pct": 50.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 27.0,
               "original_price": 30.0,
@@ -51327,12 +51327,6 @@
           "scraped_at": "2026-09-09T12:17:00.855287",
           "history": [
             {
-              "price": 4.2,
-              "original_price": 14.99,
-              "discount_pct": 71.0,
-              "date": "2026-06-05"
-            },
-            {
               "price": 3.0,
               "original_price": 14.99,
               "discount_pct": 79.0,
@@ -51562,12 +51556,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-09-09T12:18:38.929783",
           "history": [
-            {
-              "price": 30.0,
-              "original_price": 44.99,
-              "discount_pct": 33.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 39.59,
               "original_price": 44.99,
