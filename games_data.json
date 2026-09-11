@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-10T12:13:32.077539",
-  "total": 2175,
-  "total_raw": 2334,
+  "generated_at": "2026-09-11T12:11:38.350056",
+  "total": 2177,
+  "total_raw": 2336,
   "games": [
+    {
+      "name": "Leviathan Wilds: Deepvale Expansion",
+      "is_new": 0,
+      "first_seen": "2026-09-11T12:09:03.106557",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61160-leviathan-wilds-deepvale-expansion-8495390976806.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-11T12:09:03.106557",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leviathan Wilds: Paquete de Mutaciones",
+      "is_new": 0,
+      "first_seen": "2026-09-11T12:09:03.100530",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61161-leviathan-wilds-paquete-de-mutaciones-8495390976813.html",
+          "price": 9.0,
+          "original_price": 10.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-11T12:09:03.100530",
+          "history": [
+            {
+              "price": 9.0,
+              "original_price": 10.0,
+              "discount_pct": 10.0,
+              "date": "2026-09-11"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Atlantis: Exodus - Polymathis",
       "is_new": 0,
@@ -21433,12 +21479,6 @@
           "scraped_at": "2026-07-18T08:56:12.899800",
           "history": [
             {
-              "price": 17.95,
-              "original_price": 45.0,
-              "discount_pct": 60.1,
-              "date": "2026-06-12"
-            },
-            {
               "price": 13.5,
               "original_price": 45.0,
               "discount_pct": 70.0,
@@ -41519,12 +41559,6 @@
           "discount_pct": 80.0,
           "scraped_at": "2026-09-10T12:10:56.843110",
           "history": [
-            {
-              "price": 12.0,
-              "original_price": 30.0,
-              "discount_pct": 60.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 6.0,
               "original_price": 30.0,
