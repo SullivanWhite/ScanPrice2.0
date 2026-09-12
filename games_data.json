@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:11:38.350056",
+  "generated_at": "2026-09-12T11:37:09.518679",
   "total": 2177,
   "total_raw": 2336,
   "games": [
@@ -7204,16 +7204,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/46873-ejercito-de-terracota-8436578815531.html",
-          "price": 17.95,
+          "price": 19.9,
           "original_price": 60.0,
-          "discount_pct": 70.1,
-          "scraped_at": "2026-06-28T10:09:03.876619",
+          "discount_pct": 66.8,
+          "scraped_at": "2026-09-12T11:36:37.003567",
           "history": [
             {
               "price": 17.95,
               "original_price": 60.0,
               "discount_pct": 70.1,
               "date": "2026-06-28"
+            },
+            {
+              "price": 19.9,
+              "original_price": 60.0,
+              "discount_pct": 66.8,
+              "date": "2026-09-12"
             }
           ]
         },
@@ -20257,12 +20263,6 @@
           "discount_pct": 60.1,
           "scraped_at": "2026-07-13T10:35:35.783583",
           "history": [
-            {
-              "price": 10.95,
-              "original_price": 40.0,
-              "discount_pct": 72.6,
-              "date": "2026-06-13"
-            },
             {
               "price": 15.95,
               "original_price": 40.0,
