@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-13T12:43:10.615094",
-  "total": 2177,
-  "total_raw": 2336,
+  "generated_at": "2026-09-14T13:54:09.799708",
+  "total": 2178,
+  "total_raw": 2337,
   "games": [
+    {
+      "name": "MCP: Los Más Poderosos de la Tierra (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-09-14T13:53:52.869866",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/49635-mcp-los-mas-poderosos-de-la-tierra-castellano-841333123901.html",
+          "price": 79.9,
+          "original_price": 149.95,
+          "discount_pct": 46.7,
+          "scraped_at": "2026-09-14T13:53:52.869866",
+          "history": [
+            {
+              "price": 79.9,
+              "original_price": 149.95,
+              "discount_pct": 46.7,
+              "date": "2026-09-14"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Leviathan Wilds: Deepvale Expansion",
       "is_new": 0,
@@ -19858,16 +19881,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/43075-fayun-8435407636378.html",
-          "price": 14.95,
+          "price": 16.5,
           "original_price": 54.99,
-          "discount_pct": 72.8,
-          "scraped_at": "2026-05-22T06:01:31.782886",
+          "discount_pct": 70.0,
+          "scraped_at": "2026-09-14T13:53:58.876561",
           "history": [
             {
               "price": 14.95,
               "original_price": 54.99,
               "discount_pct": 72.8,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.5,
+              "original_price": 54.99,
+              "discount_pct": 70.0,
+              "date": "2026-09-14"
             }
           ]
         }
@@ -21273,16 +21302,22 @@
         {
           "source": "goblintrader",
           "url": "https://www.goblintrader.es/es/inicio/49675-waterfall-park-castellano-5425016927458.html",
-          "price": 19.95,
+          "price": 15.95,
           "original_price": 39.99,
-          "discount_pct": 50.1,
-          "scraped_at": "2026-07-13T10:35:33.720399",
+          "discount_pct": 60.1,
+          "scraped_at": "2026-09-14T13:53:52.867837",
           "history": [
             {
               "price": 19.95,
               "original_price": 39.99,
               "discount_pct": 50.1,
               "date": "2026-07-13"
+            },
+            {
+              "price": 15.95,
+              "original_price": 39.99,
+              "discount_pct": 60.1,
+              "date": "2026-09-14"
             }
           ]
         }
