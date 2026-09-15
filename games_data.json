@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-14T13:54:09.799708",
-  "total": 2178,
-  "total_raw": 2337,
+  "generated_at": "2026-09-15T12:39:02.930758",
+  "total": 2181,
+  "total_raw": 2340,
   "games": [
+    {
+      "name": "Tibetana",
+      "is_new": 0,
+      "first_seen": "2026-09-15T12:38:01.732111",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61196-tibetana-634240429040.html",
+          "price": 52.79,
+          "original_price": 59.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-15T12:38:01.732111",
+          "history": [
+            {
+              "price": 52.79,
+              "original_price": 59.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skull Tales: ¡A Toda Vela! (2ª Edición)",
+      "is_new": 0,
+      "first_seen": "2026-09-15T12:36:16.314648",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/skull-tales/49964-skull-tales-a-toda-vela-2-edicion-634438689799.html",
+          "price": 96.8,
+          "original_price": 110.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-15T12:36:16.314648",
+          "history": [
+            {
+              "price": 96.8,
+              "original_price": 110.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skull Tales: La Maldición del Caribe (Expansión)",
+      "is_new": 0,
+      "first_seen": "2026-09-15T12:36:16.305039",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/skull-tales/60457-skull-tales-la-maldicion-del-caribe-expansion-698142146733.html",
+          "price": 61.6,
+          "original_price": 70.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-15T12:36:16.305039",
+          "history": [
+            {
+              "price": 61.6,
+              "original_price": 70.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-15"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "MCP: Los Más Poderosos de la Tierra (Castellano)",
       "is_new": 0,
@@ -19886,12 +19955,6 @@
           "discount_pct": 70.0,
           "scraped_at": "2026-09-14T13:53:58.876561",
           "history": [
-            {
-              "price": 14.95,
-              "original_price": 54.99,
-              "discount_pct": 72.8,
-              "date": "2026-05-22"
-            },
             {
               "price": 16.5,
               "original_price": 54.99,
