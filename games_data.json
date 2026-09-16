@@ -1,8 +1,192 @@
 {
-  "generated_at": "2026-09-15T12:39:02.930758",
-  "total": 2181,
-  "total_raw": 2340,
+  "generated_at": "2026-09-16T12:35:26.294992",
+  "total": 2189,
+  "total_raw": 2348,
   "games": [
+    {
+      "name": "Final Girl : Temporada 3 (Estrellas Invitadas)",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.186363",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61200-final-girl-temporada-3-estrellas-invitadas-8436564815309.html",
+          "price": 13.46,
+          "original_price": 14.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-16T12:32:34.186363",
+          "history": [
+            {
+              "price": 13.46,
+              "original_price": 14.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 (Caja Misteriosa)",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.184597",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61205-final-girl-temporada-3-caja-misteriosa-8436564815286.html",
+          "price": 22.46,
+          "original_price": 24.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-16T12:32:34.184597",
+          "history": [
+            {
+              "price": 22.46,
+              "original_price": 24.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - The Falconwood Files (Slayer)",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.182783",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61213-final-girl-temporada-3-the-falconwood-files-slayer-8436564815187.html",
+          "price": 20.66,
+          "original_price": 22.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-16T12:32:34.182783",
+          "history": [
+            {
+              "price": 20.66,
+              "original_price": 22.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - Hell to Pay (Razorface)",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.180624",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61217-final-girl-temporada-3-hell-to-pay-razorface-8436564815170.html",
+          "price": 20.66,
+          "original_price": 22.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-16T12:32:34.180624",
+          "history": [
+            {
+              "price": 20.66,
+              "original_price": 22.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - The Marrek Murders (Miniaturas)",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.178898",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61211-final-girl-temporada-3-the-marrek-murders-miniaturas-8436564815248.html",
+          "price": 7.16,
+          "original_price": 7.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-16T12:32:34.178898",
+          "history": [
+            {
+              "price": 7.16,
+              "original_price": 7.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - The Killer From Tomorrow (The Hunter)",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.176306",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61215-final-girl-temporada-3-the-killer-from-tomorrow-the-hunter-8436564815163.html",
+          "price": 20.66,
+          "original_price": 22.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-16T12:32:34.176306",
+          "history": [
+            {
+              "price": 20.66,
+              "original_price": 22.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Keep the Heroes Out!: Boss Battles Expansion",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.173827",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61236-keep-the-heroes-out-boss-battles-expansion-8435163900607.html",
+          "price": 47.48,
+          "original_price": 53.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-16T12:32:34.173827",
+          "history": [
+            {
+              "price": 47.48,
+              "original_price": 53.95,
+              "discount_pct": 12.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rauha",
+      "is_new": 0,
+      "first_seen": "2026-09-16T12:32:34.169684",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61234-rauha-.html",
+          "price": 20.0,
+          "original_price": 40.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-09-16T12:32:34.169684",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 40.0,
+              "discount_pct": 50.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Tibetana",
       "is_new": 0,
@@ -39155,12 +39339,6 @@
           "scraped_at": "2026-08-26T07:53:25.801845",
           "history": [
             {
-              "price": 87.99,
-              "original_price": 109.99,
-              "discount_pct": 20.0,
-              "date": "2026-06-17"
-            },
-            {
               "price": 96.79,
               "original_price": 109.99,
               "discount_pct": 12.0,
@@ -47870,16 +48048,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/set-basico/52205-army-of-the-dead-a-zombicide-game-8435407641495.html",
-          "price": 71.5,
+          "price": 96.79,
           "original_price": 109.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-05-22T05:58:59.711191",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-16T12:34:22.684063",
           "history": [
             {
               "price": 71.5,
               "original_price": 109.99,
               "discount_pct": 34.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 96.79,
+              "original_price": 109.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-16"
             }
           ]
         }
