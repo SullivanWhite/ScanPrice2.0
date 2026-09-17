@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-16T12:35:26.294992",
-  "total": 2189,
-  "total_raw": 2348,
+  "generated_at": "2026-09-17T12:35:22.274410",
+  "total": 2192,
+  "total_raw": 2351,
   "games": [
+    {
+      "name": "Quetzal",
+      "is_new": 0,
+      "first_seen": "2026-09-17T12:34:22.827459",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/ofertas/48600-quetzal-5600849320182.html",
+          "price": 10.0,
+          "original_price": 34.95,
+          "discount_pct": 71.4,
+          "scraped_at": "2026-09-17T12:34:22.827459",
+          "history": [
+            {
+              "price": 10.0,
+              "original_price": 34.95,
+              "discount_pct": 71.4,
+              "date": "2026-09-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - The Killer From Tomorrow (Miniaturas)",
+      "is_new": 0,
+      "first_seen": "2026-09-17T12:32:44.042434",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61210-final-girl-temporada-3-the-killer-from-tomorrow-miniaturas-8436564815217.html",
+          "price": 8.95,
+          "original_price": 9.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-17T12:32:44.042434",
+          "history": [
+            {
+              "price": 8.95,
+              "original_price": 9.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - Don't Make a Sound (Miniaturas)",
+      "is_new": 0,
+      "first_seen": "2026-09-17T12:32:44.036796",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61209-final-girl-temporada-3-don-t-make-a-sound-miniaturas-8436564815255.html",
+          "price": 8.95,
+          "original_price": 9.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-17T12:32:44.036796",
+          "history": [
+            {
+              "price": 8.95,
+              "original_price": 9.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-17"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Final Girl : Temporada 3 (Estrellas Invitadas)",
       "is_new": 0,
@@ -48054,12 +48123,6 @@
           "scraped_at": "2026-09-16T12:34:22.684063",
           "history": [
             {
-              "price": 71.5,
-              "original_price": 109.99,
-              "discount_pct": 34.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 96.79,
               "original_price": 109.99,
               "discount_pct": 12.0,
@@ -49238,12 +49301,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-07-06T11:41:58.937549",
           "history": [
-            {
-              "price": 37.5,
-              "original_price": 50.0,
-              "discount_pct": 25.0,
-              "date": "2026-06-18"
-            },
             {
               "price": 44.0,
               "original_price": 50.0,
