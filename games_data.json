@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-17T12:35:22.274410",
-  "total": 2192,
-  "total_raw": 2351,
+  "generated_at": "2026-09-18T12:13:44.808180",
+  "total": 2195,
+  "total_raw": 2354,
   "games": [
+    {
+      "name": "Skyrise (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-09-18T12:13:21.579598",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/57087-skyrise-castellano-8436607947622.html",
+          "price": 48.75,
+          "original_price": 65.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-09-18T12:13:21.579598",
+          "history": [
+            {
+              "price": 48.75,
+              "original_price": 65.0,
+              "discount_pct": 25.0,
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cities Usa (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-09-18T12:13:21.574480",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/58210-cities-usa-castellano-8436625613073.html",
+          "price": 22.5,
+          "original_price": 30.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-09-18T12:13:21.574480",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 30.0,
+              "discount_pct": 25.0,
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Through The Desert (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-09-18T12:13:21.571088",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/58219-through-the-desert-castellano-8436607945901.html",
+          "price": 26.25,
+          "original_price": 35.0,
+          "discount_pct": 25.0,
+          "scraped_at": "2026-09-18T12:13:21.571088",
+          "history": [
+            {
+              "price": 26.25,
+              "original_price": 35.0,
+              "discount_pct": 25.0,
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Quetzal",
       "is_new": 0,
@@ -7935,12 +8004,6 @@
           "scraped_at": "2026-07-14T09:10:41.869517",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -7964,12 +8027,6 @@
           "scraped_at": "2026-08-06T09:45:14.503591",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -7992,12 +8049,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-15T09:16:54.562274",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -33616,12 +33667,6 @@
           "scraped_at": "2026-07-15T09:16:54.561201",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -35439,12 +35484,6 @@
           "scraped_at": "2026-07-22T09:32:35.544001",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -35812,12 +35851,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-22T09:32:35.533602",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -38556,12 +38589,6 @@
           "scraped_at": "2026-07-06T11:41:58.943326",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -39022,12 +39049,6 @@
           "scraped_at": "2026-07-06T11:41:58.942263",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -39073,12 +39094,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-07T10:30:58.787980",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -40121,12 +40136,6 @@
           "scraped_at": "2026-07-10T10:27:18.037129",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -40500,12 +40509,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-15T09:16:54.563361",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -41174,12 +41177,6 @@
           "scraped_at": "2026-07-17T09:15:25.591659",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -41369,12 +41366,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-22T09:32:35.547025",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -43975,12 +43966,6 @@
           "scraped_at": "2026-07-03T10:09:28.373389",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -44118,12 +44103,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-29T09:43:55.325375",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -45413,12 +45392,6 @@
           "scraped_at": "2026-07-15T09:16:54.559783",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -45947,12 +45920,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-03T10:09:19.564838",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -47168,12 +47135,6 @@
           "scraped_at": "2026-07-01T10:45:52.165717",
           "history": [
             {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
-            {
               "price": 14.4,
               "original_price": 16.0,
               "discount_pct": 10.0,
@@ -47472,12 +47433,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-08-03T10:49:46.439573",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
@@ -50313,12 +50268,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-07-07T10:30:58.789196",
           "history": [
-            {
-              "price": 9.5,
-              "original_price": 16.0,
-              "discount_pct": 40.0,
-              "date": "2026-06-19"
-            },
             {
               "price": 14.4,
               "original_price": 16.0,
