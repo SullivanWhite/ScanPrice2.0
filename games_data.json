@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-19T11:56:15.279286",
-  "total": 2195,
-  "total_raw": 2355,
+  "generated_at": "2026-09-20T12:15:25.276095",
+  "total": 2197,
+  "total_raw": 2357,
   "games": [
+    {
+      "name": "Crónicas del Crimen: Realidad Virtual",
+      "is_new": 0,
+      "first_seen": "2026-09-20T12:14:25.938714",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cronicas-del-crimen/40319-cronicas-del-crimen-realidad-virtual-0634438858775.html",
+          "price": 12.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-09-20T12:14:25.938714",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crónicas del Crimen",
+      "is_new": 0,
+      "first_seen": "2026-09-20T12:14:25.935219",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cronicas-del-crimen/40320-cronicas-del-crimen-634438967576.html",
+          "price": 26.96,
+          "original_price": 29.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-20T12:14:25.935219",
+          "history": [
+            {
+              "price": 26.96,
+              "original_price": 29.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Tibetana",
       "is_new": 0,
