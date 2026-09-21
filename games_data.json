@@ -1,13 +1,114 @@
 {
-  "generated_at": "2026-09-20T12:15:25.276095",
-  "total": 2197,
-  "total_raw": 2357,
+  "generated_at": "2026-09-21T13:56:39.367834",
+  "total": 2199,
+  "total_raw": 2361,
   "games": [
+    {
+      "name": "Rauha",
+      "is_new": 0,
+      "first_seen": "2026-09-21T13:53:45.466502",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61234-rauha--8436578817245.html",
+          "price": 20.0,
+          "original_price": 40.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-09-21T13:53:45.466502",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 40.0,
+              "discount_pct": 50.0,
+              "date": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61234-rauha-.html",
+          "price": 20.0,
+          "original_price": 40.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-09-16T12:32:34.169684",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 40.0,
+              "discount_pct": 50.0,
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koi (Novedad)",
+      "is_new": 0,
+      "first_seen": "2026-09-21T13:53:45.462596",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61175-koi-novedad-8435407651722.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-21T13:53:45.462596",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Magical Athlete (Novedad)",
+      "is_new": 0,
+      "first_seen": "2026-09-21T13:53:45.459880",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61134-magical-athlete-novedad-3558380140153.html",
+          "price": 26.99,
+          "original_price": 29.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-21T13:53:45.459880",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 29.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-21"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Crónicas del Crimen: Realidad Virtual",
       "is_new": 0,
-      "first_seen": "2026-09-20T12:14:25.938714",
+      "first_seen": "2026-09-21T13:53:45.455513",
       "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cronicas-del-crimen/40319-cronicas-del-crimen-realidad-virtual-752830290884.html",
+          "price": 12.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-09-21T13:53:45.455513",
+          "history": [
+            {
+              "price": 12.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-09-21"
+            }
+          ]
+        },
         {
           "source": "mathom",
           "url": "https://mathom.es/es/cronicas-del-crimen/40319-cronicas-del-crimen-realidad-virtual-0634438858775.html",
@@ -381,29 +482,6 @@
               "price": 47.48,
               "original_price": 53.95,
               "discount_pct": 12.0,
-              "date": "2026-09-16"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Rauha",
-      "is_new": 0,
-      "first_seen": "2026-09-16T12:32:34.169684",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/61234-rauha-.html",
-          "price": 20.0,
-          "original_price": 40.0,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-09-16T12:32:34.169684",
-          "history": [
-            {
-              "price": 20.0,
-              "original_price": 40.0,
-              "discount_pct": 50.0,
               "date": "2026-09-16"
             }
           ]
