@@ -1,8 +1,146 @@
 {
-  "generated_at": "2026-09-21T13:56:39.367834",
-  "total": 2199,
-  "total_raw": 2361,
+  "generated_at": "2026-09-22T12:34:28.570595",
+  "total": 2205,
+  "total_raw": 2367,
   "games": [
+    {
+      "name": "Magical Athlete",
+      "is_new": 0,
+      "first_seen": "2026-09-22T12:31:30.039909",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61134-magical-athlete--3558380140153.html",
+          "price": 26.99,
+          "original_price": 29.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-22T12:31:30.039909",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 29.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koi",
+      "is_new": 0,
+      "first_seen": "2026-09-22T12:31:30.035801",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61175-koi--8435407651722.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-22T12:31:30.035801",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Rose Wars Rebirth",
+      "is_new": 0,
+      "first_seen": "2026-09-22T12:31:30.032259",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61180-black-rose-wars-rebirth-8052282851629.html",
+          "price": 113.52,
+          "original_price": 129.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-22T12:31:30.032259",
+          "history": [
+            {
+              "price": 113.52,
+              "original_price": 129.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Rose Wars Rebirth: Apocalipsis",
+      "is_new": 0,
+      "first_seen": "2026-09-22T12:31:30.030077",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61181-black-rose-wars-rebirth-apocalipsis--8052282851858.html",
+          "price": 51.92,
+          "original_price": 59.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-22T12:31:30.030077",
+          "history": [
+            {
+              "price": 51.92,
+              "original_price": 59.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coffee Rush: Para Llevar",
+      "is_new": 0,
+      "first_seen": "2026-09-22T12:31:30.028088",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61182-coffee-rush-para-llevar--3558380139614.html",
+          "price": 11.69,
+          "original_price": 12.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-22T12:31:30.028088",
+          "history": [
+            {
+              "price": 11.69,
+              "original_price": 12.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zombicide: El juego del Calamar",
+      "is_new": 0,
+      "first_seen": "2026-09-22T12:31:30.022572",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/zombicide/61221-zombicide-el-juego-del-calamar-841333144876.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-22T12:31:30.022572",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Rauha",
       "is_new": 0,
@@ -174,16 +312,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61196-tibetana-634240429040.html",
-          "price": 52.79,
-          "original_price": 59.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-09-15T12:38:01.732111",
+          "price": null,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-09-22T12:31:30.038977",
           "history": [
             {
               "price": 52.79,
               "original_price": 59.99,
               "discount_pct": 12.0,
               "date": "2026-09-15"
+            },
+            {
+              "price": null,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-09-22"
             }
           ]
         }
