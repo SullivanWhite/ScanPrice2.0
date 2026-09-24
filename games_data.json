@@ -1,8 +1,254 @@
 {
-  "generated_at": "2026-09-23T12:44:54.773250",
-  "total": 2205,
-  "total_raw": 2367,
+  "generated_at": "2026-09-24T12:43:23.664482",
+  "total": 2214,
+  "total_raw": 2377,
   "games": [
+    {
+      "name": "Karuba (2025)",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:42:20.147624",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58625-karuba-2025.html",
+          "price": 44.99,
+          "original_price": 49.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-24T12:42:20.147624",
+          "history": [
+            {
+              "price": 44.99,
+              "original_price": 49.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58625-karuba-2025-4010168288956.html",
+          "price": 44.99,
+          "original_price": 49.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:01:10.687749",
+          "history": [
+            {
+              "price": 44.99,
+              "original_price": 49.99,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "7th Seal",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:37.193885",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61319-7th-seal-8436625615084.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-24T12:40:37.193885",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alta Tensión: Reenergizado (2026)",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:37.189847",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/alta-tension/61321-alta-tension-reenergizado-2026-8436627170314.html",
+          "price": 43.08,
+          "original_price": 48.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-24T12:40:37.189847",
+          "history": [
+            {
+              "price": 43.08,
+              "original_price": 48.95,
+              "discount_pct": 12.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Foso Funesto",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:37.147017",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/alta-tension/61322-el-foso-funesto-8436627170307.html",
+          "price": 34.16,
+          "original_price": 37.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-24T12:40:37.147017",
+          "history": [
+            {
+              "price": 34.16,
+              "original_price": 37.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Idles: Dream On",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:33.006996",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61325-the-idles-dream-on--8437030004012.html",
+          "price": 31.49,
+          "original_price": 34.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-24T12:40:33.006996",
+          "history": [
+            {
+              "price": 31.49,
+              "original_price": 34.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cascadia: Colinas Rodantes",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:32.638636",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61328-cascadia-colinas-rodantes-8435163900539.html",
+          "price": 22.46,
+          "original_price": 24.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-24T12:40:32.638636",
+          "history": [
+            {
+              "price": 22.46,
+              "original_price": 24.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karuba",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:24.159838",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/38389-karuba-4010168218434.html",
+          "price": 32.39,
+          "original_price": 35.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-24T12:40:24.159838",
+          "history": [
+            {
+              "price": 32.39,
+              "original_price": 35.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revenant: Razón y Fe",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:24.157309",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61338-revenant-razon-y-fe-8436625618474.html",
+          "price": 19.8,
+          "original_price": 22.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-24T12:40:24.157309",
+          "history": [
+            {
+              "price": 19.8,
+              "original_price": 22.0,
+              "discount_pct": 10.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revenant (Edición Almirante)",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:23.958499",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61332-revenant-edicion-almirante-5999138700744.html",
+          "price": 176.0,
+          "original_price": 200.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-24T12:40:23.958499",
+          "history": [
+            {
+              "price": 176.0,
+              "original_price": 200.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revenant",
+      "is_new": 0,
+      "first_seen": "2026-09-24T12:40:23.854281",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61330-revenant-8436625618450.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-24T12:40:23.854281",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Magical Athlete",
       "is_new": 0,
@@ -312,10 +558,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61196-tibetana-634240429040.html",
-          "price": null,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-09-22T12:31:30.038977",
+          "price": 47.51,
+          "original_price": 53.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-24T12:40:37.196978",
           "history": [
             {
               "price": 52.79,
@@ -328,6 +574,12 @@
               "original_price": null,
               "discount_pct": null,
               "date": "2026-09-22"
+            },
+            {
+              "price": 47.51,
+              "original_price": 53.99,
+              "discount_pct": 12.0,
+              "date": "2026-09-24"
             }
           ]
         }
@@ -24063,29 +24315,6 @@
             {
               "price": 12.56,
               "original_price": 13.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Karuba (2025)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:10.687749",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/58625-karuba-2025-4010168288956.html",
-          "price": 44.99,
-          "original_price": 49.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:01:10.687749",
-          "history": [
-            {
-              "price": 44.99,
-              "original_price": 49.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
