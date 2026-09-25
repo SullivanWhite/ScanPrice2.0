@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-24T12:43:23.664482",
-  "total": 2214,
-  "total_raw": 2377,
+  "generated_at": "2026-09-25T12:44:32.947604",
+  "total": 2216,
+  "total_raw": 2379,
   "games": [
+    {
+      "name": "Revenant (Edición Almirante con pintado Wash)",
+      "is_new": 0,
+      "first_seen": "2026-09-25T12:42:18.156631",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61341-revenant-edicion-almirante-con-pintado-wash-5999138700744.html",
+          "price": 220.0,
+          "original_price": 250.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-25T12:42:18.156631",
+          "history": [
+            {
+              "price": 220.0,
+              "original_price": 250.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Keep the Heroes Out!",
+      "is_new": 0,
+      "first_seen": "2026-09-25T12:42:18.149186",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58054-keep-the-heroes-out-8435163900348.html",
+          "price": 49.28,
+          "original_price": 56.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-25T12:42:18.149186",
+          "history": [
+            {
+              "price": 49.28,
+              "original_price": 56.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Karuba (2025)",
       "is_new": 0,
