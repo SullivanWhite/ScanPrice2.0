@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-09-27T12:58:10.744084",
+  "generated_at": "2026-09-28T15:18:42.619954",
   "total": 2216,
-  "total_raw": 2379,
+  "total_raw": 2380,
   "games": [
+    {
+      "name": "Revenant (Edición Almirante)",
+      "is_new": 0,
+      "first_seen": "2026-09-28T15:15:49.038924",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61332-revenant-edicion-almirante-5999138700706.html",
+          "price": 176.0,
+          "original_price": 200.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-28T15:15:49.038924",
+          "history": [
+            {
+              "price": 176.0,
+              "original_price": 200.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61332-revenant-edicion-almirante-5999138700744.html",
+          "price": 176.0,
+          "original_price": 200.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-24T12:40:23.958499",
+          "history": [
+            {
+              "price": 176.0,
+              "original_price": 200.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Revenant (Edición Almirante con pintado Wash)",
       "is_new": 0,
@@ -243,29 +282,6 @@
               "price": 19.8,
               "original_price": 22.0,
               "discount_pct": 10.0,
-              "date": "2026-09-24"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Revenant (Edición Almirante)",
-      "is_new": 0,
-      "first_seen": "2026-09-24T12:40:23.958499",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/61332-revenant-edicion-almirante-5999138700744.html",
-          "price": 176.0,
-          "original_price": 200.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-09-24T12:40:23.958499",
-          "history": [
-            {
-              "price": 176.0,
-              "original_price": 200.0,
-              "discount_pct": 12.0,
               "date": "2026-09-24"
             }
           ]
@@ -8238,12 +8254,6 @@
           "discount_pct": 50.1,
           "scraped_at": "2026-07-13T10:35:31.681451",
           "history": [
-            {
-              "price": 30.0,
-              "original_price": 60.0,
-              "discount_pct": 50.0,
-              "date": "2026-06-29"
-            },
             {
               "price": 29.95,
               "original_price": 60.0,
