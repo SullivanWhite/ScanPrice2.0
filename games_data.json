@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-28T15:18:42.619954",
-  "total": 2216,
-  "total_raw": 2380,
+  "generated_at": "2026-09-29T14:00:00.358185",
+  "total": 2219,
+  "total_raw": 2383,
   "games": [
+    {
+      "name": "EXIT: Calendario de Adviento (La Carrera Intergaláctica)",
+      "is_new": 0,
+      "first_seen": "2026-09-29T13:57:06.704102",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/exit/61184-exit-calendario-de-adviento-la-carrera-intergalactica-8436625613899.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-29T13:57:06.704102",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akropolis: Atenea",
+      "is_new": 0,
+      "first_seen": "2026-09-29T13:57:06.700727",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/60598-akropolis-atenea-8436625610232.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-29T13:57:06.700727",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl - Terror from Destiny",
+      "is_new": 0,
+      "first_seen": "2026-09-29T13:57:06.697256",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61197-final-girl-terror-from-destiny-8436564815316.html",
+          "price": 8.95,
+          "original_price": 9.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-29T13:57:06.697256",
+          "history": [
+            {
+              "price": 8.95,
+              "original_price": 9.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Revenant (Edición Almirante)",
       "is_new": 0,
@@ -30957,16 +31026,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56900-nebula-8436578817863.html",
-          "price": 31.5,
+          "price": 17.5,
           "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:33.992189",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-09-29T13:57:06.693677",
           "history": [
             {
               "price": 31.5,
               "original_price": 35.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 17.5,
+              "original_price": 35.0,
+              "discount_pct": 50.0,
+              "date": "2026-09-29"
             }
           ]
         }
