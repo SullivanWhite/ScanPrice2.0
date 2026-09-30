@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-09-29T14:00:00.358185",
-  "total": 2219,
-  "total_raw": 2383,
+  "generated_at": "2026-09-30T13:36:13.768595",
+  "total": 2224,
+  "total_raw": 2388,
   "games": [
+    {
+      "name": "Decrypto: Transmision Segura",
+      "is_new": 0,
+      "first_seen": "2026-09-30T13:33:25.343715",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/juegos-de-tablero/61364-decrypto-transmision-segura-8435407651418.html",
+          "price": 22.49,
+          "original_price": 24.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-30T13:33:25.343715",
+          "history": [
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azul Kids (+Promo)",
+      "is_new": 0,
+      "first_seen": "2026-09-30T13:33:21.159446",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/azul/61366-azul-kids-promo-3558387006056.html",
+          "price": 22.49,
+          "original_price": 24.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-30T13:33:21.159446",
+          "history": [
+            {
+              "price": 22.49,
+              "original_price": 24.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forest Shuffle: Smoky Mountains",
+      "is_new": 0,
+      "first_seen": "2026-09-30T13:33:21.153520",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61365-forest-shuffle-smoky-mountains-3558387009156.html",
+          "price": 25.19,
+          "original_price": 27.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-30T13:33:21.153520",
+          "history": [
+            {
+              "price": 25.19,
+              "original_price": 27.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hormigas (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-09-30T13:33:17.187562",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61132-hormigas-promo-8436623243463.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-09-30T13:33:17.187562",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ambar",
+      "is_new": 0,
+      "first_seen": "2026-09-30T13:33:17.174161",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61381-ambar-5600849320977.html",
+          "price": 25.16,
+          "original_price": 27.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-30T13:33:17.174161",
+          "history": [
+            {
+              "price": 25.16,
+              "original_price": 27.95,
+              "discount_pct": 10.0,
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "EXIT: Calendario de Adviento (La Carrera Intergaláctica)",
       "is_new": 0,
@@ -793,16 +908,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/ofertas/48600-quetzal-5600849320182.html",
-          "price": 10.0,
+          "price": 13.0,
           "original_price": 34.95,
-          "discount_pct": 71.4,
-          "scraped_at": "2026-09-17T12:34:22.827459",
+          "discount_pct": 62.0,
+          "scraped_at": "2026-09-30T13:33:21.158388",
           "history": [
             {
               "price": 10.0,
               "original_price": 34.95,
               "discount_pct": 71.4,
               "date": "2026-09-17"
+            },
+            {
+              "price": 13.0,
+              "original_price": 34.95,
+              "discount_pct": 62.0,
+              "date": "2026-09-30"
             }
           ]
         }
@@ -31031,12 +31152,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-09-29T13:57:06.693677",
           "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 17.5,
               "original_price": 35.0,
