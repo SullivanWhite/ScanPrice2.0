@@ -1,8 +1,155 @@
 {
-  "generated_at": "2026-09-30T13:36:13.768595",
-  "total": 2224,
-  "total_raw": 2388,
+  "generated_at": "2026-10-01T14:26:25.404517",
+  "total": 2227,
+  "total_raw": 2393,
   "games": [
+    {
+      "name": "Magical Athlete",
+      "is_new": 0,
+      "first_seen": "2026-10-01T14:25:13.776205",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61134-magical-athlete-3558380140153.html",
+          "price": 26.99,
+          "original_price": 29.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-01T14:25:13.776205",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 29.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61134-magical-athlete--3558380140153.html",
+          "price": 26.99,
+          "original_price": 29.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-09-22T12:31:30.039909",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 29.99,
+              "discount_pct": 10.0,
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qomet",
+      "is_new": 0,
+      "first_seen": "2026-10-01T14:23:12.967168",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61386-qomet-3421276239111.html",
+          "price": 32.36,
+          "original_price": 35.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-01T14:23:12.967168",
+          "history": [
+            {
+              "price": 32.36,
+              "original_price": 35.95,
+              "discount_pct": 10.0,
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/qomet-95558.html",
+          "price": 25.17,
+          "original_price": 35.95,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-05-22T06:01:42.077973",
+          "history": [
+            {
+              "price": 25.17,
+              "original_price": 35.95,
+              "discount_pct": 30.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forestry",
+      "is_new": 0,
+      "first_seen": "2026-10-01T14:23:12.961270",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61388-forestry-8421005001779.html",
+          "price": 57.16,
+          "original_price": 64.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-01T14:23:12.961270",
+          "history": [
+            {
+              "price": 57.16,
+              "original_price": 64.95,
+              "discount_pct": 12.0,
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Almost Innocent",
+      "is_new": 0,
+      "first_seen": "2026-10-01T14:23:12.958528",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61387-almost-innocent-8437022228952.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-01T14:23:12.958528",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viticulture: Bordeaux",
+      "is_new": 0,
+      "first_seen": "2026-10-01T14:23:12.951205",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/viticulture/61389-viticulture-bordeaux-8436625618092.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-01T14:23:12.951205",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Decrypto: Transmision Segura",
       "is_new": 0,
@@ -490,29 +637,6 @@
               "original_price": 75.0,
               "discount_pct": 12.0,
               "date": "2026-09-24"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Magical Athlete",
-      "is_new": 0,
-      "first_seen": "2026-09-22T12:31:30.039909",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/61134-magical-athlete--3558380140153.html",
-          "price": 26.99,
-          "original_price": 29.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-09-22T12:31:30.039909",
-          "history": [
-            {
-              "price": 26.99,
-              "original_price": 29.99,
-              "discount_pct": 10.0,
-              "date": "2026-09-22"
             }
           ]
         }
@@ -19428,29 +19552,6 @@
       ]
     },
     {
-      "name": "Qomet",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:42.077973",
-      "prices": [
-        {
-          "source": "dungeonmarvels",
-          "url": "https://dungeonmarvels.com/qomet-95558.html",
-          "price": 25.17,
-          "original_price": 35.95,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:01:42.077973",
-          "history": [
-            {
-              "price": 25.17,
-              "original_price": 35.95,
-              "discount_pct": 30.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Deal with the Devil (Inglés) (SEMINUEVO)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:42.076083",
@@ -29330,16 +29431,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56051-floresta-5600849320779.html",
-          "price": 35.16,
+          "price": 15.0,
           "original_price": 39.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:43.355391",
+          "discount_pct": 62.0,
+          "scraped_at": "2026-10-01T14:23:17.090968",
           "history": [
             {
               "price": 35.16,
               "original_price": 39.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 39.95,
+              "discount_pct": 62.0,
+              "date": "2026-10-01"
             }
           ]
         }
@@ -47679,12 +47786,6 @@
           "scraped_at": "2026-09-03T12:02:47.777424",
           "history": [
             {
-              "price": 30.5,
-              "original_price": 49.99,
-              "discount_pct": 38.0,
-              "date": "2026-07-02"
-            },
-            {
               "price": 32.5,
               "original_price": 49.99,
               "discount_pct": 34.0,
@@ -49760,12 +49861,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-08-28T19:24:17.102325",
           "history": [
-            {
-              "price": 13.0,
-              "original_price": 19.99,
-              "discount_pct": 34.0,
-              "date": "2026-07-02"
-            },
             {
               "price": 17.99,
               "original_price": 19.99,
