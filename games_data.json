@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-01T14:26:25.404517",
-  "total": 2227,
-  "total_raw": 2393,
+  "generated_at": "2026-10-02T13:49:13.046238",
+  "total": 2228,
+  "total_raw": 2394,
   "games": [
+    {
+      "name": "Spooktacular",
+      "is_new": 0,
+      "first_seen": "2026-10-02T13:46:22.293001",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61115-spooktacular-810100190538.html",
+          "price": 25.0,
+          "original_price": 60.0,
+          "discount_pct": 58.0,
+          "scraped_at": "2026-10-02T13:46:22.293001",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": 60.0,
+              "discount_pct": 58.0,
+              "date": "2026-10-02"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Magical Athlete",
       "is_new": 0,
@@ -29436,12 +29459,6 @@
           "discount_pct": 62.0,
           "scraped_at": "2026-10-01T14:23:17.090968",
           "history": [
-            {
-              "price": 35.16,
-              "original_price": 39.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 15.0,
               "original_price": 39.95,
