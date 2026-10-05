@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-04T13:10:35.265782",
-  "total": 2228,
-  "total_raw": 2394,
+  "generated_at": "2026-10-05T15:53:51.703196",
+  "total": 2229,
+  "total_raw": 2395,
   "games": [
+    {
+      "name": "Hidden Games: Escena del Crimen - Un Crimen Escalofriante",
+      "is_new": 0,
+      "first_seen": "2026-10-05T15:50:52.026413",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/hidden-games-escena-del-crimen/61397-hidden-games-escena-del-crimen-un-crimen-escalofriante-4260686491622.html",
+          "price": 22.41,
+          "original_price": 24.9,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-05T15:50:52.026413",
+          "history": [
+            {
+              "price": 22.41,
+              "original_price": 24.9,
+              "discount_pct": 10.0,
+              "date": "2026-10-05"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Spooktacular",
       "is_new": 0,
@@ -45842,16 +45865,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58859-etherstone-8436572391451.html",
-          "price": 31.5,
+          "price": 11.0,
           "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:21.014136",
+          "discount_pct": 68.0,
+          "scraped_at": "2026-10-05T15:50:52.022572",
           "history": [
             {
               "price": 31.5,
               "original_price": 35.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 11.0,
+              "original_price": 35.0,
+              "discount_pct": 68.0,
+              "date": "2026-10-05"
             }
           ]
         }
