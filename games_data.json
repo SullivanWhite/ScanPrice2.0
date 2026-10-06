@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-05T15:53:51.703196",
-  "total": 2229,
-  "total_raw": 2395,
+  "generated_at": "2026-10-06T14:09:55.050122",
+  "total": 2231,
+  "total_raw": 2397,
   "games": [
+    {
+      "name": "Paleo: Las Cuevas",
+      "is_new": 0,
+      "first_seen": "2026-10-06T14:06:52.953995",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/paleo/61437-paleo-las-cuevas-8436625613479.html",
+          "price": 4.5,
+          "original_price": 5.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-06T14:06:52.953995",
+          "history": [
+            {
+              "price": 4.5,
+              "original_price": 5.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paleo: Nuevos Sucesos",
+      "is_new": 0,
+      "first_seen": "2026-10-06T14:06:52.950551",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/paleo/61436-paleo-nuevos-sucesos-8436625613493.html",
+          "price": 4.5,
+          "original_price": 5.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-06T14:06:52.950551",
+          "history": [
+            {
+              "price": 4.5,
+              "original_price": 5.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Hidden Games: Escena del Crimen - Un Crimen Escalofriante",
       "is_new": 0,
@@ -8144,12 +8190,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-07-09T10:34:01.553141",
           "history": [
-            {
-              "price": 44.0,
-              "original_price": 50.0,
-              "discount_pct": 12.0,
-              "date": "2026-07-07"
-            },
             {
               "price": 25.0,
               "original_price": 50.0,
@@ -45870,12 +45910,6 @@
           "discount_pct": 68.0,
           "scraped_at": "2026-10-05T15:50:52.022572",
           "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 11.0,
               "original_price": 35.0,
