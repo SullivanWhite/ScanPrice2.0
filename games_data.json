@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-10-06T14:09:55.050122",
-  "total": 2231,
-  "total_raw": 2397,
+  "generated_at": "2026-10-07T14:26:28.535637",
+  "total": 2238,
+  "total_raw": 2404,
   "games": [
+    {
+      "name": "EXIT 3: El Laboratorio Secreto",
+      "is_new": 0,
+      "first_seen": "2026-10-07T14:23:34.773342",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/exit/38093-exit-3-el-laboratorio-secreto-8436017225204.html",
+          "price": 14.4,
+          "original_price": 16.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-07T14:23:34.773342",
+          "history": [
+            {
+              "price": 14.4,
+              "original_price": 16.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ethnos",
+      "is_new": 0,
+      "first_seen": "2026-10-07T14:23:26.569336",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61446-ethnos-8436625612151.html",
+          "price": 34.2,
+          "original_price": 38.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-07T14:23:26.569336",
+          "history": [
+            {
+              "price": 34.2,
+              "original_price": 38.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caldera Park",
+      "is_new": 0,
+      "first_seen": "2026-10-07T14:23:26.562543",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61455-caldera-park-8436578816507.html",
+          "price": 35.0,
+          "original_price": 70.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-10-07T14:23:26.562543",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": 70.0,
+              "discount_pct": 50.0,
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Long Shot: El Juego de Dados",
+      "is_new": 0,
+      "first_seen": "2026-10-07T14:23:22.466023",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/54465-long-shot-el-juego-de-dados-8435163900287.html",
+          "price": 26.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-10-07T14:23:22.466023",
+          "history": [
+            {
+              "price": 26.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Underwater Cities",
+      "is_new": 0,
+      "first_seen": "2026-10-07T14:23:22.461299",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/40314-underwater-cities-8124005001090.html",
+          "price": 57.16,
+          "original_price": 64.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-07T14:23:22.461299",
+          "history": [
+            {
+              "price": 57.16,
+              "original_price": 64.95,
+              "discount_pct": 12.0,
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - Don’t Make a Sound (The Eyeless)",
+      "is_new": 0,
+      "first_seen": "2026-10-07T14:23:22.457784",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61214-final-girl-temporada-3-dont-make-a-sound-the-eyeless-8436564815200.html",
+          "price": 20.66,
+          "original_price": 22.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-07T14:23:22.457784",
+          "history": [
+            {
+              "price": 20.66,
+              "original_price": 22.95,
+              "discount_pct": 10.0,
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 - The Marrek Murders (The Tormentor)",
+      "is_new": 0,
+      "first_seen": "2026-10-07T14:23:22.451199",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61216-final-girl-temporada-3-the-marrek-murders-the-tormentor-8436564815194.html",
+          "price": 20.66,
+          "original_price": 22.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-07T14:23:22.451199",
+          "history": [
+            {
+              "price": 20.66,
+              "original_price": 22.95,
+              "discount_pct": 10.0,
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Paleo: Las Cuevas",
       "is_new": 0,
