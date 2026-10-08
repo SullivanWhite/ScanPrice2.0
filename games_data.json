@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-07T14:26:28.535637",
-  "total": 2238,
-  "total_raw": 2404,
+  "generated_at": "2026-10-08T14:33:38.550278",
+  "total": 2240,
+  "total_raw": 2406,
   "games": [
+    {
+      "name": "Bardwood Grove: Spirits of the Grove",
+      "is_new": 0,
+      "first_seen": "2026-10-08T14:30:46.832138",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61433-bardwood-grove-spirits-of-the-grove-8436572391239.html",
+          "price": 8.0,
+          "original_price": 24.95,
+          "discount_pct": 67.0,
+          "scraped_at": "2026-10-08T14:30:46.832138",
+          "history": [
+            {
+              "price": 8.0,
+              "original_price": 24.95,
+              "discount_pct": 67.0,
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dorfromantik: Equipaje de Mano",
+      "is_new": 0,
+      "first_seen": "2026-10-08T14:30:46.822254",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61465-dorfromantik-equipaje-de-mano-8435450270369.html",
+          "price": 22.46,
+          "original_price": 24.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-08T14:30:46.822254",
+          "history": [
+            {
+              "price": 22.46,
+              "original_price": 24.95,
+              "discount_pct": 10.0,
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "EXIT 3: El Laboratorio Secreto",
       "is_new": 0,
@@ -57,16 +103,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61455-caldera-park-8436578816507.html",
-          "price": 35.0,
-          "original_price": 70.0,
+          "price": 17.5,
+          "original_price": 35.0,
           "discount_pct": 50.0,
-          "scraped_at": "2026-10-07T14:23:26.562543",
+          "scraped_at": "2026-10-08T14:30:46.834844",
           "history": [
             {
               "price": 35.0,
               "original_price": 70.0,
               "discount_pct": 50.0,
               "date": "2026-10-07"
+            },
+            {
+              "price": 17.5,
+              "original_price": 35.0,
+              "discount_pct": 50.0,
+              "date": "2026-10-08"
             }
           ]
         }
@@ -41299,12 +41351,6 @@
           "scraped_at": "2026-08-03T10:51:32.562418",
           "history": [
             {
-              "price": 39.99,
-              "original_price": 49.99,
-              "discount_pct": 20.0,
-              "date": "2026-07-09"
-            },
-            {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
@@ -42385,12 +42431,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-08-26T07:51:57.316015",
           "history": [
-            {
-              "price": 59.99,
-              "original_price": 74.99,
-              "discount_pct": 20.0,
-              "date": "2026-07-09"
-            },
             {
               "price": 65.99,
               "original_price": 74.99,
