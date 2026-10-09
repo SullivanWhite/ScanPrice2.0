@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-08T14:33:38.550278",
-  "total": 2240,
-  "total_raw": 2406,
+  "generated_at": "2026-10-09T14:20:33.929670",
+  "total": 2241,
+  "total_raw": 2407,
   "games": [
+    {
+      "name": "Viral (Portugues)",
+      "is_new": 0,
+      "first_seen": "2026-10-09T14:17:42.792926",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/viral/61385-viral-portugues-5600243420907.html",
+          "price": 14.0,
+          "original_price": 45.0,
+          "discount_pct": 68.0,
+          "scraped_at": "2026-10-09T14:17:42.792926",
+          "history": [
+            {
+              "price": 14.0,
+              "original_price": 45.0,
+              "discount_pct": 68.0,
+              "date": "2026-10-09"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Bardwood Grove: Spirits of the Grove",
       "is_new": 0,
