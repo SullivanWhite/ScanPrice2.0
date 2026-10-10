@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-10-09T14:20:33.929670",
+  "generated_at": "2026-10-10T13:34:01.271536",
   "total": 2241,
-  "total_raw": 2407,
+  "total_raw": 2408,
   "games": [
+    {
+      "name": "Mini Rogue: Abismos de Perdición",
+      "is_new": 0,
+      "first_seen": "2026-10-10T13:32:54.324384",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/mini-rogue/50781-mini-rogue-abismos-de-perdicion-8437028641700.html",
+          "price": 10.76,
+          "original_price": 11.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-10T13:32:54.324384",
+          "history": [
+            {
+              "price": 10.76,
+              "original_price": 11.95,
+              "discount_pct": 10.0,
+              "date": "2026-10-10"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/mini-rogue/50781-mini-rogue-abismos-de-perdicion-8425402449240.html",
+          "price": 10.76,
+          "original_price": 11.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:24.829794",
+          "history": [
+            {
+              "price": 10.76,
+              "original_price": 11.95,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Viral (Portugues)",
       "is_new": 0,
@@ -33924,29 +33963,6 @@
             {
               "price": 31.49,
               "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Mini Rogue: Abismos de Perdición",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:24.829794",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/mini-rogue/50781-mini-rogue-abismos-de-perdicion-8425402449240.html",
-          "price": 10.76,
-          "original_price": 11.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:24.829794",
-          "history": [
-            {
-              "price": 10.76,
-              "original_price": 11.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
             }
