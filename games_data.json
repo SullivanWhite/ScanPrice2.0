@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-12T16:42:53.012309",
-  "total": 2242,
-  "total_raw": 2409,
+  "generated_at": "2026-10-13T14:59:09.760301",
+  "total": 2244,
+  "total_raw": 2411,
   "games": [
+    {
+      "name": "Parks (2ª Edición)",
+      "is_new": 0,
+      "first_seen": "2026-10-13T14:56:15.057418",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/61481-parks-2-edicion-8437028641328.html",
+          "price": 52.76,
+          "original_price": 59.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-13T14:56:15.057418",
+          "history": [
+            {
+              "price": 52.76,
+              "original_price": 59.95,
+              "discount_pct": 12.0,
+              "date": "2026-10-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entropy",
+      "is_new": 0,
+      "first_seen": "2026-10-13T14:56:15.043861",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61483-entropy-8437028641632.html",
+          "price": 49.46,
+          "original_price": 54.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-13T14:56:15.043861",
+          "history": [
+            {
+              "price": 49.46,
+              "original_price": 54.95,
+              "discount_pct": 10.0,
+              "date": "2026-10-13"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Mini Rogue",
       "is_new": 0,
