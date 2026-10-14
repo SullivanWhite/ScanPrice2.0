@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-10-13T14:59:09.760301",
-  "total": 2244,
-  "total_raw": 2411,
+  "generated_at": "2026-10-14T12:51:50.074874",
+  "total": 2246,
+  "total_raw": 2414,
   "games": [
+    {
+      "name": "King Of Tokyo Origins (Castellano)",
+      "is_new": 0,
+      "first_seen": "2026-10-14T12:51:11.174316",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/53683-king-of-tokyo-origins-castellano-8436607944928.html",
+          "price": 14.95,
+          "original_price": 25.0,
+          "discount_pct": 40.2,
+          "scraped_at": "2026-10-14T12:51:11.174316",
+          "history": [
+            {
+              "price": 14.95,
+              "original_price": 25.0,
+              "discount_pct": 40.2,
+              "date": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/53683-king-of-tokyo-origins-castellano.html",
+          "price": 14.95,
+          "original_price": 25.0,
+          "discount_pct": 40.2,
+          "scraped_at": "2026-06-13T10:08:13.769803",
+          "history": [
+            {
+              "price": 14.95,
+              "original_price": 25.0,
+              "discount_pct": 40.2,
+              "date": "2026-06-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Código Secreto: Pack de Expansión (Ciencia Ficción)",
+      "is_new": 0,
+      "first_seen": "2026-10-14T12:48:42.315338",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/codigo-secreto/61493-codigo-secreto-pack-de-expansion-ciencia-ficcion-8436625616517.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-14T12:48:42.315338",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Código Secreto: Pack de Expansión (Cuentos)",
+      "is_new": 0,
+      "first_seen": "2026-10-14T12:48:42.062236",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/codigo-secreto/61495-codigo-secreto-pack-de-expansion-cuentos-8436625616555.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-14T12:48:42.062236",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Parks (2ª Edición)",
       "is_new": 0,
@@ -23703,29 +23788,6 @@
       ]
     },
     {
-      "name": "King Of Tokyo Origins (Castellano)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:21.234750",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/53683-king-of-tokyo-origins-castellano.html",
-          "price": 14.95,
-          "original_price": 25.0,
-          "discount_pct": 40.2,
-          "scraped_at": "2026-06-13T10:08:13.769803",
-          "history": [
-            {
-              "price": 14.95,
-              "original_price": 25.0,
-              "discount_pct": 40.2,
-              "date": "2026-06-13"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Tebas (Castellano)",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:21.232378",
@@ -30665,16 +30727,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/aventureros-al-tren/52079-aventureros-al-tren-berlin-824968208656.html",
-          "price": 20.69,
+          "price": 15.0,
           "original_price": 22.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:38.740814",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-10-14T12:48:46.221817",
           "history": [
             {
               "price": 20.69,
               "original_price": 22.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 22.99,
+              "discount_pct": 34.0,
+              "date": "2026-10-14"
             }
           ]
         }
@@ -35656,16 +35724,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58872-arigato-3760269593428.html",
-          "price": 22.49,
+          "price": 16.0,
           "original_price": 24.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:15.657960",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-10-14T12:48:46.193782",
           "history": [
             {
               "price": 22.49,
               "original_price": 24.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 24.99,
+              "discount_pct": 35.0,
+              "date": "2026-10-14"
             }
           ]
         }
