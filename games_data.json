@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:51:50.074874",
+  "generated_at": "2026-10-15T12:38:15.589799",
   "total": 2246,
   "total_raw": 2414,
   "games": [
@@ -30733,12 +30733,6 @@
           "scraped_at": "2026-10-14T12:48:46.221817",
           "history": [
             {
-              "price": 20.69,
-              "original_price": 22.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 15.0,
               "original_price": 22.99,
               "discount_pct": 34.0,
@@ -35729,12 +35723,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-10-14T12:48:46.193782",
           "history": [
-            {
-              "price": 22.49,
-              "original_price": 24.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 16.0,
               "original_price": 24.99,
