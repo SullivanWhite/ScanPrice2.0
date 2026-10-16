@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-10-15T12:38:15.589799",
-  "total": 2246,
-  "total_raw": 2414,
+  "generated_at": "2026-10-16T12:17:36.912144",
+  "total": 2253,
+  "total_raw": 2421,
   "games": [
+    {
+      "name": "Toy Battle: La Croisette",
+      "is_new": 0,
+      "first_seen": "2026-10-16T12:14:39.816295",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61523-toy-battle-la-croisette-5407007460359.html",
+          "price": 3.59,
+          "original_price": 3.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-16T12:14:39.816295",
+          "history": [
+            {
+              "price": 3.59,
+              "original_price": 3.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Watson & Holmes: Los Diarios Perdidos",
+      "is_new": 0,
+      "first_seen": "2026-10-16T12:14:39.813373",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/61432-watson-holmes-los-diarios-perdidos-793588575311.html",
+          "price": 39.59,
+          "original_price": 44.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-16T12:14:39.813373",
+          "history": [
+            {
+              "price": 39.59,
+              "original_price": 44.99,
+              "discount_pct": 12.0,
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terminus",
+      "is_new": 0,
+      "first_seen": "2026-10-16T12:14:39.811292",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61479-terminus-8436578817702.html",
+          "price": 30.0,
+          "original_price": 60.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-10-16T12:14:39.811292",
+          "history": [
+            {
+              "price": 30.0,
+              "original_price": 60.0,
+              "discount_pct": 50.0,
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mantis: Grab & Game",
+      "is_new": 0,
+      "first_seen": "2026-10-16T12:14:39.809053",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61426-mantis-grab-game-810083046822.html",
+          "price": 8.99,
+          "original_price": 9.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-16T12:14:39.809053",
+          "history": [
+            {
+              "price": 8.99,
+              "original_price": 9.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dreamwood",
+      "is_new": 0,
+      "first_seen": "2026-10-16T12:14:39.806790",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61526-dreamwood-788792911505.html",
+          "price": 32.39,
+          "original_price": 35.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-16T12:14:39.806790",
+          "history": [
+            {
+              "price": 32.39,
+              "original_price": 35.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Venganza de los Siete Enanos",
+      "is_new": 0,
+      "first_seen": "2026-10-16T12:14:39.804429",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61427-la-venganza-de-los-siete-enanos-793588575687.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-16T12:14:39.804429",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bibliotecarios Gritones: Grab & Game",
+      "is_new": 0,
+      "first_seen": "2026-10-16T12:14:39.797527",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61412-bibliotecarios-gritones-grab-game-810083046709.html",
+          "price": 8.99,
+          "original_price": 9.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-16T12:14:39.797527",
+          "history": [
+            {
+              "price": 8.99,
+              "original_price": 9.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "King Of Tokyo Origins (Castellano)",
       "is_new": 0,
@@ -25115,16 +25276,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/52200-pesadilla-antes-de-navidad-3558380108979.html",
-          "price": 31.49,
+          "price": 23.0,
           "original_price": 34.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:01:10.685726",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-10-16T12:14:39.821391",
           "history": [
             {
               "price": 31.49,
               "original_price": 34.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 23.0,
+              "original_price": 34.99,
+              "discount_pct": 34.0,
+              "date": "2026-10-16"
             }
           ]
         }
@@ -26863,16 +27030,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/47100-descent-leyendas-de-las-tinieblas-8435407634244.html",
-          "price": 96.0,
+          "price": 114.0,
           "original_price": 174.99,
-          "discount_pct": 45.1,
-          "scraped_at": "2026-05-22T06:01:01.572203",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-10-16T12:14:39.823900",
           "history": [
             {
               "price": 96.0,
               "original_price": 174.99,
               "discount_pct": 45.1,
               "date": "2026-05-22"
+            },
+            {
+              "price": 114.0,
+              "original_price": 174.99,
+              "discount_pct": 34.0,
+              "date": "2026-10-16"
             }
           ]
         }
@@ -34660,16 +34833,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56667-spotlight-8435407650558.html",
-          "price": 22.49,
+          "price": 16.0,
           "original_price": 24.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:20.189756",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-10-16T12:14:39.822350",
           "history": [
             {
               "price": 22.49,
               "original_price": 24.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 24.99,
+              "discount_pct": 35.0,
+              "date": "2026-10-16"
             }
           ]
         }
@@ -36086,16 +36265,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55808-cuidado-con-beetlejuice-3558380124429.html",
-          "price": 17.99,
+          "price": 13.0,
           "original_price": 19.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:10.978992",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-10-16T12:14:39.819759",
           "history": [
             {
               "price": 17.99,
               "original_price": 19.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.0,
+              "original_price": 19.99,
+              "discount_pct": 34.0,
+              "date": "2026-10-16"
             }
           ]
         }
@@ -36707,16 +36892,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58208-mass-effect-prioridad-hagalaz-8435407650756.html",
-          "price": 43.99,
+          "price": 32.5,
           "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:10.923495",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-10-16T12:14:39.826318",
           "history": [
             {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 32.5,
+              "original_price": 49.99,
+              "discount_pct": 34.0,
+              "date": "2026-10-16"
             }
           ]
         }
@@ -38823,16 +39014,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/sherlock-holmes-detective-asesor/45201-sherlock-holmes-detective-asesor-los-irregulares-de-baker-street-9782370990327.html",
-          "price": 43.99,
+          "price": 32.5,
           "original_price": 49.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:56.005429",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-10-16T12:14:39.827604",
           "history": [
             {
               "price": 43.99,
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 32.5,
+              "original_price": 49.99,
+              "discount_pct": 34.0,
+              "date": "2026-10-16"
             }
           ]
         }
@@ -48212,12 +48409,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-09-03T12:02:47.777424",
           "history": [
-            {
-              "price": 32.5,
-              "original_price": 49.99,
-              "discount_pct": 34.0,
-              "date": "2026-07-17"
-            },
             {
               "price": 43.99,
               "original_price": 49.99,
