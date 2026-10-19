@@ -1,8 +1,350 @@
 {
-  "generated_at": "2026-10-18T12:04:01.500523",
-  "total": 2253,
-  "total_raw": 2421,
+  "generated_at": "2026-10-19T14:36:37.161762",
+  "total": 2257,
+  "total_raw": 2431,
   "games": [
+    {
+      "name": "Capitán Barbapocha",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:36:16.630489",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/26794-capitan-barbapocha-8435407605688.html",
+          "price": 10.45,
+          "original_price": 14.95,
+          "discount_pct": 30.1,
+          "scraped_at": "2026-10-19T14:36:16.630489",
+          "history": [
+            {
+              "price": 10.45,
+              "original_price": 14.95,
+              "discount_pct": 30.1,
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/26794-capitan-barbapocha-spanish-8435407605688.html",
+          "price": 10.45,
+          "original_price": 14.95,
+          "discount_pct": 30.1,
+          "scraped_at": "2026-05-22T06:01:36.034732",
+          "history": [
+            {
+              "price": 10.45,
+              "original_price": 14.95,
+              "discount_pct": 30.1,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nyan-Nyan",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:36:16.627911",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/26795-nyan-nyan-8435407605701.html",
+          "price": 9.05,
+          "original_price": 12.95,
+          "discount_pct": 30.1,
+          "scraped_at": "2026-10-19T14:36:16.627911",
+          "history": [
+            {
+              "price": 9.05,
+              "original_price": 12.95,
+              "discount_pct": 30.1,
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/26795-nyan-nyan-spanish-8435407605701.html",
+          "price": 9.05,
+          "original_price": 12.95,
+          "discount_pct": 30.1,
+          "scraped_at": "2026-05-22T06:01:36.032840",
+          "history": [
+            {
+              "price": 9.05,
+              "original_price": 12.95,
+              "discount_pct": 30.1,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaelly, la Sombra del Abismo",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:36:16.624808",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/26961-kaelly-la-sombra-del-abismo-8435407605664.html",
+          "price": 9.05,
+          "original_price": 12.95,
+          "discount_pct": 30.1,
+          "scraped_at": "2026-10-19T14:36:16.624808",
+          "history": [
+            {
+              "price": 9.05,
+              "original_price": 12.95,
+              "discount_pct": 30.1,
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/26961-kaelly-la-sombra-del-abismo-spanish-8435407605664.html",
+          "price": 9.05,
+          "original_price": 12.95,
+          "discount_pct": 30.1,
+          "scraped_at": "2026-05-22T06:01:36.028871",
+          "history": [
+            {
+              "price": 9.05,
+              "original_price": 12.95,
+              "discount_pct": 30.1,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set de Dados Mazu",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:36:16.621944",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/27489-set-de-dados-mazu-817009019779.html",
+          "price": 6.5,
+          "original_price": 12.95,
+          "discount_pct": 49.8,
+          "scraped_at": "2026-10-19T14:36:16.621944",
+          "history": [
+            {
+              "price": 6.5,
+              "original_price": 12.95,
+              "discount_pct": 49.8,
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/27489-rum-bones-mazu-s-dreadful-curse-dice-817009019779.html",
+          "price": 6.5,
+          "original_price": 12.95,
+          "discount_pct": 49.8,
+          "scraped_at": "2026-08-27T18:15:51.309577",
+          "history": [
+            {
+              "price": 6.5,
+              "original_price": 12.95,
+              "discount_pct": 49.8,
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bienvenido a la Mazmorra",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:36:16.617022",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/28050-bienvenido-a-la-mazmorra-8436017223514.html",
+          "price": 9.95,
+          "original_price": 15.0,
+          "discount_pct": 33.7,
+          "scraped_at": "2026-10-19T14:36:16.617022",
+          "history": [
+            {
+              "price": 9.95,
+              "original_price": 15.0,
+              "discount_pct": 33.7,
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/28050-bienvenido-a-la-mazmorra-spanish-8436017223514.html",
+          "price": 9.95,
+          "original_price": 15.0,
+          "discount_pct": 33.7,
+          "scraped_at": "2026-06-12T11:08:25.917330",
+          "history": [
+            {
+              "price": 9.95,
+              "original_price": 15.0,
+              "discount_pct": 33.7,
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oltréé: Monturas y corceles",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:35:53.346023",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/54400-oltree-monturas-y-corceles-8436578818624.html",
+          "price": 10.5,
+          "original_price": 15.0,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-10-19T14:35:53.346023",
+          "history": [
+            {
+              "price": 10.5,
+              "original_price": 15.0,
+              "discount_pct": 30.0,
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/oltree/56936-oltree-monturas-y-corceles-8436578818624.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-04T09:43:43.781750",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "source": "dungeonmarvels",
+          "url": "https://dungeonmarvels.com/oltree-monturas-y-corceles-86243.html",
+          "price": 10.5,
+          "original_price": 15.0,
+          "discount_pct": 30.0,
+          "scraped_at": "2026-05-22T06:02:00.814282",
+          "history": [
+            {
+              "price": 10.5,
+              "original_price": 15.0,
+              "discount_pct": 30.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adamastor",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:35:24.393817",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58295-adamastor-793588575663.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-19T14:35:24.393817",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Código Secreto: Pack de Expansión (Lindas Criaturas)",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:33:17.332663",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/codigo-secreto/61494-codigo-secreto-pack-de-expansion-lindas-criaturas-8436625616593.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-19T14:33:17.332663",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Railway Boom",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:33:17.325301",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61531-railway-boom-8436625619129.html",
+          "price": 45.76,
+          "original_price": 52.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-19T14:33:17.325301",
+          "history": [
+            {
+              "price": 45.76,
+              "original_price": 52.0,
+              "discount_pct": 12.0,
+              "date": "2026-10-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cold Case: La última Vuelta",
+      "is_new": 0,
+      "first_seen": "2026-10-19T14:33:17.321838",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61535-cold-case-la-ultima-vuelta-4005556767052.html",
+          "price": 11.7,
+          "original_price": 13.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-19T14:33:17.321838",
+          "history": [
+            {
+              "price": 11.7,
+              "original_price": 13.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-19"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Toy Battle: La Croisette",
       "is_new": 0,
@@ -2428,29 +2770,6 @@
               "price": 61.99,
               "original_price": null,
               "discount_pct": null,
-              "date": "2026-08-27"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Set de Dados Mazu",
-      "is_new": 0,
-      "first_seen": "2026-08-27T18:15:51.309577",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/27489-rum-bones-mazu-s-dreadful-curse-dice-817009019779.html",
-          "price": 6.5,
-          "original_price": 12.95,
-          "discount_pct": 49.8,
-          "scraped_at": "2026-08-27T18:15:51.309577",
-          "history": [
-            {
-              "price": 6.5,
-              "original_price": 12.95,
-              "discount_pct": 49.8,
               "date": "2026-08-27"
             }
           ]
@@ -6174,45 +6493,6 @@
       ]
     },
     {
-      "name": "Oltréé: Monturas y Corceles",
-      "is_new": 0,
-      "first_seen": "2026-08-04T09:43:43.781750",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/oltree/56936-oltree-monturas-y-corceles-8436578818624.html",
-          "price": 13.5,
-          "original_price": 15.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-08-04T09:43:43.781750",
-          "history": [
-            {
-              "price": 13.5,
-              "original_price": 15.0,
-              "discount_pct": 10.0,
-              "date": "2026-08-04"
-            }
-          ]
-        },
-        {
-          "source": "dungeonmarvels",
-          "url": "https://dungeonmarvels.com/oltree-monturas-y-corceles-86243.html",
-          "price": 10.5,
-          "original_price": 15.0,
-          "discount_pct": 30.0,
-          "scraped_at": "2026-05-22T06:02:00.814282",
-          "history": [
-            {
-              "price": 10.5,
-              "original_price": 15.0,
-              "discount_pct": 30.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Trickerion: Leyendas del Ilusionismo (Paquete de Ampliación de Aniversario)",
       "is_new": 0,
       "first_seen": "2026-08-04T09:43:43.778802",
@@ -6813,12 +7093,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-07-26T09:22:49.156696",
           "history": [
-            {
-              "price": 35.0,
-              "original_price": 50.0,
-              "discount_pct": 30.0,
-              "date": "2026-07-20"
-            },
             {
               "price": 25.0,
               "original_price": 50.0,
@@ -20729,52 +21003,6 @@
       ]
     },
     {
-      "name": "Capitán Barbapocha",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:36.034732",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/26794-capitan-barbapocha-spanish-8435407605688.html",
-          "price": 10.45,
-          "original_price": 14.95,
-          "discount_pct": 30.1,
-          "scraped_at": "2026-05-22T06:01:36.034732",
-          "history": [
-            {
-              "price": 10.45,
-              "original_price": 14.95,
-              "discount_pct": 30.1,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Nyan-Nyan",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:36.032840",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/26795-nyan-nyan-spanish-8435407605701.html",
-          "price": 9.05,
-          "original_price": 12.95,
-          "discount_pct": 30.1,
-          "scraped_at": "2026-05-22T06:01:36.032840",
-          "history": [
-            {
-              "price": 9.05,
-              "original_price": 12.95,
-              "discount_pct": 30.1,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "La Costa de la Niebla Plañidera",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:36.030824",
@@ -20791,29 +21019,6 @@
               "price": 27.95,
               "original_price": 39.95,
               "discount_pct": 30.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Kaelly, la Sombra del Abismo",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:36.028871",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/26961-kaelly-la-sombra-del-abismo-spanish-8435407605664.html",
-          "price": 9.05,
-          "original_price": 12.95,
-          "discount_pct": 30.1,
-          "scraped_at": "2026-05-22T06:01:36.028871",
-          "history": [
-            {
-              "price": 9.05,
-              "original_price": 12.95,
-              "discount_pct": 30.1,
               "date": "2026-05-22"
             }
           ]
@@ -20884,29 +21089,6 @@
               "original_price": 9.95,
               "discount_pct": 69.8,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Bienvenido a la Mazmorra",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:36.019381",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/28050-bienvenido-a-la-mazmorra-spanish-8436017223514.html",
-          "price": 9.95,
-          "original_price": 15.0,
-          "discount_pct": 33.7,
-          "scraped_at": "2026-06-12T11:08:25.917330",
-          "history": [
-            {
-              "price": 9.95,
-              "original_price": 15.0,
-              "discount_pct": 33.7,
-              "date": "2026-06-12"
             }
           ]
         }
@@ -45418,16 +45600,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/heroquest/57343-heroquest-el-despertar--5010996320902.html",
-          "price": 39.59,
+          "price": 30.0,
           "original_price": 44.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-08-14T08:22:48.376245",
+          "discount_pct": 33.0,
+          "scraped_at": "2026-10-19T14:33:17.313829",
           "history": [
             {
               "price": 39.59,
               "original_price": 44.99,
               "discount_pct": 12.0,
               "date": "2026-08-14"
+            },
+            {
+              "price": 30.0,
+              "original_price": 44.99,
+              "discount_pct": 33.0,
+              "date": "2026-10-19"
             }
           ]
         }
@@ -53859,16 +54047,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/el-senor-de-los-anillos-viajes-por-la-tierra-media/47526-el-senor-de-los-anillos-viajes-por-la-tierra-media-vientos-de-guerra-8435407635968.html",
-          "price": 63.0,
+          "price": 79.19,
           "original_price": 89.99,
-          "discount_pct": 29.0,
-          "scraped_at": "2026-05-22T05:58:38.049307",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-19T14:35:24.397314",
           "history": [
             {
               "price": 63.0,
               "original_price": 89.99,
               "discount_pct": 29.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 79.19,
+              "original_price": 89.99,
+              "discount_pct": 12.0,
+              "date": "2026-10-19"
             }
           ]
         }
