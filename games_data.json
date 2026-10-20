@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-10-19T14:36:37.161762",
-  "total": 2257,
-  "total_raw": 2431,
+  "generated_at": "2026-10-20T12:42:50.290342",
+  "total": 2262,
+  "total_raw": 2436,
   "games": [
+    {
+      "name": "Ninja All Stars: Onryo",
+      "is_new": 0,
+      "first_seen": "2026-10-20T12:39:36.861768",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/ninja-all-stars/37985-ninja-all-stars-onryo-8435407611351.html",
+          "price": 4.0,
+          "original_price": 12.95,
+          "discount_pct": 69.1,
+          "scraped_at": "2026-10-20T12:39:36.861768",
+          "history": [
+            {
+              "price": 4.0,
+              "original_price": 12.95,
+              "discount_pct": 69.1,
+              "date": "2026-10-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marrakech",
+      "is_new": 0,
+      "first_seen": "2026-10-20T12:39:32.622703",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/34375-marrakech-8436625610997.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-20T12:39:32.622703",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Las Ruinas Perdidas de Arnak: Componentes Deluxe",
+      "is_new": 0,
+      "first_seen": "2026-10-20T12:39:32.607868",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/las-ruinas-perdidas-de-arnak/61604-las-ruinas-perdidas-de-arnak-componentes-deluxe-8594156315184.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-20T12:39:32.607868",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-10-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gazebo",
+      "is_new": 0,
+      "first_seen": "2026-10-20T12:39:32.600922",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61602-gazebo-8436625613769.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-20T12:39:32.600922",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seti: Componentes Deluxe",
+      "is_new": 0,
+      "first_seen": "2026-10-20T12:39:32.597546",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61605-seti-componentes-deluxe-8594156315115.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-20T12:39:32.597546",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-10-20"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Capitán Barbapocha",
       "is_new": 0,
@@ -54052,12 +54167,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-10-19T14:35:24.397314",
           "history": [
-            {
-              "price": 63.0,
-              "original_price": 89.99,
-              "discount_pct": 29.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 79.19,
               "original_price": 89.99,
