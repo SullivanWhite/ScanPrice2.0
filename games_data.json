@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-10-20T12:42:50.290342",
-  "total": 2262,
-  "total_raw": 2436,
+  "generated_at": "2026-10-21T12:54:02.367742",
+  "total": 2267,
+  "total_raw": 2441,
   "games": [
+    {
+      "name": "Calendario 365 Adventures: Cthulhu 1927 (2027)",
+      "is_new": 0,
+      "first_seen": "2026-10-21T12:51:20.738596",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61654-calendario-365-adventures-cthulhu-1927-2027-8436625617279.html",
+          "price": 15.3,
+          "original_price": 17.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-21T12:51:20.738596",
+          "history": [
+            {
+              "price": 15.3,
+              "original_price": 17.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Calendario 365 Adventures: Mazmorras (2027)",
+      "is_new": 0,
+      "first_seen": "2026-10-21T12:51:20.736106",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61653-calendario-365-adventures-mazmorras-2027-8436625617255.html",
+          "price": 15.3,
+          "original_price": 17.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-21T12:51:20.736106",
+          "history": [
+            {
+              "price": 15.3,
+              "original_price": 17.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Queen Alice",
+      "is_new": 0,
+      "first_seen": "2026-10-21T12:51:20.730414",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61655-queen-alice-793969024155.html",
+          "price": 61.51,
+          "original_price": 69.9,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-21T12:51:20.730414",
+          "history": [
+            {
+              "price": 61.51,
+              "original_price": 69.9,
+              "discount_pct": 12.0,
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final Girl : Temporada 3 (Accesorios)",
+      "is_new": 0,
+      "first_seen": "2026-10-21T12:51:12.784111",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/final-girl/61203-final-girl-temporada-3-accesorios-8436564815293.html",
+          "price": 13.46,
+          "original_price": 14.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-21T12:51:12.784111",
+          "history": [
+            {
+              "price": 13.46,
+              "original_price": 14.95,
+              "discount_pct": 10.0,
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Take Time: Espejismo",
+      "is_new": 0,
+      "first_seen": "2026-10-21T12:51:12.776632",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61480-take-time-espejismo-3558387008173.html",
+          "price": 7.19,
+          "original_price": 7.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-21T12:51:12.776632",
+          "history": [
+            {
+              "price": 7.19,
+              "original_price": 7.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Ninja All Stars: Onryo",
       "is_new": 0,
@@ -40172,16 +40287,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/agricola/7878-agricola-edicion-revisada-8435407635043.html",
-          "price": 36.5,
+          "price": 49.27,
           "original_price": 55.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-07-02T10:14:50.365944",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-21T12:53:09.326189",
           "history": [
             {
               "price": 36.5,
               "original_price": 55.99,
               "discount_pct": 34.0,
               "date": "2026-07-02"
+            },
+            {
+              "price": 49.27,
+              "original_price": 55.99,
+              "discount_pct": 12.0,
+              "date": "2026-10-21"
             }
           ]
         }
