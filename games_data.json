@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:59:10.090748",
+  "generated_at": "2026-10-25T12:30:56.788221",
   "total": 2273,
   "total_raw": 2447,
   "games": [
@@ -41966,16 +41966,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/karak/47697-karak-8437027014567.html",
-          "price": 31.46,
-          "original_price": 34.95,
+          "price": 31.5,
+          "original_price": 35.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:47.237322",
+          "scraped_at": "2026-10-25T12:28:09.829320",
           "history": [
             {
               "price": 31.46,
               "original_price": 34.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-25"
             }
           ]
         }
