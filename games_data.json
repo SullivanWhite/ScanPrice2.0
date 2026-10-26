@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-25T12:30:56.788221",
-  "total": 2273,
-  "total_raw": 2447,
+  "generated_at": "2026-10-26T14:08:23.270332",
+  "total": 2274,
+  "total_raw": 2448,
   "games": [
+    {
+      "name": "Karak II: Imperium",
+      "is_new": 0,
+      "first_seen": "2026-10-26T14:05:44.182857",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/karak/61719-karak-ii-imperium-8436627170291.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-26T14:05:44.182857",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-26"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Los Mosquegatos: Set de Alimañas",
       "is_new": 0,
@@ -41971,12 +41994,6 @@
           "discount_pct": 10.0,
           "scraped_at": "2026-10-25T12:28:09.829320",
           "history": [
-            {
-              "price": 31.46,
-              "original_price": 34.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 31.5,
               "original_price": 35.0,
