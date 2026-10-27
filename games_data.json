@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-26T14:08:23.270332",
-  "total": 2274,
-  "total_raw": 2448,
+  "generated_at": "2026-10-27T13:10:11.325103",
+  "total": 2275,
+  "total_raw": 2450,
   "games": [
+    {
+      "name": "7 Wonders: Edifice (2ª Edición)",
+      "is_new": 0,
+      "first_seen": "2026-10-27T13:08:59.375628",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/7-wonders/50686-7-wonders-edifice-2-edicion-5425016926628.html",
+          "price": 24.29,
+          "original_price": 26.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-27T13:08:59.375628",
+          "history": [
+            {
+              "price": 24.29,
+              "original_price": 26.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-27"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/7-wonders/50686-7-wonders-edifice-5425016926628.html",
+          "price": 24.29,
+          "original_price": 26.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:00:24.849555",
+          "history": [
+            {
+              "price": 24.29,
+              "original_price": 26.99,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gaudi",
+      "is_new": 0,
+      "first_seen": "2026-10-27T13:07:01.778176",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61799-gaudi-8436625614421.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-27T13:07:01.778176",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-27"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Karak II: Imperium",
       "is_new": 0,
@@ -34569,29 +34631,6 @@
               "price": 21.99,
               "original_price": 24.99,
               "discount_pct": 12.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "7 Wonders: Edifice (2ª Edición)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:24.849555",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/7-wonders/50686-7-wonders-edifice-5425016926628.html",
-          "price": 24.29,
-          "original_price": 26.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:24.849555",
-          "history": [
-            {
-              "price": 24.29,
-              "original_price": 26.99,
-              "discount_pct": 10.0,
               "date": "2026-05-22"
             }
           ]
