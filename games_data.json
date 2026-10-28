@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-27T13:10:11.325103",
-  "total": 2275,
-  "total_raw": 2450,
+  "generated_at": "2026-10-28T13:59:23.146772",
+  "total": 2277,
+  "total_raw": 2452,
   "games": [
+    {
+      "name": "All In Predicciones",
+      "is_new": 0,
+      "first_seen": "2026-10-28T13:58:15.650112",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59697-all-in-predicciones-3558387000610.html",
+          "price": 14.85,
+          "original_price": 16.5,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-28T13:58:15.650112",
+          "history": [
+            {
+              "price": 14.85,
+              "original_price": 16.5,
+              "discount_pct": 10.0,
+              "date": "2026-10-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Time of Soccer",
+      "is_new": 0,
+      "first_seen": "2026-10-28T13:58:15.646530",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/time-of-soccer/36380-time-of-soccer-8414606746477.html",
+          "price": 42.2,
+          "original_price": 47.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-28T13:58:15.646530",
+          "history": [
+            {
+              "price": 42.2,
+              "original_price": 47.95,
+              "discount_pct": 12.0,
+              "date": "2026-10-28"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "7 Wonders: Edifice (2ª Edición)",
       "is_new": 0,
@@ -5862,12 +5908,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-08-21T07:51:46.894061",
           "history": [
-            {
-              "price": 159.0,
-              "original_price": 265.0,
-              "discount_pct": 40.0,
-              "date": "2026-07-29"
-            },
             {
               "price": 172.25,
               "original_price": 265.0,
