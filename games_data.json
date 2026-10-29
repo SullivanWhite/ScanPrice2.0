@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-28T13:59:23.146772",
-  "total": 2277,
-  "total_raw": 2452,
+  "generated_at": "2026-10-29T14:08:01.936175",
+  "total": 2278,
+  "total_raw": 2454,
   "games": [
+    {
+      "name": "Lobo (10º Aniversario)",
+      "is_new": 0,
+      "first_seen": "2026-10-29T14:05:20.815642",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/36040-lobo-10-aniversario.html",
+          "price": 11.0,
+          "original_price": 19.95,
+          "discount_pct": 44.0,
+          "scraped_at": "2026-10-29T14:05:20.815642",
+          "history": [
+            {
+              "price": 11.0,
+              "original_price": 19.95,
+              "discount_pct": 44.0,
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/36040-lobo-10-aniversario-5600224182183.html",
+          "price": 11.0,
+          "original_price": 19.95,
+          "discount_pct": 44.0,
+          "scraped_at": "2026-05-22T05:58:59.619650",
+          "history": [
+            {
+              "price": 11.0,
+              "original_price": 19.95,
+              "discount_pct": 44.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Gato más feliz del Mundo",
+      "is_new": 0,
+      "first_seen": "2026-10-29T14:05:20.809359",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61831-el-gato-mas-feliz-del-mundo-5906954791511.html",
+          "price": 24.29,
+          "original_price": 26.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-29T14:05:20.809359",
+          "history": [
+            {
+              "price": 24.29,
+              "original_price": 26.99,
+              "discount_pct": 10.0,
+              "date": "2026-10-29"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "All In Predicciones",
       "is_new": 0,
@@ -50938,29 +51000,6 @@
               "price": 16.0,
               "original_price": 29.95,
               "discount_pct": 46.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Lobo (10º Aniversario)",
-      "is_new": 0,
-      "first_seen": "2026-05-22T05:58:59.619650",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/36040-lobo-10-aniversario-5600224182183.html",
-          "price": 11.0,
-          "original_price": 19.95,
-          "discount_pct": 44.0,
-          "scraped_at": "2026-05-22T05:58:59.619650",
-          "history": [
-            {
-              "price": 11.0,
-              "original_price": 19.95,
-              "discount_pct": 44.0,
               "date": "2026-05-22"
             }
           ]
