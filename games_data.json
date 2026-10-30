@@ -1,8 +1,238 @@
 {
-  "generated_at": "2026-10-29T14:08:01.936175",
-  "total": 2278,
-  "total_raw": 2454,
+  "generated_at": "2026-10-30T14:00:55.720833",
+  "total": 2288,
+  "total_raw": 2464,
   "games": [
+    {
+      "name": "Terraforming Mars: Expedición Ares (Cartas Promo)",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:59:50.299323",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/terraforming-mars-expedicion-ares/48237-terraforming-mars-expedicion-ares-cartas-promo.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-30T13:59:50.299323",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prehistorias",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:59:50.297445",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/46650-prehistorias-8436578813902.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-10-30T13:59:50.297445",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Endeavor: La Era de la Navegación",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:59:50.295617",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/endeavor/40112-endeavor-la-era-de-la-navegacion-8436578810079.html",
+          "price": 32.5,
+          "original_price": 65.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-10-30T13:59:50.295617",
+          "history": [
+            {
+              "price": 32.5,
+              "original_price": 65.0,
+              "discount_pct": 50.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Endeavor: Dominio y Controla tu Destino (Micro-Expansión)",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:59:50.293703",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/endeavor/43558-endeavor-dominio-y-controla-tu-destino-micro-expansion.html",
+          "price": 4.8,
+          "original_price": 6.0,
+          "discount_pct": 20.0,
+          "scraped_at": "2026-10-30T13:59:50.293703",
+          "history": [
+            {
+              "price": 4.8,
+              "original_price": 6.0,
+              "discount_pct": 20.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maharajá",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:59:50.291862",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/46215-maharaja-8436578813711.html",
+          "price": 33.0,
+          "original_price": 55.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-10-30T13:59:50.291862",
+          "history": [
+            {
+              "price": 33.0,
+              "original_price": 55.0,
+              "discount_pct": 40.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Romeo y Julieta",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:59:50.288992",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/45772-romeo-y-julieta-8436578813612.html",
+          "price": 22.4,
+          "original_price": 28.0,
+          "discount_pct": 20.0,
+          "scraped_at": "2026-10-30T13:59:50.288992",
+          "history": [
+            {
+              "price": 22.4,
+              "original_price": 28.0,
+              "discount_pct": 20.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gundam Assemble: Expansion Pack 01",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:58:04.978740",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/gundam-assemble/61840-gundam-assemble-expansion-pack-01-4573102743213.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-30T13:58:04.978740",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gundam Assemble: Expansion Pack 02",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:58:04.976654",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/gundam-assemble/61841-gundam-assemble-expansion-pack-02-4573102743220.html",
+          "price": 35.19,
+          "original_price": 39.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-30T13:58:04.976654",
+          "history": [
+            {
+              "price": 35.19,
+              "original_price": 39.99,
+              "discount_pct": 12.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gundam Assemble: Paint Pack 01",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:58:04.970048",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/gundam-assemble/61842-gundam-assemble-paint-pack-01-4573102739490.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-30T13:58:04.970048",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Corona del Viejo Rey",
+      "is_new": 0,
+      "first_seen": "2026-10-30T13:58:04.965681",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/59336-la-corona-del-viejo-rey-8435163900409.html",
+          "price": 70.36,
+          "original_price": 79.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-10-30T13:58:04.965681",
+          "history": [
+            {
+              "price": 70.36,
+              "original_price": 79.95,
+              "discount_pct": 12.0,
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Lobo (10º Aniversario)",
       "is_new": 0,
