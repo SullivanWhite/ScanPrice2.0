@@ -1,8 +1,148 @@
 {
-  "generated_at": "2026-10-30T14:00:55.720833",
-  "total": 2288,
-  "total_raw": 2464,
+  "generated_at": "2026-10-31T13:34:18.858801",
+  "total": 2290,
+  "total_raw": 2468,
   "games": [
+    {
+      "name": "A Las Puertas de Loyang",
+      "is_new": 0,
+      "first_seen": "2026-10-31T13:34:12.842365",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/14805-a-las-puertas-de-loyang-spanish-712038540594.html",
+          "price": 22.5,
+          "original_price": 45.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-10-31T13:34:12.842365",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 45.0,
+              "discount_pct": 50.0,
+              "date": "2026-10-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maui",
+      "is_new": 0,
+      "first_seen": "2026-10-31T13:34:01.268196",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/45663-maui-8435407640276.html",
+          "price": 27.0,
+          "original_price": 44.99,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-10-31T13:34:01.268196",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 44.99,
+              "discount_pct": 40.0,
+              "date": "2026-10-31"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/49488-maui-8435407640276.html",
+          "price": 26.99,
+          "original_price": 44.99,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-07-07T10:29:28.749369",
+          "history": [
+            {
+              "price": 26.99,
+              "original_price": 44.99,
+              "discount_pct": 40.0,
+              "date": "2026-07-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dune: Secretos de las casas",
+      "is_new": 0,
+      "first_seen": "2026-10-31T13:33:57.110150",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/48729-dune-secretos-de-las-casas.html",
+          "price": 21.0,
+          "original_price": 35.0,
+          "discount_pct": 40.0,
+          "scraped_at": "2026-10-31T13:33:57.110150",
+          "history": [
+            {
+              "price": 21.0,
+              "original_price": 35.0,
+              "discount_pct": 40.0,
+              "date": "2026-10-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finca",
+      "is_new": 0,
+      "first_seen": "2026-10-31T13:33:48.680970",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/56242-finca-8436607947684.html",
+          "price": 19.95,
+          "original_price": 35.0,
+          "discount_pct": 43.0,
+          "scraped_at": "2026-10-31T13:33:48.680970",
+          "history": [
+            {
+              "price": 19.95,
+              "original_price": 35.0,
+              "discount_pct": 43.0,
+              "date": "2026-10-31"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58151-finca-8436607947684.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-08-14T08:22:48.365438",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/58151-finca-8436607947684.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T05:59:08.176121",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Terraforming Mars: Expedición Ares (Cartas Promo)",
       "is_new": 0,
@@ -6337,45 +6477,6 @@
               "price": 15.0,
               "original_price": 24.99,
               "discount_pct": 39.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Finca",
-      "is_new": 0,
-      "first_seen": "2026-08-14T08:22:48.365438",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/58151-finca-8436607947684.html",
-          "price": 31.5,
-          "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-08-14T08:22:48.365438",
-          "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
-              "date": "2026-08-14"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/inicio/58151-finca-8436607947684.html",
-          "price": 31.5,
-          "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:08.176121",
-          "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
               "date": "2026-05-22"
             }
           ]
@@ -31146,29 +31247,6 @@
               "original_price": 25.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Maui",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:00:43.341650",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/49488-maui-8435407640276.html",
-          "price": 26.99,
-          "original_price": 44.99,
-          "discount_pct": 40.0,
-          "scraped_at": "2026-07-07T10:29:28.749369",
-          "history": [
-            {
-              "price": 26.99,
-              "original_price": 44.99,
-              "discount_pct": 40.0,
-              "date": "2026-07-07"
             }
           ]
         }
