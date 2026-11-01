@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-10-31T13:34:18.858801",
-  "total": 2290,
-  "total_raw": 2468,
+  "generated_at": "2026-11-01T14:15:04.462989",
+  "total": 2293,
+  "total_raw": 2472,
   "games": [
+    {
+      "name": "Planet B",
+      "is_new": 0,
+      "first_seen": "2026-11-01T14:13:54.872163",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/ofertas/50701-planet-b-8436589628793.html",
+          "price": 35.0,
+          "original_price": 70.0,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-01T14:13:54.872163",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": 70.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://www.goblintrader.es/es/inicio/47389-planet-b-8436589628793.html",
+          "price": 35.0,
+          "original_price": 69.99,
+          "discount_pct": 50.0,
+          "scraped_at": "2026-05-22T06:01:27.576913",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": 69.99,
+              "discount_pct": 50.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ashes: Blackout Protocol",
+      "is_new": 0,
+      "first_seen": "2026-11-01T14:11:56.553108",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61845-ashes-blackout-protocol-0610985265228.html",
+          "price": 52.8,
+          "original_price": 60.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-01T14:11:56.553108",
+          "history": [
+            {
+              "price": 52.8,
+              "original_price": 60.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DC Super Héroes United: Batman Hush",
+      "is_new": 0,
+      "first_seen": "2026-11-01T14:11:56.550699",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/61844-dc-super-heroes-united-batman-hush-8436625614506.html",
+          "price": 36.96,
+          "original_price": 42.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-01T14:11:56.550699",
+          "history": [
+            {
+              "price": 36.96,
+              "original_price": 42.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DC Super Héroes United",
+      "is_new": 0,
+      "first_seen": "2026-11-01T14:11:56.546672",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/inicio/61846-dc-super-heroes-united-8436625614483.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-01T14:11:56.546672",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-01"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "A Las Puertas de Loyang",
       "is_new": 0,
@@ -23772,29 +23880,6 @@
               "price": 5.95,
               "original_price": 9.95,
               "discount_pct": 40.2,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Planet B",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:27.576913",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://www.goblintrader.es/es/inicio/47389-planet-b-8436589628793.html",
-          "price": 35.0,
-          "original_price": 69.99,
-          "discount_pct": 50.0,
-          "scraped_at": "2026-05-22T06:01:27.576913",
-          "history": [
-            {
-              "price": 35.0,
-              "original_price": 69.99,
-              "discount_pct": 50.0,
               "date": "2026-05-22"
             }
           ]
