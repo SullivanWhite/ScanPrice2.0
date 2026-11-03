@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:00:37.093842",
+  "generated_at": "2026-11-03T15:00:43.393346",
   "total": 2293,
   "total_raw": 2473,
   "games": [
@@ -18260,16 +18260,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59366-ink-3558380136828.html",
-          "price": 35.19,
+          "price": 26.0,
           "original_price": 39.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:05.730666",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-11-03T14:58:24.585905",
           "history": [
             {
               "price": 35.19,
               "original_price": 39.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 26.0,
+              "original_price": 39.99,
+              "discount_pct": 34.0,
+              "date": "2026-11-03"
             }
           ]
         }
@@ -37669,12 +37675,6 @@
           "scraped_at": "2026-11-02T16:58:01.232302",
           "history": [
             {
-              "price": 18.0,
-              "original_price": 20.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 10.0,
               "original_price": 20.0,
               "discount_pct": 50.0,
@@ -38221,16 +38221,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59560-lealtad-cero-810171413116.html",
-          "price": 17.99,
+          "price": 13.0,
           "original_price": 19.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:05.745071",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-11-03T14:58:24.595651",
           "history": [
             {
               "price": 17.99,
               "original_price": 19.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.0,
+              "original_price": 19.99,
+              "discount_pct": 34.0,
+              "date": "2026-11-03"
             }
           ]
         }
@@ -40797,16 +40803,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59522-daydream-3558380137443.html",
-          "price": 22.49,
+          "price": 16.0,
           "original_price": 24.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:51.620328",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-11-03T14:58:24.599317",
           "history": [
             {
               "price": 22.49,
               "original_price": 24.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 24.99,
+              "discount_pct": 35.0,
+              "date": "2026-11-03"
             }
           ]
         }
@@ -43373,16 +43385,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57889-en-que-estabas-pensando-0810171411280.html",
-          "price": 17.99,
+          "price": 13.0,
           "original_price": 19.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:42.890561",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-11-03T14:58:24.597344",
           "history": [
             {
               "price": 17.99,
               "original_price": 19.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.0,
+              "original_price": 19.99,
+              "discount_pct": 34.0,
+              "date": "2026-11-03"
             }
           ]
         }
@@ -46875,16 +46893,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/aventureros-al-tren/58318-aventureros-al-tren-aurora-boreal-824968208373.html",
-          "price": 42.23,
+          "price": 31.0,
           "original_price": 47.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T05:59:25.396541",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-11-03T15:00:15.872965",
           "history": [
             {
               "price": 42.23,
               "original_price": 47.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 31.0,
+              "original_price": 47.99,
+              "discount_pct": 35.0,
+              "date": "2026-11-03"
             }
           ]
         }
@@ -51222,16 +51246,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/56749-daybreak-8435407650473.html",
-          "price": 52.79,
+          "price": 39.0,
           "original_price": 59.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-07-03T10:10:48.515629",
+          "discount_pct": 34.0,
+          "scraped_at": "2026-11-03T14:58:24.600920",
           "history": [
             {
               "price": 52.79,
               "original_price": 59.99,
               "discount_pct": 12.0,
               "date": "2026-07-03"
+            },
+            {
+              "price": 39.0,
+              "original_price": 59.99,
+              "discount_pct": 34.0,
+              "date": "2026-11-03"
             }
           ]
         }
