@@ -1,8 +1,515 @@
 {
-  "generated_at": "2026-11-03T15:00:43.393346",
-  "total": 2293,
-  "total_raw": 2473,
+  "generated_at": "2026-11-04T15:21:18.775386",
+  "total": 2306,
+  "total_raw": 2499,
   "games": [
+    {
+      "name": "Pre-pedido-10%",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:42.008457",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60449-the-old-world-tomb-kings-of-khemri-dice.html",
+          "price": 36.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.008457",
+          "history": [
+            {
+              "price": 36.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-pedido-15%",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:42.006624",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60450-tomb-kings-of-khemri-host-of-nehekhara-army-reinforcement-set.html",
+          "price": 177.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.006624",
+          "history": [
+            {
+              "price": 177.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60465-necromunda-orlock-road-warriors.html",
+          "price": 43.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.998758",
+          "history": [
+            {
+              "price": 43.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60466-necromunda-orlock-road-sergeants-cyber-mastiffs.html",
+          "price": 43.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.996551",
+          "history": [
+            {
+              "price": 43.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60467-necromunda-orlock-ogryn-minders.html",
+          "price": 36.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.993792",
+          "history": [
+            {
+              "price": 36.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "-10%",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:42.004731",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60453-kingdom-crossing-castellano.html",
+          "price": 39.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.004731",
+          "history": [
+            {
+              "price": 39.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60471-ayo-gurkhali-gurkha-starter-army.html",
+          "price": 125.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.971003",
+          "history": [
+            {
+              "price": 125.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60472-gyrkha-heavy-weapons-platoon.html",
+          "price": 36.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.969083",
+          "history": [
+            {
+              "price": 36.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60473-gurkha-6-pounder-anti-tank-gun.html",
+          "price": 26.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.967341",
+          "history": [
+            {
+              "price": 26.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60474-gurkha-weapons-teams.html",
+          "price": 19.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.965505",
+          "history": [
+            {
+              "price": 19.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60475-gurkha-hq.html",
+          "price": 14.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.962825",
+          "history": [
+            {
+              "price": 14.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60476-gurkha-platoon-commanders.html",
+          "price": 14.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.960859",
+          "history": [
+            {
+              "price": 14.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60481-concept-stories.html",
+          "price": 31.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.957540",
+          "history": [
+            {
+              "price": 31.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60482-raindrops.html",
+          "price": 24.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.953629",
+          "history": [
+            {
+              "price": 24.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-pedido",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:42.000732",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60456-riftbound-legacy-booster-ingles.html",
+          "price": 6.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.000732",
+          "history": [
+            {
+              "price": 6.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60469-necromunda-house-orlock-dice.html",
+          "price": 16.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.976403",
+          "history": [
+            {
+              "price": 16.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60470-necromunda-orlock-card-pack-ingles.html",
+          "price": 16.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.972886",
+          "history": [
+            {
+              "price": 16.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-pedido-5%",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:41.983518",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60468-underhive-journal-orlock-house-of-iron-ingles.html",
+          "price": 22.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.983518",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oak",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:22.723323",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61867-oak.html",
+          "price": 60.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:22.723323",
+          "history": [
+            {
+              "price": 60.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dom Pierre",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:22.721056",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61868-dom-pierre.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:22.721056",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Troles y Princesas",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:22.718364",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61869-troles-y-princesas.html",
+          "price": 65.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:22.718364",
+          "history": [
+            {
+              "price": 65.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terraforming Mars: Expedición Ares - Cimientos",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:19.535237",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/terraforming-mars-expedicion-ares/61858-terraforming-mars-expedicion-ares-cimientos.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-04T15:20:19.535237",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terraforming Mars: Expedición Ares - Crisis",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:19.532717",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/terraforming-mars-expedicion-ares/61859-terraforming-mars-expedicion-ares-crisis.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-04T15:20:19.532717",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - Desierto Avernal",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:19.530601",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61852-cronicas-de-drunagor-la-era-de-la-oscuridad-desierto-avernal.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-04T15:20:19.530601",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - Señor de la Ira",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:19.527713",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61853-cronicas-de-drunagor-la-era-de-la-oscuridad-senor-de-la-ira.html",
+          "price": 20.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:19.527713",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Una Aventura Salvaje",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:18:43.579458",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/58951-una-aventura-salvaje-8436623242589.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-04T15:18:43.579458",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Ashes: Blackout Protocol",
       "is_new": 0,
@@ -18266,12 +18773,6 @@
           "scraped_at": "2026-11-03T14:58:24.585905",
           "history": [
             {
-              "price": 35.19,
-              "original_price": 39.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 26.0,
               "original_price": 39.99,
               "discount_pct": 34.0,
@@ -32885,16 +33386,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57071-stellar-horizons-2-galactic-frontier-ingles-196852762637.html",
-          "price": 119.2,
-          "original_price": 135.45,
+          "price": 113.52,
+          "original_price": 129.0,
           "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:34.004236",
+          "scraped_at": "2026-11-04T15:18:46.586863",
           "history": [
             {
               "price": 119.2,
               "original_price": 135.45,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 113.52,
+              "original_price": 129.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-04"
             }
           ]
         }
@@ -38227,12 +38734,6 @@
           "scraped_at": "2026-11-03T14:58:24.595651",
           "history": [
             {
-              "price": 17.99,
-              "original_price": 19.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 13.0,
               "original_price": 19.99,
               "discount_pct": 34.0,
@@ -40809,12 +41310,6 @@
           "scraped_at": "2026-11-03T14:58:24.599317",
           "history": [
             {
-              "price": 22.49,
-              "original_price": 24.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 16.0,
               "original_price": 24.99,
               "discount_pct": 35.0,
@@ -43390,12 +43885,6 @@
           "discount_pct": 34.0,
           "scraped_at": "2026-11-03T14:58:24.597344",
           "history": [
-            {
-              "price": 17.99,
-              "original_price": 19.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 13.0,
               "original_price": 19.99,
@@ -46898,12 +47387,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-11-03T15:00:15.872965",
           "history": [
-            {
-              "price": 42.23,
-              "original_price": 47.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 31.0,
               "original_price": 47.99,
@@ -51251,12 +51734,6 @@
           "discount_pct": 34.0,
           "scraped_at": "2026-11-03T14:58:24.600920",
           "history": [
-            {
-              "price": 52.79,
-              "original_price": 59.99,
-              "discount_pct": 12.0,
-              "date": "2026-07-03"
-            },
             {
               "price": 39.0,
               "original_price": 59.99,
