@@ -1,107 +1,221 @@
 {
-  "generated_at": "2026-11-04T15:21:18.775386",
-  "total": 2306,
-  "total_raw": 2499,
+  "generated_at": "2026-11-05T15:23:48.290989",
+  "total": 2315,
+  "total_raw": 2521,
   "games": [
-    {
-      "name": "Pre-pedido-10%",
-      "is_new": 0,
-      "first_seen": "2026-11-04T15:20:42.008457",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60449-the-old-world-tomb-kings-of-khemri-dice.html",
-          "price": 36.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.008457",
-          "history": [
-            {
-              "price": 36.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pre-pedido-15%",
-      "is_new": 0,
-      "first_seen": "2026-11-04T15:20:42.006624",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60450-tomb-kings-of-khemri-host-of-nehekhara-army-reinforcement-set.html",
-          "price": 177.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.006624",
-          "history": [
-            {
-              "price": 177.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60465-necromunda-orlock-road-warriors.html",
-          "price": 43.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.998758",
-          "history": [
-            {
-              "price": 43.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60466-necromunda-orlock-road-sergeants-cyber-mastiffs.html",
-          "price": 43.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.996551",
-          "history": [
-            {
-              "price": 43.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60467-necromunda-orlock-ogryn-minders.html",
-          "price": 36.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.993792",
-          "history": [
-            {
-              "price": 36.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        }
-      ]
-    },
     {
       "name": "-10%",
       "is_new": 0,
-      "first_seen": "2026-11-04T15:20:42.004731",
+      "first_seen": "2026-11-05T15:22:26.651777",
       "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60516-molly-house-castellano.html",
+          "price": 80.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.651777",
+          "history": [
+            {
+              "price": 80.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60517-pax-pamir-castellano.html",
+          "price": 89.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.650061",
+          "history": [
+            {
+              "price": 89.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60518-leaders-castellano.html",
+          "price": 24.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.648379",
+          "history": [
+            {
+              "price": 24.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60519-double-seven-castellano.html",
+          "price": 28.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.646585",
+          "history": [
+            {
+              "price": 28.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60523-aleph-marut-tag-pack.html",
+          "price": 40.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.644773",
+          "history": [
+            {
+              "price": 40.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60524-husam-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.643029",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60525-jsa-shindenbutai-action-pack.html",
+          "price": 90.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.641233",
+          "history": [
+            {
+              "price": 90.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60526-kaizoku-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.639534",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60527-stormo-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.637793",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60528-aide.html",
+          "price": 25.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.635933",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60529-beasteed-riders.html",
+          "price": 70.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.633808",
+          "history": [
+            {
+              "price": 70.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60530-contender.html",
+          "price": 25.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.631759",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60531-hersir-tattooist.html",
+          "price": 35.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.629425",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
         {
           "source": "goblintrader",
           "url": "https://goblintrader.es/60453-kingdom-crossing-castellano.html",
@@ -240,6 +354,307 @@
           "history": [
             {
               "price": 24.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - Handuriel",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.300950",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61854-cronicas-de-drunagor-la-era-de-la-oscuridad-handuriel.html",
+          "price": 20.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:07.300950",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - Pack de Monstruos Nº 1",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.295143",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61855-cronicas-de-drunagor-la-era-de-la-oscuridad-pack-de-monstruos-n-1.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-05T15:22:07.295143",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - La Ruina de Luccanor",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.288644",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61856-cronicas-de-drunagor-la-era-de-la-oscuridad-la-ruina-de-luccanor.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-05T15:22:07.288644",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - El Mundo Sombrio",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.282284",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61857-cronicas-de-drunagor-la-era-de-la-oscuridad-el-mundo-sombrio.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-05T15:22:07.282284",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mint Cooperative",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.274060",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61870-mint-cooperative.html",
+          "price": 15.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:07.274060",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mint Works",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.271992",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61871-mint-works.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-05T15:22:07.271992",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mint Delivery",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.269986",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61883-mint-delivery.html",
+          "price": 15.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:07.269986",
+          "history": [
+            {
+              "price": 15.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mint Control",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:22:07.267153",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61884-mint-control.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-05T15:22:07.267153",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pax Pamir (Segunda Edición)",
+      "is_new": 0,
+      "first_seen": "2026-11-05T15:20:27.436781",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/45262-pax-pamir-segunda-edicion-8437016497593.html",
+          "price": 79.2,
+          "original_price": 90.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-05T15:20:27.436781",
+          "history": [
+            {
+              "price": 79.2,
+              "original_price": 90.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-pedido-10%",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:42.008457",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60449-the-old-world-tomb-kings-of-khemri-dice.html",
+          "price": 36.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.008457",
+          "history": [
+            {
+              "price": 36.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-pedido-15%",
+      "is_new": 0,
+      "first_seen": "2026-11-04T15:20:42.006624",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60450-tomb-kings-of-khemri-host-of-nehekhara-army-reinforcement-set.html",
+          "price": 177.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.006624",
+          "history": [
+            {
+              "price": 177.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60465-necromunda-orlock-road-warriors.html",
+          "price": 43.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.998758",
+          "history": [
+            {
+              "price": 43.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60466-necromunda-orlock-road-sergeants-cyber-mastiffs.html",
+          "price": 43.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.996551",
+          "history": [
+            {
+              "price": 43.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60467-necromunda-orlock-ogryn-minders.html",
+          "price": 36.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.993792",
+          "history": [
+            {
+              "price": 36.0,
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-04"
@@ -1097,16 +1512,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/time-of-soccer/36380-time-of-soccer-8414606746477.html",
-          "price": 42.2,
+          "price": 22.0,
           "original_price": 47.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-10-28T13:58:15.646530",
+          "discount_pct": 54.0,
+          "scraped_at": "2026-11-05T15:20:27.440696",
           "history": [
             {
               "price": 42.2,
               "original_price": 47.95,
               "discount_pct": 12.0,
               "date": "2026-10-28"
+            },
+            {
+              "price": 22.0,
+              "original_price": 47.95,
+              "discount_pct": 54.0,
+              "date": "2026-11-05"
             }
           ]
         }
@@ -33391,12 +33812,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-11-04T15:18:46.586863",
           "history": [
-            {
-              "price": 119.2,
-              "original_price": 135.45,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 113.52,
               "original_price": 129.0,
