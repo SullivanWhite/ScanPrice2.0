@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-11-05T15:23:48.290989",
-  "total": 2315,
-  "total_raw": 2521,
+  "generated_at": "2026-11-06T14:57:40.420746",
+  "total": 2322,
+  "total_raw": 2528,
   "games": [
+    {
+      "name": "Prehistorias: Evolución",
+      "is_new": 0,
+      "first_seen": "2026-11-06T14:56:57.648688",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61865-prehistorias-evolucion.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-06T14:56:57.648688",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Everdell: Spirecrest (Edición Coleccionista)",
+      "is_new": 0,
+      "first_seen": "2026-11-06T14:56:57.643672",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/everdell/45721-everdell-spirecrest-edicion-coleccionista-8436578813315.html",
+          "price": 66.0,
+          "original_price": 75.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-06T14:56:57.643672",
+          "history": [
+            {
+              "price": 66.0,
+              "original_price": 75.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "21 Juegos de Divertinesia",
+      "is_new": 0,
+      "first_seen": "2026-11-06T14:56:57.639550",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61885-21-juegos-de-divertinesia.html",
+          "price": 21.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-06T14:56:57.639550",
+          "history": [
+            {
+              "price": 21.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Molly House",
+      "is_new": 0,
+      "first_seen": "2026-11-06T14:55:21.019462",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61918-molly-house-8436627170260.html",
+          "price": 70.4,
+          "original_price": 80.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-06T14:55:21.019462",
+          "history": [
+            {
+              "price": 70.4,
+              "original_price": 80.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heroes of Might and Magic 3: The Board Game - Expansión Conflujo",
+      "is_new": 0,
+      "first_seen": "2026-11-06T14:55:21.014690",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61939-heroes-of-might-and-magic-3-the-board-game-expansion-conflujo-5901414678166.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-06T14:55:21.014690",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heroes of Might and Magic 3: The Board Game - Expansión Bastión",
+      "is_new": 0,
+      "first_seen": "2026-11-06T14:55:21.012212",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61940-heroes-of-might-and-magic-3-the-board-game-expansion-bastion-5901414678159.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-06T14:55:21.012212",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heroes of Might and Magic 3: The Board Game - Expansión Cala",
+      "is_new": 0,
+      "first_seen": "2026-11-06T14:55:21.008016",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61938-heroes-of-might-and-magic-3-the-board-game-expansion-cala-5901414678173.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-06T14:55:21.008016",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-06"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "-10%",
       "is_new": 0,
