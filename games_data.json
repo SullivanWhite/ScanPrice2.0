@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-07T13:55:15.780449",
-  "total": 2322,
-  "total_raw": 2528,
+  "generated_at": "2026-11-08T14:16:40.325069",
+  "total": 2323,
+  "total_raw": 2529,
   "games": [
+    {
+      "name": "Blood on the Clocktower: The Carousel",
+      "is_new": 0,
+      "first_seen": "2026-11-08T14:12:33.341780",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61915-blood-on-the-clocktower-the-carousel-8437030440124.html",
+          "price": 31.46,
+          "original_price": 34.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-08T14:12:33.341780",
+          "history": [
+            {
+              "price": 31.46,
+              "original_price": 34.95,
+              "discount_pct": 10.0,
+              "date": "2026-11-08"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Prehistorias: Evolución",
       "is_new": 0,
