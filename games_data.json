@@ -1,8 +1,238 @@
 {
-  "generated_at": "2026-11-08T14:16:40.325069",
-  "total": 2323,
-  "total_raw": 2529,
+  "generated_at": "2026-11-09T17:25:35.653953",
+  "total": 2333,
+  "total_raw": 2539,
   "games": [
+    {
+      "name": "Anverso Reverso",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:47.469305",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:47.469305",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cosmopulpo",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:47.467262",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61890-cosmopulpo.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-09T17:23:47.467262",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Autobahn",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:47.465270",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61862-autobahn.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-09T17:23:47.465270",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dice Theme Park",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:47.463167",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61860-dice-theme-park.html",
+          "price": 45.0,
+          "original_price": 50.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:47.463167",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": 50.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dice Theme Park (Extras Deluxe)",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:47.460772",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61861-dice-theme-park-extras-deluxe.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:47.460772",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Librarium",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:47.456524",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61916-librarium-8436625618801.html",
+          "price": 10.8,
+          "original_price": 12.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:47.456524",
+          "history": [
+            {
+              "price": 10.8,
+              "original_price": 12.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Union Stockyards",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:47.453333",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61891-union-stockyards.html",
+          "price": 48.4,
+          "original_price": 55.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-09T17:23:47.453333",
+          "history": [
+            {
+              "price": 48.4,
+              "original_price": 55.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sabana Park",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:23:44.389718",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61943-sabana-park.html",
+          "price": 31.5,
+          "original_price": 35.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:44.389718",
+          "history": [
+            {
+              "price": 31.5,
+              "original_price": 35.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Juicio del Bosque",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:22:24.713954",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61832-el-juicio-del-bosque-5906954791207.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-09T17:22:24.713954",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York",
+      "is_new": 0,
+      "first_seen": "2026-11-09T17:22:15.811321",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55180-escape-from-new-york-8436564813831.html",
+          "price": 23.0,
+          "original_price": 74.95,
+          "discount_pct": 69.0,
+          "scraped_at": "2026-11-09T17:22:15.811321",
+          "history": [
+            {
+              "price": 23.0,
+              "original_price": 74.95,
+              "discount_pct": 69.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Blood on the Clocktower: The Carousel",
       "is_new": 0,
@@ -80,16 +310,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61885-21-juegos-de-divertinesia.html",
-          "price": 21.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-06T14:56:57.639550",
+          "price": 18.9,
+          "original_price": 21.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:47.458668",
           "history": [
             {
               "price": 21.0,
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-06"
+            },
+            {
+              "price": 18.9,
+              "original_price": 21.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
             }
           ]
         }
@@ -41207,16 +41443,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/sherlock-holmes-detective-asesor/45201-sherlock-holmes-detective-asesor-los-irregulares-de-baker-street-9782370990327.html",
-          "price": 32.5,
+          "price": 43.99,
           "original_price": 49.99,
-          "discount_pct": 34.0,
-          "scraped_at": "2026-10-16T12:14:39.827604",
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-09T17:23:44.387195",
           "history": [
             {
               "price": 32.5,
               "original_price": 49.99,
               "discount_pct": 34.0,
               "date": "2026-10-16"
+            },
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-09"
             }
           ]
         }
