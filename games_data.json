@@ -1,8 +1,690 @@
 {
-  "generated_at": "2026-11-09T17:25:35.653953",
-  "total": 2333,
-  "total_raw": 2539,
+  "generated_at": "2026-11-10T15:34:02.142182",
+  "total": 2338,
+  "total_raw": 2557,
   "games": [
+    {
+      "name": "-10%",
+      "is_new": 0,
+      "first_seen": "2026-11-10T15:32:26.642661",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60516-molly-house-castellano.html",
+          "price": 80.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.642661",
+          "history": [
+            {
+              "price": 80.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60517-pax-pamir-castellano.html",
+          "price": 89.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.640525",
+          "history": [
+            {
+              "price": 89.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60518-leaders-castellano.html",
+          "price": 24.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.638326",
+          "history": [
+            {
+              "price": 24.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60519-double-seven-castellano.html",
+          "price": 28.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.636185",
+          "history": [
+            {
+              "price": 28.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60523-aleph-marut-tag-pack.html",
+          "price": 40.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.633848",
+          "history": [
+            {
+              "price": 40.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60524-husam-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.631728",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60525-jsa-shindenbutai-action-pack.html",
+          "price": 90.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.629399",
+          "history": [
+            {
+              "price": 90.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60526-kaizoku-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.627336",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60527-stormo-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.625321",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60528-aide.html",
+          "price": 25.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.623161",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60529-beasteed-riders.html",
+          "price": 70.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.620948",
+          "history": [
+            {
+              "price": 70.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60530-contender.html",
+          "price": 25.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.618110",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60531-hersir-tattooist.html",
+          "price": 35.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:32:26.615090",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60516-molly-house-castellano.html",
+          "price": 80.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.651777",
+          "history": [
+            {
+              "price": 80.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60517-pax-pamir-castellano.html",
+          "price": 89.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.650061",
+          "history": [
+            {
+              "price": 89.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60518-leaders-castellano.html",
+          "price": 24.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.648379",
+          "history": [
+            {
+              "price": 24.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60519-double-seven-castellano.html",
+          "price": 28.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.646585",
+          "history": [
+            {
+              "price": 28.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60523-aleph-marut-tag-pack.html",
+          "price": 40.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.644773",
+          "history": [
+            {
+              "price": 40.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60524-husam-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.643029",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60525-jsa-shindenbutai-action-pack.html",
+          "price": 90.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.641233",
+          "history": [
+            {
+              "price": 90.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60526-kaizoku-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.639534",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60527-stormo-spec-ops.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.637793",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60528-aide.html",
+          "price": 25.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.635933",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60529-beasteed-riders.html",
+          "price": 70.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.633808",
+          "history": [
+            {
+              "price": 70.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60530-contender.html",
+          "price": 25.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.631759",
+          "history": [
+            {
+              "price": 25.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60531-hersir-tattooist.html",
+          "price": 35.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-05T15:22:26.629425",
+          "history": [
+            {
+              "price": 35.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60453-kingdom-crossing-castellano.html",
+          "price": 39.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.004731",
+          "history": [
+            {
+              "price": 39.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60471-ayo-gurkhali-gurkha-starter-army.html",
+          "price": 125.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.971003",
+          "history": [
+            {
+              "price": 125.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60472-gyrkha-heavy-weapons-platoon.html",
+          "price": 36.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.969083",
+          "history": [
+            {
+              "price": 36.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60473-gurkha-6-pounder-anti-tank-gun.html",
+          "price": 26.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.967341",
+          "history": [
+            {
+              "price": 26.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60474-gurkha-weapons-teams.html",
+          "price": 19.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.965505",
+          "history": [
+            {
+              "price": 19.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60475-gurkha-hq.html",
+          "price": 14.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.962825",
+          "history": [
+            {
+              "price": 14.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60476-gurkha-platoon-commanders.html",
+          "price": 14.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.960859",
+          "history": [
+            {
+              "price": 14.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60481-concept-stories.html",
+          "price": 31.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.957540",
+          "history": [
+            {
+              "price": 31.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60482-raindrops.html",
+          "price": 24.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.953629",
+          "history": [
+            {
+              "price": 24.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seven Swords",
+      "is_new": 0,
+      "first_seen": "2026-11-10T15:31:59.905559",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61944-seven-swords-8437010181740.html",
+          "price": 31.46,
+          "original_price": 34.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-10T15:31:59.905559",
+          "history": [
+            {
+              "price": 31.46,
+              "original_price": 34.95,
+              "discount_pct": 10.0,
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honey Buzz",
+      "is_new": 0,
+      "first_seen": "2026-11-10T15:31:59.903415",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61892-honey-buzz.html",
+          "price": 45.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:31:59.903415",
+          "history": [
+            {
+              "price": 45.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honey Buzz: Wooden Coins",
+      "is_new": 0,
+      "first_seen": "2026-11-10T15:31:59.901108",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61893-honey-buzz-wooden-coins.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-10T15:31:59.901108",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pipeline",
+      "is_new": 0,
+      "first_seen": "2026-11-10T15:31:59.898026",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61941-pipeline.html",
+          "price": 55.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-10T15:31:59.898026",
+          "history": [
+            {
+              "price": 55.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pipeline: Mercados Emergentes",
+      "is_new": 0,
+      "first_seen": "2026-11-10T15:31:59.894883",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61942-pipeline-mercados-emergentes.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-10T15:31:59.894883",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Anverso Reverso",
       "is_new": 0,
@@ -418,365 +1100,6 @@
               "original_price": 49.99,
               "discount_pct": 12.0,
               "date": "2026-11-06"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "-10%",
-      "is_new": 0,
-      "first_seen": "2026-11-05T15:22:26.651777",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60516-molly-house-castellano.html",
-          "price": 80.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.651777",
-          "history": [
-            {
-              "price": 80.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60517-pax-pamir-castellano.html",
-          "price": 89.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.650061",
-          "history": [
-            {
-              "price": 89.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60518-leaders-castellano.html",
-          "price": 24.95,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.648379",
-          "history": [
-            {
-              "price": 24.95,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60519-double-seven-castellano.html",
-          "price": 28.95,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.646585",
-          "history": [
-            {
-              "price": 28.95,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60523-aleph-marut-tag-pack.html",
-          "price": 40.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.644773",
-          "history": [
-            {
-              "price": 40.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60524-husam-spec-ops.html",
-          "price": 45.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.643029",
-          "history": [
-            {
-              "price": 45.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60525-jsa-shindenbutai-action-pack.html",
-          "price": 90.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.641233",
-          "history": [
-            {
-              "price": 90.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60526-kaizoku-spec-ops.html",
-          "price": 45.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.639534",
-          "history": [
-            {
-              "price": 45.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60527-stormo-spec-ops.html",
-          "price": 45.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.637793",
-          "history": [
-            {
-              "price": 45.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60528-aide.html",
-          "price": 25.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.635933",
-          "history": [
-            {
-              "price": 25.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60529-beasteed-riders.html",
-          "price": 70.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.633808",
-          "history": [
-            {
-              "price": 70.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60530-contender.html",
-          "price": 25.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.631759",
-          "history": [
-            {
-              "price": 25.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60531-hersir-tattooist.html",
-          "price": 35.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:26.629425",
-          "history": [
-            {
-              "price": 35.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-05"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60453-kingdom-crossing-castellano.html",
-          "price": 39.95,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.004731",
-          "history": [
-            {
-              "price": 39.95,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60471-ayo-gurkhali-gurkha-starter-army.html",
-          "price": 125.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.971003",
-          "history": [
-            {
-              "price": 125.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60472-gyrkha-heavy-weapons-platoon.html",
-          "price": 36.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.969083",
-          "history": [
-            {
-              "price": 36.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60473-gurkha-6-pounder-anti-tank-gun.html",
-          "price": 26.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.967341",
-          "history": [
-            {
-              "price": 26.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60474-gurkha-weapons-teams.html",
-          "price": 19.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.965505",
-          "history": [
-            {
-              "price": 19.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60475-gurkha-hq.html",
-          "price": 14.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.962825",
-          "history": [
-            {
-              "price": 14.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60476-gurkha-platoon-commanders.html",
-          "price": 14.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.960859",
-          "history": [
-            {
-              "price": 14.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60481-concept-stories.html",
-          "price": 31.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.957540",
-          "history": [
-            {
-              "price": 31.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60482-raindrops.html",
-          "price": 24.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.953629",
-          "history": [
-            {
-              "price": 24.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
             }
           ]
         }
@@ -1909,16 +2232,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/59697-all-in-predicciones-3558387000610.html",
-          "price": 14.85,
+          "price": 11.0,
           "original_price": 16.5,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-10-28T13:58:15.650112",
+          "discount_pct": 33.0,
+          "scraped_at": "2026-11-10T15:30:17.311347",
           "history": [
             {
               "price": 14.85,
               "original_price": 16.5,
               "discount_pct": 10.0,
               "date": "2026-10-28"
+            },
+            {
+              "price": 11.0,
+              "original_price": 16.5,
+              "discount_pct": 33.0,
+              "date": "2026-11-10"
             }
           ]
         }
@@ -33301,16 +33630,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/el-rey-de-la-montana/49739-la-caida-del-rey-de-la-montana-8436564812896.html",
-          "price": 50.12,
+          "price": 17.0,
           "original_price": 56.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:38.746235",
+          "discount_pct": 70.0,
+          "scraped_at": "2026-11-10T15:30:17.317130",
           "history": [
             {
               "price": 50.12,
               "original_price": 56.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 17.0,
+              "original_price": 56.95,
+              "discount_pct": 70.0,
+              "date": "2026-11-10"
             }
           ]
         }
@@ -48953,16 +49288,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/7-wonders/53897-7-wonders-architects-medals-5425016927632.html",
-          "price": 18.89,
+          "price": 13.5,
           "original_price": 20.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:21.008140",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-11-10T15:30:17.314572",
           "history": [
             {
               "price": 18.89,
               "original_price": 20.99,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.5,
+              "original_price": 20.99,
+              "discount_pct": 35.0,
+              "date": "2026-11-10"
             }
           ]
         }
