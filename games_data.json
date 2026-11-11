@@ -1,8 +1,157 @@
 {
-  "generated_at": "2026-11-10T15:34:02.142182",
-  "total": 2338,
-  "total_raw": 2557,
+  "generated_at": "2026-11-11T15:05:10.320287",
+  "total": 2340,
+  "total_raw": 2562,
   "games": [
+    {
+      "name": "Pre-pedido",
+      "is_new": 0,
+      "first_seen": "2026-11-11T15:03:35.986361",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60512-world-order.html",
+          "price": 64.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-11T15:03:35.986361",
+          "history": [
+            {
+              "price": 64.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60513-world-order-diplomacia-y-dominio.html",
+          "price": 19.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-11T15:03:35.984187",
+          "history": [
+            {
+              "price": 19.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60514-world-order-un-mundo-en-crisis.html",
+          "price": 19.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-11T15:03:35.910562",
+          "history": [
+            {
+              "price": 19.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60456-riftbound-legacy-booster-ingles.html",
+          "price": 6.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.000732",
+          "history": [
+            {
+              "price": 6.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60469-necromunda-house-orlock-dice.html",
+          "price": 16.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.976403",
+          "history": [
+            {
+              "price": 16.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60470-necromunda-orlock-card-pack-ingles.html",
+          "price": 16.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.972886",
+          "history": [
+            {
+              "price": 16.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Crossing",
+      "is_new": 0,
+      "first_seen": "2026-11-11T15:01:37.569356",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61816-kingdom-crossing-8437028641540.html",
+          "price": 35.16,
+          "original_price": 39.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-11T15:01:37.569356",
+          "history": [
+            {
+              "price": 35.16,
+              "original_price": 39.95,
+              "discount_pct": 12.0,
+              "date": "2026-11-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twilight Imperium: Game Mat 25th Anniversary",
+      "is_new": 0,
+      "first_seen": "2026-11-11T15:01:37.535390",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/twilight-imperium/50332-twilight-imperium-game-mat-25th-anniversary-4251715415306.html",
+          "price": 39.59,
+          "original_price": 44.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-11T15:01:37.535390",
+          "history": [
+            {
+              "price": 39.59,
+              "original_price": 44.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-11"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "-10%",
       "is_new": 0,
@@ -1251,16 +1400,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61883-mint-delivery.html",
-          "price": 15.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:07.269986",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-11T15:03:17.370291",
           "history": [
             {
               "price": 15.0,
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-05"
+            },
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-11"
             }
           ]
         }
@@ -1398,61 +1553,6 @@
           "history": [
             {
               "price": 36.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pre-pedido",
-      "is_new": 0,
-      "first_seen": "2026-11-04T15:20:42.000732",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60456-riftbound-legacy-booster-ingles.html",
-          "price": 6.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.000732",
-          "history": [
-            {
-              "price": 6.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60469-necromunda-house-orlock-dice.html",
-          "price": 16.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.976403",
-          "history": [
-            {
-              "price": 16.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60470-necromunda-orlock-card-pack-ingles.html",
-          "price": 16.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.972886",
-          "history": [
-            {
-              "price": 16.5,
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-04"
@@ -33636,12 +33736,6 @@
           "scraped_at": "2026-11-10T15:30:17.317130",
           "history": [
             {
-              "price": 50.12,
-              "original_price": 56.95,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 17.0,
               "original_price": 56.95,
               "discount_pct": 70.0,
@@ -49293,12 +49387,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-11-10T15:30:17.314572",
           "history": [
-            {
-              "price": 18.89,
-              "original_price": 20.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 13.5,
               "original_price": 20.99,
