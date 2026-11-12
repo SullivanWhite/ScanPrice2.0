@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-11-11T15:05:10.320287",
-  "total": 2340,
-  "total_raw": 2562,
+  "generated_at": "2026-11-12T15:57:32.768170",
+  "total": 2347,
+  "total_raw": 2569,
   "games": [
+    {
+      "name": "Escape From New York: Fuerza Policial de Estados Unidos (USPF)",
+      "is_new": 0,
+      "first_seen": "2026-11-12T15:55:56.408517",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55220-escape-from-new-york-fuerza-policial-de-estados-unidos-uspf-8436564813855.html",
+          "price": 10.0,
+          "original_price": 24.95,
+          "discount_pct": 59.0,
+          "scraped_at": "2026-11-12T15:55:56.408517",
+          "history": [
+            {
+              "price": 10.0,
+              "original_price": 24.95,
+              "discount_pct": 59.0,
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York: Heroes Set & Prisoners",
+      "is_new": 0,
+      "first_seen": "2026-11-12T15:55:56.406209",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55181-escape-from-new-york-8058697271236.html",
+          "price": 14.0,
+          "original_price": 34.95,
+          "discount_pct": 59.0,
+          "scraped_at": "2026-11-12T15:55:56.406209",
+          "history": [
+            {
+              "price": 14.0,
+              "original_price": 34.95,
+              "discount_pct": 59.0,
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York: Bandas de Nueva York",
+      "is_new": 0,
+      "first_seen": "2026-11-12T15:55:56.403637",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55182-escape-from-new-york-bandas-de-nueva-york-8436564813848.html",
+          "price": 13.0,
+          "original_price": 32.95,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-12T15:55:56.403637",
+          "history": [
+            {
+              "price": 13.0,
+              "original_price": 32.95,
+              "discount_pct": 60.0,
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York: The President",
+      "is_new": 0,
+      "first_seen": "2026-11-12T15:55:56.400183",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/55183-escape-from-new-york-the-president-8058697271243.html",
+          "price": 3.5,
+          "original_price": 7.95,
+          "discount_pct": 55.0,
+          "scraped_at": "2026-11-12T15:55:56.400183",
+          "history": [
+            {
+              "price": 3.5,
+              "original_price": 7.95,
+              "discount_pct": 55.0,
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Señor de los Anillos: Circulo de Conflictos (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-11-12T15:54:20.576826",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61945-el-senor-de-los-anillos-circulo-de-conflictos-promo-841333139452.html",
+          "price": 43.99,
+          "original_price": 49.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-12T15:54:20.576826",
+          "history": [
+            {
+              "price": 43.99,
+              "original_price": 49.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Double Seven",
+      "is_new": 0,
+      "first_seen": "2026-11-12T15:54:20.570894",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61973-double-seven-8437028641687.html",
+          "price": 26.06,
+          "original_price": 28.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-12T15:54:20.570894",
+          "history": [
+            {
+              "price": 26.06,
+              "original_price": 28.95,
+              "discount_pct": 10.0,
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "¡Aventureros al Tren! Europa (2026)",
+      "is_new": 0,
+      "first_seen": "2026-11-12T15:54:20.565644",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/aventureros-al-tren/61509-aventureros-al-tren-europa-2026-824968072820.html",
+          "price": 42.23,
+          "original_price": 47.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-12T15:54:20.565644",
+          "history": [
+            {
+              "price": 42.23,
+              "original_price": 47.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Pre-pedido",
       "is_new": 0,
@@ -727,16 +888,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61944-seven-swords-8437010181740.html",
-          "price": 31.46,
+          "price": 10.0,
           "original_price": 34.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-10T15:31:59.905559",
+          "discount_pct": 71.0,
+          "scraped_at": "2026-11-12T15:54:20.581570",
           "history": [
             {
               "price": 31.46,
               "original_price": 34.95,
               "discount_pct": 10.0,
               "date": "2026-11-10"
+            },
+            {
+              "price": 10.0,
+              "original_price": 34.95,
+              "discount_pct": 71.0,
+              "date": "2026-11-12"
             }
           ]
         }
@@ -750,16 +917,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61892-honey-buzz.html",
-          "price": 45.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-10T15:31:59.903415",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-12T15:55:56.411583",
           "history": [
             {
               "price": 45.0,
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-10"
+            },
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-12"
             }
           ]
         }
