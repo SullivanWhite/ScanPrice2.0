@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-11-12T15:57:32.768170",
-  "total": 2347,
-  "total_raw": 2569,
+  "generated_at": "2026-11-13T15:19:11.433130",
+  "total": 2354,
+  "total_raw": 2576,
   "games": [
+    {
+      "name": "Delta",
+      "is_new": 0,
+      "first_seen": "2026-11-13T15:17:34.833377",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61937-delta.html",
+          "price": 57.2,
+          "original_price": 65.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-13T15:17:34.833377",
+          "history": [
+            {
+              "price": 57.2,
+              "original_price": 65.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Catan: El Juego de Cartas (Mini)",
+      "is_new": 0,
+      "first_seen": "2026-11-13T15:17:34.829662",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-cartas/31336-catan-el-juego-de-cartas-mini-8436017220568.html",
+          "price": 8.99,
+          "original_price": 9.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-13T15:17:34.829662",
+          "history": [
+            {
+              "price": 8.99,
+              "original_price": 9.99,
+              "discount_pct": 10.0,
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green Gold (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-11-13T15:15:59.353387",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61946-green-gold-promo-793588575700.html",
+          "price": 52.79,
+          "original_price": 59.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-13T15:15:59.353387",
+          "history": [
+            {
+              "price": 52.79,
+              "original_price": 59.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conservas: Exotic Tides",
+      "is_new": 0,
+      "first_seen": "2026-11-13T15:15:59.349454",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61888-conservas-exotic-tides-8495390976837.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-13T15:15:59.349454",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gingham",
+      "is_new": 0,
+      "first_seen": "2026-11-13T15:15:59.346413",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61980-gingham-8436625613783.html",
+          "price": 35.2,
+          "original_price": 40.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-13T15:15:59.346413",
+          "history": [
+            {
+              "price": 35.2,
+              "original_price": 40.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Los Mosquegatos: Set de Pinturas",
+      "is_new": 0,
+      "first_seen": "2026-11-13T15:15:59.342542",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61710-los-mosquegatos-set-de-pinturas-8435568355941.html",
+          "price": 43.12,
+          "original_price": 49.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-13T15:15:59.342542",
+          "history": [
+            {
+              "price": 43.12,
+              "original_price": 49.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leaders",
+      "is_new": 0,
+      "first_seen": "2026-11-13T15:15:59.334749",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61972-leaders-8437028641588.html",
+          "price": 22.46,
+          "original_price": 24.95,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-13T15:15:59.334749",
+          "history": [
+            {
+              "price": 22.46,
+              "original_price": 24.95,
+              "discount_pct": 10.0,
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Escape From New York: Fuerza Policial de Estados Unidos (USPF)",
       "is_new": 0,
@@ -35720,16 +35881,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/cronicas-del-crimen/47718-cronicas-del-crimen-cronicas-del-tiempo-la-saga-millennium-6527332366474.html",
-          "price": 26.96,
+          "price": 7.0,
           "original_price": 29.95,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:29.554564",
+          "discount_pct": 76.0,
+          "scraped_at": "2026-11-13T15:15:59.340541",
           "history": [
             {
               "price": 26.96,
               "original_price": 29.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 7.0,
+              "original_price": 29.95,
+              "discount_pct": 76.0,
+              "date": "2026-11-13"
             }
           ]
         }
@@ -48496,12 +48663,6 @@
           "discount_pct": 33.0,
           "scraped_at": "2026-10-19T14:33:17.313829",
           "history": [
-            {
-              "price": 39.59,
-              "original_price": 44.99,
-              "discount_pct": 12.0,
-              "date": "2026-08-14"
-            },
             {
               "price": 30.0,
               "original_price": 44.99,
