@@ -1,8 +1,495 @@
 {
-  "generated_at": "2026-11-13T15:19:11.433130",
+  "generated_at": "2026-11-14T14:06:02.534465",
   "total": 2354,
-  "total_raw": 2576,
+  "total_raw": 2600,
   "games": [
+    {
+      "name": "Pre-pedido",
+      "is_new": 0,
+      "first_seen": "2026-11-14T14:04:39.647471",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60547-cutebee-mini-store-series-fukuoka-mentaiko-kitchen-139-piezas.html",
+          "price": 16.49,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.647471",
+          "history": [
+            {
+              "price": 16.49,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60548-cutebee-mini-store-series-osaka-takoyaki-146-piezas.html",
+          "price": 16.49,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.645332",
+          "history": [
+            {
+              "price": 16.49,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60549-cutebee-miniature-house-blossom-florists-265-piezas.html",
+          "price": 49.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.643584",
+          "history": [
+            {
+              "price": 49.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60550-cutebee-miniature-house-jack-s-bookery-330piezas.html",
+          "price": 39.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.641843",
+          "history": [
+            {
+              "price": 39.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60551-cutebee-miniature-house-uncle-joe-s-pizzeria-236-piezas.html",
+          "price": 39.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.639859",
+          "history": [
+            {
+              "price": 39.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60552-cutebee-miniature-house-john-s-hair-salon-210-piezas.html",
+          "price": 39.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.638030",
+          "history": [
+            {
+              "price": 39.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60553-cutebee-miniature-house-choshi-no-shitamachi-218-piezas.html",
+          "price": 39.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.636312",
+          "history": [
+            {
+              "price": 39.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60554-cutebee-book-nook-the-legend-of-mulan-298-piezas.html",
+          "price": 49.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.634531",
+          "history": [
+            {
+              "price": 49.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60555-cutebee-book-nook-morita-ya-240-piezas.html",
+          "price": 39.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.632691",
+          "history": [
+            {
+              "price": 39.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60556-bandai-maqueta-x-wing-starfighter-1-72.html",
+          "price": 40.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.630977",
+          "history": [
+            {
+              "price": 40.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60557-bandai-maqueta-scaletie-fighter-1-72.html",
+          "price": 40.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.629193",
+          "history": [
+            {
+              "price": 40.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60558-bandai-maqueta-at-st-1-48.html",
+          "price": 40.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.627503",
+          "history": [
+            {
+              "price": 40.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60559-bandai-maqueta-star-wars-tie-interceptor-1-72.html",
+          "price": 56.49,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.625658",
+          "history": [
+            {
+              "price": 56.49,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60560-revell-maqueta-star-wars-millennium-falcon-episode-iv-1-72.html",
+          "price": 40.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.623969",
+          "history": [
+            {
+              "price": 40.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60561-revell-maqueta-star-wars-razor-cres-the-mandalorian-1-72.html",
+          "price": 40.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.622162",
+          "history": [
+            {
+              "price": 40.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60562-revell-maqueta-con-acc-the-lich-king-world-of-warcraft-1-16.html",
+          "price": 25.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.620373",
+          "history": [
+            {
+              "price": 25.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60563-revell-maqueta-con-acc-the-orc-thrall-world-of-warcraft-1-16.html",
+          "price": 25.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.618390",
+          "history": [
+            {
+              "price": 25.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60564-revell-maqueta-avion-fokker-dri-richthofen-1-28.html",
+          "price": 10.29,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.616649",
+          "history": [
+            {
+              "price": 10.29,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60565-revell-maqueta-avion-f-4j-phantom-ii-1-72.html",
+          "price": 20.49,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.614695",
+          "history": [
+            {
+              "price": 20.49,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60566-revell-maqueta-avion-p-51d-mustang-1-72.html",
+          "price": 10.29,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.612949",
+          "history": [
+            {
+              "price": 10.29,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60567-revell-maqueta-avion-f-a-18f-super-hornet-1-72.html",
+          "price": 40.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.611197",
+          "history": [
+            {
+              "price": 40.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60568-revell-maqueta-avion-focke-wulf-fw190-f-8-1-72.html",
+          "price": 25.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.609371",
+          "history": [
+            {
+              "price": 25.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60569-revell-maqueta-avion-b-17f-memphis-belle-1-72.html",
+          "price": 61.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.607447",
+          "history": [
+            {
+              "price": 61.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60570-revell-helicoptero-nh90-nfh-navy-1-72.html",
+          "price": 51.49,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-14T14:04:39.604217",
+          "history": [
+            {
+              "price": 51.49,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60512-world-order.html",
+          "price": 64.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-11T15:03:35.986361",
+          "history": [
+            {
+              "price": 64.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60513-world-order-diplomacia-y-dominio.html",
+          "price": 19.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-11T15:03:35.984187",
+          "history": [
+            {
+              "price": 19.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60514-world-order-un-mundo-en-crisis.html",
+          "price": 19.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-11T15:03:35.910562",
+          "history": [
+            {
+              "price": 19.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60456-riftbound-legacy-booster-ingles.html",
+          "price": 6.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.000732",
+          "history": [
+            {
+              "price": 6.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60469-necromunda-house-orlock-dice.html",
+          "price": 16.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.976403",
+          "history": [
+            {
+              "price": 16.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60470-necromunda-orlock-card-pack-ingles.html",
+          "price": 16.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.972886",
+          "history": [
+            {
+              "price": 16.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Delta",
       "is_new": 0,
@@ -320,109 +807,6 @@
               "original_price": 47.99,
               "discount_pct": 12.0,
               "date": "2026-11-12"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pre-pedido",
-      "is_new": 0,
-      "first_seen": "2026-11-11T15:03:35.986361",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60512-world-order.html",
-          "price": 64.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-11T15:03:35.986361",
-          "history": [
-            {
-              "price": 64.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-11"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60513-world-order-diplomacia-y-dominio.html",
-          "price": 19.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-11T15:03:35.984187",
-          "history": [
-            {
-              "price": 19.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-11"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60514-world-order-un-mundo-en-crisis.html",
-          "price": 19.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-11T15:03:35.910562",
-          "history": [
-            {
-              "price": 19.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-11"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60456-riftbound-legacy-booster-ingles.html",
-          "price": 6.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.000732",
-          "history": [
-            {
-              "price": 6.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60469-necromunda-house-orlock-dice.html",
-          "price": 16.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.976403",
-          "history": [
-            {
-              "price": 16.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60470-necromunda-orlock-card-pack-ingles.html",
-          "price": 16.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.972886",
-          "history": [
-            {
-              "price": 16.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
             }
           ]
         }
@@ -35886,12 +36270,6 @@
           "discount_pct": 76.0,
           "scraped_at": "2026-11-13T15:15:59.340541",
           "history": [
-            {
-              "price": 26.96,
-              "original_price": 29.95,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 7.0,
               "original_price": 29.95,
