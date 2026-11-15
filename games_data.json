@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:06:02.534465",
+  "generated_at": "2026-11-15T14:42:12.039632",
   "total": 2354,
   "total_raw": 2600,
   "games": [
@@ -38059,16 +38059,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/7-wonders/47285-7-wonders-architects-5425016925690.html",
-          "price": 36.95,
+          "price": 27.0,
           "original_price": 41.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:20.221977",
+          "discount_pct": 35.0,
+          "scraped_at": "2026-11-15T14:40:32.379027",
           "history": [
             {
               "price": 36.95,
               "original_price": 41.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 27.0,
+              "original_price": 41.99,
+              "discount_pct": 35.0,
+              "date": "2026-11-15"
             }
           ]
         }
