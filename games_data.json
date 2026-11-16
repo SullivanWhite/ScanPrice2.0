@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-11-15T14:42:12.039632",
-  "total": 2354,
-  "total_raw": 2600,
+  "generated_at": "2026-11-16T16:58:49.188030",
+  "total": 2358,
+  "total_raw": 2604,
   "games": [
+    {
+      "name": "Rolling Heights + Expansiones",
+      "is_new": 0,
+      "first_seen": "2026-11-16T16:57:05.712051",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61968-rolling-heights-expansiones.html",
+          "price": 70.4,
+          "original_price": 80.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-16T16:57:05.712051",
+          "history": [
+            {
+              "price": 70.4,
+              "original_price": 80.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York: Fundas",
+      "is_new": 0,
+      "first_seen": "2026-11-16T16:57:05.707726",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62003-escape-from-new-york-fundas-8436564814319.html",
+          "price": 5.0,
+          "original_price": 8.95,
+          "discount_pct": 44.0,
+          "scraped_at": "2026-11-16T16:57:05.707726",
+          "history": [
+            {
+              "price": 5.0,
+              "original_price": 8.95,
+              "discount_pct": 44.0,
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York: Tapete",
+      "is_new": 0,
+      "first_seen": "2026-11-16T16:55:29.332393",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62002-escape-from-new-york-tapete-8436564813831.html",
+          "price": 20.0,
+          "original_price": 39.95,
+          "discount_pct": 49.0,
+          "scraped_at": "2026-11-16T16:55:29.332393",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 39.95,
+              "discount_pct": 49.0,
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Desierto Prohibido",
+      "is_new": 0,
+      "first_seen": "2026-11-16T16:55:29.321956",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/35230-el-desierto-prohibido-8436017221213.html",
+          "price": 24.3,
+          "original_price": 27.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-16T16:55:29.321956",
+          "history": [
+            {
+              "price": 24.3,
+              "original_price": 27.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Pre-pedido",
       "is_new": 0,
@@ -682,16 +774,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55181-escape-from-new-york-8058697271236.html",
-          "price": 14.0,
+          "price": 15.0,
           "original_price": 34.95,
-          "discount_pct": 59.0,
-          "scraped_at": "2026-11-12T15:55:56.406209",
+          "discount_pct": 57.0,
+          "scraped_at": "2026-11-16T16:55:29.336523",
           "history": [
             {
               "price": 14.0,
               "original_price": 34.95,
               "discount_pct": 59.0,
               "date": "2026-11-12"
+            },
+            {
+              "price": 15.0,
+              "original_price": 34.95,
+              "discount_pct": 57.0,
+              "date": "2026-11-16"
             }
           ]
         }
@@ -705,16 +803,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55182-escape-from-new-york-bandas-de-nueva-york-8436564813848.html",
-          "price": 13.0,
+          "price": 14.0,
           "original_price": 32.95,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-11-12T15:55:56.403637",
+          "discount_pct": 57.0,
+          "scraped_at": "2026-11-16T16:57:05.710664",
           "history": [
             {
               "price": 13.0,
               "original_price": 32.95,
               "discount_pct": 60.0,
               "date": "2026-11-12"
+            },
+            {
+              "price": 14.0,
+              "original_price": 32.95,
+              "discount_pct": 57.0,
+              "date": "2026-11-16"
             }
           ]
         }
@@ -728,16 +832,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55183-escape-from-new-york-the-president-8058697271243.html",
-          "price": 3.5,
+          "price": 4.0,
           "original_price": 7.95,
-          "discount_pct": 55.0,
-          "scraped_at": "2026-11-12T15:55:56.400183",
+          "discount_pct": 49.0,
+          "scraped_at": "2026-11-16T16:55:29.335019",
           "history": [
             {
               "price": 3.5,
               "original_price": 7.95,
               "discount_pct": 55.0,
               "date": "2026-11-12"
+            },
+            {
+              "price": 4.0,
+              "original_price": 7.95,
+              "discount_pct": 49.0,
+              "date": "2026-11-16"
             }
           ]
         }
@@ -31803,16 +31913,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/el-rey-de-la-montana/44481-el-rey-de-la-montana-8436564811646.html",
-          "price": 20.0,
+          "price": 15.0,
           "original_price": 49.95,
-          "discount_pct": 59.0,
-          "scraped_at": "2026-05-22T06:00:52.250317",
+          "discount_pct": 69.0,
+          "scraped_at": "2026-11-16T16:57:05.714100",
           "history": [
             {
               "price": 20.0,
               "original_price": 49.95,
               "discount_pct": 59.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 49.95,
+              "discount_pct": 69.0,
+              "date": "2026-11-16"
             }
           ]
         }
@@ -38064,12 +38180,6 @@
           "discount_pct": 35.0,
           "scraped_at": "2026-11-15T14:40:32.379027",
           "history": [
-            {
-              "price": 36.95,
-              "original_price": 41.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 27.0,
               "original_price": 41.99,
