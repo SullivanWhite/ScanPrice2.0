@@ -1,95 +1,106 @@
 {
-  "generated_at": "2026-11-16T16:58:49.188030",
+  "generated_at": "2026-11-17T16:51:58.187960",
   "total": 2358,
-  "total_raw": 2604,
+  "total_raw": 2630,
   "games": [
     {
-      "name": "Rolling Heights + Expansiones",
+      "name": "Pre-pedido-10%",
       "is_new": 0,
-      "first_seen": "2026-11-16T16:57:05.712051",
+      "first_seen": "2026-11-17T16:51:30.856924",
       "prices": [
         {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/61968-rolling-heights-expansiones.html",
-          "price": 70.4,
-          "original_price": 80.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-11-16T16:57:05.712051",
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60619-bundle-de-nauctis-the-sunken-realm-ingles.html",
+          "price": 59.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.856924",
           "history": [
             {
-              "price": 70.4,
-              "original_price": 80.0,
-              "discount_pct": 12.0,
-              "date": "2026-11-16"
+              "price": 59.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Escape From New York: Fundas",
-      "is_new": 0,
-      "first_seen": "2026-11-16T16:57:05.707726",
-      "prices": [
+        },
         {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/62003-escape-from-new-york-fundas-8436564814319.html",
-          "price": 5.0,
-          "original_price": 8.95,
-          "discount_pct": 44.0,
-          "scraped_at": "2026-11-16T16:57:05.707726",
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60639-heretic-naval-raiders.html",
+          "price": 34.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.835982",
           "history": [
             {
-              "price": 5.0,
-              "original_price": 8.95,
-              "discount_pct": 44.0,
-              "date": "2026-11-16"
+              "price": 34.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Escape From New York: Tapete",
-      "is_new": 0,
-      "first_seen": "2026-11-16T16:55:29.332393",
-      "prices": [
+        },
         {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/62002-escape-from-new-york-tapete-8436564813831.html",
-          "price": 20.0,
-          "original_price": 39.95,
-          "discount_pct": 49.0,
-          "scraped_at": "2026-11-16T16:55:29.332393",
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60640-leper-pilgrims.html",
+          "price": 34.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.834974",
           "history": [
             {
-              "price": 20.0,
-              "original_price": 39.95,
-              "discount_pct": 49.0,
-              "date": "2026-11-16"
+              "price": 34.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "El Desierto Prohibido",
-      "is_new": 0,
-      "first_seen": "2026-11-16T16:55:29.321956",
-      "prices": [
+        },
         {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/35230-el-desierto-prohibido-8436017221213.html",
-          "price": 24.3,
-          "original_price": 27.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-16T16:55:29.321956",
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60641-starcraft-two-player-starter-set-purification.html",
+          "price": 199.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.833933",
           "history": [
             {
-              "price": 24.3,
-              "original_price": 27.0,
-              "discount_pct": 10.0,
-              "date": "2026-11-16"
+              "price": 199.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60642-starcraft-firebat-terran.html",
+          "price": 44.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.831520",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60449-the-old-world-tomb-kings-of-khemri-dice.html",
+          "price": 36.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.008457",
+          "history": [
+            {
+              "price": 36.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
             }
           ]
         }
@@ -98,8 +109,216 @@
     {
       "name": "Pre-pedido",
       "is_new": 0,
-      "first_seen": "2026-11-14T14:04:39.647471",
+      "first_seen": "2026-11-17T16:51:30.855935",
       "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60620-caja-de-sobres-de-coleccionista-de-nauctis-the-sunken-realm-ingles-12.html",
+          "price": 354.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.855935",
+          "history": [
+            {
+              "price": 354.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60623-entrada-de-presentacion-de-nauctis-the-sunken-realm.html",
+          "price": 36.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.852876",
+          "history": [
+            {
+              "price": 36.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60624-gift-bundle-nauctis-the-sunken-realm-ingles.html",
+          "price": 124.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.851892",
+          "history": [
+            {
+              "price": 124.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60625-draft-night-de-nauctis-the-sunken-realm-ingles.html",
+          "price": 118.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.850956",
+          "history": [
+            {
+              "price": 118.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60626-pack-mazos-de-commander-de-nauctis-the-sunken-realm-ingles-4.html",
+          "price": 213.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.849981",
+          "history": [
+            {
+              "price": 213.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60627-pack-mazos-de-commander-de-nauctis-the-sunken-realm-castellano-4.html",
+          "price": 213.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.848852",
+          "history": [
+            {
+              "price": 213.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60629-caja-de-sobres-de-coleccionista-de-marvel-darkhold-destiny-ingles-12.html",
+          "price": 513.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.846787",
+          "history": [
+            {
+              "price": 513.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60633-entrada-de-presentacion-de-marvel-darkhold-destiny.html",
+          "price": 42.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.842403",
+          "history": [
+            {
+              "price": 42.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60634-gift-bundle-marvel-darkhold-destiny-ingles.html",
+          "price": 125.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.841379",
+          "history": [
+            {
+              "price": 125.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60635-draft-night-de-marvel-darkhold-destiny-ingles.html",
+          "price": 154.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.840175",
+          "history": [
+            {
+              "price": 154.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60636-pack-mazos-collector-de-commander-de-marvel-darkhold-destiny-ingles-4.html",
+          "price": 717.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.838915",
+          "history": [
+            {
+              "price": 717.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60637-pack-mazos-de-commander-de-marvel-darkhold-destiny-castellano-4.html",
+          "price": 315.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.837969",
+          "history": [
+            {
+              "price": 315.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60638-pack-mazos-de-commander-de-marvel-darkhold-destiny-ingles-4.html",
+          "price": 315.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.837010",
+          "history": [
+            {
+              "price": 315.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
         {
           "source": "goblintrader",
           "url": "https://goblintrader.es/es/60547-cutebee-mini-store-series-fukuoka-mentaiko-kitchen-139-piezas.html",
@@ -577,6 +796,297 @@
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-pedido-15%",
+      "is_new": 0,
+      "first_seen": "2026-11-17T16:51:30.854977",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60621-sobre-de-juego-de-nauctis-the-sunken-realm-ingles-1.html",
+          "price": 5.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.854977",
+          "history": [
+            {
+              "price": 5.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60622-sobre-de-juego-de-nauctis-the-sunken-realm-castellano-1.html",
+          "price": 5.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.853985",
+          "history": [
+            {
+              "price": 5.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60628-bundle-de-marvel-darkhold-destiny-ingles.html",
+          "price": 74.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.847850",
+          "history": [
+            {
+              "price": 74.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60630-sobre-de-juego-de-marvel-darkhold-destiny-ingles-1.html",
+          "price": 6.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.845679",
+          "history": [
+            {
+              "price": 6.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60631-sobre-de-juego-de-marvel-darkhold-destiny-castellano-1.html",
+          "price": 6.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.844504",
+          "history": [
+            {
+              "price": 6.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60632-pack-4-magic-the-gathering-cajas-de-escena-marvel-darkhold-destiny-ingles-2.html",
+          "price": 177.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.843465",
+          "history": [
+            {
+              "price": 177.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60450-tomb-kings-of-khemri-host-of-nehekhara-army-reinforcement-set.html",
+          "price": 177.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.006624",
+          "history": [
+            {
+              "price": 177.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60465-necromunda-orlock-road-warriors.html",
+          "price": 43.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.998758",
+          "history": [
+            {
+              "price": 43.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60466-necromunda-orlock-road-sergeants-cyber-mastiffs.html",
+          "price": 43.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.996551",
+          "history": [
+            {
+              "price": 43.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60467-necromunda-orlock-ogryn-minders.html",
+          "price": 36.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:41.993792",
+          "history": [
+            {
+              "price": 36.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York: Tapete",
+      "is_new": 0,
+      "first_seen": "2026-11-17T16:49:18.760664",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62002-escape-from-new-york-tapete-8058697271250.html",
+          "price": 20.0,
+          "original_price": 39.95,
+          "discount_pct": 49.0,
+          "scraped_at": "2026-11-17T16:49:18.760664",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 39.95,
+              "discount_pct": 49.0,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62002-escape-from-new-york-tapete-8436564813831.html",
+          "price": 20.0,
+          "original_price": 39.95,
+          "discount_pct": 49.0,
+          "scraped_at": "2026-11-16T16:55:29.332393",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 39.95,
+              "discount_pct": 49.0,
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escape From New York: Fundas",
+      "is_new": 0,
+      "first_seen": "2026-11-17T16:49:18.758897",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62003-escape-from-new-york-fundas-8058697271267.html",
+          "price": 5.0,
+          "original_price": 8.95,
+          "discount_pct": 44.0,
+          "scraped_at": "2026-11-17T16:49:18.758897",
+          "history": [
+            {
+              "price": 5.0,
+              "original_price": 8.95,
+              "discount_pct": 44.0,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62003-escape-from-new-york-fundas-8436564814319.html",
+          "price": 5.0,
+          "original_price": 8.95,
+          "discount_pct": 44.0,
+          "scraped_at": "2026-11-16T16:57:05.707726",
+          "history": [
+            {
+              "price": 5.0,
+              "original_price": 8.95,
+              "discount_pct": 44.0,
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rolling Heights + Expansiones",
+      "is_new": 0,
+      "first_seen": "2026-11-16T16:57:05.712051",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61968-rolling-heights-expansiones.html",
+          "price": 70.4,
+          "original_price": 80.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-16T16:57:05.712051",
+          "history": [
+            {
+              "price": 70.4,
+              "original_price": 80.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Desierto Prohibido",
+      "is_new": 0,
+      "first_seen": "2026-11-16T16:55:29.321956",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/35230-el-desierto-prohibido-8436017221213.html",
+          "price": 24.3,
+          "original_price": 27.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-16T16:55:29.321956",
+          "history": [
+            {
+              "price": 24.3,
+              "original_price": 27.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-16"
             }
           ]
         }
@@ -2296,100 +2806,6 @@
       ]
     },
     {
-      "name": "Pre-pedido-10%",
-      "is_new": 0,
-      "first_seen": "2026-11-04T15:20:42.008457",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60449-the-old-world-tomb-kings-of-khemri-dice.html",
-          "price": 36.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.008457",
-          "history": [
-            {
-              "price": 36.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pre-pedido-15%",
-      "is_new": 0,
-      "first_seen": "2026-11-04T15:20:42.006624",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60450-tomb-kings-of-khemri-host-of-nehekhara-army-reinforcement-set.html",
-          "price": 177.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.006624",
-          "history": [
-            {
-              "price": 177.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60465-necromunda-orlock-road-warriors.html",
-          "price": 43.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.998758",
-          "history": [
-            {
-              "price": 43.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60466-necromunda-orlock-road-sergeants-cyber-mastiffs.html",
-          "price": 43.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.996551",
-          "history": [
-            {
-              "price": 43.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60467-necromunda-orlock-ogryn-minders.html",
-          "price": 36.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:41.993792",
-          "history": [
-            {
-              "price": 36.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Pre-pedido-5%",
       "is_new": 0,
       "first_seen": "2026-11-04T15:20:41.983518",
@@ -2829,16 +3245,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58151-finca-8436607947684.html",
-          "price": 31.5,
+          "price": 17.5,
           "original_price": 35.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-08-14T08:22:48.365438",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.502879",
           "history": [
             {
               "price": 31.5,
               "original_price": 35.0,
               "discount_pct": 10.0,
               "date": "2026-08-14"
+            },
+            {
+              "price": 17.5,
+              "original_price": 35.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         },
@@ -13747,16 +14169,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55457-pequenos-grandes-vikingos-8436607942832.html",
-          "price": 27.0,
+          "price": 15.0,
           "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:20.187500",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.501180",
           "history": [
             {
               "price": 27.0,
               "original_price": 30.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 30.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -25757,16 +26185,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/48712-las-aventuras-de-robin-hood-8436589624573.html",
-          "price": 44.0,
+          "price": 25.0,
           "original_price": 50.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:15.699684",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.499465",
           "history": [
             {
               "price": 44.0,
               "original_price": 50.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 25.0,
+              "original_price": 50.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -27649,16 +28083,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54964-pacifica-8436607943426.html",
-          "price": 22.5,
+          "price": 12.5,
           "original_price": 25.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:38.684712",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.501836",
           "history": [
             {
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 12.5,
+              "original_price": 25.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -28302,16 +28742,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/cthulhu-death-may-die/56036-cthulhu-death-may-die-miedo-a-lo-desconocido-8435407641846.html",
-          "price": 96.8,
-          "original_price": 110.0,
+          "price": 105.59,
+          "original_price": 119.99,
           "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:01:14.247625",
+          "scraped_at": "2026-11-17T16:50:57.884177",
           "history": [
             {
               "price": 96.8,
               "original_price": 110.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 105.59,
+              "original_price": 119.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -28463,16 +28909,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/cthulhu-death-may-die/56037-cthulhu-death-may-die-expansion-temporada-4-8435407641853.html",
-          "price": 70.39,
-          "original_price": 79.99,
+          "price": 79.19,
+          "original_price": 89.99,
           "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:01:14.230355",
+          "scraped_at": "2026-11-17T16:50:57.885118",
           "history": [
             {
               "price": 70.39,
               "original_price": 79.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 79.19,
+              "original_price": 89.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -31844,16 +32296,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/55549-las-aventuras-de-robin-hood-el-fraile-tuck-en-peligro-8436607944072.html",
-          "price": 27.0,
+          "price": 15.0,
           "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:56.898822",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.498970",
           "history": [
             {
               "price": 27.0,
               "original_price": 30.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 30.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -31918,12 +32376,6 @@
           "discount_pct": 69.0,
           "scraped_at": "2026-11-16T16:57:05.714100",
           "history": [
-            {
-              "price": 20.0,
-              "original_price": 49.95,
-              "discount_pct": 59.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 15.0,
               "original_price": 49.95,
@@ -34219,16 +34671,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/54438-karvi-8436607942870.html",
-          "price": 52.8,
+          "price": 30.0,
           "original_price": 60.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:43.312877",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.502357",
           "history": [
             {
               "price": 52.8,
               "original_price": 60.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 30.0,
+              "original_price": 60.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -35254,16 +35712,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58523-red-carpet-8436607947936.html",
-          "price": 24.3,
+          "price": 13.5,
           "original_price": 27.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:38.682563",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.500654",
           "history": [
             {
               "price": 24.3,
               "original_price": 27.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 13.5,
+              "original_price": 27.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -36013,16 +36477,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/57764-tir-na-nog-8436607947707.html",
-          "price": 32.4,
+          "price": 18.0,
           "original_price": 36.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:33.955743",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.498452",
           "history": [
             {
               "price": 32.4,
               "original_price": 36.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 18.0,
+              "original_price": 36.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -36220,16 +36690,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/47752-bitoku-8436589624832.html",
-          "price": 52.8,
+          "price": 30.0,
           "original_price": 60.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:33.935396",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.503659",
           "history": [
             {
               "price": 52.8,
               "original_price": 60.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 30.0,
+              "original_price": 60.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -39095,16 +39571,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/clank/48630-clank-en-el-espacio-8436589623934.html",
-          "price": 48.4,
+          "price": 27.5,
           "original_price": 55.0,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:15.709945",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.494814",
           "history": [
             {
               "price": 48.4,
               "original_price": 55.0,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 27.5,
+              "original_price": 55.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -40751,16 +41233,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/32408-genial-8436607941330.html",
-          "price": 22.5,
+          "price": 12.5,
           "original_price": 25.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-07-29T09:45:37.855498",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.497149",
           "history": [
             {
               "price": 22.5,
               "original_price": 25.0,
               "discount_pct": 10.0,
               "date": "2026-07-29"
+            },
+            {
+              "price": 12.5,
+              "original_price": 25.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -42407,16 +42895,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58618-ziggurat-8436607947424.html",
-          "price": 33.3,
+          "price": 18.5,
           "original_price": 37.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:00.184305",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.497926",
           "history": [
             {
               "price": 33.3,
               "original_price": 37.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 18.5,
+              "original_price": 37.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
@@ -43701,16 +44195,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/the-red-cathedral/45039-the-red-cathedral-8436589621046.html",
-          "price": 27.0,
+          "price": 15.0,
           "original_price": 30.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:51.593224",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-17T16:49:15.500128",
           "history": [
             {
               "price": 27.0,
               "original_price": 30.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 15.0,
+              "original_price": 30.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-17"
             }
           ]
         }
