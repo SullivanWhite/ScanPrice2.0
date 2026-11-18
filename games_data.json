@@ -1,13 +1,77 @@
 {
-  "generated_at": "2026-11-17T16:51:58.187960",
-  "total": 2358,
-  "total_raw": 2630,
+  "generated_at": "2026-11-18T16:23:59.694822",
+  "total": 2368,
+  "total_raw": 2647,
   "games": [
     {
       "name": "Pre-pedido-10%",
       "is_new": 0,
-      "first_seen": "2026-11-17T16:51:30.856924",
+      "first_seen": "2026-11-18T16:22:42.493048",
       "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60641-starcraft-two-player-starter-set-purification-ingles.html",
+          "price": 199.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.493048",
+          "history": [
+            {
+              "price": 199.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60646-carrera-de-granjas.html",
+          "price": 49.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.487743",
+          "history": [
+            {
+              "price": 49.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60648-mcp-nefarious-lawbreakers-character-pack.html",
+          "price": 59.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.482944",
+          "history": [
+            {
+              "price": 59.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60650-swl-b1-battle-droid-upgrades.html",
+          "price": 34.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.477059",
+          "history": [
+            {
+              "price": 34.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
         {
           "source": "goblintrader",
           "url": "https://goblintrader.es/es/60619-bundle-de-nauctis-the-sunken-realm-ingles.html",
@@ -109,8 +173,56 @@
     {
       "name": "Pre-pedido",
       "is_new": 0,
-      "first_seen": "2026-11-17T16:51:30.855935",
+      "first_seen": "2026-11-18T16:22:42.489999",
       "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60643-mlp-tcg-hearth-s-warming-eve-booster-1.html",
+          "price": 3.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.489999",
+          "history": [
+            {
+              "price": 3.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60647-los-calibradores.html",
+          "price": 19.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.485550",
+          "history": [
+            {
+              "price": 19.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60649-star-wars-deckbuilding-game-pirates.html",
+          "price": 17.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.479972",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
         {
           "source": "goblintrader",
           "url": "https://goblintrader.es/es/60620-caja-de-sobres-de-coleccionista-de-nauctis-the-sunken-realm-ingles-12.html",
@@ -796,6 +908,236 @@
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terraforming Mars: Expedición Ares (Cartas Promo 2)",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:23.846689",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/terraforming-mars-expedicion-ares/62027-terraforming-mars-expedicion-ares-cartas-promo-2.html",
+          "price": 7.2,
+          "original_price": 8.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-18T16:22:23.846689",
+          "history": [
+            {
+              "price": 7.2,
+              "original_price": 8.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - El Ascenso del Dragon no muerto",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.778522",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62026-cronicas-de-drunagor-la-era-de-la-oscuridad-el-ascenso-del-dragon-no-muerto.html",
+          "price": 44.0,
+          "original_price": 50.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-18T16:22:20.778522",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": 50.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - Darkness Dice Set",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.775901",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62025-cronicas-de-drunagor-la-era-de-la-oscuridad-darkness-dice-set.html",
+          "price": 18.0,
+          "original_price": 20.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-18T16:22:20.775901",
+          "history": [
+            {
+              "price": 18.0,
+              "original_price": 20.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Una Aventura Salvaje: Mazo de Festejos",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.772454",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61914-una-aventura-salvaje-mazo-de-festejos-8436625619204.html",
+          "price": 8.1,
+          "original_price": 9.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-18T16:22:20.772454",
+          "history": [
+            {
+              "price": 8.1,
+              "original_price": 9.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Una Aventura Salvaje: Mazo de Senderos",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.770198",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61913-una-aventura-salvaje-mazo-de-senderos-8436625619181.html",
+          "price": 8.1,
+          "original_price": 9.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-18T16:22:20.770198",
+          "history": [
+            {
+              "price": 8.1,
+              "original_price": 9.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cronicas de Drunagor: La Era de la Oscuridad - Build Your Own Dungeon",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.767125",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62024-cronicas-de-drunagor-la-era-de-la-oscuridad-build-your-own-dungeon.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-18T16:22:20.767125",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honey Buzz: Deluxe Components",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.764246",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62023-honey-buzz-deluxe-components.html",
+          "price": 27.0,
+          "original_price": 30.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-18T16:22:20.764246",
+          "history": [
+            {
+              "price": 27.0,
+              "original_price": 30.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terraforming Mars: Expedición Ares - Descubrimiento",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.761143",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/terraforming-mars-expedicion-ares/62028-terraforming-mars-expedicion-ares-descubrimiento.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-18T16:22:20.761143",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Endeavor: La Era de la Expansión",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:22:20.758032",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/endeavor/43552-endeavor-la-era-de-la-expansion-8436578811557.html",
+          "price": 20.0,
+          "original_price": 25.0,
+          "discount_pct": 20.0,
+          "scraped_at": "2026-11-18T16:22:20.758032",
+          "history": [
+            {
+              "price": 20.0,
+              "original_price": 25.0,
+              "discount_pct": 20.0,
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boss Fighters QR",
+      "is_new": 0,
+      "first_seen": "2026-11-18T16:20:44.361992",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62036-boss-fighters-qr-8436625618825.html",
+          "price": 39.6,
+          "original_price": 45.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-18T16:20:44.361992",
+          "history": [
+            {
+              "price": 39.6,
+              "original_price": 45.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-18"
             }
           ]
         }
@@ -3250,12 +3592,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-11-17T16:49:15.502879",
           "history": [
-            {
-              "price": 31.5,
-              "original_price": 35.0,
-              "discount_pct": 10.0,
-              "date": "2026-08-14"
-            },
             {
               "price": 17.5,
               "original_price": 35.0,
@@ -14174,12 +14510,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-11-17T16:49:15.501180",
           "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 15.0,
               "original_price": 30.0,
@@ -26191,12 +26521,6 @@
           "scraped_at": "2026-11-17T16:49:15.499465",
           "history": [
             {
-              "price": 44.0,
-              "original_price": 50.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 25.0,
               "original_price": 50.0,
               "discount_pct": 50.0,
@@ -28089,12 +28413,6 @@
           "scraped_at": "2026-11-17T16:49:15.501836",
           "history": [
             {
-              "price": 22.5,
-              "original_price": 25.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 12.5,
               "original_price": 25.0,
               "discount_pct": 50.0,
@@ -28748,12 +29066,6 @@
           "scraped_at": "2026-11-17T16:50:57.884177",
           "history": [
             {
-              "price": 96.8,
-              "original_price": 110.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 105.59,
               "original_price": 119.99,
               "discount_pct": 12.0,
@@ -28914,12 +29226,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-11-17T16:50:57.885118",
           "history": [
-            {
-              "price": 70.39,
-              "original_price": 79.99,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 79.19,
               "original_price": 89.99,
@@ -32302,12 +32608,6 @@
           "scraped_at": "2026-11-17T16:49:15.498970",
           "history": [
             {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 15.0,
               "original_price": 30.0,
               "discount_pct": 50.0,
@@ -34677,12 +34977,6 @@
           "scraped_at": "2026-11-17T16:49:15.502357",
           "history": [
             {
-              "price": 52.8,
-              "original_price": 60.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 30.0,
               "original_price": 60.0,
               "discount_pct": 50.0,
@@ -35718,12 +36012,6 @@
           "scraped_at": "2026-11-17T16:49:15.500654",
           "history": [
             {
-              "price": 24.3,
-              "original_price": 27.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 13.5,
               "original_price": 27.0,
               "discount_pct": 50.0,
@@ -36483,12 +36771,6 @@
           "scraped_at": "2026-11-17T16:49:15.498452",
           "history": [
             {
-              "price": 32.4,
-              "original_price": 36.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 18.0,
               "original_price": 36.0,
               "discount_pct": 50.0,
@@ -36695,12 +36977,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-11-17T16:49:15.503659",
           "history": [
-            {
-              "price": 52.8,
-              "original_price": 60.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 30.0,
               "original_price": 60.0,
@@ -39577,12 +39853,6 @@
           "scraped_at": "2026-11-17T16:49:15.494814",
           "history": [
             {
-              "price": 48.4,
-              "original_price": 55.0,
-              "discount_pct": 12.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 27.5,
               "original_price": 55.0,
               "discount_pct": 50.0,
@@ -41238,12 +41508,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-11-17T16:49:15.497149",
           "history": [
-            {
-              "price": 22.5,
-              "original_price": 25.0,
-              "discount_pct": 10.0,
-              "date": "2026-07-29"
-            },
             {
               "price": 12.5,
               "original_price": 25.0,
@@ -42901,12 +43165,6 @@
           "scraped_at": "2026-11-17T16:49:15.497926",
           "history": [
             {
-              "price": 33.3,
-              "original_price": 37.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
-            {
               "price": 18.5,
               "original_price": 37.0,
               "discount_pct": 50.0,
@@ -44200,12 +44458,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-11-17T16:49:15.500128",
           "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 15.0,
               "original_price": 30.0,
@@ -56460,16 +56712,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/carcassonne/50464-niebla-en-carcassonne-8436589628229.html",
-          "price": 28.8,
+          "price": 16.0,
           "original_price": 32.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:58:46.748487",
+          "discount_pct": 50.0,
+          "scraped_at": "2026-11-18T16:20:44.374939",
           "history": [
             {
               "price": 28.8,
               "original_price": 32.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 16.0,
+              "original_price": 32.0,
+              "discount_pct": 50.0,
+              "date": "2026-11-18"
             }
           ]
         }
