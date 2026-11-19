@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-18T16:23:59.694822",
-  "total": 2368,
-  "total_raw": 2647,
+  "generated_at": "2026-11-19T16:32:28.786686",
+  "total": 2369,
+  "total_raw": 2648,
   "games": [
+    {
+      "name": "Terraplanismo",
+      "is_new": 0,
+      "first_seen": "2026-11-19T16:29:02.471561",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62064-terraplanismo-810171414144.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-19T16:29:02.471561",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-11-19"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Pre-pedido-10%",
       "is_new": 0,
@@ -56717,12 +56740,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-11-18T16:20:44.374939",
           "history": [
-            {
-              "price": 28.8,
-              "original_price": 32.0,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            },
             {
               "price": 16.0,
               "original_price": 32.0,
