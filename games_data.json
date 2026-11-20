@@ -1,203 +1,301 @@
 {
-  "generated_at": "2026-11-19T16:32:28.786686",
-  "total": 2369,
-  "total_raw": 2648,
+  "generated_at": "2026-11-20T16:03:22.464520",
+  "total": 2370,
+  "total_raw": 2671,
   "games": [
-    {
-      "name": "Terraplanismo",
-      "is_new": 0,
-      "first_seen": "2026-11-19T16:29:02.471561",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/62064-terraplanismo-810171414144.html",
-          "price": 17.99,
-          "original_price": 19.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-19T16:29:02.471561",
-          "history": [
-            {
-              "price": 17.99,
-              "original_price": 19.99,
-              "discount_pct": 10.0,
-              "date": "2026-11-19"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Pre-pedido-10%",
-      "is_new": 0,
-      "first_seen": "2026-11-18T16:22:42.493048",
-      "prices": [
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60641-starcraft-two-player-starter-set-purification-ingles.html",
-          "price": 199.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-18T16:22:42.493048",
-          "history": [
-            {
-              "price": 199.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-18"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60646-carrera-de-granjas.html",
-          "price": 49.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-18T16:22:42.487743",
-          "history": [
-            {
-              "price": 49.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-18"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60648-mcp-nefarious-lawbreakers-character-pack.html",
-          "price": 59.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-18T16:22:42.482944",
-          "history": [
-            {
-              "price": 59.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-18"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60650-swl-b1-battle-droid-upgrades.html",
-          "price": 34.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-18T16:22:42.477059",
-          "history": [
-            {
-              "price": 34.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-18"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60619-bundle-de-nauctis-the-sunken-realm-ingles.html",
-          "price": 59.95,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-17T16:51:30.856924",
-          "history": [
-            {
-              "price": 59.95,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-17"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60639-heretic-naval-raiders.html",
-          "price": 34.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-17T16:51:30.835982",
-          "history": [
-            {
-              "price": 34.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-17"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60640-leper-pilgrims.html",
-          "price": 34.99,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-17T16:51:30.834974",
-          "history": [
-            {
-              "price": 34.99,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-17"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60641-starcraft-two-player-starter-set-purification.html",
-          "price": 199.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-17T16:51:30.833933",
-          "history": [
-            {
-              "price": 199.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-17"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/es/60642-starcraft-firebat-terran.html",
-          "price": 44.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-17T16:51:30.831520",
-          "history": [
-            {
-              "price": 44.0,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-17"
-            }
-          ]
-        },
-        {
-          "source": "goblintrader",
-          "url": "https://goblintrader.es/60449-the-old-world-tomb-kings-of-khemri-dice.html",
-          "price": 36.5,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-04T15:20:42.008457",
-          "history": [
-            {
-              "price": 36.5,
-              "original_price": null,
-              "discount_pct": null,
-              "date": "2026-11-04"
-            }
-          ]
-        }
-      ]
-    },
     {
       "name": "Pre-pedido",
       "is_new": 0,
-      "first_seen": "2026-11-18T16:22:42.489999",
+      "first_seen": "2026-11-20T16:02:08.305323",
       "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60733-1-35-russian-tank-bt-7-model-1937.html",
+          "price": 39.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.305323",
+          "history": [
+            {
+              "price": 39.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60734-1-35-us-sherman-easy-eight-korean-war.html",
+          "price": 37.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.302867",
+          "history": [
+            {
+              "price": 37.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60736-1-35-m551-sheridan-vietnam.html",
+          "price": 45.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.300321",
+          "history": [
+            {
+              "price": 45.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60737-1-35-french-light-tank-r35.html",
+          "price": 23.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.297641",
+          "history": [
+            {
+              "price": 23.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60781-1-35-german-main-battle-tank-leopard-2a4-ukraine.html",
+          "price": 63.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.290963",
+          "history": [
+            {
+              "price": 63.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60782-1-35-german-main-battle-tank-leopard-2a6.html",
+          "price": 63.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.288640",
+          "history": [
+            {
+              "price": 63.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60783-1-72-dune-atreides-ornithopter.html",
+          "price": 69.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.286219",
+          "history": [
+            {
+              "price": 69.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60784-1-72-us-m142-himars-high-mobility-artillery-rocket-system.html",
+          "price": 13.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.284009",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60785-1-35-ah-64d-saraf-heavy-attack-helicopter-israeli-air-force-special-edition-incl-two-resin-figures.html",
+          "price": 113.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.281673",
+          "history": [
+            {
+              "price": 113.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60786-dune-spice-harvester.html",
+          "price": 12.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.278927",
+          "history": [
+            {
+              "price": 12.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60787-1-35-british-mastiff-2-6x6-wheeled-protected-patrol-vehicle.html",
+          "price": 70.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.276719",
+          "history": [
+            {
+              "price": 70.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60788-1-35-pla-ztq15-light-tank-w-add-on-armor.html",
+          "price": 86.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.274352",
+          "history": [
+            {
+              "price": 86.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60790-1-35-british-main-battle-tank-chieftain-mk10.html",
+          "price": 72.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.272205",
+          "history": [
+            {
+              "price": 72.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60791-1-35-british-fv510-warrior-tesh-aifv.html",
+          "price": 63.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.269884",
+          "history": [
+            {
+              "price": 63.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60792-1-35-m4a3e2-jumbo-us-assault-tank.html",
+          "price": 62.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.267680",
+          "history": [
+            {
+              "price": 62.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60794-1-35-us-medium-tank-m4a3-76-w.html",
+          "price": 62.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.265303",
+          "history": [
+            {
+              "price": 62.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60795-1-35-boeing-ah-64d-apache-longbow-heavy-attack-helicopter.html",
+          "price": 118.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.262447",
+          "history": [
+            {
+              "price": 118.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60800-gobag-neo.html",
+          "price": 99.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.252225",
+          "history": [
+            {
+              "price": 99.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
         {
           "source": "goblintrader",
           "url": "https://goblintrader.es/es/60643-mlp-tcg-hearth-s-warming-eve-booster-1.html",
@@ -931,6 +1029,283 @@
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-pedido-10%",
+      "is_new": 0,
+      "first_seen": "2026-11-20T16:02:08.293314",
+      "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60740-militant-monks-24.html",
+          "price": 38.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.293314",
+          "history": [
+            {
+              "price": 38.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60796-warring-states-unarmored-infantry-24.html",
+          "price": 34.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.260287",
+          "history": [
+            {
+              "price": 34.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60797-warring-states-cavalry-12.html",
+          "price": 34.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.258025",
+          "history": [
+            {
+              "price": 34.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60798-warring-states-chariots-and-command.html",
+          "price": 34.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-20T16:02:08.255185",
+          "history": [
+            {
+              "price": 34.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60641-starcraft-two-player-starter-set-purification-ingles.html",
+          "price": 199.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.493048",
+          "history": [
+            {
+              "price": 199.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60646-carrera-de-granjas.html",
+          "price": 49.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.487743",
+          "history": [
+            {
+              "price": 49.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60648-mcp-nefarious-lawbreakers-character-pack.html",
+          "price": 59.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.482944",
+          "history": [
+            {
+              "price": 59.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60650-swl-b1-battle-droid-upgrades.html",
+          "price": 34.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-18T16:22:42.477059",
+          "history": [
+            {
+              "price": 34.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60619-bundle-de-nauctis-the-sunken-realm-ingles.html",
+          "price": 59.95,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.856924",
+          "history": [
+            {
+              "price": 59.95,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60639-heretic-naval-raiders.html",
+          "price": 34.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.835982",
+          "history": [
+            {
+              "price": 34.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60640-leper-pilgrims.html",
+          "price": 34.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.834974",
+          "history": [
+            {
+              "price": 34.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60641-starcraft-two-player-starter-set-purification.html",
+          "price": 199.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.833933",
+          "history": [
+            {
+              "price": 199.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60642-starcraft-firebat-terran.html",
+          "price": 44.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-17T16:51:30.831520",
+          "history": [
+            {
+              "price": 44.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/60449-the-old-world-tomb-kings-of-khemri-dice.html",
+          "price": 36.5,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-04T15:20:42.008457",
+          "history": [
+            {
+              "price": 36.5,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diables (+ Promo)",
+      "is_new": 0,
+      "first_seen": "2026-11-20T16:00:10.380500",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62015-diables-promo-8495390976851.html",
+          "price": 65.96,
+          "original_price": 74.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-20T16:00:10.380500",
+          "history": [
+            {
+              "price": 65.96,
+              "original_price": 74.95,
+              "discount_pct": 12.0,
+              "date": "2026-11-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terraplanismo",
+      "is_new": 0,
+      "first_seen": "2026-11-19T16:29:02.471561",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62064-terraplanismo-810171414144.html",
+          "price": 17.99,
+          "original_price": 19.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-19T16:29:02.471561",
+          "history": [
+            {
+              "price": 17.99,
+              "original_price": 19.99,
+              "discount_pct": 10.0,
+              "date": "2026-11-19"
             }
           ]
         }
@@ -8827,12 +9202,6 @@
           "discount_pct": 12.0,
           "scraped_at": "2026-09-03T12:04:22.995827",
           "history": [
-            {
-              "price": 124.0,
-              "original_price": 155.0,
-              "discount_pct": 20.0,
-              "date": "2026-08-21"
-            },
             {
               "price": 136.4,
               "original_price": 155.0,
@@ -32786,16 +33155,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/58994-1975-white-christmas-637902617397.html",
-          "price": 22.46,
-          "original_price": 24.95,
+          "price": 22.5,
+          "original_price": 25.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:52.242186",
+          "scraped_at": "2026-11-20T16:00:10.384592",
           "history": [
             {
               "price": 22.46,
               "original_price": 24.95,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-20"
             }
           ]
         }
@@ -34833,16 +35208,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/42550-circadians-primera-luz-735850848549.html",
-          "price": 39.56,
+          "price": 14.0,
           "original_price": 44.95,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-05-22T06:00:43.327136",
+          "discount_pct": 68.0,
+          "scraped_at": "2026-11-20T16:00:10.383278",
           "history": [
             {
               "price": 39.56,
               "original_price": 44.95,
               "discount_pct": 12.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 14.0,
+              "original_price": 44.95,
+              "discount_pct": 68.0,
+              "date": "2026-11-20"
             }
           ]
         }
@@ -35960,16 +36341,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/37364-1911-amundsen-vs-scott-8437007925975.html",
-          "price": 18.0,
-          "original_price": 20.0,
+          "price": 22.5,
+          "original_price": 25.0,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:00:38.691052",
+          "scraped_at": "2026-11-20T16:00:10.385662",
           "history": [
             {
               "price": 18.0,
               "original_price": 20.0,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-20"
             }
           ]
         }
@@ -44936,16 +45323,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/hidden-games-escena-del-crimen/54992-hidden-games-escena-del-crimen-una-solucion-venenosa-4260686490694.html",
-          "price": 21.51,
-          "original_price": 23.9,
+          "price": 22.41,
+          "original_price": 24.9,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:51.551164",
+          "scraped_at": "2026-11-20T16:00:10.375717",
           "history": [
             {
               "price": 21.51,
               "original_price": 23.9,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.41,
+              "original_price": 24.9,
+              "discount_pct": 10.0,
+              "date": "2026-11-20"
             }
           ]
         }
@@ -50134,16 +50527,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/hidden-games-escena-del-crimen/50690-hidden-games-escena-del-crimen-el-crimen-de-quintana-de-la-matanza-4260686490212.html",
-          "price": 21.51,
-          "original_price": 23.9,
+          "price": 22.41,
+          "original_price": 24.9,
           "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T05:59:25.406074",
+          "scraped_at": "2026-11-20T16:00:10.379319",
           "history": [
             {
               "price": 21.51,
               "original_price": 23.9,
               "discount_pct": 10.0,
               "date": "2026-05-22"
+            },
+            {
+              "price": 22.41,
+              "original_price": 24.9,
+              "discount_pct": 10.0,
+              "date": "2026-11-20"
             }
           ]
         }
