@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-11-24T18:51:13.509025",
-  "total": 2370,
-  "total_raw": 2671,
+  "generated_at": "2026-11-25T17:57:31.784684",
+  "total": 2375,
+  "total_raw": 2681,
   "games": [
     {
       "name": "Pre-pedido",
       "is_new": 0,
-      "first_seen": "2026-11-20T16:02:08.305323",
+      "first_seen": "2026-11-25T17:56:14.343154",
       "prices": [
+        {
+          "source": "goblintrader",
+          "url": "https://goblintrader.es/es/60813-cutebee-miniature-house-kissa-coffee-262-piezas.html",
+          "price": 39.99,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-25T17:56:14.343154",
+          "history": [
+            {
+              "price": 39.99,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-25"
+            }
+          ]
+        },
         {
           "source": "goblintrader",
           "url": "https://goblintrader.es/es/60733-1-35-russian-tank-bt-7-model-1937.html",
@@ -1029,6 +1045,277 @@
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu Death May Die: Expansion Temporada 4",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:55:53.962907",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/56037-cthulhu-death-may-die-expansion-temporada-4-841333144401.html",
+          "price": 79.19,
+          "original_price": 89.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-25T17:55:53.962907",
+          "history": [
+            {
+              "price": 79.19,
+              "original_price": 89.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/56037-cthulhu-death-may-die-expansion-temporada-4-8435407641853.html",
+          "price": 79.19,
+          "original_price": 89.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-17T16:50:57.885118",
+          "history": [
+            {
+              "price": 79.19,
+              "original_price": 89.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu Death May Die: Miedo a lo Desconocido",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:55:53.960024",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/56036-cthulhu-death-may-die-miedo-a-lo-desconocido-841333144371.html",
+          "price": 105.59,
+          "original_price": 119.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-25T17:55:53.960024",
+          "history": [
+            {
+              "price": 105.59,
+              "original_price": 119.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/56036-cthulhu-death-may-die-miedo-a-lo-desconocido-8435407641846.html",
+          "price": 105.59,
+          "original_price": 119.99,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-17T16:50:57.884177",
+          "history": [
+            {
+              "price": 105.59,
+              "original_price": 119.99,
+              "discount_pct": 12.0,
+              "date": "2026-11-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu Death May Die: Ithaqua",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:55:53.955724",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/56038-cthulhu-death-may-die-ithaqua-841333144432.html",
+          "price": 31.49,
+          "original_price": 34.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-25T17:55:53.955724",
+          "history": [
+            {
+              "price": 31.49,
+              "original_price": 34.99,
+              "discount_pct": 10.0,
+              "date": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/56038-cthulhu-death-may-die-ithaqua-8435407641860.html",
+          "price": 31.49,
+          "original_price": 34.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-05-22T06:01:14.237111",
+          "history": [
+            {
+              "price": 31.49,
+              "original_price": 34.99,
+              "discount_pct": 10.0,
+              "date": "2026-05-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Racket Dice",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:54:25.744001",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62103-racket-dice-817054013005.html",
+          "price": 48.4,
+          "original_price": 55.0,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-25T17:54:25.744001",
+          "history": [
+            {
+              "price": 48.4,
+              "original_price": 55.0,
+              "discount_pct": 12.0,
+              "date": "2026-11-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anverso Reverso",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:54:25.741577",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso-6288104299917.html",
+          "price": 10.0,
+          "original_price": 25.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-25T17:54:25.741577",
+          "history": [
+            {
+              "price": 10.0,
+              "original_price": 25.0,
+              "discount_pct": 60.0,
+              "date": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:47.469305",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1833NE Railroading in New England",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:54:25.739813",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62107-1833ne-railroading-in-new-england-817054013029.html",
+          "price": 92.0,
+          "original_price": null,
+          "discount_pct": null,
+          "scraped_at": "2026-11-25T17:54:25.739813",
+          "history": [
+            {
+              "price": 92.0,
+              "original_price": null,
+              "discount_pct": null,
+              "date": "2026-11-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rock Hard: Temazos",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:54:25.737929",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62118-rock-hard-temazos-8436625613622.html",
+          "price": 13.5,
+          "original_price": 15.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-25T17:54:25.737929",
+          "history": [
+            {
+              "price": 13.5,
+              "original_price": 15.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spirit Island",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:54:25.731359",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/spirit-island/41996-spirit-island-8421005001106.html",
+          "price": 74.76,
+          "original_price": 84.95,
+          "discount_pct": 12.0,
+          "scraped_at": "2026-11-25T17:54:25.731359",
+          "history": [
+            {
+              "price": 74.76,
+              "original_price": 84.95,
+              "discount_pct": 12.0,
+              "date": "2026-11-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exploradores: A la Caza del Tesoro",
+      "is_new": 0,
+      "first_seen": "2026-11-25T17:54:25.727918",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/62113-exploradores-a-la-caza-del-tesoro-3760089894125.html",
+          "price": 31.49,
+          "original_price": 34.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-25T17:54:25.727918",
+          "history": [
+            {
+              "price": 31.49,
+              "original_price": 34.99,
+              "discount_pct": 10.0,
+              "date": "2026-11-25"
             }
           ]
         }
@@ -2907,29 +3194,6 @@
               "original_price": 30.0,
               "discount_pct": 10.0,
               "date": "2026-11-10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Anverso Reverso",
-      "is_new": 0,
-      "first_seen": "2026-11-09T17:23:47.469305",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso.html",
-          "price": 22.5,
-          "original_price": 25.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-09T17:23:47.469305",
-          "history": [
-            {
-              "price": 22.5,
-              "original_price": 25.0,
-              "discount_pct": 10.0,
-              "date": "2026-11-09"
             }
           ]
         }
@@ -8186,12 +8450,6 @@
           "discount_pct": 50.0,
           "scraped_at": "2026-09-03T12:02:47.766447",
           "history": [
-            {
-              "price": 27.0,
-              "original_price": 30.0,
-              "discount_pct": 10.0,
-              "date": "2026-08-26"
-            },
             {
               "price": 15.0,
               "original_price": 30.0,
@@ -29445,29 +29703,6 @@
       ]
     },
     {
-      "name": "Cthulhu Death May Die: Miedo a lo Desconocido",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:14.247625",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/cthulhu-death-may-die/56036-cthulhu-death-may-die-miedo-a-lo-desconocido-8435407641846.html",
-          "price": 105.59,
-          "original_price": 119.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-11-17T16:50:57.884177",
-          "history": [
-            {
-              "price": 105.59,
-              "original_price": 119.99,
-              "discount_pct": 12.0,
-              "date": "2026-11-17"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Takenoko",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:14.245349",
@@ -29560,29 +29795,6 @@
       ]
     },
     {
-      "name": "Cthulhu Death May Die: Ithaqua",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:14.237111",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/cthulhu-death-may-die/56038-cthulhu-death-may-die-ithaqua-8435407641860.html",
-          "price": 31.49,
-          "original_price": 34.99,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-05-22T06:01:14.237111",
-          "history": [
-            {
-              "price": 31.49,
-              "original_price": 34.99,
-              "discount_pct": 10.0,
-              "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Las Mansiones de la Locura: Calles de Arkham",
       "is_new": 0,
       "first_seen": "2026-05-22T06:01:14.235074",
@@ -29600,29 +29812,6 @@
               "original_price": 69.99,
               "discount_pct": 12.0,
               "date": "2026-05-22"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Cthulhu Death May Die: Expansion Temporada 4",
-      "is_new": 0,
-      "first_seen": "2026-05-22T06:01:14.230355",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/cthulhu-death-may-die/56037-cthulhu-death-may-die-expansion-temporada-4-8435407641853.html",
-          "price": 79.19,
-          "original_price": 89.99,
-          "discount_pct": 12.0,
-          "scraped_at": "2026-11-17T16:50:57.885118",
-          "history": [
-            {
-              "price": 79.19,
-              "original_price": 89.99,
-              "discount_pct": 12.0,
-              "date": "2026-11-17"
             }
           ]
         }
