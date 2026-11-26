@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-11-25T17:57:31.784684",
-  "total": 2375,
-  "total_raw": 2681,
+  "generated_at": "2026-11-26T17:42:32.389264",
+  "total": 2376,
+  "total_raw": 2683,
   "games": [
+    {
+      "name": "Anverso Reverso",
+      "is_new": 0,
+      "first_seen": "2026-11-26T17:39:19.678658",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso-8436578815210.html",
+          "price": 10.0,
+          "original_price": 25.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-26T17:39:19.678658",
+          "history": [
+            {
+              "price": 10.0,
+              "original_price": 25.0,
+              "discount_pct": 60.0,
+              "date": "2026-11-26"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso-6288104299917.html",
+          "price": 10.0,
+          "original_price": 25.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-25T17:54:25.741577",
+          "history": [
+            {
+              "price": 10.0,
+              "original_price": 25.0,
+              "discount_pct": 60.0,
+              "date": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso.html",
+          "price": 22.5,
+          "original_price": 25.0,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-09T17:23:47.469305",
+          "history": [
+            {
+              "price": 22.5,
+              "original_price": 25.0,
+              "discount_pct": 10.0,
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cthulhu Death May Die: Dados Extras",
+      "is_new": 0,
+      "first_seen": "2026-11-26T17:39:16.687531",
+      "prices": [
+        {
+          "source": "mathom",
+          "url": "https://mathom.es/es/cthulhu-death-may-die/50030-cthulhu-death-may-die-dados-extras-841333143497.html",
+          "price": 8.99,
+          "original_price": 9.99,
+          "discount_pct": 10.0,
+          "scraped_at": "2026-11-26T17:39:16.687531",
+          "history": [
+            {
+              "price": 8.99,
+              "original_price": 9.99,
+              "discount_pct": 10.0,
+              "date": "2026-11-26"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Pre-pedido",
       "is_new": 0,
@@ -1185,45 +1263,6 @@
               "original_price": 55.0,
               "discount_pct": 12.0,
               "date": "2026-11-25"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Anverso Reverso",
-      "is_new": 0,
-      "first_seen": "2026-11-25T17:54:25.741577",
-      "prices": [
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso-6288104299917.html",
-          "price": 10.0,
-          "original_price": 25.0,
-          "discount_pct": 60.0,
-          "scraped_at": "2026-11-25T17:54:25.741577",
-          "history": [
-            {
-              "price": 10.0,
-              "original_price": 25.0,
-              "discount_pct": 60.0,
-              "date": "2026-11-25"
-            }
-          ]
-        },
-        {
-          "source": "mathom",
-          "url": "https://mathom.es/es/otros-juegos-de-tablero/61886-anverso-reverso.html",
-          "price": 22.5,
-          "original_price": 25.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-09T17:23:47.469305",
-          "history": [
-            {
-              "price": 22.5,
-              "original_price": 25.0,
-              "discount_pct": 10.0,
-              "date": "2026-11-09"
             }
           ]
         }
@@ -3696,16 +3735,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61870-mint-cooperative.html",
-          "price": 15.0,
-          "original_price": null,
-          "discount_pct": null,
-          "scraped_at": "2026-11-05T15:22:07.274060",
+          "price": 6.0,
+          "original_price": 15.0,
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-26T17:40:49.838848",
           "history": [
             {
               "price": 15.0,
               "original_price": null,
               "discount_pct": null,
               "date": "2026-11-05"
+            },
+            {
+              "price": 6.0,
+              "original_price": 15.0,
+              "discount_pct": 60.0,
+              "date": "2026-11-26"
             }
           ]
         }
@@ -3719,16 +3764,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61871-mint-works.html",
-          "price": 13.5,
+          "price": 6.0,
           "original_price": 15.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-05T15:22:07.271992",
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-26T17:40:49.837775",
           "history": [
             {
               "price": 13.5,
               "original_price": 15.0,
               "discount_pct": 10.0,
               "date": "2026-11-05"
+            },
+            {
+              "price": 6.0,
+              "original_price": 15.0,
+              "discount_pct": 60.0,
+              "date": "2026-11-26"
             }
           ]
         }
@@ -3742,10 +3793,10 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61883-mint-delivery.html",
-          "price": 13.5,
+          "price": 6.0,
           "original_price": 15.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-11T15:03:17.370291",
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-26T17:40:49.836704",
           "history": [
             {
               "price": 15.0,
@@ -3758,6 +3809,12 @@
               "original_price": 15.0,
               "discount_pct": 10.0,
               "date": "2026-11-11"
+            },
+            {
+              "price": 6.0,
+              "original_price": 15.0,
+              "discount_pct": 60.0,
+              "date": "2026-11-26"
             }
           ]
         }
@@ -3771,16 +3828,22 @@
         {
           "source": "mathom",
           "url": "https://mathom.es/es/otros-juegos-de-tablero/61884-mint-control.html",
-          "price": 13.5,
+          "price": 6.0,
           "original_price": 15.0,
-          "discount_pct": 10.0,
-          "scraped_at": "2026-11-05T15:22:07.267153",
+          "discount_pct": 60.0,
+          "scraped_at": "2026-11-26T17:40:49.834837",
           "history": [
             {
               "price": 13.5,
               "original_price": 15.0,
               "discount_pct": 10.0,
               "date": "2026-11-05"
+            },
+            {
+              "price": 6.0,
+              "original_price": 15.0,
+              "discount_pct": 60.0,
+              "date": "2026-11-26"
             }
           ]
         }
